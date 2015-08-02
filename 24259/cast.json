@@ -1,0 +1,3774 @@
+{
+  "version": 1,
+  "width": 126,
+  "height": 38,
+  "duration": 122.261606,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.079610,
+      "$"
+    ],
+    [
+      2.491353,
+      "p"
+    ],
+    [
+      0.144909,
+      "s"
+    ],
+    [
+      0.325430,
+      "t"
+    ],
+    [
+      0.277752,
+      "r"
+    ],
+    [
+      0.193268,
+      "\u0007"
+    ],
+    [
+      0.822001,
+      "e"
+    ],
+    [
+      0.197959,
+      "\u0007"
+    ],
+    [
+      0.000010,
+      "e"
+    ],
+    [
+      2.293237,
+      " "
+    ],
+    [
+      0.783282,
+      "-"
+    ],
+    [
+      0.512110,
+      "A"
+    ],
+    [
+      0.811958,
+      " "
+    ],
+    [
+      1.657235,
+      "|"
+    ],
+    [
+      0.821487,
+      " "
+    ],
+    [
+      0.306978,
+      "l"
+    ],
+    [
+      0.093260,
+      "e"
+    ],
+    [
+      0.325499,
+      "s"
+    ],
+    [
+      0.232237,
+      "s"
+    ],
+    [
+      1.020797,
+      "\r\n"
+    ],
+    [
+      0.040671,
+      "\u001b[?1049h\u001b[?1h\u001b=\r"
+    ],
+    [
+      0.054055,
+      "systemd-+-ModemManager-+-{gdbus}"
+    ],
+    [
+      0.000009,
+      "\r\n        |              `-{gmain}\r\n        |-NetworkManager-+-dhclient\r\n        |                |-{NetworkManager}"
+    ],
+    [
+      0.000004,
+      "\r\n        |                |-{gdbus}"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "        |                `-{gmain}\r\n"
+    ],
+    [
+      0.000004,
+      "        |-accounts-daemon-+-{gdbus}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "        |                 `-{gmain}\r\n"
+    ],
+    [
+      0.000004,
+      "        |-acpid"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "        |-agetty\r\n"
+    ],
+    [
+      0.000003,
+      "        |-apache2---5*[apache2]"
+    ],
+    [
+      0.000011,
+      "\r\n        |-at-spi-bus-laun-+-dbus-daemon\r\n        |                 |-{gdbus}"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "        |                 `-{gmain}"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000092,
+      "        |-at-spi2-registr---{gdbus}\r\n        |-atd"
+    ],
+    [
+      0.000005,
+      "\r\n        |-avahi-daemon---avahi-daemon"
+    ],
+    [
+      0.000004,
+      "\r\n        |-colord-+-{gdbus}"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "        |        `-{gmain}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "        |-console-kit-dae-+-62*[{console-kit-dae}]\r\n"
+    ],
+    [
+      0.000003,
+      "        |                 |-{gdbus}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "        |                 `-{gmain}\r\n"
+    ],
+    [
+      0.000003,
+      "        |-cron"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "        |-2*[dbus-daemon]"
+    ],
+    [
+      0.000003,
+      "\r\n        |-dbus-launch"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "        |-dconf-service-+-{gdbus}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "        |               `-{gmain}"
+    ],
+    [
+      0.000035,
+      "\r\n        |-dhclient"
+    ],
+    [
+      0.000004,
+      "\r\n        |-evolution-calen-+-{evolution-calen}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "        |                 |-{gdbus}"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "        |                 |-{gmain}\r\n"
+    ],
+    [
+      0.000009,
+      "        |                "
+    ],
+    [
+      0.000101,
+      " `-{pool}"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000036,
+      "        |-evolution-sourc-+-{gdbus}"
+    ],
+    [
+      0.000008,
+      "\r\n        |                 `-{gmain}\r\n        |-exim4"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "        |-gconfd-2"
+    ],
+    [
+      0.000004,
+      "\r\n        |-gdm3-+-Xorg---{Xorg}"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "        |      |-gdm-session-wor-+-x-session-manag-+-applet.py---{gmain}"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000038,
+      "        |      |                 |                 |-evolution-alarm-+-{cal-client-dbus}\r\n"
+    ],
+    [
+      0.000004,
+      ":\u001b[K"
+    ],
+    [
+      2.202765,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |                 |-{evolution-alarm}\r\n:\u001b[K"
+    ],
+    [
+      0.500081,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |                 |-{gdbus}\r\n:\u001b[K"
+    ],
+    [
+      0.030435,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |                 `-{gmain}\r\n:\u001b[K"
+    ],
+    [
+      0.034179,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |-gnome-settings--+-{dconf worker}\r\n:\u001b[K"
+    ],
+    [
+      0.026344,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |                 |-{gdbus}\r\n:\u001b[K"
+    ],
+    [
+      0.031063,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |                 |-{gmain}\r\n:\u001b[K"
+    ],
+    [
+      0.030930,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |                 `-{pool}\r\n:\u001b[K"
+    ],
+    [
+      0.030727,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |-gnome-shell-+-chromium-+-chrome-sandbox---chromium---chromium-+-chromium- \u0008:\u001b[K"
+    ],
+    [
+      0.031031,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K+-{Au+\r\n:\u001b[K"
+    ],
+    [
+      0.030623,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |                                      |           \u0008:\u001b[K"
+    ],
+    [
+      0.029527,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K|-{Ch+\r\n:\u001b[K"
+    ],
+    [
+      0.034890,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |                                      |           \u0008:\u001b[K"
+    ],
+    [
+      0.025142,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K|-{Co+\r\n:\u001b[K"
+    ],
+    [
+      0.030524,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |                                      |           \u0008:\u001b[K"
+    ],
+    [
+      0.029838,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K|-{Co+\r\n:\u001b[K"
+    ],
+    [
+      0.029925,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |                                      |           \u0008:\u001b[K"
+    ],
+    [
+      0.030543,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K|-{Cr+\r\n:\u001b[K"
+    ],
+    [
+      0.030457,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |                                      |           \u0008:\u001b[K"
+    ],
+    [
+      0.032943,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K|-{HT+\r\n:\u001b[K"
+    ],
+    [
+      0.027259,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |                                      |           \u0008:\u001b[K"
+    ],
+    [
+      0.030367,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K|-2*[+\r\n:\u001b[K"
+    ],
+    [
+      0.030645,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |                                      |           \u0008:\u001b[K"
+    ],
+    [
+      0.030585,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K|-{Op+\r\n:\u001b[K"
+    ],
+    [
+      0.030768,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |                                      |           \u0008:\u001b[K"
+    ],
+    [
+      0.031370,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K|-{Sc+\r\n:\u001b[K"
+    ],
+    [
+      0.032387,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |                                      |           \u0008:\u001b[K"
+    ],
+    [
+      0.028420,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K|-{Wo+\r\n:\u001b[K"
+    ],
+    [
+      0.030296,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |                                      |           \u0008:\u001b[K"
+    ],
+    [
+      0.030256,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K|-{Wo+\r\n:\u001b[K"
+    ],
+    [
+      0.030059,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |                                      |           \u0008:\u001b[K"
+    ],
+    [
+      0.029657,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K`-{ha+\r\n:\u001b[K"
+    ],
+    [
+      0.032675,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |                                      |-chromium- \u0008:\u001b[K"
+    ],
+    [
+      0.028145,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K+-{Ch+\r\n:\u001b[K"
+    ],
+    [
+      0.030864,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |                                      |           \u0008:\u001b[K"
+    ],
+    [
+      0.030907,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K|-{Co+\r\n:\u001b[K"
+    ],
+    [
+      0.030887,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |                                      |           \u0008:\u001b[K"
+    ],
+    [
+      0.030689,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K|-{Co+\r\n:\u001b[K"
+    ],
+    [
+      0.029805,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |                                      |           \u0008:\u001b[K"
+    ],
+    [
+      0.032554,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K|-{HT+\r\n:\u001b[K"
+    ],
+    [
+      0.027830,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |                                      |           \u0008:\u001b[K"
+    ],
+    [
+      0.029927,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K|-{Op+\r\n:\u001b[K"
+    ],
+    [
+      0.029953,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |                                      |           \u0008:\u001b[K"
+    ],
+    [
+      0.030025,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K|-{Sc+\r\n:\u001b[K"
+    ],
+    [
+      0.480811,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |                                      |           \u0008:\u001b[K"
+    ],
+    [
+      0.500874,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K|-{Wo+\r\n:\u001b[K"
+    ],
+    [
+      0.030467,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K"
+    ],
+    [
+      0.000032,
+      "        |      |                 |                 |             |          |                                      |           \u0008:\u001b[K"
+    ],
+    [
+      0.034781,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K|-{Wo+\r\n:\u001b[K"
+    ],
+    [
+      0.026102,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |                                      |           \u0008:\u001b[K"
+    ],
+    [
+      0.029543,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K`-{ha+\r\n:\u001b[K"
+    ],
+    [
+      0.030696,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |                                      `-chromium- \u0008:\u001b[K"
+    ],
+    [
+      0.030168,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K+-{Ch+\r\n:\u001b[K"
+    ],
+    [
+      0.031020,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |                                                  \u0008:\u001b[K"
+    ],
+    [
+      0.032030,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K|-{Co+\r\n:\u001b[K"
+    ],
+    [
+      0.033800,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |                                                  \u0008:\u001b[K"
+    ],
+    [
+      0.025424,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K|-{Co+\r\n:\u001b[K"
+    ],
+    [
+      0.030601,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |                                                  \u0008:\u001b[K"
+    ],
+    [
+      0.030008,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K|-{HT+\r\n:\u001b[K"
+    ],
+    [
+      0.030776,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |                                                  \u0008:\u001b[K"
+    ],
+    [
+      0.030198,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K|-{Op+\r\n:\u001b[K"
+    ],
+    [
+      0.033971,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |                                                  \u0008:\u001b[K"
+    ],
+    [
+      0.027212,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K|-{Sc+\r\n:\u001b[K"
+    ],
+    [
+      0.030229,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |                                                  \u0008:\u001b[K"
+    ],
+    [
+      0.030280,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K|-{Wo+\r\n:\u001b[K"
+    ],
+    [
+      0.030518,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |                                                  \u0008:\u001b[K"
+    ],
+    [
+      0.030617,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K|-{Wo+\r\n:\u001b[K"
+    ],
+    [
+      0.032244,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |                                                  \u0008:\u001b[K"
+    ],
+    [
+      0.035736,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K`-{ha+\r\n:\u001b[K"
+    ],
+    [
+      0.024783,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |-chromium-+-{Chrome_ChildIOT}\r\n:\u001b[K"
+    ],
+    [
+      0.029787,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |          |-{Watchdog}\r\n:\u001b[K"
+    ],
+    [
+      0.030223,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |          `-{chromium}\r\n:\u001b[K"
+    ],
+    [
+      0.030457,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |-{AudioThread}\r\n:\u001b[K"
+    ],
+    [
+      0.030795,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |-3*[{BrowserBlocking}]\r\n:\u001b[K"
+    ],
+    [
+      0.031820,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |-{BrowserWatchdog}\r\n:\u001b[K"
+    ],
+    [
+      0.031718,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |-5*[{CachePoolWorker}]\r\n:\u001b[K"
+    ],
+    [
+      0.028628,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |-{Chrome_CacheThr}\r\n:\u001b[K"
+    ],
+    [
+      0.030691,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |-{Chrome_DBThread}\r\n:\u001b[K"
+    ],
+    [
+      0.030433,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |-{Chrome_FileThre}\r\n:\u001b[K"
+    ],
+    [
+      0.030595,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |-{Chrome_FileUser}\r\n:\u001b[K"
+    ],
+    [
+      0.030260,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |-{Chrome_HistoryT}\r\n:\u001b[K"
+    ],
+    [
+      0.031414,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |-{Chrome_IOThread}\r\n:\u001b[K"
+    ],
+    [
+      0.035438,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |-{Chrome_ProcessL}\r\n:\u001b[K"
+    ],
+    [
+      0.025988,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |-{Chrome_SafeBrow}\r\n:\u001b[K"
+    ],
+    [
+      0.029508,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |-{CrShutdownDetec}\r\n:\u001b[K"
+    ],
+    [
+      0.030631,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |-{IndexedDB}\r\n:\u001b[K"
+    ],
+    [
+      0.031487,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |-{LevelDBEnv}\r\n:\u001b[K"
+    ],
+    [
+      0.030332,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |-{NSS SSL ThreadW}\r\n:\u001b[K"
+    ],
+    [
+      0.035942,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |-{NetworkChangeNo}\r\n:\u001b[K"
+    ],
+    [
+      0.025253,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |-{OptimizingCompi}\r\n:\u001b[K"
+    ],
+    [
+      0.030955,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |-2*[{Proxy resolver}]\r\n:\u001b[K"
+    ],
+    [
+      0.030039,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |-{WorkerPool/2706}\r\n:\u001b[K"
+    ],
+    [
+      0.031034,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |-{chromium}\r\n:\u001b[K"
+    ],
+    [
+      0.031442,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |-{dconf worker}\r\n:\u001b[K"
+    ],
+    [
+      0.035071,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |-{extension_crash}\r\n:\u001b[K"
+    ],
+    [
+      0.025002,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |-{gdbus}\r\n:\u001b[K"
+    ],
+    [
+      0.034257,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |-{gpu-process_cra}\r\n:\u001b[K"
+    ],
+    [
+      0.030313,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |-{handle-watcher-}\r\n:\u001b[K"
+    ],
+    [
+      0.030725,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |-{inotify_reader}\r\n:\u001b[K"
+    ],
+    [
+      0.030330,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |-{ppapi_crash_upl}\r\n:\u001b[K"
+    ],
+    [
+      0.034065,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |-{renderer_crash_}\r\n:\u001b[K"
+    ],
+    [
+      0.036227,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          |-{sandbox_ipc_thr}\r\n:\u001b[K"
+    ],
+    [
+      0.024610,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |          `-2*[{threaded-ml}]\r\n:\u001b[K"
+    ],
+    [
+      0.030734,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |-{JS GC Helper}\r\n:\u001b[K"
+    ],
+    [
+      0.029712,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |-{JS Sour~ Thread}\r\n:\u001b[K"
+    ],
+    [
+      0.030743,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |-{dconf worker}\r\n:\u001b[K"
+    ],
+    [
+      0.034080,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |-{gdbus}\r\n:\u001b[K"
+    ],
+    [
+      0.032480,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |-{gmain}\r\n:\u001b[K"
+    ],
+    [
+      0.028599,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             |-{gnome-shell}\r\n:\u001b[K"
+    ],
+    [
+      0.030527,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |             `-{threaded-ml}\r\n:\u001b[K"
+    ],
+    [
+      0.030871,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |-gnome-software-+-{dconf worker}\r\n:\u001b[K"
+    ],
+    [
+      0.030053,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |                |-{gdbus}\r\n:\u001b[K"
+    ],
+    [
+      0.032921,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |                `-{gmain}\r\n:\u001b[K"
+    ],
+    [
+      0.029889,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |-ssh-agent\r\n:\u001b[K"
+    ],
+    [
+      0.029748,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |-tracker-extract-+-{dconf worker}\r\n:\u001b[K"
+    ],
+    [
+      0.030687,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |                 |-{gdbus}\r\n:\u001b[K"
+    ],
+    [
+      0.030628,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |                 |-{gmain}\r\n:\u001b[K"
+    ],
+    [
+      0.029830,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |                 `-10*[{pool}]\r\n:\u001b[K"
+    ],
+    [
+      0.035173,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |-tracker-miner-a-+-{gdbus}\r\n:\u001b[K"
+    ],
+    [
+      0.025706,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |                 `-{gmain}\r\n:\u001b[K"
+    ],
+    [
+      0.029222,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |-tracker-miner-f-+-{dconf worker}\r\n:\u001b[K"
+    ],
+    [
+      0.029808,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |                 |-{gdbus}\r\n:\u001b[K"
+    ],
+    [
+      0.030237,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |                 `-{gmain}\r\n:\u001b[K"
+    ],
+    [
+      0.033969,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |-tracker-miner-u-+-{gdbus}\r\n:\u001b[K"
+    ],
+    [
+      0.025710,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |                 `-{gmain}\r\n:\u001b[K"
+    ],
+    [
+      0.030754,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |-{dconf worker}\r\n:\u001b[K"
+    ],
+    [
+      0.030254,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 |-{gdbus}\r\n:\u001b[K"
+    ],
+    [
+      0.029915,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |                 `-{gmain}\r\n:\u001b[K"
+    ],
+    [
+      0.031671,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 |-{gdbus}\r\n:\u001b[K"
+    ],
+    [
+      0.036288,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |                 `-{gmain}\r\n:\u001b[K"
+    ],
+    [
+      0.024619,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |-{gdbus}\r\n:\u001b[K"
+    ],
+    [
+      0.029547,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      |-{gdm SIGUSR1 cat}\r\n:\u001b[K"
+    ],
+    [
+      0.030482,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |      `-{gmain}\r\n:\u001b[K"
+    ],
+    [
+      0.031129,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |-gnome-keyring-d-+-{gmain}\r\n:\u001b[K"
+    ],
+    [
+      0.031856,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |                 `-{timer}\r\n:\u001b[K"
+    ],
+    [
+      0.034628,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |-gnome-shell-cal-+-{cal-client-dbus}\r\n:\u001b[K"
+    ],
+    [
+      0.025851,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |                 |-{gdbus}\r\n:\u001b[K"
+    ],
+    [
+      0.030486,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |                 `-{gnome-shell-cal}\r\n:\u001b[K"
+    ],
+    [
+      0.030303,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |-gnome-terminal--+-bash---asciinema-+-sh---bash-+-less\r\n:\u001b[K"
+    ],
+    [
+      0.031472,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |                 |                  |           `-pstree\r\n:\u001b[K"
+    ],
+    [
+      0.030038,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |                 |                  `-5*[{asciinema}]\r\n:\u001b[K"
+    ],
+    [
+      0.033837,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |                 |-gnome-pty-helpe\r\n:\u001b[K"
+    ],
+    [
+      0.026235,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |                 |-{dconf worker}\r\n:\u001b[K"
+    ],
+    [
+      0.030353,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |                 |-{gdbus}\r\n:\u001b[K"
+    ],
+    [
+      0.031095,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |                 `-{gmain}\r\n:\u001b[K"
+    ],
+    [
+      0.030935,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |-goa-daemon-+-{gdbus}\r\n:\u001b[K"
+    ],
+    [
+      0.030250,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |            |-{gmain}\r\n:\u001b[K"
+    ],
+    [
+      0.030196,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |            `-{pool}\r\n:\u001b[K"
+    ],
+    [
+      0.033958,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |-gpm\r\n:\u001b[K"
+    ],
+    [
+      0.027712,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |-gsd-printer---{gdbus}\r\n:\u001b[K"
+    ],
+    [
+      0.030116,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |-gvfs-afc-volume-+-{gdbus}\r\n:\u001b[K"
+    ],
+    [
+      0.030375,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |                 `-{gvfs-afc-volume}\r\n:\u001b[K"
+    ],
+    [
+      0.030442,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |-gvfs-goa-volume---{gdbus}\r\n:\u001b[K"
+    ],
+    [
+      0.030604,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |-gvfs-gphoto2-vo---{gdbus}\r\n:\u001b[K"
+    ],
+    [
+      0.030225,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |-gvfs-mtp-volume---{gdbus}\r\n:\u001b[K"
+    ],
+    [
+      0.033336,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |-gvfs-udisks2-vo-+-{gdbus}\r\n:\u001b[K"
+    ],
+    [
+      0.027677,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |                 `-{gmain}\r\n:\u001b[K"
+    ],
+    [
+      0.030083,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |-gvfsd---{gdbus}\r\n:\u001b[K"
+    ],
+    [
+      0.030848,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |-gvfsd-fuse-+-{gdbus}\r\n:\u001b[K"
+    ],
+    [
+      0.030298,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |            |-{gvfs-fuse-sub}\r\n:\u001b[K"
+    ],
+    [
+      0.030593,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |            `-2*[{gvfsd-fuse}]\r\n:\u001b[K"
+    ],
+    [
+      0.030002,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |-gvfsd-metadata---{gdbus}\r\n:\u001b[K"
+    ],
+    [
+      0.030640,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |-lpd\r\n:\u001b[K"
+    ],
+    [
+      0.033428,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |-minissdpd\r\n:\u001b[K"
+    ],
+    [
+      0.027206,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |-mission-control-+-{dconf worker}\r\n:\u001b[K"
+    ],
+    [
+      0.333836,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |                 `-{gdbus}\r\n:\u001b[K"
+    ],
+    [
+      0.499302,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |-ntpd\r\n:\u001b[K"
+    ],
+    [
+      0.030949,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |-packagekitd-+-{gdbus}\r\n:\u001b[K"
+    ],
+    [
+      0.032213,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |             `-{gmain}\r\n:\u001b[K"
+    ],
+    [
+      0.028096,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |-polkitd-+-{gdbus}\r\n:\u001b[K"
+    ],
+    [
+      0.030266,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |         `-{gmain}\r\n:\u001b[K"
+    ],
+    [
+      0.030001,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |-proftpd\r\n:\u001b[K"
+    ],
+    [
+      0.029727,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |-pulseaudio-+-{alsa-sink-ALC88}\r\n:\u001b[K"
+    ],
+    [
+      0.029533,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |            `-{alsa-source-ALC}\r\n:\u001b[K"
+    ],
+    [
+      0.030646,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |-rpc.idmapd\r\n:\u001b[K"
+    ],
+    [
+      0.029997,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |-rpc.statd\r\n:\u001b[K"
+    ],
+    [
+      0.033398,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |-rpcbind\r\n:\u001b[K"
+    ],
+    [
+      0.028424,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |-rsyslogd-+-{in:imklog}\r\n:\u001b[K"
+    ],
+    [
+      0.030045,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |          |-{in:imuxsock}\r\n:\u001b[K"
+    ],
+    [
+      0.030675,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |          `-{rs:main Q:Reg}\r\n:\u001b[K"
+    ],
+    [
+      0.030428,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |-rtkit-daemon---2*[{rtkit-daemon}]\r\n:\u001b[K"
+    ],
+    [
+      0.029874,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |-runsvdir\r\n:\u001b[K"
+    ],
+    [
+      0.030008,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |-sshd\r\n:\u001b[K"
+    ],
+    [
+      0.030097,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |-systemd---(sd-pam)\r\n:\u001b[K"
+    ],
+    [
+      0.030099,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |-systemd-journal\r\n:\u001b[K"
+    ],
+    [
+      0.032915,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |-systemd-logind\r\n:\u001b[K"
+    ],
+    [
+      0.028075,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |-systemd-udevd\r\n:\u001b[K"
+    ],
+    [
+      0.029494,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |-timidity\r\n:\u001b[K"
+    ],
+    [
+      0.030504,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |-tracker-store-+-{gdbus}\r\n:\u001b[K"
+    ],
+    [
+      0.029819,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |               |-{gmain}\r\n:\u001b[K"
+    ],
+    [
+      0.030513,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |               `-4*[{pool}]\r\n:\u001b[K"
+    ],
+    [
+      0.029807,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |-udisksd-+-{cleanup}\r\n:\u001b[K"
+    ],
+    [
+      0.029850,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |         |-{gdbus}\r\n:\u001b[K"
+    ],
+    [
+      0.032865,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |         |-{gmain}\r\n:\u001b[K"
+    ],
+    [
+      0.027325,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |         `-{probing-thread}\r\n:\u001b[K"
+    ],
+    [
+      0.029466,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |-upowerd-+-{gdbus}\r\n:\u001b[K"
+    ],
+    [
+      0.030190,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        |         `-{gmain}\r\n:\u001b[K"
+    ],
+    [
+      0.029764,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K        `-wpa_supplicant\r\n:\u001b[K"
+    ],
+    [
+      0.031098,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.030182,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.030487,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.030418,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.030496,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.030376,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.030650,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.031026,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.029776,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.030187,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.030662,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.030072,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.029949,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.030314,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.690667,
+      "\r\u001b[K\u001b[?1l\u001b\u003e\u001b[?1049l$"
+    ],
+    [
+      34.198254,
+      "\r\u001b[K$p"
+    ],
+    [
+      0.114872,
+      "s"
+    ],
+    [
+      0.277841,
+      "t"
+    ],
+    [
+      0.334523,
+      "r"
+    ],
+    [
+      0.145509,
+      "\u0007"
+    ],
+    [
+      0.777219,
+      "e"
+    ],
+    [
+      0.189484,
+      "\u0007e"
+    ],
+    [
+      2.248125,
+      "\r\n"
+    ],
+    [
+      0.019372,
+      "systemd─┬─ModemManager─┬─{gdbus}"
+    ],
+    [
+      0.000008,
+      "\r\n        │              └─{gmain}\r\n        ├─NetworkManager─┬─dhclient\r\n"
+    ],
+    [
+      0.000004,
+      "        │                ├─{NetworkManager}\r\n"
+    ],
+    [
+      0.000013,
+      "        │                ├─{gdbus}\r\n"
+    ],
+    [
+      0.000012,
+      "        │                └─{gmain}\r\n"
+    ],
+    [
+      0.000070,
+      "        ├─accounts-daemon─┬─{gdbus}\r\n        │                 └─{gmain}\r\n        ├─acpid\r\n        ├─agetty\r\n        ├─apache2───5*[apache2]\r\n        ├─at-spi-bus-laun─┬─dbus-daemon\r\n"
+    ],
+    [
+      0.000015,
+      "        │                 ├─{gdbus}\r\n        │                 └─{gmain}\r\n"
+    ],
+    [
+      0.000013,
+      "        ├─at-spi2-registr───{gdbus}"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "        ├─atd"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000038,
+      "        ├─avahi-daemon───avahi-daemon\r\n        ├─colord─┬─{gdbus}\r\n        │        └─{gmain}\r\n"
+    ],
+    [
+      0.000004,
+      "        ├─console-kit-dae─┬─62*[{console-kit-dae}]"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "        │                 ├─{gdbus}\r\n"
+    ],
+    [
+      0.000008,
+      "        │                 └─{gmain}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "        ├─cron"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "        ├─2*[dbus-daemon]"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "        ├─dbus-launch"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "        ├─dconf-service─┬─{gdbus}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "        │               └─{gmain}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "        ├─dhclient"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "        ├─evolution-calen─┬─{evolution-calen}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "        │                 ├─{gdbus}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "        │                 ├─{gmain}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "        │                 └─{pool}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000037,
+      "        ├─evolution-sourc─┬─{gdbus}\r\n        │                 └─{gmain}\r\n        ├─exim4\r\n"
+    ],
+    [
+      0.000004,
+      "        ├─gconfd-2\r\n"
+    ],
+    [
+      0.000011,
+      "        ├─gdm3─┬─Xorg───{Xorg}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "        │      ├─gdm-session-wor─┬─x-session-manag─┬─applet.py───{gmain}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000036,
+      "        │      │                 │                 ├─evolution-alarm─┬─{cal-client-dbus}\r\n        │      │                 │                 │                 ├─{evolution-alarm}\r\n        │      │                 │                 │                 ├─{gdbus}\r\n"
+    ],
+    [
+      0.000005,
+      "        │      │                 │                 │                 └─{gmain}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000039,
+      "        │      │                 │                 ├─gnome-settings-─┬─{dconf worker}\r\n        │      │                 │                 │                 ├─{gdbus}\r\n        │      │                 │                 │                 ├─{gmain}\r\n"
+    ],
+    [
+      0.000004,
+      "        │      │                 │                 │                 └─{pool}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000040,
+      "        │      │                 │                 ├─gnome-shell─┬─chromium─┬─chrome-sandbox───chromium───chromium─┬─chromium+++\r\n        │      │                 │                 │             │          │                                      ├─chromium+++\r\n"
+    ],
+    [
+      0.000004,
+      "        │      │                 │                 │             │          │                                      └─chromium+++\r\n"
+    ],
+    [
+      0.000052,
+      "        │      │                 │                 │             │          ├─chromium─┬─{Chrome_ChildIOT}\r\n        │      │                 │                 │             │          │          ├─{Watchdog}\r\n        │      │                 │                 │             │          │          └─{chromium}\r\n"
+    ],
+    [
+      0.000025,
+      "        │      │                 │                 │             │          ├─{AudioThread}\r\n"
+    ],
+    [
+      0.000009,
+      "        │      │                 │                 │             │          ├─3*[{BrowserBlocking}]"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000039,
+      "        │      │                 │                 │             │          ├─{BrowserWatchdog}\r\n        │      │                 │                 │             │          ├─5*[{CachePoolWorker}]\r\n        │      │                 │                 │             │          ├─{Chrome_CacheThr}\r\n"
+    ],
+    [
+      0.000011,
+      "        │      │                 │                 │             │          ├─{Chrome_DBThread}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "        │      │                 │                 │             │          ├─{Chrome_FileThre}"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "        │      │                 │                 │             │          ├─{Chrome_FileUser}\r\n"
+    ],
+    [
+      0.000068,
+      "        │      │                 │                 │             │          ├─{Chrome_HistoryT}\r\n        │      │                 │                 │             │          ├─{Chrome_IOThread}\r\n        │      │                 │                 │             │          ├─{Chrome_ProcessL}\r\n        │      │                 │                 │             │          ├─{Chrome_SafeBrow}\r\n        │      │                 │                 │             │          ├─{CrShutdownDetec}"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "        │      │                 │                 │             │          ├─{IndexedDB}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "        │      │                 │                 │             │          ├─{LevelDBEnv}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "        │      │                 │                 │             │          ├─{NSS SSL ThreadW}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "        │      │                 │                 │             │          ├─{NetworkChangeNo}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "        │      │                 │                 │             │          ├─{OptimizingCompi}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "        │      │                 │                 │             │          ├─2*[{Proxy resolver}]"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "        │      │                 │                 │             │          ├─{WorkerPool/2706}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "        │      │                 │                 │             │          ├─{chromium}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "        │      │                 │                 │             │          ├─{dconf worker}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "        │      │                 │                 │             │          ├─{extension_crash}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "        │      │                 │                 │             │          ├─{gdbus}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "        │      │                 │                 │             │          ├─{gpu-process_cra}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "        │      │                 │                 │             │          ├─{handle-watcher-}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "        │      │                 │                 │             │          ├─{inotify_reader}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "        │      │                 │                 │             │          ├─{ppapi_crash_upl}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "        │      │                 │                 │             │          ├─{renderer_crash_}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "        │      │                 │                 │             │          ├─{sandbox_ipc_thr}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "        │      │                 │                 │             │          └─2*[{threaded-ml}]"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "        │      │                 │                 │             ├─{JS GC Helper}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "        │      │                 │                 │             ├─{JS Sour~ Thread}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "        │      │                 │                 │             ├─{dconf worker}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "        │      │                 │                 │             ├─{gdbus}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "        │      │                 │                 │             ├─{gmain}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "        │      │                 │                 │             ├─{gnome-shell}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "        │      │                 │                 │             └─{threaded-ml}"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "        │      │                 │                 ├─gnome-software─┬─{dconf worker}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "        │      │                 │                 │                ├─{gdbus}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "        │      │                 │                 │                └─{gmain}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "        │      │                 │                 ├─ssh-agent"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "        │      │                 │                 ├─tracker-extract─┬─{dconf worker}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "        │      │                 │                 │                 ├─{gdbus}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "        │      │                 │                 │                 ├─{gmain}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "        │      │                 │                 │                 └─10*[{pool}]"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "        │      │                 │                 ├─tracker-miner-a─┬─{gdbus}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "        │      │                 │                 │                 └─{gmain}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "        │      │                 │                 ├─tracker-miner-f─┬─{dconf worker}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "        │      │                 │                 │                 ├─{gdbus}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "        │      │                 │                 │                 └─{gmain}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "        │      │                 │                 ├─tracker-miner-u─┬─{gdbus}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "        │      │                 │                 │                 └─{gmain}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "        │      │                 │                 ├─{dconf worker}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "        │      │                 │                 ├─{gdbus}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "        │      │                 │                 └─{gmain}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "        │      │                 ├─{gdbus}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "        │      │                 └─{gmain}"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "        │      ├─{gdbus}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "        │      ├─{gdm SIGUSR1 cat}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "        │      └─{gmain}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "        ├─gnome-keyring-d─┬─{gmain}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "        │                 └─{timer}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "        ├─gnome-shell-cal─┬─{cal-client-dbus}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "        │                 ├─{gdbus}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "        │                 └─{gnome-shell-cal}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "        ├─gnome-terminal-─┬─bash───asciinema─┬─sh───bash───pstree"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "        │                 │                  └─5*[{asciinema}]"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "        │                 ├─bash"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "        │                 ├─gnome-pty-helpe"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "        │                 ├─{dconf worker}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "        │                 ├─{gdbus}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "        │                 └─{gmain}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "        ├─goa-daemon─┬─{gdbus}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "        │            ├─{gmain}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "        │            └─{pool}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "        ├─gpm"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "        ├─gsd-printer───{gdbus}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "        ├─gvfs-afc-volume─┬─{gdbus}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "        │                 └─{gvfs-afc-volume}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "        ├─gvfs-goa-volume───{gdbus}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "        ├─gvfs-gphoto2-vo───{gdbus}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "        ├─gvfs-mtp-volume───{gdbus}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "        ├─gvfs-udisks2-vo─┬─{gdbus}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "        │                 └─{gmain}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "        ├─gvfsd───{gdbus}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "        ├─gvfsd-fuse─┬─{gdbus}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "        │            ├─{gvfs-fuse-sub}"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "        │            └─2*[{gvfsd-fuse}]"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "        ├─gvfsd-metadata───{gdbus}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "        ├─lpd"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000356,
+      "        ├─minissdpd\r\n        ├─mission-control─┬─{dconf worker}\r\n        │                 └─{gdbus}\r\n        ├─ntpd\r\n        ├─packagekitd─┬─{gdbus}\r\n        │             └─{gmain}\r\n        ├─polkitd─┬─{gdbus}\r\n        │         └─{gmain}\r\n        ├─proftpd\r\n        ├─pulseaudio─┬─{alsa-sink-ALC88}\r\n        │            └─{alsa-source-ALC}\r\n        ├─rpc.idmapd\r\n        ├─rpc.statd\r\n        ├─rpcbind\r\n        ├─rsyslogd─┬─{in:imklog}\r\n        │          ├─{in:imuxsock}\r\n        │          └─{rs:main Q:Reg}\r\n        ├─rtkit-daemon───2*[{rtkit-daemon}]\r\n        ├─runsvdir\r\n        ├─sshd\r\n        ├─systemd───(sd-pam)\r\n        ├─systemd-journal\r\n        ├─systemd-logind\r\n        ├─systemd-udevd\r\n        ├─timidity\r\n        ├─tracker-store─┬─{gdbus}\r\n        │               ├─{gmain}\r\n        │               └─4*[{pool}]\r\n        ├─udisksd─┬─{cleanup}\r\n        │         ├─{gdbus}\r\n        │         ├─{gmain}\r\n        │         └─{probing-thread}\r\n        ├─upowerd─┬─{gdbus}\r\n        │         └─{gmain}\r\n        └─wpa_supplicant\r\n"
+    ],
+    [
+      0.000278,
+      "$"
+    ],
+    [
+      51.539838,
+      "pstree"
+    ],
+    [
+      0.873657,
+      " "
+    ],
+    [
+      0.277479,
+      "-"
+    ],
+    [
+      0.553316,
+      "p"
+    ],
+    [
+      2.068239,
+      "\r\n"
+    ],
+    [
+      0.022547,
+      "systemd(1)─┬─ModemManager(662)─┬─{gdbus}(683)\r\n"
+    ],
+    [
+      0.000010,
+      "           │                   └─{gmain}(674)\r\n           ├─NetworkManager(665)─┬─dhclient(1167)\r\n           │                     ├─{NetworkManager}(797)"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "           │                     ├─{gdbus}(818)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "           │                     └─{gmain}(817)\r\n"
+    ],
+    [
+      0.000012,
+      "           ├─accounts-daemon(727)─┬─{gdbus}(782)"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "           │                      └─{gmain}(781)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "           ├─acpid(726)"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "           ├─agetty(730)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "           ├─apache2(1152)─┬─apache2(2161)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "           │               ├─apache2(2162)"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "           │               ├─apache2(2163)"
+    ],
+    [
+      0.000033,
+      "\r\n           │               ├─apache2(2164)\r\n           │               └─apache2(2165)\r\n           ├─at-spi-bus-laun(1336)─┬─dbus-daemon(1339)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "           │                       ├─{gdbus}(1338)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "           │                       └─{gmain}(1340)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "           ├─at-spi2-registr(1342)───{gdbus}(1343)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "           ├─atd(664)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "           ├─avahi-daemon(655)───avahi-daemon(670)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "           ├─colord(1462)─┬─{gdbus}(1535)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "           │              └─{gmain}(1537)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "           ├─console-kit-dae(1463)─┬─{console-kit-dae}(1464)"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "           │                       ├─{console-kit-dae}(1465)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "           │                       ├─{console-kit-dae}(1466)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "           │                       ├─{console-kit-dae}(1467)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "           │                       ├─{console-kit-dae}(1468)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "           │                       ├─{console-kit-dae}(1469)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "           │                       ├─{console-kit-dae}(1470)"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "           │                       ├─{console-kit-dae}(1471)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "           │                       ├─{console-kit-dae}(1472)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "           │                       ├─{console-kit-dae}(1473)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "           │                       ├─{console-kit-dae}(1474)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "           │                       ├─{console-kit-dae}(1475)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "           │                       ├─{console-kit-dae}(1476)"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "           │                       ├─{console-kit-dae}(1477)"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "           │                       ├─{console-kit-dae}(1478)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "           │                       ├─{console-kit-dae}(1479)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "           │                       ├─{console-kit-dae}(1480)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "           │                       ├─{console-kit-dae}(1481)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "           │                       ├─{console-kit-dae}(1482)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "           │                       ├─{console-kit-dae}(1483)"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "           │                       ├─{console-kit-dae}(1484)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "           │                       ├─{console-kit-dae}(1485)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "           │                       ├─{console-kit-dae}(1486)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "           │                       ├─{console-kit-dae}(1487)"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "           │                       ├─{console-kit-dae}(1488)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "           │                       ├─{console-kit-dae}(1489)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "           │                       ├─{console-kit-dae}(1490)"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "           │                       ├─{console-kit-dae}(1491)"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "           │                       ├─{console-kit-dae}(1492)"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "           │                       ├─{console-kit-dae}(1493)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "           │                       ├─{console-kit-dae}(1494)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "           │                       ├─{console-kit-dae}(1495)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "           │                       ├─{console-kit-dae}(1496)"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "           │                       ├─{console-kit-dae}(1497)"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "           │                       ├─{console-kit-dae}(1498)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "           │                       ├─{console-kit-dae}(1499)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "           │                       ├─{console-kit-dae}(1500)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "           │                       ├─{console-kit-dae}(1501)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "           │                       ├─{console-kit-dae}(1502)"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "           │                       ├─{console-kit-dae}(1503)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "           │                       ├─{console-kit-dae}(1504)"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "           │                       ├─{console-kit-dae}(1505)"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "           │                       ├─{console-kit-dae}(1506)"
+    ],
+    [
+      0.000010,
+      "\r\n           │                       ├─{console-kit-dae}(1507)"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "           │                       ├─{console-kit-dae}(1508)\r\n"
+    ],
+    [
+      0.000090,
+      "           │                       ├─{console-kit-dae}(1509)\r\n           │                       ├─{console-kit-dae}(1510)\r\n           │                       ├─{console-kit-dae}(1511)\r\n           │                       ├─{console-kit-dae}(1512)\r\n           │                       ├─{console-kit-dae}(1513)\r\n           │                       ├─{console-kit-dae}(1514)\r\n           │                       ├─{console-kit-dae}(1515)\r\n"
+    ],
+    [
+      0.000009,
+      "           │                       ├─{console-kit-dae}(1516)\r\n"
+    ],
+    [
+      0.000010,
+      "           │                       ├─{console-kit-dae}(1517)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "           │                       ├─{console-kit-dae}(1518)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "           │                       ├─{console-kit-dae}(1519)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "           │                       ├─{console-kit-dae}(1520)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "           │                       ├─{console-kit-dae}(1521)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "           │                       ├─{console-kit-dae}(1522)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "           │                       ├─{console-kit-dae}(1523)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "           │                       ├─{console-kit-dae}(1524)"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "           │                       ├─{console-kit-dae}(1525)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "           │                       ├─{gdbus}(1530)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "           │                       └─{gmain}(1529)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "           ├─cron(668)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "           ├─dbus-daemon(669)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "           ├─dbus-daemon(1325)"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "           ├─dbus-launch(1324)\r\n"
+    ],
+    [
+      0.000012,
+      "           ├─dconf-service(1766)─┬─{gdbus}(1769)"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "           │                     └─{gmain}(1770)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "           ├─dhclient(756)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000047,
+      "           ├─evolution-calen(1610)─┬─{evolution-calen}(1629)\r\n           │                       ├─{gdbus}(1630)\r\n           │                       ├─{gmain}(1628)\r\n           │                       └─{pool}(1632)"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "           ├─evolution-sourc(1558)─┬─{gdbus}(1564)\r\n"
+    ],
+    [
+      0.000010,
+      "           │                       └─{gmain}(1561)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "           ├─exim4(1067)"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "           ├─gconfd-2(1563)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "           ├─gdm3(785)─┬─Xorg(814)───{Xorg}(1155)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000049,
+      "           │           ├─gdm-session-wor(1192)─┬─x-session-manag(1279)─┬─applet.py(1600)───{gmain}(1642)\r\n           │           │                       │                       ├─evolution-alarm(1603)─┬─{cal-client-dbus}(1627)\r\n           │           │                       │                       │                       ├─{evolution-alarm}(1625)\r\n"
+    ],
+    [
+      0.000007,
+      "           │           │                       │                       │                       ├─{gdbus}(1624)\r\n"
+    ],
+    [
+      0.000012,
+      "           │           │                       │                       │                       └─{gmain}(1626)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000045,
+      "           │           │                       │                       ├─gnome-settings-(1352)─┬─{dconf worker}(1392)\r\n           │           │                       │                       │                       ├─{gdbus}(1356)\r\n           │           │                       │                       │                       ├─{gmain}(1387)\r\n"
+    ],
+    [
+      0.000006,
+      "           │           │                       │                       │                       └─{pool}(1410)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "           │           │                       │                       ├─gnome-shell(1450)─┬─chromium(1724)─┬─chrome-sandbox(+"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000046,
+      "           │           │                       │                       │                   │                ├─chromium(1761)─+++\r\n           │           │                       │                       │                   │                │                +++\r\n           │           │                       │                       │                   │                │                +++\r\n"
+    ],
+    [
+      0.000008,
+      "           │           │                       │                       │                   │                ├─{AudioThread}(1+"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "           │           │                       │                       │                   │                ├─{BrowserBlockin+"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "           │           │                       │                       │                   │                ├─{BrowserBlockin+"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "           │           │                       │                       │                   │                ├─{BrowserBlockin+"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "           │           │                       │                       │                   │                ├─{BrowserWatchdo+"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "           │           │                       │                       │                   │                ├─{CachePoolWorke+\r\n"
+    ],
+    [
+      0.000010,
+      "           │           │                       │                       │                   │                ├─{CachePoolWorke+"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "           │           │                       │                       │                   │                ├─{CachePoolWorke+"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "           │           │                       │                       │                   │                ├─{CachePoolWorke+"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "           │           │                       │                       │                   │                ├─{CachePoolWorke+"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "           │           │                       │                       │                   │                ├─{Chrome_CacheTh+"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "           │           │                       │                       │                   │                ├─{Chrome_DBThrea+"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "           │           │                       │                       │                   │                ├─{Chrome_FileThr+\r\n"
+    ],
+    [
+      0.000016,
+      "           │           │                       │                       │                   │                ├─{Chrome_FileUse+"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "           │           │                       │                       │                   │                ├─{Chrome_History+"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "           │           │                       │                       │                   │                ├─{Chrome_IOThrea+"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "           │           │                       │                       │                   │                ├─{Chrome_Process+"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "           │           │                       │                       │                   │                ├─{Chrome_SafeBro+"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "           │           │                       │                       │                   │                ├─{CrShutdownDete+"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "           │           │                       │                       │                   │                ├─{IndexedDB}(175+"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "           │           │                       │                       │                   │                ├─{LevelDBEnv}(18+"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "           │           │                       │                       │                   │                ├─{NSS SSL Thread+"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "           │           │                       │                       │                   │                ├─{NetworkChangeN+"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "           │           │                       │                       │                   │                ├─{OptimizingComp+\r\n"
+    ],
+    [
+      0.000016,
+      "           │           │                       │                       │                   │                ├─{Proxy resolver+"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "           │           │                       │                       │                   │                ├─{Proxy resolver+"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "           │           │                       │                       │                   │                ├─{WorkerPool/270+"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "           │           │                       │                       │                   │                ├─{chromium}(1741+"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "           │           │                       │                       │                   │                ├─{dconf worker}(+"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "           │           │                       │                       │                   │                ├─{extension_cras+"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "           │           │                       │                       │                   │                ├─{gdbus}(1788)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "           │           │                       │                       │                   │                ├─{gpu-process_cr+"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "           │           │                       │                       │                   │                ├─{handle-watcher+"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "           │           │                       │                       │                   │                ├─{inotify_reader+"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "           │           │                       │                       │                   │                ├─{ppapi_crash_up+"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "           │           │                       │                       │                   │                ├─{renderer_crash+"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "           │           │                       │                       │                   │                ├─{sandbox_ipc_th+"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "           │           │                       │                       │                   │                ├─{threaded-ml}(1+"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "           │           │                       │                       │                   │                └─{threaded-ml}(1+"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "           │           │                       │                       │                   ├─{JS GC Helper}(1542)"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "           │           │                       │                       │                   ├─{JS Sour~ Thread}(1543)"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "           │           │                       │                       │                   ├─{dconf worker}(1544)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "           │           │                       │                       │                   ├─{gdbus}(1536)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "           │           │                       │                       │                   ├─{gmain}(1531)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "           │           │                       │                       │                   ├─{gnome-shell}(1533)\r\n"
+    ],
+    [
+      0.000014,
+      "           │           │                       │                       │                   └─{threaded-ml}(1541)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "           │           │                       │                       ├─gnome-software(1575)─┬─{dconf worker}(1597)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "           │           │                       │                       │                      ├─{gdbus}(1595)\r\n"
+    ],
+    [
+      0.000013,
+      "           │           │                       │                       │                      └─{gmain}(1676)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "           │           │                       │                       ├─ssh-agent(1321)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "           │           │                       │                       ├─tracker-extract(1589)─┬─{dconf worker}(1592)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "           │           │                       │                       │                       ├─{gdbus}(1593)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "           │           │                       │                       │                       ├─{gmain}(1594)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "           │           │                       │                       │                       ├─{pool}(1643)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "           │           │                       │                       │                       ├─{pool}(1644)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "           │           │                       │                       │                       ├─{pool}(1645)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "           │           │                       │                       │                       ├─{pool}(1646)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "           │           │                       │                       │                       ├─{pool}(1647)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "           │           │                       │                       │                       ├─{pool}(1648)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "           │           │                       │                       │                       ├─{pool}(1649)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000051,
+      "           │           │                       │                       │                       ├─{pool}(1650)\r\n           │           │                       │                       │                       ├─{pool}(1651)\r\n           │           │                       │                       │                       └─{pool}(1652)\r\n"
+    ],
+    [
+      0.000032,
+      "           │           │                       │                       ├─tracker-miner-a(1591)─┬─{gdbus}(1601)\r\n           │           │                       │                       │                       └─{gmain}(1689)\r\n           │           │                       │                       ├─tracker-miner-f(1572)─┬─{dconf worker}(1579)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "           │           │                       │                       │                       ├─{gdbus}(1580)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000065,
+      "           │           │                       │                       │                       └─{gmain}(1581)\r\n           │           │                       │                       ├─tracker-miner-u(1574)─┬─{gdbus}(1576)\r\n           │           │                       │                       │                       └─{gmain}(1685)\r\n           │           │                       │                       ├─{dconf worker}(1348)\r\n"
+    ],
+    [
+      0.000009,
+      "           │           │                       │                       ├─{gdbus}(1346)\r\n"
+    ],
+    [
+      0.000006,
+      "           │           │                       │                       └─{gmain}(1349)\r\n"
+    ],
+    [
+      0.000011,
+      "           │           │                       ├─{gdbus}(1197)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000034,
+      "           │           │                       └─{gmain}(1198)\r\n           │           ├─{gdbus}(809)\r\n           │           ├─{gdm SIGUSR1 cat}(813)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "           │           └─{gmain}(810)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "           ├─gnome-keyring-d(1357)─┬─{gmain}(1358)"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "           │                       └─{timer}(1365)\r\n"
+    ],
+    [
+      0.000013,
+      "           ├─gnome-shell-cal(1551)─┬─{cal-client-dbus}(1608)"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "           │                       ├─{gdbus}(1556)"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "           │                       └─{gnome-shell-cal}(1570)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "           ├─gnome-terminal-(1666)─┬─bash(1670)───asciinema(3013)─┬─sh(3017)───bash(3018)───pstree(3067)"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "           │                       │                              ├─{asciinema}(3014)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "           │                       │                              ├─{asciinema}(3015)\r\n"
+    ],
+    [
+      0.000012,
+      "           │                       │                              ├─{asciinema}(3016)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "           │                       │                              ├─{asciinema}(3019)"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "           │                       │                              └─{asciinema}(3020)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "           │                       ├─bash(3031)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "           │                       ├─gnome-pty-helpe(1669)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "           │                       ├─{dconf worker}(1668)"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "           │                       ├─{gdbus}(1667)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "           │                       └─{gmain}(1671)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "           ├─goa-daemon(1426)─┬─{gdbus}(1429)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "           │                  ├─{gmain}(1427)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "           │                  └─{pool}(1428)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "           ├─gpm(787)\r\n"
+    ],
+    [
+      0.000005,
+      "           ├─gsd-printer(1457)───{gdbus}(1458)"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "           ├─gvfs-afc-volume(1439)─┬─{gdbus}(1442)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "           │                       └─{gvfs-afc-volume}(1440)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "           ├─gvfs-goa-volume(1423)───{gdbus}(1424)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "           ├─gvfs-gphoto2-vo(1444)───{gdbus}(1449)"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "           ├─gvfs-mtp-volume(1435)───{gdbus}(1437)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "           ├─gvfs-udisks2-vo(1412)─┬─{gdbus}(1413)"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "           │                       └─{gmain}(1420)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "           ├─gvfsd(1389)───{gdbus}(1390)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "           ├─gvfsd-fuse(1394)─┬─{gdbus}(1404)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "           │                  ├─{gvfs-fuse-sub}(1405)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "           │                  ├─{gvfsd-fuse}(1402)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "           │                  └─{gvfsd-fuse}(1403)"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "           ├─gvfsd-metadata(1698)───{gdbus}(1699)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "           ├─lpd(762)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "           ├─minissdpd(789)\r\n"
+    ],
+    [
+      0.000012,
+      "           ├─mission-control(1432)─┬─{dconf worker}(1447)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "           │                       └─{gdbus}(1446)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "           ├─ntpd(798)"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "           ├─packagekitd(1451)─┬─{gdbus}(1453)\r\n"
+    ],
+    [
+      0.000013,
+      "           │                   └─{gmain}(1455)\r\n"
+    ],
+    [
+      0.000008,
+      "           ├─polkitd(755)─┬─{gdbus}(775)\r\n"
+    ],
+    [
+      0.000007,
+      "           │              └─{gmain}(815)\r\n"
+    ],
+    [
+      0.000007,
+      "           ├─proftpd(2204)"
+    ],
+    [
+      0.000008,
+      "\r\n           ├─pulseaudio(1368)─┬─{alsa-sink-ALC88}(1406)"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "           │                  └─{alsa-source-ALC}(1407)\r\n"
+    ],
+    [
+      0.000007,
+      "           ├─rpc.idmapd(651)"
+    ],
+    [
+      0.000008,
+      "\r\n           ├─rpc.statd(628)"
+    ],
+    [
+      0.000013,
+      "\r\n           ├─rpcbind(615)"
+    ],
+    [
+      0.000101,
+      "\r\n           ├─rsyslogd(659)─┬─{in:imklog}(672)"
+    ],
+    [
+      0.000008,
+      "\r\n           │               ├─{in:imuxsock}(671)\r\n           │               └─{rs:main Q:Reg}(673)\r\n           ├─rtkit-daemon(1369)─┬─{rtkit-daemon}(1370)\r\n           │                    └─{rtkit-daemon}(1371)\r\n           ├─runsvdir(663)\r\n           ├─sshd(658)\r\n           ├─systemd(1275)───(sd-pam)(1276)\r\n"
+    ],
+    [
+      0.000009,
+      "           ├─systemd-journal(162)\r\n"
+    ],
+    [
+      0.000008,
+      "           ├─systemd-logind(684)"
+    ],
+    [
+      0.000008,
+      "\r\n           ├─systemd-udevd(168)"
+    ],
+    [
+      0.000008,
+      "\r\n           ├─timidity(1075)"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "           ├─tracker-store(1578)─┬─{gdbus}(1583)\r\n"
+    ],
+    [
+      0.000008,
+      "           │                     ├─{gmain}(1584)"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "           │                     ├─{pool}(1585)\r\n           │                     ├─{pool}(1586)"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "           │                     ├─{pool}(1587)\r\n"
+    ],
+    [
+      0.000007,
+      "           │                     └─{pool}(1588)\r\n"
+    ],
+    [
+      0.000008,
+      "           ├─udisksd(1414)─┬─{cleanup}(1419)"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "           │               ├─{gdbus}(1417)\r\n"
+    ],
+    [
+      0.000007,
+      "           │               ├─{gmain}(1415)\r\n"
+    ],
+    [
+      0.000010,
+      "           │               └─{probing-thread}(1418)"
+    ],
+    [
+      0.000011,
+      "\r\n           ├─upowerd(1372)─┬─{gdbus}(1374)"
+    ],
+    [
+      0.000008,
+      "\r\n           │               └─{gmain}(1373)"
+    ],
+    [
+      0.000008,
+      "\r\n           └─wpa_supplicant(1147)"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000329,
+      "$"
+    ],
+    [
+      3.706258,
+      "exit\r\n"
+    ]
+  ]
+}
