@@ -1,0 +1,750 @@
+{
+  "version": 1,
+  "width": 110,
+  "height": 29,
+  "duration": 71.708239,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.069084,
+      "\u001b]0;root@vz:~\u0007[root@vz ~]# "
+    ],
+    [
+      2.422381,
+      "p"
+    ],
+    [
+      0.078568,
+      "r"
+    ],
+    [
+      0.075794,
+      "l"
+    ],
+    [
+      0.376992,
+      "c"
+    ],
+    [
+      0.574606,
+      "t"
+    ],
+    [
+      0.258410,
+      "l "
+    ],
+    [
+      0.728932,
+      "l"
+    ],
+    [
+      0.153479,
+      "is"
+    ],
+    [
+      0.139115,
+      "t "
+    ],
+    [
+      0.532716,
+      "-"
+    ],
+    [
+      0.227631,
+      "a"
+    ],
+    [
+      0.162272,
+      "\r\n"
+    ],
+    [
+      0.042898,
+      "UUID                                    STATUS       IP_ADDR         T  NAME\r\n"
+    ],
+    [
+      0.565838,
+      "{99967632-4061-45fe-9db7-f1100335d18d}  stopped      -               CT 1100\r\n"
+    ],
+    [
+      0.000017,
+      "{b0be3e72-f745-4ec5-bf06-1f7b6a6746bb}  running      -               CT 200\r\n{8a179a6a-b4e1-454f-a4f9-d93151aeb06f}  running      -               CT 201\r\n{f06a5988-4cde-470f-9b20-8b78efd4e0b8}  running      -               CT 202\r\n{ef15d3f8-7923-4356-baae-52fc3ed2b613}  running      -               CT 203\r\n{13fff841-6ed8-4e77-946b-b5cac8faafea}  running      -               CT 204"
+    ],
+    [
+      0.000013,
+      "\r\n{aa3a2538-3029-4bdd-9fa9-890a61356bc7}  running      -               CT 205\r\n{f124cf87-f02a-4e0b-a56e-3fed4f98d5c3}  running      -               CT 206"
+    ],
+    [
+      0.000016,
+      "\r\n{07952010-f861-4ca9-ada6-95cf2963214f}  running      -               CT 207\r\n{59dad401-e9bb-4f54-964f-251a773c10e3}  running      -               CT 208\r\n"
+    ],
+    [
+      0.000163,
+      "{4567007b-b69f-465c-8d9b-c9d92d34c8ec}  running      -               CT 209\r\n"
+    ],
+    [
+      0.000010,
+      "{3ea0317e-c790-4fa3-93f7-c49f80c3686b}  running      -               CT 210\r\n{acdb2937-47aa-477d-aa27-76ceb2dd1fcf}  running      -               CT 211"
+    ],
+    [
+      0.000005,
+      "\r\n{ce74e6c4-cf33-4f58-a51a-3d978f99ef"
+    ],
+    [
+      0.000071,
+      "49}  running      -               CT 212\r\n"
+    ],
+    [
+      0.000017,
+      "{705cd259-29c9-45bf-be43-2a1d3663deed}  running      -               CT 213\r\n"
+    ],
+    [
+      0.000067,
+      "{9bbea7d3-a593-4e55-aa75-fba1502aa338}  running      -               CT 214\r\n"
+    ],
+    [
+      0.000008,
+      "{c30b17b2-fad7-45a3-91e5-aa61234eb241}  running      -               CT 215"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "{c6401941-07f1-45e7-b603-c967301056f9}  running      -               CT 216\r\n"
+    ],
+    [
+      0.000003,
+      "{fa7a5e60-3850-40de-8e5b-ba16931d5cd8}  running      -               CT 217\r\n"
+    ],
+    [
+      0.000007,
+      "{aa054e26-1d01-454f-a4f7-7fcf8a89fc19}  running      -               CT 218"
+    ],
+    [
+      0.000061,
+      "\r\n{1aa16e6e-b16e-4bd9-88e9-7e2776d7ec06}  running      -               CT 219\r\n{9dd7111d-cde2-4a6e-a7e1-841c7a4af666}  running      -               CT 220\r\n{4de12957-9ccc-4f2e-bf95-98bb47e5e16d}  running      -               CT 221\r\n{86939ca5-9ffe-4f0c-9b8b-898fa61f6ee3}  running      -               CT 222\r\n{547d9beb-71e2-41df-94e9-5b661158b9a4}  running      -               CT 224\r\n"
+    ],
+    [
+      0.009463,
+      "\u001b]0;root@vz:~\u0007[root@vz ~]# "
+    ],
+    [
+      1.465273,
+      "p"
+    ],
+    [
+      1.126400,
+      "\u0008\u001b[K"
+    ],
+    [
+      5.274298,
+      "#"
+    ],
+    [
+      0.270961,
+      " "
+    ],
+    [
+      0.518310,
+      "v"
+    ],
+    [
+      0.000155,
+      "z"
+    ],
+    [
+      1.086283,
+      "st"
+    ],
+    [
+      0.097589,
+      "a"
+    ],
+    [
+      0.051489,
+      "t"
+    ],
+    [
+      0.571175,
+      " "
+    ],
+    [
+      0.293671,
+      "i"
+    ],
+    [
+      0.082998,
+      "s"
+    ],
+    [
+      0.151163,
+      " "
+    ],
+    [
+      0.290776,
+      "m"
+    ],
+    [
+      0.037207,
+      "o"
+    ],
+    [
+      1.638921,
+      "n"
+    ],
+    [
+      0.105556,
+      "i"
+    ],
+    [
+      0.313344,
+      "t"
+    ],
+    [
+      0.029168,
+      "o"
+    ],
+    [
+      0.154614,
+      "r"
+    ],
+    [
+      0.369182,
+      "ing"
+    ],
+    [
+      0.102213,
+      " "
+    ],
+    [
+      0.200863,
+      "t"
+    ],
+    [
+      0.235768,
+      "o"
+    ],
+    [
+      0.000175,
+      "o"
+    ],
+    [
+      0.142902,
+      "l"
+    ],
+    [
+      0.337903,
+      "s"
+    ],
+    [
+      0.704815,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.351669,
+      " "
+    ],
+    [
+      0.546126,
+      "f"
+    ],
+    [
+      0.028557,
+      "o"
+    ],
+    [
+      0.108066,
+      "r"
+    ],
+    [
+      0.417656,
+      " c"
+    ],
+    [
+      0.088832,
+      "o"
+    ],
+    [
+      0.130580,
+      "n"
+    ],
+    [
+      0.244884,
+      "t"
+    ],
+    [
+      0.061406,
+      "a"
+    ],
+    [
+      0.122928,
+      "i"
+    ],
+    [
+      0.061696,
+      "n"
+    ],
+    [
+      0.277302,
+      "e"
+    ],
+    [
+      0.059279,
+      "r"
+    ],
+    [
+      0.176688,
+      "s"
+    ],
+    [
+      0.293240,
+      " "
+    ],
+    [
+      0.144208,
+      "a"
+    ],
+    [
+      0.099205,
+      "n"
+    ],
+    [
+      0.287511,
+      "d "
+    ],
+    [
+      0.539116,
+      "v"
+    ],
+    [
+      0.048296,
+      "i"
+    ],
+    [
+      0.151676,
+      "r"
+    ],
+    [
+      0.295660,
+      "tu"
+    ],
+    [
+      0.535906,
+      "a"
+    ],
+    [
+      0.079858,
+      "l"
+    ],
+    [
+      0.436387,
+      " "
+    ],
+    [
+      0.089286,
+      "m"
+    ],
+    [
+      0.100862,
+      "a"
+    ],
+    [
+      0.336268,
+      "c"
+    ],
+    [
+      0.000521,
+      "h"
+    ],
+    [
+      0.000081,
+      "i"
+    ],
+    [
+      0.180337,
+      "ne"
+    ],
+    [
+      0.350255,
+      "s"
+    ],
+    [
+      0.671707,
+      "\r\n"
+    ],
+    [
+      0.001626,
+      "\u001b]0;root@vz:~\u0007[root@vz ~]# "
+    ],
+    [
+      2.153007,
+      "v"
+    ],
+    [
+      0.309859,
+      "z"
+    ],
+    [
+      0.192247,
+      "s"
+    ],
+    [
+      0.100392,
+      "t"
+    ],
+    [
+      0.230962,
+      "a"
+    ],
+    [
+      0.000129,
+      "t"
+    ],
+    [
+      2.332405,
+      "\r\n"
+    ],
+    [
+      0.004105,
+      "\u001b)0\u001b7\u001b[?47h\u001b[1;29r\u001b[m\u001b[4l\u001b[m\u001b[m\u001b[37m\u001b[40m\u001b[1;1H                                                                                                              \u001b[2;1H                                                                                                              \u001b[3;1H                                                                                                              \u001b[4;1H                                                                                                              \u001b[5;1H                                                                                                              \u001b[6;1H                                                                                                              \u001b[7;1H                                                                                                              \u001b[8;1H                                                                                                              \u001b[9;1H                                                                                                              \u001b[10;1H                                                                                                              \u001b[11;1H                                                                                                              \u001b[12;1H                                                                                                              \u001b[13;1H                                                                                                              \u001b[14;1H                                                                                                              \u001b[15;1H                                                                                                              \u001b[16;1H                                                                                                              \u001b[17;1H                                                                                                              \u001b[18;1H                    "
+    ],
+    [
+      0.000010,
+      "                                                                                          \u001b[19;1H                                                                                                              \u001b[20;1H                                                                                                              \u001b[21;1H                                                                                                              \u001b[22;1H                                                                                                              \u001b[23;1H                                                                                                              \u001b[24;1H                                                                                                              \u001b[25;1H                                                                                                              \u001b[26;1H                                                                                                              \u001b[27;1H                                                                                                              \u001b[28;1H                                                                                                              \u001b[29;1H                                                                                                             \u0008 \u0008\u001b[4h \u001b[4l\u001b[H"
+    ],
+    [
+      0.000218,
+      "\u001b[m\u001b[37m\u001b[40m                                                                                                              \u001b[2;1H                                                                                                              \u001b[3;1H                                                                                                              \u001b[4;1H                                                                                                              \u001b[5;1H                                                                                                              \u001b[6;1H                                                                                                              \u001b[7;1H                                                                                                              \u001b[8;1H                                                                                                              \u001b[9;1H                                                                                                              \u001b[10;1H                                                                                                              \u001b[11;1H                                                                                                              \u001b[12;1H                                                                                                              \u001b[13;1H                                                                                                              \u001b[14;1H                                                                                                              \u001b[15;1H                                                                                                              \u001b[16;1H                                                                                                              \u001b[17;1H                                                                                                              \u001b[18;1H                                                                                                              \u001b[19;1H                                                                                                              \u001b[20;1H                                                                                                              \u001b[21;1H                                                                                                              \u001b[22;1H                                                                                                              \u001b[23;1H                                                                                                              \u001b[24;1H                                                                                                              \u001b[25;1H                                                                                                              \u001b[26;1H                                                                                                              \u001b[27;1H                                                                                                              \u001b[28;1H                                                                                                              \u001b[29;1H                                                                                                             \u0008 \u0008\u001b[4h \u001b[4l\u001b[H"
+    ],
+    [
+      0.029762,
+      "\u001b[m\u001b[37m\u001b[40m                                                                                                              \u001b[2;1H                                                                                                              \u001b[3;1H                                                                                                              \u001b[4;1H                                                                                                              \u001b[5;1H                                                                                                              \u001b[6;1H                                                                                                              \u001b[7;1H                                                                                                              \u001b[8;1H                                                                                                              \u001b[9;1H                                                                                                              \u001b[10;1H                                                                                                              \u001b[11;1H                                                                                                              \u001b[12;1H                                                                                                              \u001b[13;1H                                                                                                              \u001b[14;1H                                                                                                              \u001b[15;1H                                                                                                              \u001b[16;1H                                                                                                              \u001b[17;1H                                                                                                              \u001b[18;1H                                                      "
+    ],
+    [
+      0.000011,
+      "                                                        \u001b[19;1H                                                                                                              \u001b[20;1H                                                                                                              \u001b[21;1H                                                                                                              \u001b[22;1H                                                                                                              \u001b[23;1H                                                                                                              \u001b[24;1H                                                                                                              \u001b[25;1H                                                                                                              \u001b[26;1H                                                                                                              \u001b[27;1H                                                                                                              \u001b[28;1H                                                                                                              \u001b[29;1H                                                                                                             \u0008 \u0008\u001b[4h \u001b[4l\u001b[H\u001b[C\u001b[37m\u001b[40m10:37pm, up 2 days, 23:27,  2 users, load average: \u001b[1m0.07\u001b[m\u001b[37m\u001b[40m, \u001b[1m0.88\u001b[m\u001b[37m\u001b[40m, \u001b[1m0.99\r\u001b[1B\u001b[m\u001b[37m\u001b[40mCTNum \u001b[1m24\u001b[m\u001b[37m\u001b[40m, procs \u001b[1m 724\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000240,
+      ": R \u001b[1m  1\u001b[m\u001b[37m\u001b[40m, S \u001b[1m 722\u001b[m\u001b[37m\u001b[40m, D \u001b[1m  0\u001b[m\u001b[37m\u001b[40m, Z \u001b[1m  0\u001b[m\u001b[37m\u001b[40m, T \u001b[1m  0\u001b[m\u001b[37m\u001b[40m, X \u001b[1m  1\r\u001b[1B\u001b[m\u001b[37m\u001b[40mCPU \u001b[32m\u001b[40m[ OK ]\u001b[37m\u001b[40m: CTs \u001b[1m  0\u001b[m\u001b[37m\u001b[40m%, CT0 \u001b[1m  0\u001b[m\u001b[37m\u001b[40m%, user \u001b[1m  0\u001b[m\u001b[37m\u001b[40m%, sys \u001b[1m  0\u001b[m\u001b[37m\u001b[40m%, idle \u001b[1m100\u001b[m\u001b[37m\u001b[40m%, lat(ms) \u001b[1m  6\u001b[m\u001b[37m\u001b[40m/\u001b[1m0\r\u001b[1B\u001b[m\u001b[37m\u001b[40mMem \u001b[32m\u001b[40m[ OK ]\u001b[37m\u001b[40m: total \u001b[1m7745\u001b[m\u001b[37m\u001b[40mMB, free \u001b[1m5031\u001b[m\u001b[37m\u001b[40mMB, lat(ms) \u001b[1m0\u001b[m\u001b[37m\u001b[40m/\u001b[1m0\u001b[5;3H\u001b[m\u001b[37m\u001b[40mZONE0 (DMA): size \u001b[1m15\u001b[m\u001b[37m\u001b[40mMB, act \u001b[1m0\u001b[m\u001b[37m\u001b[40mMB, inact \u001b[1m0\u001b[m\u001b[37m\u001b[40mMB, free \u001b[1m15\u001b[m\u001b[37m\u001b[40mMB (\u001b[1m0/0/0\u001b[m\u001b[37m\u001b[40m)\u001b[6;3HZONE1 (DMA32): size \u001b[1m3300\u001b[m\u001b[37m\u001b[40mMB, act \u001b[1m655\u001b[m\u001b[37m\u001b[40mMB, inact \u001b[1m262\u001b[m\u001b[37m\u001b[40mMB, free \u001b[1m2016\u001b[m\u001b[37m\u001b[40mMB (\u001b[1m25/32/38\u001b[m\u001b[37m\u001b[40m)\u001b[7;3HZONE2 (Normal): size \u001b[1m4800\u001b[m\u001b[37m\u001b[40mMB, act \u001b[1m985\u001b[m\u001b[37m\u001b[40mMB, inact \u001b[1m428\u001b[m\u001b[37m\u001b[40mMB, free \u001b[1m2999\u001b[m\u001b[37m\u001b[40mMB (\u001b[1m39/49/59\u001b[m\u001b[37m\u001b[40m)\u001b[8;3HMem lat (ms): A0 \u001b[1m0\u001b[m\u001b[37m\u001b[40m, K0 \u001b[1m0\u001b[m\u001b[37m\u001b[40m, U0 \u001b[1m0\u001b[m\u001b[37m\u001b[40m, K1 \u001b[1m0\u001b[m\u001b[37m\u001b[40m, U1 \u001b[1m0\u001b[9;3H\u001b[m\u001b[37m\u001b[40mSlab pages: \u001b[1m236\u001b[m\u001b[37m\u001b[40mMB/\u001b[1m236\u001b[m\u001b[37m\u001b[40mMB (ino \u001b[1m73\u001b[m\u001b[37m\u001b[40mMB, de \u001b[1m0\u001b[m\u001b[37m\u001b[40mMB, bh \u001b[1m30\u001b[m\u001b[37m\u001b[40mMB, pb \u001b[1m0\u001b[m\u001b[37m\u001b[40mMB)\r\u001b[1BSwap \u001b[32m\u001b[40m[ OK ]\u001b[37m\u001b[40m: tot \u001b[1m7935\u001b[m\u001b[37m\u001b[40mMB, free \u001b[1m7935\u001b[m\u001b[37m\u001b[40mMB, in \u001b[1m0.000\u001b[m\u001b[37m\u001b[40mMB/s, out \u001b[1m0.000\u001b[m\u001b[37m\u001b[40mMB/s\r\u001b[1BNet \u001b[32m\u001b[40m[ OK ]\u001b[37m\u001b[40m: tot: in \u001b[1m 0.000\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m   0\u001b[m\u001b[37m\u001b[40mpkt/s, out \u001b[1m 0.000\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m   0\u001b[m\u001b[37m\u001b[40mpkt/s\u001b[12;13Hbr0: in \u001b[1m 0.000\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m   0\u001b[m\u001b[37m\u001b[40mpkt/s, out \u001b[1m 0.000\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m   0\u001b[m\u001b[37m\u001b[40mpkt/s\u001b[13;14Hlo: in \u001b[1m 0.000\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m   0\u001b[m\u001b[37m\u001b[40mpkt/s, out \u001b[1m 0.000\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m   0\u001b[m\u001b[37m\u001b[40mpkt/s\u001b[14;6Hvirbr1-nic: in \u001b[1m 0.000\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m   0\u001b[m\u001b[37m\u001b[40mpkt/s, out \u001b[1m 0.000\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m   0\u001b[m\u001b[37m\u001b[40mpkt/s\u001b[15;10Henp6s1: in \u001b[1m 0.000\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m   0\u001b[m\u001b[37m\u001b[40mpkt/s, out \u001b[1m 0.000\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m   0\u001b[m\u001b[37m\u001b[40mpkt/s\u001b[16;9Henp0s25: in \u001b[1m 0.000\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m   0\u001b[m\u001b[37m\u001b[40mpkt/s, out \u001b[1m 0.000\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m   0\u001b[m\u001b[37m\u001b[40mpkt/s\u001b[17;10Hvirbr1: in \u001b[1m 0.000\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m   0\u001b[m\u001b[37m\u001b[40mpkt/s, out \u001b[1m 0.000\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m   0\u001b[m\u001b[37m\u001b[40mpkt/s\r\u001b[1BDisks \u001b[33m\u001b[40m[ OK ]\u001b[37m\u001b[40m: in \u001b[1m0.000\u001b[m\u001b[37m\u001b[40mMB/s, out \u001b[1m0.000\u001b[m\u001b[37m\u001b[40mMB/s\r\u001b[1B\u001b[30m\u001b[47m\u001b[1m    CTID ST   %VM    %KM        PROC     CPU     SOCK FCNT MLAT IP                                          \r\u001b[1B\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.023867,
+      "\u001b[A\u001b[L                                                                                                              \u001b[2;20H\u001b[37m\u001b[40m\u001b[1m3\u001b[2;63H0\u001b[3;19H4\u001b[3;28H55\u001b[3;39H2\u001b[3;49H4\u001b[3;59H 4\u001b[4;34H20\u001b[2B63\u001b[6;62H08\u001b[7;38H8\u001b[7;64H6\u001b[11;25H16\t"
+    ],
+    [
+      0.000024,
+      "276\u001b[11;51H6\u001b[7C138\u001b[12;26H7\t138\u001b[12;51H3\u001b[12;60H69\u001b[16;26H9\t138\u001b[16;51H3\u001b[16;60H69\r\u001b[5B\u001b[m\u001b[37m\u001b[40m86939ca5 \u001b[1mOK\u001b[m\u001b[37m\u001b[40m 0.5/6.6 0.1/MAX   0/19/MAX 0.00/4.2   0/MAX \u001b[1m   0\u001b[m\u001b[37m\u001b[40m \u001b[1m   0\r\u001b[1B\u001b[m\u001b[37m\u001b[40m07952010 \u001b[1mOK\u001b[m\u001b[37m\u001b[40m 0.5/6.6 0.1/MAX   0/19/MAX 0.00/4.2   0/MAX \u001b[1m   0\u001b[m\u001b[37m\u001b[40m \u001b[1m   0\r\u001b[1B\u001b[m\u001b[37m\u001b[40m8a179a6a \u001b[1mOK\u001b[m\u001b[37m\u001b[40m 0.5/6.6 0.1/MAX   0/19/MAX 0.00/4.2   0/MAX \u001b[1m   0\u001b[m\u001b[37m\u001b[40m \u001b[1m   0\r\u001b[1B\u001b[m\u001b[37m\u001b[40m13fff841 \u001b[1mOK\u001b[m\u001b[37m\u001b[40m 0.5/6.6 0.1/MAX   0/19/MAX 0.00/4.2   0/MAX \u001b[1m   0\u001b[m\u001b[37m\u001b[40m \u001b[1m   0\r\u001b[1B\u001b[m\u001b[37m\u001b[40m1aa16e6e \u001b[1mOK\u001b[m\u001b[37m\u001b[40m 0.5/6.6 0.1/MAX   0/19/MAX 0.00/4.2   0/MAX \u001b[1m   0\u001b[m\u001b[37m\u001b[40m \u001b[1m   0\r\u001b[1B\u001b[m\u001b[37m\u001b[40m9bbea7d3 \u001b[1mOK\u001b[m\u001b[37m\u001b[40m 0.5/6.6 0.1/MAX   0/19/MAX 0.00/4.2   0/MAX \u001b[1m   0\u001b[m\u001b[37m\u001b[40m \u001b[1m   0\r\u001b[1B\u001b[m\u001b[37m\u001b[40m9dd7111d \u001b[1mOK\u001b[m\u001b[37m\u001b[40m 0.5/6.6 0.1/MAX   0/19/MAX 0.00/4.2   0/MAX \u001b[1m   0\u001b[m\u001b[37m\u001b[40m \u001b[1m   0\r\u001b[1B\u001b[m\u001b[37m\u001b[40maa054e26 \u001b[1mOK\u001b[m\u001b[37m\u001b[40m 0.5/6.6 0.1/MAX   0/19/MAX 0.00/4.2   0/MAX \u001b[1m   0\u001b[m\u001b[37m\u001b[40m \u001b[1m   0\r\u001b[1B\u001b[m\u001b[37m\u001b[40maa3a2538 \u001b[1mOK\u001b[m\u001b[37m\u001b[40m 0.5/6.6 0.1/MAX   0/19/MAX 0.00/4.2   0/MAX \u001b[1m   0\u001b[m\u001b[37m\u001b[40m \u001b[1m   0\u001b[29;81H\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      1.025456,
+      "\u001b[1;56H\u001b[37m\u001b[40m\u001b[1m6\u001b[m\u001b[37m\u001b[40m, \u001b[1m0.86\u001b[3;19H0\u001b[3;28H 1\u001b[3;39H \u001b[3;49H 1\u001b[3;60H98\u001b[4;34H18\u001b[3B990\u001b[7;64H4\u001b[11;25H02\t"
+    ],
+    [
+      0.000029,
+      " 18\u001b[11;51H01\u001b[6C  2\u001b[12;26H1\t  7\u001b[12;51H0\u001b[12;60H 1\u001b[15;35H4\u001b[16;26H1\t  7\u001b[16;51H0\u001b[16;60H 1\u001b[29;81H\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      1.025310,
+      "\u001b[2;27H\u001b[37m\u001b[40m\u001b[1m2\t"
+    ],
+    [
+      0.000009,
+      "721\u001b[3;61H9\u001b[11;25H35\t 7\u001b[11;52H0\u001b[12;25H17\t 38\u001b[3B\u00082\u001b[16;25H18\t 38\u001b[29;81H\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      1.025477,
+      "\u001b[4;48H\u001b[37m\u001b[40m\u001b[1m1\u001b[8;32H1\u001b[11;25H01\t"
+    ],
+    [
+      0.000009,
+      " 10\u001b[12;25H00\t  3\u001b[3B\u00083\u001b[16;25H00\t  4\u001b[2B11\u001b[29;81H\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      1.025420,
+      "\u001b[11;35H\u001b[37m\u001b[40m\u001b[1m7\u001b[12;26H1\u001b[12;35H7\u001b[16;26H1\u001b[16;35H7\u001b[2B00\u001b[29;81H\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      1.025414,
+      "\u001b[2;27H\u001b[37m\u001b[40m\u001b[1m1\t"
+    ],
+    [
+      0.000009,
+      "722\u001b[3;61H8\u001b[11;35H4\u001b[12;26H0\u001b[12;35H3\u001b[15;26H1\u001b[15;35H8\u001b[16;26H0\u001b[16;35H3\u001b[29;81H\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.345498,
+      "\u001b[m\u001b[37m\u001b[40m\u001b[H                                                                                                              \u001b[2;1H                                                                                                              \u001b[3;1H                                                                                                              \u001b[4;1H                                                                                                              \u001b[5;1H                                                                                                              \u001b[6;1H                                                                                                              \u001b[7;1H                                                                                                              \u001b[8;1H                                                                                                              \u001b[9;1H                                                                                                              \u001b[10;1H                                                                                                              \u001b[11;1H                                                                                                              \u001b[12;1H                                                                                                              \u001b[13;1H                                                                                                              \u001b[14;1H                                                                                                              \u001b[15;1H                                                                                                              \u001b[16;1H                                                                                                              \u001b[17;1H                                                                                                              \u001b[18;1H                                                   "
+    ],
+    [
+      0.000019,
+      "                                                           \u001b[19;1H                                                                                                              \u001b[20;1H                                                                                                              \u001b[21;1H                                                                                                              \u001b[22;1H                                                                                                              \u001b[23;1H                                                                                                              \u001b[24;1H                                                                                                              \u001b[25;1H                                                                                                              \u001b[26;1H                                                                                                              \u001b[27;1H                                                                                                              \u001b[28;1H                                                                                                              \u001b[29;1H                                                                                                             \u0008 \u0008\u001b[4h \u001b[4l\u001b[H\u001b[37m\u001b[40mInteractive commands are:\r\u001b[2Bh, ?    Print this help list\r\u001b[1Bspace   Update display\r\u001b[1Bt\t"
+    ],
+    [
+      0.000022,
+      "Specifies the delay between screen updates\r\u001b[1Br\tRedraw full screen from scratch\r\u001b[1B"
+    ],
+    [
+      0.000297,
+      "q, Q    Quit\r\u001b[2Bb\t"
+    ],
+    [
+      0.000018,
+      "'brief', brief output\r\u001b[1Bs\t'standart', standart output\r\u001b[1Bv\t"
+    ],
+    [
+      0.000096,
+      "'verbose', verbose output\r\u001b[2Ba\t"
+    ],
+    [
+      0.000071,
+      "Toggles average mode\r\u001b[1Bi\tToggle display of idle CTs\r\u001b[1Bl\tToggle display of load average\r\u001b[1Bp\tToggle display of proc info\r\u001b[1Bc\tToggle display of cpu info\r\u001b[1Bm, M    Toggle display of mem info\r\u001b[1Bn, N    Toggle display of net info\r\u001b[1Bw, W    Toggle display of swap info\r\u001b[1Bd, D    Toggle display of disk info\r\u001b[1Be\tToggle display of hostname/ip\r\u001b[1BI\tToggle display of IO accounting\r\u001b[1BA\tToggle display of IO statistics\r\u001b[1BX\tToggle display of network statistics\r\u001b[1B0\tToggle display of CT0 statistics\r\u001b[3BPress any key to continue ...\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      6.435713,
+      "\u001b[m\u001b[37m\u001b[40m\u001b[H                                                                                                              \u001b[2;1H                                                                                                              \u001b[3;1H                                                                                                              \u001b[4;1H                                                                                                              \u001b[5;1H                                                                                                              \u001b[6;1H                                                                                                              \u001b[7;1H                                                                                                              \u001b[8;1H                                                                                                              \u001b[9;1H                                                                                                              \u001b[10;1H                                                                                                              \u001b[11;1H                                                                                                              \u001b[12;1H                                                                                                              \u001b[13;1H                                                                                                              \u001b[14;1H                                                                                                              \u001b[15;1H                                                                                                              \u001b[16;1H                                                                                                              \u001b[17;1H                                                                                                              \u001b[18;1H                                                                                                              \u001b[19;1H                                                                                                              \u001b[20;1H                                                                                                              \u001b[21;1H                                                                                                              \u001b[22;1H                                                                                                              \u001b[23;1H                                                                                                              \u001b[24;1H                                                                                                              \u001b[25;1H                                                                                                              \u001b[26;1H                                                                                                              \u001b[27;1H                                                                                                              \u001b[28;1H                                                                                                              \u001b[29;1H                                                                                                             \u0008 \u0008\u001b[4h \u001b[4l\u001b[H\u001b[37m\u001b[40mo\tSort menu\r\u001b[2BPress any key to return to main window\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.927574,
+      "\u001b[m\u001b[37m\u001b[40m\u001b[H                                                                                                              \u001b[2;1H                                                                                                              \u001b[3;1H                                                                                                              \u001b[4;1H                                                                                                              \u001b[5;1H                                                                                                              \u001b[6;1H                                                                                                              \u001b[7;1H                                                                                                              \u001b[8;1H                                                                                                              \u001b[9;1H                                                                                                              \u001b[10;1H                                                                                                              \u001b[11;1H                                                                                                              \u001b[12;1H                                                                                                              \u001b[13;1H                                                                                                              \u001b[14;1H                                                                                                              \u001b[15;1H                                                                                                              \u001b[16;1H                                                                                                              \u001b[17;1H                                                                                                              \u001b[18;1H                                                   "
+    ],
+    [
+      0.000026,
+      "                                                           \u001b[19;1H                                                                                                              \u001b[20;1H                                                                                                              \u001b[21;1H                                                                                                              \u001b[22;1H                                                                                                              \u001b[23;1H                                                                                                              \u001b[24;1H                                                                                                              \u001b[25;1H                                                                                                              \u001b[26;1H                                                                                                              \u001b[27;1H                                                                                                              \u001b[28;1H                                                                                                              \u001b[29;1H                                                                                                             \u0008 \u0008\u001b[4h \u001b[4l\u001b[H\u001b[C\u001b[37m\u001b[40m10:37pm, up 2 days, 23:27,  2 users, load average: \u001b[1m0.05\u001b[m\u001b[37m\u001b[40m, \u001b[1m0.84\u001b[m\u001b[37m\u001b[40m, \u001b[1m0.98\r\u001b[1B\u001b[m\u001b[37m\u001b[40mCTNum \u001b[1m24\u001b[m\u001b[37m\u001b[40m, procs \u001b[1m 723\u001b[m\u001b[37m\u001b["
+    ],
+    [
+      0.000459,
+      "40m: R \u001b[1m  2\u001b[m\u001b[37m\u001b[40m, S \u001b[1m 721\u001b[m\u001b[37m\u001b[40m, D \u001b[1m  0\u001b[m\u001b[37m\u001b[40m, Z \u001b[1m  0\u001b[m\u001b[37m\u001b[40m, T \u001b[1m  0\u001b[m\u001b[37m\u001b[40m, X \u001b[1m  0\r\u001b[1B\u001b[m\u001b[37m\u001b[40mCPU \u001b[32m\u001b[40m[ OK ]\u001b[37m\u001b[40m: CTs \u001b[1m  0\u001b[m\u001b[37m\u001b[40m%, CT0 \u001b[1m  0\u001b[m\u001b[37m\u001b[40m%, user \u001b[1m  0\u001b[m\u001b[37m\u001b[40m%, sys \u001b[1m  0\u001b[m\u001b[37m\u001b[40m%, idle \u001b[1m100\u001b[m\u001b[37m\u001b[40m%, lat(ms) \u001b[1m  6\u001b[m\u001b[37m\u001b[40m/\u001b[1m0\r\u001b[1B\u001b[m\u001b[37m\u001b[40mMem \u001b[32m\u001b[40m[ OK ]\u001b[37m\u001b[40m: total \u001b[1m7745\u001b[m\u001b[37m\u001b[40mMB, free \u001b[1m5018\u001b[m\u001b[37m\u001b[40mMB, lat(ms) \u001b[1m0\u001b[m\u001b[37m\u001b[40m/\u001b[1m0\u001b[5;3H\u001b[m\u001b[37m\u001b[40mZONE0 (DMA): size \u001b[1m15\u001b[m\u001b[37m\u001b[40mMB, act \u001b[1m0\u001b[m\u001b[37m\u001b[40mMB, inact \u001b[1m0\u001b[m\u001b[37m\u001b[40mMB, free \u001b[1m15\u001b[m\u001b[37m\u001b[40mMB (\u001b[1m0/0/0\u001b[m\u001b[37m\u001b[40m)\u001b[6;3HZONE1 (DMA32): size \u001b[1m3300\u001b[m\u001b[37m\u001b[40mMB, act \u001b[1m663\u001b[m\u001b[37m\u001b[40mMB, inact \u001b[1m262\u001b[m\u001b[37m\u001b[40mMB, free \u001b[1m2008\u001b[m\u001b[37m\u001b[40mMB (\u001b[1m25/32/38\u001b[m\u001b[37m\u001b[40m)\u001b[7;3HZONE2 (Normal): size \u001b[1m4800\u001b[m\u001b[37m\u001b[40mMB, act \u001b[1m990\u001b[m\u001b[37m\u001b[40mMB, inact \u001b[1m428\u001b[m\u001b[37m\u001b[40mMB, free \u001b[1m2994\u001b[m\u001b[37m\u001b[40mMB (\u001b[1m39/49/59\u001b[m\u001b[37m\u001b[40m)\u001b[8;3HMem lat (ms): A0 \u001b[1m0\u001b[m\u001b[37m\u001b[40m, K0 \u001b[1m0\u001b[m\u001b[37m\u001b[40m, U0 \u001b[1m0\u001b[m\u001b[37m\u001b[40m, K1 \u001b[1m0\u001b[m\u001b[37m\u001b[40m, U1 \u001b[1m0\u001b[9;3H\u001b[m\u001b[37m\u001b[40mSlab pages: \u001b[1m236\u001b[m\u001b[37m\u001b[40mMB/\u001b[1m236\u001b[m\u001b[37m\u001b[40mMB (ino \u001b[1m73\u001b[m\u001b[37m\u001b[40mMB, de \u001b[1m0\u001b[m\u001b[37m\u001b[40mMB, bh \u001b[1m30\u001b[m\u001b[37m\u001b[40mMB, pb \u001b[1m0\u001b[m\u001b[37m\u001b[40mMB)\r\u001b[1BSwap \u001b[32m\u001b[40m[ OK ]\u001b[37m\u001b[40m: tot \u001b[1m7935\u001b[m\u001b[37m\u001b[40mMB, free \u001b[1m7935\u001b[m\u001b[37m\u001b[40mMB, in \u001b[1m0.000\u001b[m\u001b[37m\u001b[40mMB/s, out \u001b[1m0.000\u001b[m\u001b[37m\u001b[40mMB/s\r\u001b[1BNet \u001b[32m\u001b[40m[ OK ]\u001b[37m\u001b[40m: tot: in \u001b[1m 0.002\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m  24\u001b[m\u001b[37m\u001b[40mpkt/s, out \u001b[1m 0.000\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m   2\u001b[m\u001b[37m\u001b[40mpkt/s\u001b[12;13Hbr0: in \u001b[1m 0.001\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m   9\u001b[m\u001b[37m\u001b[40mpkt/s, out \u001b[1m 0.000\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m   1\u001b[m\u001b[37m\u001b[40mpkt/s\u001b[13;14Hlo: in \u001b[1m 0.000\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m   0\u001b[m\u001b[37m\u001b[40mpkt/s, out \u001b[1m 0.000\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m   0\u001b[m\u001b[37m\u001b[40mpkt/s\u001b[14;6Hvirbr1-nic: in \u001b[1m 0.000\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m   0\u001b[m\u001b[37m\u001b[40mpkt/s, out \u001b[1m 0.000\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m   0\u001b[m\u001b[37m\u001b[40mpkt/s\u001b[15;10Henp6s1: in \u001b[1m 0.000\u001b[m\u001b[37m\u001b[40"
+    ],
+    [
+      0.000020,
+      "mMB/s \u001b[1m   5\u001b[m\u001b[37m\u001b[40mpkt/s, out \u001b[1m 0.000\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m   0\u001b[m\u001b[37m\u001b[40mpkt/s\u001b[16;9Henp0s25: in \u001b[1m 0.001\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m   9\u001b[m\u001b[37m\u001b[40mpkt/s, out \u001b[1m 0.000\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m   1\u001b[m\u001b[37m\u001b[40mpkt/s\u001b[17;10Hvirbr1: in \u001b[1m 0.000\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m   0\u001b[m\u001b[37m\u001b[40mpkt/s, out \u001b[1m 0.000\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m   0\u001b[m\u001b[37m\u001b[40mpkt/s\r\u001b[1BDisks \u001b[33m\u001b[40m[ OK ]\u001b[37m\u001b[40m: in \u001b[1m0.000\u001b[m\u001b[37m\u001b[40mMB/s, out \u001b[1m0.003\u001b[m\u001b[37m\u001b[40mMB/s\r\u001b[2B\u001b[30m\u001b[47m\u001b[1m    CTID ST   %VM    %KM        PROC     CPU     SOCK FCNT MLAT IP                                          \r\u001b[1B\u001b[m\u001b[37m\u001b[40m86939ca5 \u001b[1mOK\u001b[m\u001b[37m\u001b[40m 0.5/6.6 0.1/MAX   0/19/MAX 0.00/4.2   0/MAX \u001b[1m   0\u001b[m\u001b[37m\u001b[40m \u001b[1m   0\r\u001b[1B\u001b[m\u001b[37m\u001b[40m07952010 \u001b[1mOK\u001b[m\u001b[37m\u001b[40m 0.5/6.6 0.1/MAX   0/19/MAX 0.01/4.2   0/MAX \u001b[1m   0\u001b[m\u001b[37m\u001b[40m \u001b[1m   0\r\u001b[1B\u001b[m\u001b[37m\u001b[40m8a179a6a \u001b[1mOK\u001b[m\u001b[37m\u001b[40m 0.5/6.6 0.1/MAX   0/19/MAX 0.00/4.2   0/MAX \u001b[1m   0\u001b[m\u001b[37m\u001b[40m \u001b[1m   0\r\u001b[1B\u001b[m\u001b[37m\u001b[40m13fff841 \u001b[1mOK\u001b[m\u001b[37m\u001b[40m 0.5/6.6 0.1/MAX   0/19/MAX 0.00/4.2   0/MAX \u001b[1m   0\u001b[m\u001b[37m\u001b[40m \u001b[1m   0\r\u001b[1B\u001b[m\u001b[37m\u001b[40m1aa16e6e \u001b[1mOK\u001b[m\u001b[37m\u001b[40m 0.5/6.6 0.1/MAX   0/19/MAX 0.00/4.2   0/MAX \u001b[1m   0\u001b[m\u001b[37m\u001b[40m \u001b[1m   0\r\u001b[1B\u001b[m\u001b[37m\u001b[40m9bbea7d3 \u001b[1mOK\u001b[m\u001b[37m\u001b[40m 0.5/6.6 0.1/MAX   0/19/MAX 0.00/4.2   0/MAX \u001b[1m   0\u001b[m\u001b[37m\u001b[40m \u001b[1m   0\r\u001b[1B\u001b[m\u001b[37m\u001b[40m9dd7111d \u001b[1mOK\u001b[m\u001b[37m\u001b[40m 0.5/6.6 0.1/MAX   0/19/MAX 0.00/4.2   0/MAX \u001b[1m   0\u001b[m\u001b[37m\u001b[40m \u001b[1m   0\r\u001b[1B\u001b[m\u001b[37m\u001b[40maa054e26 \u001b[1mOK\u001b[m\u001b[37m\u001b[40m 0.5/6.6 0.1/MAX   0/19/MAX 0.00/4.2   0/MAX \u001b[1m   0\u001b[m\u001b[37m\u001b[40m \u001b["
+    ],
+    [
+      0.000182,
+      "1m   0\r\u001b[1B\u001b[m\u001b[37m\u001b[40maa3a2538 \u001b[1mOK\u001b[m\u001b[37m\u001b[40m 0.5/6.6 0.1/MAX   0/19/MAX 0.00/4.2   0/MAX \u001b[1m   0\u001b[m\u001b[37m\u001b[40m \u001b[1m   0\u001b[29;81H\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      1.024834,
+      "\u001b[2;27H\u001b[37m\u001b[40m\u001b[1m1\t"
+    ],
+    [
+      0.000010,
+      "722\u001b[3;29H1\u001b[3;40H1\u001b[3;50H1\u001b[3;59H 98\u001b[11;34H30\u001b[11;52H1\u001b[11;61H8\u001b[12;34H13\u001b[12;52H1\u001b[12;61H4\u001b[15;26H1\u001b[16;34H13\u001b[16;52H1\u001b[16;61H4\u001b[18;37H0\u001b[22;43H\u001b[m\u001b[37m\u001b[40m0\u001b[29;81H\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      1.023355,
+      "\u001b[3;40H\u001b[37m\u001b[40m\u001b[1m0\u001b[3;61H9\u001b[11;26H1"
+    ],
+    [
+      0.000009,
+      "\t 16\u001b[11;52H0\u001b[11;61H2\u001b[12;26H0\t  4\u001b[12;52H0\u001b[12;61H1\u001b[15;35H8\u001b[16;26H0\t  4\u001b[16;52H0\u001b[16;61H1\u001b[29;81H\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.634289,
+      "\r\u001b[23A\u001b[11M\u001b[23B                                                                                                             \u0008 \u0008\u001b[4h \u001b[4l\r\u001b[A                                                                                                              \u001b[27;1H                                                                                                              \u001b[26;1H                                                                                                              \u001b[25;1H                                                                                                              \u001b[24;1H                                                                                                              \u001b[23;1H                                                                                                              \u001b[22;1H                                                                                                              \u001b[21;1H                                                                                                              \u001b[20;1H                                                                                                              \u001b[19;1H                                                                                                              \u001b[3;40H\u001b[37m\u001b[40m\u001b[1m1\u001b[3;61H8\r\u001b[2B\u001b[m\u001b[37m\u001b[40mSwap \u001b[32m\u001b[40m[ OK ]\u001b[37m\u001b[40m: tot \u001b[1m7935\u001b[m\u001b[37m\u001b[40mMB, free \u001b[1m7935\u001b[m\u001b[37m\u001b[40mMB, in \u001b[1m0.000\u001b[m\u001b[37m\u001b[40mMB/s, out \u001b[1m0.000\u001b[m\u001b[37m\u001b[40mMB/s\r\u001b[1BNet \u001b[32m\u001b[40m[ OK ]\u001b[37m\u001b[40m: tot\u001b[6;26H\u001b[1m2\t"
+    ],
+    [
+      0.000014,
+      " 25\u001b[6;61H3\r\u001b[13B\u001b[m\u001b[37m\u001b[40macdb2937 \u001b[1mOK\u001b[m\u001b[37m\u001b[40m 0.5/6.6 0.1/MAX   0/19/MAX 0.00/4.2   0/MAX \u001b[1m   0\u001b[m\u001b[37m\u001b[40m \u001b[1m   0\r\u001b[1B\u001b[m\u001b[37m\u001b[40mb0be3e72 \u001b[1mOK\u001b[m\u001b[37m\u001b[40m 0.5/6.6 0.1/MAX   0/19/MAX 0.00/4.2   0/MAX \u001b[1m   0\u001b[m\u001b[37m\u001b[40m \u001b[1m   0\r\u001b[1B\u001b[m\u001b[37m\u001b[40m3ea0317e \u001b[1mOK\u001b[m\u001b[37m\u001b[40m 0.5/6.6 0.1/MAX   0/19/MAX 0.00/4.2   0/MAX \u001b[1m   0\u001b[m\u001b[37m\u001b[40m \u001b[1m   0\r\u001b[1B\u001b[m\u001b[37m\u001b[40mc30b17b2 \u001b[1mOK\u001b[m\u001b[37m\u001b[40m 0.5/6.6 0.1/MAX   0/19/MAX 0.00/4.2   0/MAX \u001b[1m   0\u001b[m\u001b[37m\u001b[40m \u001b[1m   0\r\u001b[1B\u001b[m\u001b[37m\u001b[40m4567007b \u001b[1mOK\u001b[m\u001b[37m\u001b[40m 0.5/6.6 0.1/MAX   0/19/MAX 0.00/4.2   0/MAX \u001b[1m   0\u001b[m\u001b[37m\u001b[40m \u001b[1m   0\r\u001b[1B\u001b[m\u001b[37m\u001b[40mc6401941 \u001b[1mOK\u001b[m\u001b[37m\u001b[40m 0.5/6.6 0.1/MAX   0/19/MAX 0.00/4.2   0/MAX \u001b[1m   0\u001b[m\u001b[37m\u001b[40m \u001b[1m   0\r\u001b[1B\u001b[m\u001b[37m\u001b[40m4de12957 \u001b[1mOK\u001b[m\u001b[37m\u001b[40m 0.5/6.6 0.1/MAX   0/19/MAX 0.00/4.2   0/MAX \u001b[1m   0\u001b[m\u001b[37m\u001b[40m \u001b[1m   0\r\u001b[1B\u001b[m\u001b[37m\u001b[40mce74e6c4 \u001b[1mOK\u001b[m\u001b[37m\u001b[40m 0.5/6.6 0.1/MAX   0/19/MAX 0.00/4.2   0/MAX \u001b[1m   0\u001b[m\u001b[37m\u001b[40m \u001b[1m   0\r\u001b[1B\u001b[m\u001b[37m\u001b[40m547d9beb \u001b[1mOK\u001b[m\u001b[37m\u001b[40m 0.5/6.6 0.1/MAX   0/19/MAX 0.00/4.2   0/MAX \u001b[1m   0\u001b[m\u001b[37m\u001b[40m \u001b[1m   0\r\u001b[1B\u001b[m\u001b[37m\u001b[40m59dad401 \u001b[1mOK\u001b[m\u001b[37m\u001b[40m 0.5/6.6 0.1/MAX   0/19/MAX 0.00/4.2   0/MAX \u001b[1m   0\u001b[m\u001b[37m\u001b[40m \u001b[1m   0\r\u001b[1B\u001b[m\u001b[37m\u001b[40mef15d3f8 \u001b[1mOK\u001b[m\u001b[37m\u001b[40m 0.5/6.6 0.1/MAX   0/19/MAX 0.00/4.2   0/MAX \u001b[1m   0\u001b[m\u001b[37m\u001b[40m \u001b[1m   0\u001b[29;81H\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      1.025766,
+      "\u001b[1;62H\u001b[37m\u001b[40m\u001b[1m2\u001b[m\u001b[37m\u001b[40m, \u001b[1m0.97\u001b[2;27H2\t"
+    ],
+    [
+      0.000009,
+      "721\u001b[3;40H0\u001b[3;61H9\u001b[6;34H19\u001b[6;52H1\u001b[6;61H2\u001b[29;81H\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      1.025848,
+      "\u001b[3;29H\u001b[37m\u001b[40m\u001b[1m0\u001b[6;35H6\u001b[6;52H0\u001b[29;81H\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      1.025698,
+      "\u001b[3;29H\u001b[37m\u001b[40m\u001b[1m2\u001b[3;40H1\u001b[3;61H8\u001b[6;34H29\u001b[29;81H\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      1.025592,
+      "\u001b[3;29H\u001b[37m\u001b[40m\u001b[1m0\u001b[3;40H0\u001b[3;50H0\u001b[3;61H9\u001b[6;35H0\u001b[29;81H\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      1.025792,
+      "\u001b[1;56H\u001b[37m\u001b[40m\u001b[1m4\u001b[m\u001b[37m\u001b[40m, \u001b[1m0.81\u001b[3;29H1\u001b[3;50H1\u001b[6;26H1\t"
+    ],
+    [
+      0.000009,
+      " 16\u001b[29;81H\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.058169,
+      "\r\u001b[22A\u001b[11L                                                                                                              \u001b[8;1H                                                                                                              \u001b[9;1H                                                                                                              \u001b[10;1H                                                                                                              \u001b[11;1H                                                                                                              \u001b[12;1H                                                                                                              \u001b[13;1H                                                                                                              \u001b[14;1H                                                                                                              \u001b[15;1H                                                                                                              \u001b[16;1H                                                                                                              \u001b[17;1H                                                                                                              \u001b[5;17r\u001b[5;1H\u001b[5L                                                                                                              \u001b[6;1H                                                                                                              \u001b[7;1H                                                                                                              \u001b[8;1H                                                                                                              \u001b[9;1H                                                                                                              \u001b[1;29r\u001b[2;27H\u001b[37m\u001b[40m\u001b[1m1\t"
+    ],
+    [
+      0.000011,
+      "722\u001b[3;28H25\u001b[3;40H8\u001b[3;49H17\u001b[3;60H75\u001b[5;3H\u001b[m\u001b[37m\u001b[40mZONE0 (DMA): size \u001b[1m15\u001b[m\u001b[37m\u001b[40mMB, act \u001b[1m0\u001b[m\u001b[37m\u001b[40mMB, inact \u001b[1m0\u001b[m\u001b[37m\u001b[40mMB, free \u001b[1m15\u001b[m\u001b[37m\u001b[40mMB (\u001b[1m0/0/0\u001b[m\u001b[37m\u001b[40m)\u001b[6;3HZONE1 (DMA32): size \u001b[1m3300\u001b[m\u001b[37m\u001b[40mMB, act \u001b[1m663\u001b[m\u001b[37m\u001b[40mMB, inact \u001b[1m262\u001b[m\u001b[37m\u001b[40mMB, free \u001b[1m2008\u001b[m\u001b[37m\u001b[40mMB (\u001b[1m25/32/38\u001b[m\u001b[37m\u001b[40m)\u001b[7;3HZONE2 (Normal): size \u001b[1m4800\u001b[m\u001b[37m\u001b[40mMB, act \u001b[1m990\u001b[m\u001b[37m\u001b[40mMB, inact \u001b[1m428\u001b[m\u001b[37m\u001b[40mMB, free \u001b[1m2994\u001b[m\u001b[37m\u001b[40mMB (\u001b[1m39/49/59\u001b[m\u001b[37m\u001b[40m)\u001b[8;3HMem lat (ms): A0 \u001b[1m0\u001b[m\u001b[37m\u001b[40m, K0 \u001b[1m0\u001b[m\u001b[37m\u001b[40m, U0 \u001b[1m0\u001b[m\u001b[37m\u001b[40m, K1 \u001b[1m0\u001b[m\u001b[37m\u001b[40m, U1 \u001b[1m0\u001b[9;3H\u001b[m\u001b[37m\u001b[40mSlab pages: \u001b[1m236\u001b[m\u001b[37m\u001b[40mMB/\u001b[1m236\u001b[m\u001b[37m\u001b[40mMB (ino \u001b[1m73\u001b[m\u001b[37m\u001b[40mMB, de \u001b[1m0\u001b[m\u001b[37m\u001b[40mMB, bh \u001b[1m30\u001b[m\u001b[37m\u001b[40mMB, pb \u001b[1m0\u001b[m\u001b[37m\u001b[40mMB)\u001b[11;26H\u001b[1m3\t 33\u001b[11;52H4\u001b[7C33\u001b[12;13H\u001b[m\u001b[37m\u001b[40mbr0: in \u001b[1m 0.001\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m  17\u001b[m\u001b[37m\u001b[40mpkt/s, out \u001b[1m 0.002\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m  17\u001b[m\u001b[37m\u001b[40mpkt/s\u001b[13;14Hlo: in \u001b[1m 0.000\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m   0\u001b[m\u001b[37m\u001b[40mpkt/s, out \u001b[1m 0.000\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m   0\u001b[m\u001b[37m\u001b[40mpkt/s\u001b[14;6Hvirbr1-nic: in \u001b[1m 0.000\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m   0\u001b[m\u001b[37m\u001b[40mpkt/s, out \u001b[1m 0.000\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m   0\u001b[m\u001b[37m\u001b[40mpkt/s\u001b[15;10Henp6s1: in \u001b[1m 0.000\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m   0\u001b[m\u001b[37m\u001b[40mpkt/s, out \u001b[1m 0.000\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m   0\u001b[m\u001b[37m\u001b[40mpkt/s\u001b[16;9Henp0s25: in \u001b[1m 0.002\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m  17\u001b[m\u001b[37m\u001b[40mpkt/s, out \u001b[1m 0.002\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m  17\u001b[m\u001b[37m\u001b[40mpkt/s\u001b[17;10Hvirbr1: in \u001b[1m 0.000\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m   0\u001b[m\u001b[37m\u001b[40mpkt/s, out \u001b[1m 0.000\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m   0\u001b[m\u001b[37m\u001b[40mpkt/s\u001b[29;81H\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      1.025359,
+      "\u001b[3;28H\u001b[37m\u001b[40m\u001b[1m 0\u001b[3;40H0\u001b[3;49H 0\u001b[3;59H100\u001b[11;26H1\t"
+    ],
+    [
+      0.000009,
+      " 16\u001b[11;52H0\u001b[7C 2\u001b[12;26H0\t  5\u001b[12;52H0\u001b[7C 1\u001b[15;35H6\u001b[16;26H0\t  5\u001b[16;52H0\u001b[7C 1\u001b[29;81H\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      1.025315,
+      "\u001b[3;29H\u001b[37m\u001b[40m\u001b[1m1\u001b[3;50H1\u001b[3;59H 98\u001b[4;48H1\u001b[8;32H1\u001b[15;35H5\u001b[16;26H1\u001b[16;35H6\u001b[28;43H\u001b[m\u001b[37m\u001b[40m5\u001b[29;81H\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      1.025437,
+      "\u001b[2;27H\u001b[37m\u001b[40m\u001b[1m2\t"
+    ],
+    [
+      0.000009,
+      "721\u001b[3;61H9\u001b[11;35H8\u001b[1B\u00087\u001b[3B\u00084\u001b[1B\u00087\u001b[28;43H\u001b[m\u001b[37m\u001b[40m0\u001b[29;81H\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      1.025297,
+      "\u001b[2;27H\u001b[37m\u001b[40m\u001b[1m1\t"
+    ],
+    [
+      0.000009,
+      "722\u001b[11;26H2\t 22\u001b[12;26H1\u001b[3B\u00081\u001b[15;35H9\u001b[29;81H\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.084752,
+      "\u001b[3;28H\u001b[37m\u001b[40m\u001b[1m16\u001b[3;40H6\u001b[3;49H1\u001b[3;60H83\u001b[11;35H3\u001b[11;52H3\u001b[7C23\u001b[12;34H11\u001b[12;52H1\u001b[7C1\u001b[15;26H0\u001b[15;35H0\u001b[1B\u0008\u000811\u001b[16;52H1\u001b[7C1\r\u001b[3B\u001b[30m\u001b[47mTurn id mode on\u001b[29;81H\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      1.024766,
+      "\u001b[1;62H\u001b[37m\u001b[40m\u001b[1m0\u001b[m\u001b[37m\u001b[40m, \u001b[1m0.96\u001b[2;27H2\t"
+    ],
+    [
+      0.000009,
+      "721\u001b[3;28H 0\u001b[3;40H0\u001b[3;49H 0\u001b[3;60H99\u001b[11;35H2\u001b[11;52H0\u001b[7C 2\u001b[12;34H 8\u001b[12;52H0\u001b[7C \u001b[15;35H6\u001b[1B\u0008\u0008 8\u001b[16;52H0\u001b[7C \r\u001b[3B\u001b[m\u001b[m\u001b[37m\u001b[40m               \u001b[23;43H\u001b[37m\u001b[40m5\u001b[29;81H\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      1.025428,
+      "\u001b[3;29H\u001b[37m\u001b[40m\u001b[1m1\u001b[3;50H1\u001b[3;61H8\u001b[11;35H1\u001b[1B\u00087\u001b[15;26H1\u001b[15;35H7\u001b[1B\u00087\u001b[29;81H\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.558516,
+      "\u001b[m\u001b[37m\u001b[40m\u001b[H                                                                                                              \u001b[2;1H                                                                                                              \u001b[3;1H                                                                                                              \u001b[4;1H                                                                                                              \u001b[5;1H                                                                                                              \u001b[6;1H                                                                                                              \u001b[7;1H                                                                                                              \u001b[8;1H                                                                                                              \u001b[9;1H                                                                                                              \u001b[10;1H                                                                                                              \u001b[11;1H                                                                                                              \u001b[12;1H                                                                                                              \u001b[13;1H                                                                                                              \u001b[14;1H                                                                                                              \u001b[15;1H                                                                                                              \u001b[16;1H                                                                                                              \u001b[17;1H                                                                                                              \u001b[18;1H                                                   "
+    ],
+    [
+      0.000024,
+      "                                                           \u001b[19;1H                                                                                                              \u001b[20;1H                                                                                                              \u001b[21;1H                                                                                                              \u001b[22;1H                                                                                                              \u001b[23;1H                                                                                                              \u001b[24;1H                                                                                                              \u001b[25;1H                                                                                                              \u001b[26;1H                                                                                                              \u001b[27;1H                                                                                                              \u001b[28;1H                                                                                                              \u001b[29;1H                                                                                                             \u0008 \u0008\u001b[4h \u001b[4l\u001b[H\u001b[37m\u001b[40mInteractive commands are:\r\u001b[2Bh, ?    Print this help list\r\u001b[1Bspace   Update display\r\u001b[1Bt\tSpecifies the delay between screen updates\r\u001b[1Br\tRedraw full screen from scratch\r\u001b[1B"
+    ],
+    [
+      0.000265,
+      "q, Q    Quit\r\u001b[2Bb\t"
+    ],
+    [
+      0.000013,
+      "'brief', brief output\r\u001b[1Bs\t'standart', standart output\r\u001b[1Bv\t"
+    ],
+    [
+      0.000017,
+      "'verbose', verbose output\r\u001b[2Ba"
+    ],
+    [
+      0.000076,
+      "\tToggles average mode\r\u001b[1Bi"
+    ],
+    [
+      0.000005,
+      "\tToggle display of idle CTs\r\u001b[1Bl"
+    ],
+    [
+      0.000065,
+      "\tToggle display of load average\r\u001b[1Bp\tToggle display of proc info\r\u001b[1Bc\tToggle display of cpu info\r\u001b[1Bm, M    Toggle display of mem info\r\u001b[1Bn, N    Toggle display of net info\r\u001b[1Bw, W    Toggle display of swap info\r\u001b[1Bd, D    Toggle display of disk info\r\u001b[1Be\tToggle display of hostname/ip\r\u001b[1BI\tToggle display of IO accounting\r\u001b[1BA\tToggle display of IO statistics\r\u001b[1BX\tToggle display of network statistics\r\u001b[1B0\tToggle display of CT0 statistics\r\u001b[3BPress any key to continue ...\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      2.089281,
+      "\u001b[m\u001b[37m\u001b[40m\u001b[H                                                                                                              \u001b[2;1H                                                                                                              \u001b[3;1H                                                                                                              \u001b[4;1H                                                                                                              \u001b[5;1H                                                                                                              \u001b[6;1H                                                                                                              \u001b[7;1H                                                                                                              \u001b[8;1H                                                                                                              \u001b[9;1H                                                                                                              \u001b[10;1H                                                                                                              \u001b[11;1H                                                                                                              \u001b[12;1H                                                                                                              \u001b[13;1H                                                                                                              \u001b[14;1H                                                                                                              \u001b[15;1H                                                                                                              \u001b[16;1H                                                                                                              \u001b[17;1H                                                                                                              \u001b[18;1H                                                                                                              \u001b[19;1H                                                                                                              \u001b[20;1H                                                                                                              \u001b[21;1H                                                                                                              \u001b[22;1H                                                                                                              \u001b[23;1H                                                                                                              \u001b[24;1H                                                                                                              \u001b[25;1H                                                                                                              \u001b[26;1H                                                                                                              \u001b[27;1H                                                                                                              \u001b[28;1H                                                                                                              \u001b[29;1H                                                                                                             \u0008 \u0008\u001b[4h \u001b[4l\u001b[H\u001b[37m\u001b[40mo\tSort menu\r\u001b[2BPress any key to return to main window\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.580149,
+      "\u001b[m\u001b[37m\u001b[40m\u001b[H                                                                                                              \u001b[2;1H                                                                                                              \u001b[3;1H                                                                                                              \u001b[4;1H                                                                                                              \u001b[5;1H                                                                                                              \u001b[6;1H                                                                                                              \u001b[7;1H                                                                                                              \u001b[8;1H                                                                                                              \u001b[9;1H                                                                                                              \u001b[10;1H                                                                                                              \u001b[11;1H                                                                                                              \u001b[12;1H                                                                                                              \u001b[13;1H                                                                                                              \u001b[14;1H                                                                                                              \u001b[15;1H                                                                                                              \u001b[16;1H                                                                                                              \u001b[17;1H                                                                                                              \u001b[18;1H                                                   "
+    ],
+    [
+      0.000011,
+      "                                                           \u001b[19;1H                                                                                                              \u001b[20;1H                                                                                                              \u001b[21;1H                                                                                                              \u001b[22;1H                                                                                                              \u001b[23;1H                                                                                                              \u001b[24;1H                                                                                                              \u001b[25;1H                                                                                                              \u001b[26;1H                                                                                                              \u001b[27;1H                                                                                                              \u001b[28;1H                                                                                                              \u001b[29;1H                                                                                                             \u0008 \u0008\u001b[4h \u001b[4l\u001b[H\u001b[C\u001b[37m\u001b[40m10:37pm, up 2 days, 23:27,  2 users, load average: \u001b[1m0.04\u001b[m\u001b[37m\u001b[40m, \u001b[1m0.80\u001b[m\u001b[37m\u001b[40m, \u001b[1m0.96\r\u001b[1B\u001b[m\u001b[37m\u001b[40mCTNum \u001b[1m24\u001b[m\u001b[37m\u001b[40m, procs \u001b[1m 723\u001b[m\u001b[37m\u001b["
+    ],
+    [
+      0.000472,
+      "40m: R \u001b[1m  2\u001b[m\u001b[37m\u001b[40m, S \u001b[1m 721\u001b[m\u001b[37m\u001b[40m, D \u001b[1m  0\u001b[m\u001b[37m\u001b[40m, Z \u001b[1m  0\u001b[m\u001b[37m\u001b[40m, T \u001b[1m  0\u001b[m\u001b[37m\u001b[40m, X \u001b[1m  0\r\u001b[1B\u001b[m\u001b[37m\u001b[40mCPU \u001b[32m\u001b[40m[ OK ]\u001b[37m\u001b[40m: CTs \u001b[1m  0\u001b[m\u001b[37m\u001b[40m%, CT0 \u001b[1m  0\u001b[m\u001b[37m\u001b[40m%, user \u001b[1m  0\u001b[m\u001b[37m\u001b[40m%, sys \u001b[1m  0\u001b[m\u001b[37m\u001b[40m%, idle \u001b[1m 99\u001b[m\u001b[37m\u001b[40m%, lat(ms) \u001b[1m  6\u001b[m\u001b[37m\u001b[40m/\u001b[1m0\r\u001b[1B\u001b[m\u001b[37m\u001b[40mMem \u001b[32m\u001b[40m[ OK ]\u001b[37m\u001b[40m: total \u001b[1m7745\u001b[m\u001b[37m\u001b[40mMB, free \u001b[1m5018\u001b[m\u001b[37m\u001b[40mMB, lat(ms) \u001b[1m1\u001b[m\u001b[37m\u001b[40m/\u001b[1m0\u001b[5;3H\u001b[m\u001b[37m\u001b[40mZONE0 (DMA): size \u001b[1m15\u001b[m\u001b[37m\u001b[40mMB, act \u001b[1m0\u001b[m\u001b[37m\u001b[40mMB, inact \u001b[1m0\u001b[m\u001b[37m\u001b[40mMB, free \u001b[1m15\u001b[m\u001b[37m\u001b[40mMB (\u001b[1m0/0/0\u001b[m\u001b[37m\u001b[40m)\u001b[6;3HZONE1 (DMA32): size \u001b[1m3300\u001b[m\u001b[37m\u001b[40mMB, act \u001b[1m663\u001b[m\u001b[37m\u001b[40mMB, inact \u001b[1m262\u001b[m\u001b[37m\u001b[40mMB, free \u001b[1m2008\u001b[m\u001b[37m\u001b[40mMB (\u001b[1m25/32/38\u001b[m\u001b[37m\u001b[40m)\u001b[7;3HZONE2 (Normal): size \u001b[1m4800\u001b[m\u001b[37m\u001b[40mMB, act \u001b[1m990\u001b[m\u001b[37m\u001b[40mMB, inact \u001b[1m428\u001b[m\u001b[37m\u001b[40mMB, free \u001b[1m2994\u001b[m\u001b[37m\u001b[40mMB (\u001b[1m39/49/59\u001b[m\u001b[37m\u001b[40m)\u001b[8;3HMem lat (ms): A0 \u001b[1m0\u001b[m\u001b[37m\u001b[40m, K0 \u001b[1m0\u001b[m\u001b[37m\u001b[40m, U0 \u001b[1m1\u001b[m\u001b[37m\u001b[40m, K1 \u001b[1m0\u001b[m\u001b[37m\u001b[40m, U1 \u001b[1m0\u001b[9;3H\u001b[m\u001b[37m\u001b[40mSlab pages: \u001b[1m236\u001b[m\u001b[37m\u001b[40mMB/\u001b[1m236\u001b[m\u001b[37m\u001b[40mMB (ino \u001b[1m73\u001b[m\u001b[37m\u001b[40mMB, de \u001b[1m0\u001b[m\u001b[37m\u001b[40mMB, bh \u001b[1m30\u001b[m\u001b[37m\u001b[40mMB, pb \u001b[1m0\u001b[m\u001b[37m\u001b[40mMB)\r\u001b[1BSwap \u001b[32m\u001b[40m[ OK ]\u001b[37m\u001b[40m: tot \u001b[1m7935\u001b[m\u001b[37m\u001b[40mMB, free \u001b[1m7935\u001b[m\u001b[37m\u001b[40mMB, in \u001b[1m0.000\u001b[m\u001b[37m\u001b[40mMB/s, out \u001b[1m0.000\u001b[m\u001b[37m\u001b[40mMB/s\r\u001b[1BNet \u001b[32m\u001b[40m[ OK ]\u001b[37m\u001b[40m: tot: in \u001b[1m 0.002\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m  29\u001b[m\u001b[37m\u001b[40mpkt/s, out \u001b[1m 0.001\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m   5\u001b[m\u001b[37m\u001b[40mpkt/s\u001b[12;13Hbr0: in \u001b[1m 0.001\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m  11\u001b[m\u001b[37m\u001b[40mpkt/s, out \u001b[1m 0.000\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m   2\u001b[m\u001b[37m\u001b[40mpkt/s\u001b[13;14Hlo: in \u001b[1m 0.000\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m   0\u001b[m\u001b[37m\u001b[40mpkt/s, out \u001b[1m 0.000\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m   0\u001b[m\u001b[37m\u001b[40mpkt/s\u001b[14;6Hvirbr1-nic: in \u001b[1m 0.000\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m   0\u001b[m\u001b[37m\u001b[40mpkt/s, out \u001b[1m 0.000\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m   0\u001b[m\u001b[37m\u001b[40mpkt/s\u001b[15;10Henp6s1: in \u001b[1m 0.001\u001b[m\u001b[37m\u001b[40"
+    ],
+    [
+      0.000014,
+      "mMB/s \u001b[1m   8\u001b[m\u001b[37m\u001b[40mpkt/s, out \u001b[1m 0.000\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m   0\u001b[m\u001b[37m\u001b[40mpkt/s\u001b[16;9Henp0s25: in \u001b[1m 0.001\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m  11\u001b[m\u001b[37m\u001b[40mpkt/s, out \u001b[1m 0.000\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m   2\u001b[m\u001b[37m\u001b[40mpkt/s\u001b[17;10Hvirbr1: in \u001b[1m 0.000\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m   0\u001b[m\u001b[37m\u001b[40mpkt/s, out \u001b[1m 0.000\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m   0\u001b[m\u001b[37m\u001b[40mpkt/s\r\u001b[1BDisks \u001b[33m\u001b[40m[ OK ]\u001b[37m\u001b[40m: in \u001b[1m0.000\u001b[m\u001b[37m\u001b[40mMB/s, out \u001b[1m0.000\u001b[m\u001b[37m\u001b[40mMB/s\r\u001b[2B\u001b[30m\u001b[47m\u001b[1m    CTID ST   %VM    %KM        PROC     CPU     SOCK FCNT MLAT IP                                          \r\u001b[1B\u001b[m\u001b[37m\u001b[40m86939ca5 \u001b[1mOK\u001b[m\u001b[37m\u001b[40m 0.5/6.6 0.1/MAX   0/19/MAX 0.00/4.2   0/MAX \u001b[1m   0\u001b[m\u001b[37m\u001b[40m \u001b[1m   0\r\u001b[1B\u001b[m\u001b[37m\u001b[40m07952010 \u001b[1mOK\u001b[m\u001b[37m\u001b[40m 0.5/6.6 0.1/MAX   0/19/MAX 0.00/4.2   0/MAX \u001b[1m   0\u001b[m\u001b[37m\u001b[40m \u001b[1m   0\r\u001b[1B\u001b[m\u001b[37m\u001b[40m8a179a6a \u001b[1mOK\u001b[m\u001b[37m\u001b[40m 0.5/6.6 0.1/MAX   0/19/MAX 0.02/4.2   0/MAX \u001b[1m   0\u001b[m\u001b[37m\u001b[40m \u001b[1m   0\r\u001b[1B\u001b[m\u001b[37m\u001b[40m13fff841 \u001b[1mOK\u001b[m\u001b[37m\u001b[40m 0.5/6.6 0.1/MAX   0/19/MAX 0.02/4.2   0/MAX \u001b[1m   0\u001b[m\u001b[37m\u001b[40m \u001b[1m   0\r\u001b[1B\u001b[m\u001b[37m\u001b[40m1aa16e6e \u001b[1mOK\u001b[m\u001b[37m\u001b[40m 0.5/6.6 0.1/MAX   0/19/MAX 0.00/4.2   0/MAX \u001b[1m   0\u001b[m\u001b[37m\u001b[40m \u001b[1m   0\r\u001b[1B\u001b[m\u001b[37m\u001b[40m9bbea7d3 \u001b[1mOK\u001b[m\u001b[37m\u001b[40m 0.5/6.6 0.1/MAX   0/19/MAX 0.00/4.2   0/MAX \u001b[1m   0\u001b[m\u001b[37m\u001b[40m \u001b[1m   0\r\u001b[1B\u001b[m\u001b[37m\u001b[40m9dd7111d \u001b[1mOK\u001b[m\u001b[37m\u001b[40m 0.5/6.6 0.1/MAX   0/19/MAX 0.00/4.2   0/MAX \u001b[1m   0\u001b[m\u001b[37m\u001b[40m \u001b[1m   0\r\u001b[1B\u001b[m\u001b[37m\u001b[40maa054e26 \u001b[1mOK\u001b[m\u001b[37m\u001b[40m 0.5/6.6 0.1/MAX   0/19/MAX 0.00/4.2   0/MAX \u001b[1m   0\u001b[m\u001b[37m\u001b[40m \u001b["
+    ],
+    [
+      0.000157,
+      "1m   0\r\u001b[1B\u001b[m\u001b[37m\u001b[40maa3a2538 \u001b[1mOK\u001b[m\u001b[37m\u001b[40m 0.5/6.6 0.1/MAX   0/19/MAX 0.02/4.2   0/MAX \u001b[1m   0\u001b[m\u001b[37m\u001b[40m \u001b[1m   0\u001b[29;81H\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.725668,
+      "\u001b[13;24r\u001b[13;1H\u001b[5L                                                                                                              \u001b[14;1H                                                                                                              \u001b[15;1H                                                                                                              \u001b[16;1H                                                                                                              \u001b[17;1H                                                                                                              \u001b[1;29r\u001b[8;13r\u001b[8;1H\u001b[3L                                                                                                              \u001b[9;1H                                                                                                              \u001b[10;1H                                                                                                              \u001b[1;29r\u001b[1;61H\u001b[37m\u001b[40m\u001b[1m78\u001b[3;29H1\u001b[3;40H1\u001b[3;50H1\u001b[3;61H8\r\u001b[3B    fragm 0*1 1*2 1*4 0*8 2*16 1*32 1*64 0*128 1*256 1*512 3*1024 \u001b[m\u001b[m\u001b[37m\u001b[40m          \u001b[7;7H\u001b[37m\u001b[40m1 (DMA32): size \u001b[1m3300\u001b[m\u001b[37m\u001b[40mMB, act \u001b[1m663\u001b[m\u001b[37m\u001b[40mMB, inact \u001b[1m262\u001b[m\u001b[37m\u001b[40mMB, free \u001b[1m2008\u001b[m\u001b[37m\u001b[40mMB (\u001b[1m25/32/38\u001b[m\u001b[37m\u001b[40m)\u001b[m\u001b[m\u001b[37m\u001b[40m \r\u001b[1B\u001b[37m\u001b[40m\u001b[1m    fragm 935*1 1170*2 728*4 1937*8 1143*16 421*32 278*64 54*128 47*256 4*512 412*1024 \u001b[9;3H\u001b[m\u001b[37m\u001b[40mZONE2 (Normal): size \u001b[1m4800\u001b[m\u001b[37m\u001b[40mMB, act \u001b[1m990\u001b[m\u001b[37m\u001b[40mMB, inact \u001b[1m428\u001b[m\u001b[37m\u001b[40mMB, free \u001b[1m2994\u001b[m\u001b[37m\u001b[40mMB (\u001b[1m39/49/59\u001b[m\u001b[37m\u001b[40m)\r\u001b[1B\u001b[1m    fragm 1655*1 1156*2 622*4 2471*8 1954*16 723*32 380*64 116*128 27*256 26*512 612*1024 \u001b[14;3H\u001b[m\u001b[37m\u001b[40mSwap lat: si \u001b[1m0\u001b[m\u001b[37m\u001b[40m, \u001b[1m0\u001b[m\u001b[37m\u001b[40m/\u001b[1m0\u001b[m\u001b[37m\u001b[40m ms, so \u001b[1m0\u001b[m\u001b[37m\u001b[40m, \u001b[1m0\u001b[m\u001b[37m\u001b[40m/\u001b[1m0\u001b[m\u001b[37m\u001b[40m ms, \u001b[1m0\u001b[m\u001b[37m\u001b[40m/\u001b[1m0\u001b[m\u001b[37m\u001b[40m cpu ms\u001b[15;3HSwap cache: add \u001b[1m0\u001b[m\u001b[37m\u001b[40m, del \u001b[1m0\u001b[m\u001b[37m\u001b[40m, find \u001b[1m0\u001b[m\u001b[37m\u001b[40m/\u001b[1m0\r\u001b[1B\u001b[m\u001b[37m\u001b[40mNet \u001b[32m\u001b[40m[ OK ]\u001b[37m\u001b[40m: tot"
+    ],
+    [
+      0.000012,
+      ": in \u001b[1m 0.003\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m  40\u001b[m\u001b[37m\u001b[40mpkt/s, out \u001b[1m 0.002\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m  14\u001b[m\u001b[37m\u001b[40mpkt/s\u001b[17;13Hbr0: in \u001b[1m 0.001\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m  14\u001b[m\u001b[37m\u001b[40mpkt/s, out \u001b[1m 0.001\u001b[m\u001b[37m\u001b[40mMB/s \u001b[1m   7\u001b[m\u001b[37m\u001b[40mpkt/s\u001b[20;34H\u001b[1m12\u001b[1B\u00084\u001b[21;52H1\u001b[21;61H7\u001b[24;3H\u001b[m\u001b[37m\u001b[40msda2(/) free: \u001b[1m27441\u001b[m\u001b[37m\u001b[40mMB\u001b[1m(93%)\u001b[m\u001b[37m\u001b[40m, \u001b[1m1839236\u001b[m\u001b[37m\u001b[40mino\u001b[1m(95%)\r\u001b[1B\u001b[m\u001b[37m\u001b[40m  vzvg-tests(/tests) free: \u001b[1m29343\u001b[m\u001b[37m\u001b[40mMB\u001b[1m(99%)\u001b[m\u001b[37m\u001b[40m, \u001b[1m1921010\u001b[m\u001b[37m\u001b[40mino\u001b[1m(99%)\u001b[m\u001b[m\u001b[37m\u001b[40m         \r\u001b[1B\u001b[37m\u001b[40m  sda1(/boot) free: \u001b[1m381\u001b[m\u001b[37m\u001b[40mMB\u001b[1m(80%)\u001b[m\u001b[37m\u001b[40m, \u001b[1m127636\u001b[m\u001b[37m\u001b[40mino\u001b[1m(99%)\u001b[m\u001b[m\u001b[37m\u001b[40m                   \r\u001b[1B\u001b[37m\u001b[40m  vzvg-vz(/vz) free: \u001b[1m3597\u001b[m\u001b[37m\u001b[40mMB\u001b[33m\u001b[40m\u001b[1m(12%)\u001b[m\u001b[37m\u001b[40m, \u001b[1m1915722\u001b[m\u001b[37m\u001b[40mino\u001b[1m(99%)\u001b[m\u001b[m\u001b[37m\u001b[40m                \r\u001b[1B\u001b[37m\u001b[40m  vzvg-vzt(/vzt) free: \u001b[1m841737\u001b[m\u001b[37m\u001b[40mMB\u001b[1m(99%)\u001b[m\u001b[37m\u001b[40m, \u001b[1m54747125\u001b[m\u001b[37m\u001b[40mino\u001b[1m(99%)\u001b[m\u001b[m\u001b[37m\u001b[40m           \r\u001b[1B\u001b[37m\u001b[40m  ploop30135p1(/vz/root/b0be3e72-f745-4ec5-bf06-1f7b6a6746bb) free: \u001b[1m9275\u001b[m\u001b[37m\u001b[40mMB\u001b[1m(93%)\u001b[m\u001b[37m\u001b[40m, \u001b[1m632273\u001b[m\u001b[37m\u001b[40mino\u001b[1m(96%)\u001b[m\u001b[37m\u001b[40m  ploop49254p1\u0008\u001b[30m\u001b[47m\u001b[1m \u0008\u001b[4h\u001b[m\u001b[37m\u001b[40m1\u001b[4l\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      1.025082,
+      "\u001b[2;27H\u001b[37m\u001b[40m\u001b[1m1\t"
+    ],
+    [
+      0.000009,
+      "722\u001b[3;40H0\u001b[3;61H9\u001b[16;26H2\t 24\u001b[16;52H3\u001b[7C \u001b[17;34H 8\u001b[17;61H2\u001b[20;34H 9\u001b[1B\u0008\u0008 8\u001b[21;61H2\u001b[29;110H\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      1.023144,
+      "\u001b[1;6H\u001b[37m\u001b[40m8\u001b[3;29H\u001b[1m0\u001b[3;50H0\u001b[4;48H0\u001b[11;32H0\u001b[16;26H1\t"
+    ],
+    [
+      0.000009,
+      " 18\u001b[16;52H0\u001b[16;61H2\u001b[17;26H0\u001b[17;35H5\u001b[17;52H0\u001b[17;61H1\u001b[20;35H7\u001b[21;26H0\u001b[21;35H6\u001b[21;52H0\u001b[21;61H1\u001b[29;110H\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      1.024975,
+      "\u001b[3;29H\u001b[37m\u001b[40m\u001b[1m1\u001b[3;50H1\u001b[16;35H4\u001b[20;26H0\u001b[20;35H4\u001b[1B\u00085\u001b[29;110H\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.898180,
+      "\u001b[m\r\u001b[K\u001b[29;1H\u001b[2J\u001b[?47l\u001b8\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000056,
+      "\u001b[40m\u001b[40m\u001b[40m\u001b[40m\u001b[40m\u001b[40m\u001b[40m\u001b[40m\u001b[40m\u001b[40m\u001b[40m\u001b[40m\u001b[40m\u001b[40m\u001b[40m\u001b[40m\u001b[40m\u001b[40m\u001b[40m\u001b[40m\u001b[40m\u001b[40m\u001b[40m\u001b[40m\u001b[40m\u001b[40m\u001b[40m\u001b[40m\u001b[40m\u001b[40m\u001b[40m\u001b[40m\u001b[40m\u001b[40m\u001b[40m\u001b[40m\u001b[40m"
+    ],
+    [
+      0.000111,
+      "\r\n"
+    ],
+    [
+      0.001038,
+      "\u001b]0;root@vz:~\u0007[root@vz ~]# "
+    ],
+    [
+      1.559856,
+      "\r\n"
+    ],
+    [
+      0.001616,
+      "\u001b]0;root@vz:~\u0007[root@vz ~]# "
+    ],
+    [
+      0.509695,
+      "exit\r\n"
+    ]
+  ]
+}
