@@ -1,0 +1,1194 @@
+{
+  "version": 1,
+  "width": 181,
+  "height": 42,
+  "duration": 52.034036,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.216524,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                    \r \r"
+    ],
+    [
+      0.000083,
+      "\u001b]2;baku@Baku-MacBook: ~\u0007"
+    ],
+    [
+      0.000030,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.014323,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36m~ \u001b[01;34m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000009,
+      "\u001b[K"
+    ],
+    [
+      0.000122,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.704642,
+      "p"
+    ],
+    [
+      0.087347,
+      "\u0008pw"
+    ],
+    [
+      0.127716,
+      "d"
+    ],
+    [
+      0.168031,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000075,
+      "\r\r\n"
+    ],
+    [
+      0.001023,
+      "\u001b]2;pwd\u0007\u001b]1;pwd\u0007"
+    ],
+    [
+      0.000007,
+      "/Users/baku\r\n"
+    ],
+    [
+      0.000033,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                    \r \r"
+    ],
+    [
+      0.000083,
+      "\u001b]2;baku@Baku-MacBook: ~\u0007"
+    ],
+    [
+      0.000014,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.015322,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36m~ \u001b[01;34m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000012,
+      "\u001b[K"
+    ],
+    [
+      0.000088,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.479683,
+      "j"
+    ],
+    [
+      0.232074,
+      "\u0008j "
+    ],
+    [
+      0.184003,
+      "s"
+    ],
+    [
+      0.159584,
+      "y"
+    ],
+    [
+      0.208790,
+      "m"
+    ],
+    [
+      0.135316,
+      "f"
+    ],
+    [
+      0.055872,
+      "o"
+    ],
+    [
+      0.136067,
+      "n"
+    ],
+    [
+      0.168267,
+      "y"
+    ],
+    [
+      1.271781,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000041,
+      "\r\r\n"
+    ],
+    [
+      0.000781,
+      "\u001b]2;j symfony\u0007\u001b]1;j\u0007"
+    ],
+    [
+      0.088429,
+      "\u001b[31m/Users/baku/Documents/Github/symfony\u001b[0m\r\n"
+    ],
+    [
+      0.002370,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                    \r \r\u001b]2;baku@Baku-MacBook: ~/Documents/Github/symfony\u0007\u001b]1;..ithub/symfony\u0007"
+    ],
+    [
+      0.176361,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36msymfony \u001b[01;34mgit:(\u001b[31m2.7\u001b[34m)\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000014,
+      "\u001b[K"
+    ],
+    [
+      0.000061,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.460416,
+      "p"
+    ],
+    [
+      0.135573,
+      "\u0008pw"
+    ],
+    [
+      0.128053,
+      "d"
+    ],
+    [
+      0.153943,
+      "\u001b[?1l\u001b\u003e\r\r\n"
+    ],
+    [
+      0.000823,
+      "\u001b]2;pwd\u0007\u001b]1;pwd\u0007"
+    ],
+    [
+      0.000007,
+      "/Users/baku/Documents/Github/symfony\r\n"
+    ],
+    [
+      0.000034,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                    \r \r"
+    ],
+    [
+      0.000093,
+      "\u001b]2;baku@Baku-MacBook: ~/Documents/Github/symfony\u0007"
+    ],
+    [
+      0.000027,
+      "\u001b]1;..ithub/symfony\u0007"
+    ],
+    [
+      0.059336,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36msymfony \u001b[01;34mgit:(\u001b[31m2.7\u001b[34m)\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000008,
+      "\u001b[K"
+    ],
+    [
+      0.000064,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.721981,
+      "\u001b[H\u001b[2J\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36msymfony \u001b[01;34mgit:(\u001b[31m2.7\u001b[34m)\u001b[00m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      2.220031,
+      "g"
+    ],
+    [
+      0.179816,
+      "\u0008gb"
+    ],
+    [
+      0.136059,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000041,
+      "\r\r\n"
+    ],
+    [
+      0.001850,
+      "\u001b]2;git branch\u0007"
+    ],
+    [
+      0.000008,
+      "\u001b]1;gb\u0007"
+    ],
+    [
+      0.007345,
+      "  2.6\u001b[m\r\n* \u001b[32m2.7\u001b[m\r\n"
+    ],
+    [
+      0.000008,
+      "  2.8\u001b[m\r\n  master\u001b[m\r\n"
+    ],
+    [
+      0.000406,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                    \r \r"
+    ],
+    [
+      0.000069,
+      "\u001b]2;baku@Baku-MacBook: ~/Documents/Github/symfony\u0007"
+    ],
+    [
+      0.000016,
+      "\u001b]1;..ithub/symfony\u0007"
+    ],
+    [
+      0.062354,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36msymfony \u001b[01;34mgit:(\u001b[31m2.7\u001b[34m)\u001b[00m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000040,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.936401,
+      "g"
+    ],
+    [
+      0.367342,
+      "\u0008gc"
+    ],
+    [
+      0.160027,
+      "m"
+    ],
+    [
+      1.400002,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000036,
+      "\r\r\n"
+    ],
+    [
+      0.000782,
+      "\u001b]2;git checkout master\u0007\u001b]1;gcm\u0007"
+    ],
+    [
+      0.478885,
+      "Switched to branch 'master'\r\n"
+    ],
+    [
+      0.001465,
+      "Your branch is up-to-date with 'origin/master'.\r\n"
+    ],
+    [
+      0.001937,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                    \r \r"
+    ],
+    [
+      0.000078,
+      "\u001b]2;baku@Baku-MacBook: ~/Documents/Github/symfony\u0007"
+    ],
+    [
+      0.000058,
+      "\u001b]1;..ithub/symfony\u0007"
+    ],
+    [
+      0.093048,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36msymfony \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m)\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000007,
+      "\u001b[K"
+    ],
+    [
+      0.000038,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.880359,
+      "t"
+    ],
+    [
+      0.063484,
+      "\u0008to"
+    ],
+    [
+      0.176463,
+      "u"
+    ],
+    [
+      0.103838,
+      "c"
+    ],
+    [
+      0.096162,
+      "h"
+    ],
+    [
+      0.111458,
+      " "
+    ],
+    [
+      0.144265,
+      "t"
+    ],
+    [
+      0.199728,
+      "e"
+    ],
+    [
+      0.120183,
+      "s"
+    ],
+    [
+      0.143987,
+      "t"
+    ],
+    [
+      1.247845,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000034,
+      "\r\r\n"
+    ],
+    [
+      0.000747,
+      "\u001b]2;touch test\u0007\u001b]1;touch\u0007"
+    ],
+    [
+      0.004703,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                    \r \r"
+    ],
+    [
+      0.000078,
+      "\u001b]2;baku@Baku-MacBook: ~/Documents/Github/symfony\u0007"
+    ],
+    [
+      0.000053,
+      "\u001b]1;..ithub/symfony\u0007"
+    ],
+    [
+      0.092697,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36msymfony \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000034,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.598032,
+      "g"
+    ],
+    [
+      0.159773,
+      "\u0008gs"
+    ],
+    [
+      0.160110,
+      "t"
+    ],
+    [
+      0.399887,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000006,
+      "\r\r\n"
+    ],
+    [
+      0.000699,
+      "\u001b]2;git status\u0007\u001b]1;gst\u0007"
+    ],
+    [
+      0.041537,
+      "On branch master\r\n"
+    ],
+    [
+      0.000165,
+      "Your branch is up-to-date with 'origin/master'.\r\nUntracked files:\r\n"
+    ],
+    [
+      0.000007,
+      "  (use \"git add \u003cfile\u003e...\" to include in what will be committed)\r\n\r\n"
+    ],
+    [
+      0.000011,
+      "\t\u001b[31mtest\u001b[m\r\n\r\n"
+    ],
+    [
+      0.000004,
+      "nothing added to commit but untracked files present (use \"git add\" to track)\r\n"
+    ],
+    [
+      0.000907,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                    \r \r"
+    ],
+    [
+      0.000109,
+      "\u001b]2;baku@Baku-MacBook: ~/Documents/Github/symfony\u0007"
+    ],
+    [
+      0.000029,
+      "\u001b]1;..ithub/symfony\u0007"
+    ],
+    [
+      0.072860,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36msymfony \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000008,
+      "\u001b[K"
+    ],
+    [
+      0.000069,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.468041,
+      "g"
+    ],
+    [
+      0.143825,
+      "\u0008ga"
+    ],
+    [
+      0.191694,
+      "a"
+    ],
+    [
+      1.392148,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000034,
+      "\r\r\n"
+    ],
+    [
+      0.000710,
+      "\u001b]2;git add --all\u0007\u001b]1;gaa\u0007"
+    ],
+    [
+      0.070003,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                    \r \r"
+    ],
+    [
+      0.000113,
+      "\u001b]2;baku@Baku-MacBook: ~/Documents/Github/symfony\u0007"
+    ],
+    [
+      0.000005,
+      "\u001b]1;..ithub/symfony\u0007"
+    ],
+    [
+      0.114668,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36msymfony \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000008,
+      "\u001b[K"
+    ],
+    [
+      0.000088,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.262849,
+      "g"
+    ],
+    [
+      0.143633,
+      "\u0008gs"
+    ],
+    [
+      0.139902,
+      "t"
+    ],
+    [
+      0.475927,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000040,
+      "\r\r\n"
+    ],
+    [
+      0.000788,
+      "\u001b]2;git status\u0007\u001b]1;gst\u0007"
+    ],
+    [
+      0.050635,
+      "On branch master\r\n"
+    ],
+    [
+      0.000185,
+      "Your branch is up-to-date with 'origin/master'.\r\n"
+    ],
+    [
+      0.000021,
+      "Changes to be committed:\r\n"
+    ],
+    [
+      0.000005,
+      "  (use \"git reset HEAD \u003cfile\u003e...\" to unstage)\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000069,
+      "\t\u001b[32mnew file:   test\u001b[m\r\n"
+    ],
+    [
+      0.000037,
+      "\r\n"
+    ],
+    [
+      0.000640,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                    \r \r"
+    ],
+    [
+      0.000086,
+      "\u001b]2;baku@Baku-MacBook: ~/Documents/Github/symfony\u0007"
+    ],
+    [
+      0.000028,
+      "\u001b]1;..ithub/symfony\u0007"
+    ],
+    [
+      0.060838,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36msymfony \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000010,
+      "\u001b[K"
+    ],
+    [
+      0.000113,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.639276,
+      "g"
+    ],
+    [
+      0.447442,
+      "\u0008gc"
+    ],
+    [
+      0.151997,
+      "m"
+    ],
+    [
+      0.080343,
+      "s"
+    ],
+    [
+      0.220146,
+      "g\u001b[1m \u001b[0m"
+    ],
+    [
+      0.868139,
+      "\u0008\u001b[0m \""
+    ],
+    [
+      0.951749,
+      "A"
+    ],
+    [
+      0.215667,
+      "d"
+    ],
+    [
+      0.160058,
+      "d"
+    ],
+    [
+      0.543805,
+      " "
+    ],
+    [
+      0.176304,
+      "t"
+    ],
+    [
+      0.168116,
+      "e"
+    ],
+    [
+      0.120011,
+      "s"
+    ],
+    [
+      0.143761,
+      "t"
+    ],
+    [
+      0.527952,
+      " "
+    ],
+    [
+      0.200082,
+      "f"
+    ],
+    [
+      0.160048,
+      "i"
+    ],
+    [
+      0.191908,
+      "l"
+    ],
+    [
+      0.103972,
+      "e"
+    ],
+    [
+      0.416092,
+      "\""
+    ],
+    [
+      1.945825,
+      "\u001b[?1l\u001b\u003e\r\r\n"
+    ],
+    [
+      0.001532,
+      "\u001b]2;git commit -m \"Add test file\"\u0007"
+    ],
+    [
+      0.000008,
+      "\u001b]1;gcmsg\u0007"
+    ],
+    [
+      0.044535,
+      "[master 0d49503] Add test file\r\n"
+    ],
+    [
+      0.002054,
+      " 1 file changed, 0 insertions(+), 0 deletions(-)\r\n"
+    ],
+    [
+      0.000013,
+      " create mode 100644 test\r\n"
+    ],
+    [
+      0.002645,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                    \r \r"
+    ],
+    [
+      0.000247,
+      "\u001b]2;baku@Baku-MacBook: ~/Documents/Github/symfony\u0007"
+    ],
+    [
+      0.000075,
+      "\u001b]1;..ithub/symfony\u0007"
+    ],
+    [
+      0.076961,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36msymfony \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m)\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000008,
+      "\u001b[K"
+    ],
+    [
+      0.000102,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.782700,
+      "g"
+    ],
+    [
+      0.135318,
+      "\u0008gs"
+    ],
+    [
+      0.128008,
+      "t"
+    ],
+    [
+      0.136283,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000039,
+      "\r\r\n"
+    ],
+    [
+      0.001620,
+      "\u001b]2;git status\u0007\u001b]1;gst\u0007"
+    ],
+    [
+      0.038419,
+      "On branch master\r\n"
+    ],
+    [
+      0.002978,
+      "Your branch is ahead of 'origin/master' by 1 commit.\r\n  (use \"git push\" to publish your local commits)\r\nnothing to commit, working directory clean\r\n"
+    ],
+    [
+      0.000767,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                    \r \r"
+    ],
+    [
+      0.000091,
+      "\u001b]2;baku@Baku-MacBook: ~/Documents/Github/symfony\u0007"
+    ],
+    [
+      0.000052,
+      "\u001b]1;..ithub/symfony\u0007"
+    ],
+    [
+      0.060122,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36msymfony \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m)\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000008,
+      "\u001b[K"
+    ],
+    [
+      0.000137,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.279759,
+      "\u001b[H\u001b[2J\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36msymfony \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m)\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000007,
+      "\u001b[K"
+    ],
+    [
+      0.871837,
+      "c"
+    ],
+    [
+      0.128311,
+      "\u0008cd"
+    ],
+    [
+      0.143881,
+      " "
+    ],
+    [
+      0.175037,
+      "src\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.398490,
+      "\u0008\u001b[0m/Symfony\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.496540,
+      "\u0007\u0008\u001b[0m/"
+    ],
+    [
+      0.000041,
+      "\r\r\n"
+    ],
+    [
+      0.000102,
+      "\u001b[J\u001b[1;31mBridge\u001b[0m/     \u001b[J\u001b[1;31mBundle\u001b[0m/     \u001b[J\u001b[1;31mComponent\u001b[0m/\u001b[J\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[24C"
+    ],
+    [
+      0.000010,
+      "cd src/Symfony/\u001b[K"
+    ],
+    [
+      0.559131,
+      "Bridge\u001b[1m/\u001b[0m\r\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[J\u001b[7mBridge/   \u001b[0m  \u001b[J\u001b[1;31mBundle\u001b[0m/     \u001b[J\u001b[1;31mComponent\u001b[0m/\u001b[J\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[24C"
+    ],
+    [
+      0.000015,
+      "cd src/Symfony/Bridge\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.146437,
+      "\r\r\n"
+    ],
+    [
+      0.000041,
+      "\u001b[7mBridge/   \u001b[0m  \r\u001b[7mBridge/   \u001b[0m  \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[24C"
+    ],
+    [
+      0.000007,
+      "cd src/Symfony/Bridge\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.000095,
+      "\u0008\u0008\u0008\u0008\u0008\u0008undl\u001b[2C"
+    ],
+    [
+      0.000005,
+      "\r\r\n"
+    ],
+    [
+      0.000031,
+      "\u001b[12C\u001b[7mBundle/   \u001b[0m  \r\u001b[1;31mBridge\u001b[0m/     \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[24C"
+    ],
+    [
+      0.000012,
+      "cd src/Symfony/Bundle\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.352164,
+      "\r\r\n\u001b[J\u001b[A\u001b[46C"
+    ],
+    [
+      0.285011,
+      "\u0007\u0008\u001b[0m/"
+    ],
+    [
+      0.000007,
+      "\r\r\n\u001b[J"
+    ],
+    [
+      0.000041,
+      "\u001b[J\u001b[1;31mDebugBundle\u001b[0m/        \u001b[J\u001b[1;31mFrameworkBundle\u001b[0m/    \u001b[J\u001b[1;31mSecurityBundle\u001b[0m/     \u001b[J\u001b[1;31mTwigBundle\u001b[0m/         \u001b[J\u001b[1;31mWebProfilerBundle\u001b[0m/\u001b[J\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[24C"
+    ],
+    [
+      0.000005,
+      "cd src/Symfony/Bundle/\u001b[K"
+    ],
+    [
+      0.159835,
+      "DebugBundle\u001b[1m/\u001b[0m\r\r\n"
+    ],
+    [
+      0.000025,
+      "\u001b[J\u001b[7mDebugBundle/      \u001b[0m  \u001b[J\u001b[1;31mFrameworkBundle\u001b[0m/    \u001b[J\u001b[1;31mSecurityBundle\u001b[0m/     \u001b[J\u001b[1;31mTwigBundle\u001b[0m/         \u001b[J\u001b[1;31mWebProfilerBundle\u001b[0m/\u001b[J\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[24C"
+    ],
+    [
+      0.000009,
+      "cd src/Symfony/Bundle/DebugBundle\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.379915,
+      "\r\r\n"
+    ],
+    [
+      0.000085,
+      "\u001b[7mDebugBundle/      \u001b[0m  \r\u001b[7mDebugBundle/      \u001b[0m  \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[24C"
+    ],
+    [
+      0.000011,
+      "cd src/Symfony/Bundle/DebugBundle\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.000049,
+      "\u001b[12DFrameworkBu\u001b[0mndle\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\r\r\n"
+    ],
+    [
+      0.000043,
+      "\u001b[20C\u001b[7mFrameworkBundle/  \u001b[0m  \r\u001b[1;31mDebugBundle\u001b[0m/        \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[24C"
+    ],
+    [
+      0.000005,
+      "cd src/Symfony/Bundle/FrameworkBundle\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.134876,
+      "\u001b[16DSecurityBundle\u001b[1m/\u001b[0m\u001b[0m \u0008"
+    ],
+    [
+      0.000010,
+      "\r\r\n"
+    ],
+    [
+      0.000039,
+      "\u001b[40C\u001b[7mSecurityBundle/   \u001b[0m  \r\u001b[20C\u001b[1;31mFrameworkBundle\u001b[0m/    \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[24C"
+    ],
+    [
+      0.000011,
+      "cd src/Symfony/Bundle/SecurityBundle\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.343934,
+      "\r\r\n\u001b[J\u001b[A\u001b[61C"
+    ],
+    [
+      0.468319,
+      "\u0007"
+    ],
+    [
+      0.000007,
+      "\u0008\u001b[0m/\r\r\n\u001b[J"
+    ],
+    [
+      0.000093,
+      "\u001b[1;31mCommand\u001b[0m/              \u001b[1;31mDependencyInjection\u001b[0m/  \u001b[1;31mResources\u001b[0m/            \u001b[1;31mTemplating\u001b[0m/           \u001b[1;31mTwig\u001b[0m/                                                                             \r\n\u001b[J\u001b[1;31mDataCollector\u001b[0m/        \u001b[J\u001b[1;31mEventListener\u001b[0m/        \u001b[J\u001b[1;31mSecurity\u001b[0m/             \u001b[J\u001b[1;31mTests\u001b[0m/                \u001b[J                                                                                \u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[24C"
+    ],
+    [
+      0.000016,
+      "cd src/Symfony/Bundle/SecurityBundle/\u001b[K"
+    ],
+    [
+      0.498300,
+      "Command\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.000021,
+      "\r\r\n"
+    ],
+    [
+      0.000125,
+      "\u001b[7mCommand/            \u001b[0m  \u001b[1;31mDependencyInjection\u001b[0m/  \u001b[1;31mResources\u001b[0m/            \u001b[1;31mTemplating\u001b[0m/           \u001b[1;31mTwig\u001b[0m/                                                                             \u001b[K\r\n\u001b[J\u001b[1;31mDataCollector\u001b[0m/        \u001b[J\u001b[1;31mEventListener\u001b[0m/        \u001b[J\u001b[1;31mSecurity\u001b[0m/             \u001b[J\u001b[1;31mTests\u001b[0m/                \u001b[J                                                                                \u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[24C"
+    ],
+    [
+      0.000016,
+      "cd src/Symfony/Bundle/SecurityBundle/Command\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.224960,
+      "\r\r\n"
+    ],
+    [
+      0.000050,
+      "\u001b[7mCommand/            \u001b[0m  \r\u001b[7mCommand/            \u001b[0m  \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[24C"
+    ],
+    [
+      0.000020,
+      "cd src/Symfony/Bundle/SecurityBundle/Command\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.000085,
+      "\u001b[8DDataCol\u001b[0mlector\u001b[1m/\u001b[0m\r\r\n"
+    ],
+    [
+      0.000082,
+      "\u001b[1;31mCommand\u001b[0m/              \r\u001b[1B\u001b[7mDataCollector/      \u001b[0m  \r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[24C"
+    ],
+    [
+      0.000006,
+      "cd src/Symfony/Bundle/SecurityBundle/DataCollector\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.231694,
+      "\u001b[13DependencyInj\u001b[0mection\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\r\n"
+    ],
+    [
+      0.000024,
+      "\u001b[22C\u001b[7mDependencyInjection/\u001b[0m  \r\u001b[1B\u001b[1;31mDataCollector\u001b[0m/        \r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[24C"
+    ],
+    [
+      0.000009,
+      "cd src/Symfony/Bundle/SecurityBundle/DependencyInjection\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.408098,
+      "\u001b[20DEventListener\u001b[1m/\u001b[0m     \u001b[0m \u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000008,
+      "\r\r\n"
+    ],
+    [
+      0.000076,
+      "\u001b[22C\u001b[1;31mDependencyInjection\u001b[0m/  \r\u001b[1B\u001b[22C\u001b[7mEventListener/      \u001b[0m  \r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[24C"
+    ],
+    [
+      0.000042,
+      "cd src/Symfony/Bundle/SecurityBundle/EventListener\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.263981,
+      "\u001b[14DResources\u001b[1m/\u001b[0m   \u001b[0m \u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000010,
+      "\r\r\n"
+    ],
+    [
+      0.000067,
+      "\u001b[44C\u001b[7mResources/          \u001b[0m  \r\u001b[1B\u001b[22C\u001b[1;31mEventListener\u001b[0m/        \r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[24C"
+    ],
+    [
+      0.000007,
+      "cd src/Symfony/Bundle/SecurityBundle/Resources\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.216074,
+      "\u001b[10DSecurity\u001b[1m/\u001b[0m\u001b[0m \u0008"
+    ],
+    [
+      0.000009,
+      "\r\r\n"
+    ],
+    [
+      0.000082,
+      "\u001b[44C\u001b[1;31mResources\u001b[0m/            \r\u001b[1B\u001b[44C\u001b[7mSecurity/           \u001b[0m  \r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[24C"
+    ],
+    [
+      0.000006,
+      "cd src/Symfony/Bundle/SecurityBundle/Security\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.327875,
+      "\r\r\n\u001b[J\u001b[A\u001b[70C"
+    ],
+    [
+      1.079730,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000042,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000045,
+      "\r\r\n\u001b[J"
+    ],
+    [
+      0.007857,
+      "\u001b]2;cd src/Symfony/Bundle/SecurityBundle/Security\u0007\u001b]1;cd\u0007"
+    ],
+    [
+      0.002435,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                    \r \r"
+    ],
+    [
+      0.000067,
+      "\u001b]2;baku@Baku-MacBook: ~/Documents/Github/symfony/src/Symfony/Bundle/SecurityBundle/Security\u0007"
+    ],
+    [
+      0.000036,
+      "\u001b]1;..ndle/Security\u0007"
+    ],
+    [
+      0.088807,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mSecurity \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m)\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000007,
+      "\u001b[K"
+    ],
+    [
+      0.000140,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.317356,
+      "p"
+    ],
+    [
+      0.103751,
+      "\u0008pw"
+    ],
+    [
+      0.142411,
+      "d"
+    ],
+    [
+      0.105437,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000043,
+      "\r\r\n"
+    ],
+    [
+      0.001062,
+      "\u001b]2;pwd\u0007\u001b]1;pwd\u0007"
+    ],
+    [
+      0.000029,
+      "/Users/baku/Documents/Github/symfony/src/Symfony/Bundle/SecurityBundle/Security\r\n"
+    ],
+    [
+      0.000144,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                    \r \r"
+    ],
+    [
+      0.000169,
+      "\u001b]2;baku@Baku-MacBook: ~/Documents/Github/symfony/src/Symfony/Bundle/SecurityBundle/Security\u0007"
+    ],
+    [
+      0.000171,
+      "\u001b]1;..ndle/Security\u0007"
+    ],
+    [
+      0.067943,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mSecurity \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m)\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000009,
+      "\u001b[K"
+    ],
+    [
+      0.000185,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.242263,
+      "."
+    ],
+    [
+      0.144068,
+      "\u0008.."
+    ],
+    [
+      0.127730,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000052,
+      "\r\r\n"
+    ],
+    [
+      0.000791,
+      "\u001b]2;..\u0007\u001b]1;..\u0007"
+    ],
+    [
+      0.002051,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                    \r \r"
+    ],
+    [
+      0.000153,
+      "\u001b]2;baku@Baku-MacBook: ~/Documents/Github/symfony/src/Symfony/Bundle/SecurityBundle\u0007"
+    ],
+    [
+      0.000065,
+      "\u001b]1;..ecurityBundle\u0007"
+    ],
+    [
+      0.071733,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mSecurityBundle \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m)\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000007,
+      "\u001b[K"
+    ],
+    [
+      0.000089,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      3.461342,
+      "\r\r\n"
+    ]
+  ]
+}
