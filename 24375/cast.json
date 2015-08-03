@@ -1,0 +1,1142 @@
+{
+  "version": 1,
+  "width": 104,
+  "height": 24,
+  "duration": 130.421719,
+  "command": "/usr/local/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/local/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.523455,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                       \r \r"
+    ],
+    [
+      0.035440,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[38;5;135mmcowger\u001b[39m@\u001b[38;5;166mhex\u001b[39m:\u001b[38;5;118m~/Projects/bonn\u001b[39m \r\n$ \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      0.000184,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[38;5;135mmcowger\u001b[39m@\u001b[38;5;166mhex\u001b[39m:\u001b[38;5;118m~/Projects/bonn\u001b[39m \r\n$ \u001b[K"
+    ],
+    [
+      4.055018,
+      "."
+    ],
+    [
+      0.066456,
+      "\u0008./"
+    ],
+    [
+      0.225065,
+      "i"
+    ],
+    [
+      0.112447,
+      "n"
+    ],
+    [
+      0.123796,
+      "s"
+    ],
+    [
+      0.101385,
+      "t"
+    ],
+    [
+      0.258456,
+      "\u001b[1m\u001b[31m...\u001b[39m\u001b[0m"
+    ],
+    [
+      0.041031,
+      "\u001b[33m\u001b[39m\u001b[33m\u001b[39m\u001b[33m\u001b[39m\u001b[33m\u001b[39m\u001b[33m\u001b[39m\u001b[33m\u001b[39m\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[38;5;135mmcowger\u001b[39m@\u001b[38;5;166mhex\u001b[39m:\u001b[38;5;118m~/Projects/bonn\u001b[39m \r\n$ ./install-\u001b[K"
+    ],
+    [
+      1.579089,
+      "o"
+    ],
+    [
+      0.112558,
+      "s"
+    ],
+    [
+      0.168600,
+      "\u001b[1m\u001b[31m...\u001b[39m\u001b[0m"
+    ],
+    [
+      0.022554,
+      "\u001b[33m\u001b[39m\u001b[33m\u001b[39m\u001b[33m\u001b[39m\u001b[33m\u001b[39m\u001b[33m\u001b[39m\u001b[33m\u001b[39m\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[38;5;135mmcowger\u001b[39m@\u001b[38;5;166mhex\u001b[39m:\u001b[38;5;118m~/Projects/bonn\u001b[39m \r\n$ ./install-osx\u001b[1m \u001b[0m\u001b[K"
+    ],
+    [
+      0.765100,
+      "\u0008\u001b[0m -"
+    ],
+    [
+      0.146464,
+      "t"
+    ],
+    [
+      0.146011,
+      "a"
+    ],
+    [
+      0.068815,
+      "r"
+    ],
+    [
+      0.189882,
+      "g"
+    ],
+    [
+      0.101378,
+      "e"
+    ],
+    [
+      0.090050,
+      "t"
+    ],
+    [
+      0.674618,
+      "="
+    ],
+    [
+      0.967836,
+      "e"
+    ],
+    [
+      0.055763,
+      "s"
+    ],
+    [
+      0.169149,
+      "x"
+    ],
+    [
+      0.191386,
+      "i"
+    ],
+    [
+      0.326138,
+      "."
+    ],
+    [
+      0.135043,
+      "c"
+    ],
+    [
+      0.112435,
+      "o"
+    ],
+    [
+      0.078814,
+      "w"
+    ],
+    [
+      0.112672,
+      "g"
+    ],
+    [
+      0.056000,
+      "e"
+    ],
+    [
+      0.056385,
+      "r"
+    ],
+    [
+      0.090033,
+      "."
+    ],
+    [
+      0.168647,
+      "u"
+    ],
+    [
+      0.112520,
+      "s"
+    ],
+    [
+      0.101235,
+      " "
+    ],
+    [
+      1.125128,
+      "-"
+    ],
+    [
+      0.247491,
+      "p"
+    ],
+    [
+      0.112272,
+      "a"
+    ],
+    [
+      0.180188,
+      "s"
+    ],
+    [
+      0.146192,
+      "s"
+    ],
+    [
+      0.168825,
+      "w"
+    ],
+    [
+      0.336949,
+      "d"
+    ],
+    [
+      0.833295,
+      "="
+    ],
+    [
+      1.597302,
+      "p"
+    ],
+    [
+      0.056213,
+      "a"
+    ],
+    [
+      0.168870,
+      "s"
+    ],
+    [
+      0.146204,
+      "s"
+    ],
+    [
+      0.213666,
+      "w"
+    ],
+    [
+      0.123680,
+      "o"
+    ],
+    [
+      0.101314,
+      "r"
+    ],
+    [
+      0.067681,
+      "d"
+    ],
+    [
+      0.123658,
+      " "
+    ],
+    [
+      1.867441,
+      "-"
+    ],
+    [
+      0.303681,
+      "n"
+    ],
+    [
+      0.078850,
+      "e"
+    ],
+    [
+      0.067038,
+      "t"
+    ],
+    [
+      0.191818,
+      "w"
+    ],
+    [
+      0.134399,
+      "o"
+    ],
+    [
+      0.090459,
+      "r"
+    ],
+    [
+      0.112573,
+      "k"
+    ],
+    [
+      0.382558,
+      "N"
+    ],
+    [
+      0.134811,
+      "a"
+    ],
+    [
+      0.101007,
+      "m"
+    ],
+    [
+      0.101029,
+      "e"
+    ],
+    [
+      1.530839,
+      "="
+    ],
+    [
+      0.270110,
+      "\""
+    ],
+    [
+      0.596525,
+      "V"
+    ],
+    [
+      0.156902,
+      "M"
+    ],
+    [
+      0.326247,
+      " "
+    ],
+    [
+      0.213315,
+      "N"
+    ],
+    [
+      0.169150,
+      "e"
+    ],
+    [
+      0.078771,
+      "t"
+    ],
+    [
+      0.135094,
+      "w"
+    ],
+    [
+      0.111948,
+      "o"
+    ],
+    [
+      0.101704,
+      "r"
+    ],
+    [
+      0.090182,
+      "k"
+    ],
+    [
+      0.269745,
+      "\""
+    ],
+    [
+      0.933880,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000378,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[38;5;135mmcowger\u001b[39m@\u001b[38;5;166mhex\u001b[39m:\u001b[38;5;118m~/Projects/bonn\u001b[39m \r\n$ "
+    ],
+    [
+      0.000019,
+      "./install-osx -target=esxi.cowger.us -passwd=password -networkName=\"VM Network\"\u001b[K"
+    ],
+    [
+      0.000156,
+      "\r\r\n"
+    ],
+    [
+      0.105726,
+      "\u001b[34mINFO\u001b[0m[0000] ### Installing Bonneville ####               \r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[34mINFO\u001b[0m[0000] Connecting to target                         \r\n"
+    ],
+    [
+      0.069095,
+      "\u001b[34mINFO\u001b[0m[0000] Validating supplied configuration            \r\n"
+    ],
+    [
+      0.468397,
+      "\u001b[34mINFO\u001b[0m[0000] Creating appliance on target                 \r\n"
+    ],
+    [
+      0.208598,
+      "\u001b[34mINFO\u001b[0m[0000] Uploading boot images                        \r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[34mINFO\u001b[0m[0000] \tappliance.iso                               \r\n"
+    ],
+    [
+      1.997316,
+      "\u001b[34mINFO\u001b[0m[0002] \tcontainer-linux.iso                         \r\n"
+    ],
+    [
+      1.837214,
+      "\u001b[34mINFO\u001b[0m[0004] Powering on appliance                        \r\n"
+    ],
+    [
+      0.311601,
+      "\u001b[34mINFO\u001b[0m[0004] Waiting for confirmation of initialization   \r\n"
+    ],
+    [
+      45.084233,
+      "\u001b[34mINFO\u001b[0m[0049] Initialization of appliance successful       \r\n\u001b[34mINFO\u001b[0m[0049] You can run docker commands via:             \r\n\u001b[34mINFO\u001b[0m[0049] DOCKER_HOST=tcp://192.168.0.159:2376 docker ... \r\n"
+    ],
+    [
+      0.007554,
+      "\u001b[34mINFO\u001b[0m[0049] You can access the docker daemon log via:    \r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[34mINFO\u001b[0m[0049] nc 192.168.0.159 2378                        \r\n"
+    ],
+    [
+      0.001788,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                       \r \r"
+    ],
+    [
+      0.124856,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[38;5;135mmcowger\u001b[39m@\u001b[38;5;166mhex\u001b[39m:\u001b[38;5;118m~/Projects/bonn\u001b[39m \r\n$ \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      0.000269,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[38;5;135mmcowger\u001b[39m@\u001b[38;5;166mhex\u001b[39m:\u001b[38;5;118m~/Projects/bonn\u001b[39m \r\n$ \u001b[K"
+    ],
+    [
+      2.678125,
+      "e"
+    ],
+    [
+      0.194257,
+      "\u0008ex"
+    ],
+    [
+      0.764899,
+      "p"
+    ],
+    [
+      0.112111,
+      "o"
+    ],
+    [
+      0.157902,
+      "r"
+    ],
+    [
+      0.078895,
+      "t"
+    ],
+    [
+      0.101081,
+      " "
+    ],
+    [
+      4.242302,
+      "D"
+    ],
+    [
+      0.000094,
+      "O"
+    ],
+    [
+      0.000133,
+      "C"
+    ],
+    [
+      0.000069,
+      "K"
+    ],
+    [
+      0.000097,
+      "E"
+    ],
+    [
+      0.000082,
+      "R"
+    ],
+    [
+      0.000113,
+      "_"
+    ],
+    [
+      0.000073,
+      "H"
+    ],
+    [
+      0.000104,
+      "O"
+    ],
+    [
+      0.000095,
+      "S"
+    ],
+    [
+      0.000121,
+      "T"
+    ],
+    [
+      0.000354,
+      "="
+    ],
+    [
+      0.000122,
+      "t"
+    ],
+    [
+      0.000117,
+      "c"
+    ],
+    [
+      0.000154,
+      "p"
+    ],
+    [
+      0.000161,
+      ":"
+    ],
+    [
+      0.000084,
+      "/"
+    ],
+    [
+      0.000254,
+      "/"
+    ],
+    [
+      0.000075,
+      "1"
+    ],
+    [
+      0.000087,
+      "9"
+    ],
+    [
+      0.000088,
+      "2"
+    ],
+    [
+      0.000109,
+      "."
+    ],
+    [
+      0.000076,
+      "1"
+    ],
+    [
+      0.000113,
+      "6"
+    ],
+    [
+      0.000076,
+      "8"
+    ],
+    [
+      0.000150,
+      "."
+    ],
+    [
+      0.000074,
+      "0"
+    ],
+    [
+      0.000265,
+      "."
+    ],
+    [
+      0.000169,
+      "1"
+    ],
+    [
+      0.000101,
+      "5"
+    ],
+    [
+      0.000119,
+      "9"
+    ],
+    [
+      0.000089,
+      ":"
+    ],
+    [
+      0.000121,
+      "2"
+    ],
+    [
+      0.000070,
+      "3"
+    ],
+    [
+      0.000105,
+      "7"
+    ],
+    [
+      0.000079,
+      "6"
+    ],
+    [
+      0.501232,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000284,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[38;5;135mmcowger\u001b[39m@\u001b[38;5;166mhex\u001b[39m:\u001b[38;5;118m~/Projects/bonn\u001b[39m \r\n$ "
+    ],
+    [
+      0.000010,
+      "export DOCKER_HOST=tcp://192.168.0.159:2376\u001b[K"
+    ],
+    [
+      0.000098,
+      "\r\r\n"
+    ],
+    [
+      0.000766,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                       \r \r"
+    ],
+    [
+      0.024463,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[38;5;135mmcowger\u001b[39m@\u001b[38;5;166mhex\u001b[39m:\u001b[38;5;118m~/Projects/bonn\u001b[39m \r\n$ "
+    ],
+    [
+      0.000008,
+      "\u001b[K"
+    ],
+    [
+      0.000003,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000318,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[38;5;135mmcowger\u001b[39m@\u001b[38;5;166mhex\u001b[39m:\u001b[38;5;118m~/Projects/bonn\u001b[39m \r\n$ \u001b[K"
+    ],
+    [
+      0.896493,
+      "d"
+    ],
+    [
+      0.146163,
+      "\u0008do"
+    ],
+    [
+      0.180116,
+      "c"
+    ],
+    [
+      0.101263,
+      "k"
+    ],
+    [
+      0.100703,
+      "e"
+    ],
+    [
+      0.056899,
+      "r"
+    ],
+    [
+      0.078629,
+      " "
+    ],
+    [
+      0.202347,
+      "p"
+    ],
+    [
+      0.134645,
+      "s"
+    ],
+    [
+      0.225470,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000417,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[38;5;135mmcowger\u001b[39m@\u001b[38;5;166mhex\u001b[39m:\u001b[38;5;118m~/Projects/bonn\u001b[39m \r\n$ docker ps\u001b[K"
+    ],
+    [
+      0.000048,
+      "\r\r\n"
+    ],
+    [
+      0.105342,
+      "CONTAINER ID        IMAGE               COMMAND             CREATED             STATUS              PORTS               NAMES"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.001007,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                       \r \r"
+    ],
+    [
+      0.026169,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[38;5;135mmcowger\u001b[39m@\u001b[38;5;166mhex\u001b[39m:\u001b[38;5;118m~/Projects/bonn\u001b[39m \r\n$ \u001b[K"
+    ],
+    [
+      0.000022,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000198,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[38;5;135mmcowger\u001b[39m@\u001b[38;5;166mhex\u001b[39m:\u001b[38;5;118m~/Projects/bonn\u001b[39m \r\n$ \u001b[K"
+    ],
+    [
+      1.340560,
+      "d"
+    ],
+    [
+      0.101318,
+      "\u0008do"
+    ],
+    [
+      0.089492,
+      "c"
+    ],
+    [
+      0.101300,
+      "k"
+    ],
+    [
+      0.101606,
+      "e"
+    ],
+    [
+      0.056308,
+      "r"
+    ],
+    [
+      0.067388,
+      " "
+    ],
+    [
+      1.608893,
+      "r"
+    ],
+    [
+      0.078103,
+      "u"
+    ],
+    [
+      0.180352,
+      "n"
+    ],
+    [
+      0.112606,
+      " "
+    ],
+    [
+      1.462141,
+      "h"
+    ],
+    [
+      0.123910,
+      "e"
+    ],
+    [
+      0.134981,
+      "l"
+    ],
+    [
+      0.124328,
+      "l"
+    ],
+    [
+      0.168232,
+      "o"
+    ],
+    [
+      0.191155,
+      "-"
+    ],
+    [
+      0.101370,
+      "w"
+    ],
+    [
+      0.135380,
+      "p"
+    ],
+    [
+      0.011265,
+      "o"
+    ],
+    [
+      0.078718,
+      "r"
+    ],
+    [
+      0.528829,
+      "\u0008 \u0008"
+    ],
+    [
+      0.123315,
+      "\u0008 \u0008"
+    ],
+    [
+      0.573592,
+      "\u0008 \u0008"
+    ],
+    [
+      0.337996,
+      "o"
+    ],
+    [
+      0.134479,
+      "r"
+    ],
+    [
+      0.067593,
+      "l"
+    ],
+    [
+      0.123860,
+      "d"
+    ],
+    [
+      0.450031,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000210,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[38;5;135mmcowger\u001b[39m@\u001b[38;5;166mhex\u001b[39m:\u001b[38;5;118m~/Projects/bonn\u001b[39m \r\n$ "
+    ],
+    [
+      0.000006,
+      "docker run hello-world\u001b[K"
+    ],
+    [
+      0.000045,
+      "\r\r\n"
+    ],
+    [
+      0.022000,
+      "Unable to find image 'hello-world:latest' locally\r\n"
+    ],
+    [
+      3.000902,
+      "latest: Pulling from hello-world\r\n\u001b[0B"
+    ],
+    [
+      0.003717,
+      "\r\n\u001b[0A"
+    ],
+    [
+      0.000009,
+      "\u001b[2K\ra8219747be10: Pulling fs layer \r\u001b[0B\r\n\u001b[0A"
+    ],
+    [
+      0.000004,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000003,
+      "91c95931e552: "
+    ],
+    [
+      0.000003,
+      "Pulling fs layer \r"
+    ],
+    [
+      0.000003,
+      "\u001b[0B"
+    ],
+    [
+      0.000015,
+      "\u001b[1A\u001b[2K\r"
+    ],
+    [
+      0.000003,
+      "91c95931e552: Pulling fs layer \r"
+    ],
+    [
+      0.000002,
+      "\u001b[1B"
+    ],
+    [
+      0.000017,
+      "\u001b[1A\u001b[2K\r91c95931e552: "
+    ],
+    [
+      0.000004,
+      "Layer already being pulled by another client. Waiting. \r"
+    ],
+    [
+      0.000003,
+      "\u001b[1B"
+    ],
+    [
+      0.543980,
+      "\u001b[1A\u001b[2K\r91c95931e552: "
+    ],
+    [
+      0.000606,
+      "Downloading     32 B/32 B\r\u001b[1B"
+    ],
+    [
+      0.000429,
+      "\u001b[1A\u001b[2K\r91c95931e552: Verifying Checksum \r\u001b[1B\u001b[1A\u001b[2K\r91c95931e552: Download complete \r\u001b[1B"
+    ],
+    [
+      0.000293,
+      "\u001b[1A\u001b[2K\r91c95931e552: Download complete \r\u001b[1B"
+    ],
+    [
+      0.000697,
+      "\u001b[2A\u001b[2K\ra8219747be10: Downloading    596 B/596 B\r\u001b[2B"
+    ],
+    [
+      0.000289,
+      "\u001b[2A\u001b[2K\ra8219747be10: Verifying Checksum \r\u001b[2B"
+    ],
+    [
+      0.000273,
+      "\u001b[2A\u001b[2K\ra8219747be10: Download complete \r\u001b[2B"
+    ],
+    [
+      4.591051,
+      "\u001b[2A\u001b[2K\ra8219747be10: "
+    ],
+    [
+      0.000008,
+      "Extracting    596 B/596 B\r\u001b[2B"
+    ],
+    [
+      0.002782,
+      "\u001b[2A\u001b[2K\ra8219747be10: Extracting    596 B/596 B\r\u001b[2B"
+    ],
+    [
+      0.000308,
+      "\u001b[2A\u001b[2K\ra8219747be10: Extracting    596 B/596 B\r\u001b[2B"
+    ],
+    [
+      0.602642,
+      "\u001b[2A\u001b[2K\ra8219747be10: Pull complete \r"
+    ],
+    [
+      0.000009,
+      "\u001b[2B"
+    ],
+    [
+      4.066222,
+      "\u001b[1A"
+    ],
+    [
+      0.000009,
+      "\u001b[2K\r91c95931e552: Extracting     32 B/32 B\r\u001b[1B"
+    ],
+    [
+      0.002691,
+      "\u001b[1A\u001b[2K\r91c95931e552: Extracting     32 B/32 B\r\u001b[1B"
+    ],
+    [
+      0.000302,
+      "\u001b[1A\u001b[2K\r91c95931e552: Extracting     32 B/32 B\r\u001b[1B"
+    ],
+    [
+      0.945026,
+      "\u001b[1A\u001b[2K\r91c95931e552: "
+    ],
+    [
+      0.000008,
+      "Pull complete \r\u001b[1B"
+    ],
+    [
+      0.000321,
+      "\u001b[1A\u001b[2K\r91c95931e552: Already exists \r\u001b[1Bhello-world:latest: The image you are pulling has been verified. Important: image verification is a tech preview feature and should not be relied on to provide security.\r\n\u001b[1BDigest: sha256:aa03e5d0d5553b4c3473e89c8619cf79df368babd18681cf5daeb82aab55838d\r\n"
+    ],
+    [
+      0.000854,
+      "Status: Downloaded newer image for hello-world:latest\r\n"
+    ],
+    [
+      2.237652,
+      "Hello from Docker.\r\nThis message shows that your installation appears to be working correctly.\r\n\r\nTo generate this message, Docker took the following steps:\r\n 1. The Docker client contacted the Docker daemon.\r\n 2. The Docker daemon pulled the \"hello-world\" image from the Docker Hub.\r\n    (Assuming it was not already locally available.)\r\n 3. The Docker daemon created a new container from that image which runs the\r\n    executable that produces the output you are currently reading.\r\n 4. The Docker daemon streamed that output to the Docker client, which sent it\r\n    to your terminal.\r\n\r\nTo try something more ambitious, you can run an Ubuntu container with:\r\n $ docker run -it ubuntu bash\r\n\r\nFor more examples and ideas, visit:\r\n http://docs.docker.com/userguide/\r\n"
+    ],
+    [
+      0.290807,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                       \r \r"
+    ],
+    [
+      0.024166,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[38;5;135mmcowger\u001b[39m@\u001b[38;5;166mhex\u001b[39m:\u001b[38;5;118m~/Projects/bonn\u001b[39m \r\n$ \u001b[K"
+    ],
+    [
+      0.000019,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000198,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[38;5;135mmcowger\u001b[39m@\u001b[38;5;166mhex\u001b[39m:\u001b[38;5;118m~/Projects/bonn\u001b[39m \r\n$ \u001b[K"
+    ],
+    [
+      6.116813,
+      "u"
+    ],
+    [
+      0.191484,
+      "\u0008un"
+    ],
+    [
+      0.528944,
+      "i"
+    ],
+    [
+      0.146089,
+      "n"
+    ],
+    [
+      0.417836,
+      "\u0008\u0008\u0008\u0008./\u001b[2Cstall-osx -target=esxi.cowger.us -passwd=password  --\u001b[1m\u001b[37m\u001b[45munin\u001b[0m\u001b[39m\u001b[49mstall=True --name=docker"
+    ],
+    [
+      1.854698,
+      "\u0008 \u0008"
+    ],
+    [
+      0.500974,
+      "\u0008 \u0008"
+    ],
+    [
+      0.084543,
+      "\u0008 \u0008"
+    ],
+    [
+      0.084351,
+      "\u0008 \u0008"
+    ],
+    [
+      0.084536,
+      "\u0008 \u0008"
+    ],
+    [
+      0.083385,
+      "\u0008 \u0008"
+    ],
+    [
+      0.084785,
+      "\u0008 \u0008"
+    ],
+    [
+      0.084617,
+      "\u0008 \u0008"
+    ],
+    [
+      0.084278,
+      "\u0008 \u0008"
+    ],
+    [
+      0.083902,
+      "\u0008 \u0008"
+    ],
+    [
+      0.084893,
+      "\u0008 \u0008"
+    ],
+    [
+      0.084588,
+      "\u0008 \u0008"
+    ],
+    [
+      0.399035,
+      "\u0008 \u0008"
+    ],
+    [
+      0.247373,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000462,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[38;5;135mmcowger\u001b[39m@\u001b[38;5;166mhex\u001b[39m:\u001b[38;5;118m~/Projects/bonn\u001b[39m \r\n$ "
+    ],
+    [
+      0.000010,
+      "./install-osx -target=esxi.cowger.us -passwd=password  --\u001b[1m\u001b[37m\u001b[45munin\u001b[0m\u001b[39m\u001b[49mstall=True\u001b[K\u001b[1C"
+    ],
+    [
+      0.000118,
+      "\r\r\n"
+    ],
+    [
+      0.128618,
+      "\u001b[34mINFO\u001b[0m[0000] ### Uninstalling Bonneville ###              \r\n\u001b[34mINFO\u001b[0m[0000] Connecting to target                         \r\n"
+    ],
+    [
+      0.066897,
+      "\u001b[34mINFO\u001b[0m[0000] Validating supplied configuration            \r\n"
+    ],
+    [
+      0.585440,
+      "\u001b[34mINFO\u001b[0m[0000] Powering off {VirtualMachine 59} @ /ha-datacenter/vm/docker-appliance \r\n"
+    ],
+    [
+      0.390002,
+      "\u001b[34mINFO\u001b[0m[0001] Destroying {VirtualMachine 59} @ /ha-datacenter/vm/docker-appliance \r\n"
+    ],
+    [
+      0.109386,
+      "\u001b[34mINFO\u001b[0m[0001] Powering off {VirtualMachine 60} @ /ha-datacenter/vm/docker-appliance-photon-container-template \r\n"
+    ],
+    [
+      0.165094,
+      "\u001b[34mINFO\u001b[0m[0001] Destroying {VirtualMachine 60} @ /ha-datacenter/vm/docker-appliance-photon-container-template \r\n"
+    ],
+    [
+      0.057988,
+      "\u001b[34mINFO\u001b[0m[0001] Removing Bonneville appliance, containers, images and volumes \r\n"
+    ],
+    [
+      0.196394,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                       \r \r"
+    ],
+    [
+      0.039825,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[38;5;135mmcowger\u001b[39m@\u001b[38;5;166mhex\u001b[39m:\u001b[38;5;118m~/Projects/bonn\u001b[39m \r\n$ "
+    ],
+    [
+      0.000008,
+      "\u001b[K"
+    ],
+    [
+      0.000017,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000267,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[38;5;135mmcowger\u001b[39m@\u001b[38;5;166mhex\u001b[39m:\u001b[38;5;118m~/Projects/bonn\u001b[39m \r\n$ \u001b[K"
+    ],
+    [
+      3.614638,
+      "e"
+    ],
+    [
+      0.180035,
+      "\u0008ex"
+    ],
+    [
+      0.101303,
+      "i"
+    ],
+    [
+      0.112004,
+      "t"
+    ],
+    [
+      0.393458,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000229,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[38;5;135mmcowger\u001b[39m@\u001b[38;5;166mhex\u001b[39m:\u001b[38;5;118m~/Projects/bonn\u001b[39m \r\n$ exit\u001b[K"
+    ],
+    [
+      0.000050,
+      "\r\r\n"
+    ]
+  ]
+}
