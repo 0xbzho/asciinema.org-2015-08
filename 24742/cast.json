@@ -1,0 +1,6518 @@
+{
+  "version": 1,
+  "width": 167,
+  "height": 44,
+  "duration": 88.531131,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.142469,
+      "\u001b[0;32mnoisy@t440s \u001b[1;33m~/devel\u001b[0m $ "
+    ],
+    [
+      0.210802,
+      "m"
+    ],
+    [
+      0.091504,
+      "k"
+    ],
+    [
+      0.203429,
+      "p"
+    ],
+    [
+      0.155480,
+      "r"
+    ],
+    [
+      0.087705,
+      "o"
+    ],
+    [
+      0.119189,
+      "ject "
+    ],
+    [
+      0.810536,
+      "f"
+    ],
+    [
+      0.000153,
+      "in"
+    ],
+    [
+      0.000058,
+      "d"
+    ],
+    [
+      0.000399,
+      "-simi"
+    ],
+    [
+      0.000022,
+      "l"
+    ],
+    [
+      0.000050,
+      "a"
+    ],
+    [
+      0.000078,
+      "r"
+    ],
+    [
+      0.000056,
+      "-"
+    ],
+    [
+      0.000191,
+      "pr"
+    ],
+    [
+      0.000373,
+      "o"
+    ],
+    [
+      0.000395,
+      "jects"
+    ],
+    [
+      0.738290,
+      "\r\n"
+    ],
+    [
+      0.046430,
+      "New python executable in find-similar-projects/bin/python\r\n"
+    ],
+    [
+      0.033659,
+      "Installing setuptools, pip..."
+    ],
+    [
+      0.899926,
+      "done.\r\n"
+    ],
+    [
+      0.224165,
+      "bash: cd: /home/noisy/devel/find-similar-projects: No such file or directory\r\n"
+    ],
+    [
+      0.137701,
+      "Creating /home/noisy/devel/find-similar-projects\r\n"
+    ],
+    [
+      0.021986,
+      "Setting project for find-similar-projects to /home/noisy/devel/find-similar-projects\r\n"
+    ],
+    [
+      0.069374,
+      "\u001b[1;34m[find-similar-projects]\u001b[0m \u001b[0;32mnoisy@t440s \u001b[1;33m~/devel/find-similar-projects\u001b[0m $ "
+    ],
+    [
+      0.248600,
+      "g"
+    ],
+    [
+      0.102312,
+      "i"
+    ],
+    [
+      0.069598,
+      "t"
+    ],
+    [
+      0.134557,
+      " "
+    ],
+    [
+      0.122765,
+      "c"
+    ],
+    [
+      0.111237,
+      "l"
+    ],
+    [
+      0.141319,
+      "o"
+    ],
+    [
+      0.093888,
+      "n"
+    ],
+    [
+      0.065256,
+      "e"
+    ],
+    [
+      0.138648,
+      " "
+    ],
+    [
+      0.465435,
+      "h"
+    ],
+    [
+      0.000021,
+      "t"
+    ],
+    [
+      0.000049,
+      "t"
+    ],
+    [
+      0.000016,
+      "p"
+    ],
+    [
+      0.000039,
+      "s"
+    ],
+    [
+      0.000023,
+      ":"
+    ],
+    [
+      0.000025,
+      "/"
+    ],
+    [
+      0.000026,
+      "/"
+    ],
+    [
+      0.000025,
+      "g"
+    ],
+    [
+      0.000026,
+      "i"
+    ],
+    [
+      0.000024,
+      "t"
+    ],
+    [
+      0.000027,
+      "h"
+    ],
+    [
+      0.000024,
+      "u"
+    ],
+    [
+      0.000029,
+      "b"
+    ],
+    [
+      0.000027,
+      "."
+    ],
+    [
+      0.000029,
+      "c"
+    ],
+    [
+      0.000023,
+      "o"
+    ],
+    [
+      0.000027,
+      "m"
+    ],
+    [
+      0.000041,
+      "/"
+    ],
+    [
+      0.000031,
+      "n"
+    ],
+    [
+      0.000026,
+      "o"
+    ],
+    [
+      0.000027,
+      "i"
+    ],
+    [
+      0.000029,
+      "s"
+    ],
+    [
+      0.000030,
+      "y"
+    ],
+    [
+      0.000030,
+      "/"
+    ],
+    [
+      0.000027,
+      "f"
+    ],
+    [
+      0.000043,
+      "i"
+    ],
+    [
+      0.000029,
+      "n"
+    ],
+    [
+      0.000031,
+      "d"
+    ],
+    [
+      0.000030,
+      "-"
+    ],
+    [
+      0.000033,
+      "s"
+    ],
+    [
+      0.000028,
+      "i"
+    ],
+    [
+      0.000030,
+      "m"
+    ],
+    [
+      0.000032,
+      "i"
+    ],
+    [
+      0.000031,
+      "l"
+    ],
+    [
+      0.000038,
+      "a"
+    ],
+    [
+      0.000026,
+      "r"
+    ],
+    [
+      0.000031,
+      "-"
+    ],
+    [
+      0.000033,
+      "p"
+    ],
+    [
+      0.000032,
+      "r"
+    ],
+    [
+      0.000035,
+      "o"
+    ],
+    [
+      0.000032,
+      "j"
+    ],
+    [
+      0.000039,
+      "e"
+    ],
+    [
+      0.000023,
+      "c"
+    ],
+    [
+      0.000022,
+      "t"
+    ],
+    [
+      0.000023,
+      "s"
+    ],
+    [
+      0.000026,
+      "."
+    ],
+    [
+      0.000023,
+      "g"
+    ],
+    [
+      0.000023,
+      "i"
+    ],
+    [
+      0.000025,
+      "t"
+    ],
+    [
+      0.352125,
+      " "
+    ],
+    [
+      0.116195,
+      "."
+    ],
+    [
+      0.163849,
+      "\r\n"
+    ],
+    [
+      0.001844,
+      "Cloning into '.'..."
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      1.501215,
+      "remote: Counting objects: 17, done.\u001b[K\r\n"
+    ],
+    [
+      0.124466,
+      "remote: Compressing objects:   9% (1/11)   \u001b[K\r"
+    ],
+    [
+      0.000027,
+      "remote: Compressing objects:  18% (2/11)   \u001b[K\rremote: Compressing objects:  27% (3/11)   \u001b[K\rremote: Compressing objects:  36% (4/11)   \u001b[K\rremote: Compressing objects:  45% (5/11)   \u001b[K\rremote: Compressing objects:  54% (6/11)   \u001b[K\rremote: Compressing objects:  63% (7/11)   \u001b[K\r"
+    ],
+    [
+      0.000026,
+      "remote: Compressing objects:  72% (8/11)   \u001b[K\r"
+    ],
+    [
+      0.000116,
+      "remote: Compressing objects:  81% (9/11)   \u001b[K\r"
+    ],
+    [
+      0.000017,
+      "remote: Compressing objects:  90% (10/11)   \u001b[K\r"
+    ],
+    [
+      0.000014,
+      "remote: Compressing objects: 100% (11/11)   \u001b[K\r"
+    ],
+    [
+      0.000044,
+      "remote: Compressing objects: 100% (11/11), done.\u001b[K"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.003830,
+      "remote: Total 17 (delta 5), reused 13 (delta 3), pack-reused 0\u001b[K\r\n"
+    ],
+    [
+      0.003946,
+      "Unpacking objects:   5% (1/17)   \r"
+    ],
+    [
+      0.000405,
+      "Unpacking objects:  11% (2/17)   \r"
+    ],
+    [
+      0.000334,
+      "Unpacking objects:  17% (3/17)   \r"
+    ],
+    [
+      0.000369,
+      "Unpacking objects:  23% (4/17)   \r"
+    ],
+    [
+      0.000433,
+      "Unpacking objects:  29% (5/17)   \r"
+    ],
+    [
+      0.000378,
+      "Unpacking objects:  35% (6/17)   \r"
+    ],
+    [
+      0.000630,
+      "Unpacking objects:  41% (7/17)   \r"
+    ],
+    [
+      0.000261,
+      "Unpacking objects:  47% (8/17)   \r"
+    ],
+    [
+      0.001021,
+      "Unpacking objects:  52% (9/17)   \r"
+    ],
+    [
+      0.000122,
+      "Unpacking objects:  58% (10/17)   \r"
+    ],
+    [
+      0.000165,
+      "Unpacking objects:  64% (11/17)   \r"
+    ],
+    [
+      0.000355,
+      "Unpacking objects:  70% (12/17)   \r"
+    ],
+    [
+      0.000163,
+      "Unpacking objects:  76% (13/17)   \r"
+    ],
+    [
+      0.000316,
+      "Unpacking objects:  82% (14/17)   \r"
+    ],
+    [
+      0.000151,
+      "Unpacking objects:  88% (15/17)   \r"
+    ],
+    [
+      0.000276,
+      "Unpacking objects:  94% (16/17)   \r"
+    ],
+    [
+      0.000088,
+      "Unpacking objects: 100% (17/17)   \r"
+    ],
+    [
+      0.000005,
+      "Unpacking objects: 100% (17/17), done.\r\n"
+    ],
+    [
+      0.000333,
+      "Checking connectivity... "
+    ],
+    [
+      0.001323,
+      "done.\r\n"
+    ],
+    [
+      0.019293,
+      "\u001b[1;34m[find-similar-projects]\u001b[0m \u001b[0;32mnoisy@t440s \u001b[1;33m~/devel/find-similar-projects\u001b[0m \u001b[0;32m(master)\u001b[0m $ "
+    ],
+    [
+      1.131032,
+      "l"
+    ],
+    [
+      0.043943,
+      "s"
+    ],
+    [
+      0.164763,
+      " "
+    ],
+    [
+      0.172602,
+      "-"
+    ],
+    [
+      0.203872,
+      "l"
+    ],
+    [
+      0.118019,
+      "a"
+    ],
+    [
+      0.152556,
+      "\r\n"
+    ],
+    [
+      0.044336,
+      "\u001b[38;5;236m▕\u001b[m \u001b[38;5;107m\u001b[38;1md\u001b[m\u001b[m\u001b[38;5;107mr\u001b[m\u001b[38;5;216mw\u001b[m\u001b[38;5;131mx\u001b[m\u001b[38;5;107mr\u001b[m\u001b[38;5;216mw\u001b[m\u001b[38;5;131mx\u001b[m\u001b[38;5;107mr\u001b[m\u001b[38;5;236m-\u001b[m\u001b[38;5;131mx\u001b[m\u001b[38;5;236m▏\u001b[m\u001b[38;5;216mnoisy\u001b[m:\u001b[38;5;220mnoisy\u001b[m\u001b[38;5;236m│\u001b[m\u001b[38;5;61m\u003c  sec \u001b[38;5;236m│\u001b[m\u001b[38;5;216m   4\u001b[m\u001b[38;5;107m\u001b[38;1mK\u001b[m\u001b[m\u001b[38;5;236m│\u001b[m\u001b[0m\u001b[01;34m.\u001b[0m\r\n"
+    ],
+    [
+      0.000058,
+      "\u001b[38;5;236m▕\u001b[m \u001b[38;5;107m\u001b[38;1md\u001b[m\u001b[m\u001b[38;5;107mr\u001b[m\u001b[38;5;216mw\u001b[m\u001b[38;5;131mx\u001b[m\u001b[38;5;107mr\u001b[m\u001b[38;5;216mw\u001b[m\u001b[38;5;131mx\u001b[m\u001b[38;5;107mr\u001b[m\u001b[38;5;236m-\u001b[m\u001b[38;5;131mx\u001b[m\u001b[38;5;236m▏\u001b[m\u001b[38;5;216mnoisy\u001b[m:\u001b[38;5;220mnoisy\u001b[m\u001b[38;5;236m│\u001b[m\u001b[38;5;61m14 sec \u001b[38;5;236m│\u001b[m\u001b[38;5;216m   4\u001b[m\u001b[38;5;107m\u001b[38;1mK\u001b[m\u001b[m\u001b[38;5;236m│\u001b[m\u001b[01;34m..\u001b[0m\r\n"
+    ],
+    [
+      0.000133,
+      "\u001b[38;5;236m▕\u001b[m \u001b[38;5;107m\u001b[38;1md\u001b[m\u001b[m\u001b[38;5;107mr\u001b[m\u001b[38;5;216mw\u001b[m\u001b[38;5;131mx\u001b[m\u001b[38;5;107mr\u001b[m\u001b[38;5;216mw\u001b[m\u001b[38;5;131mx\u001b[m\u001b[38;5;107mr\u001b[m\u001b[38;5;236m-\u001b[m\u001b[38;5;131mx\u001b[m\u001b[38;5;236m▏\u001b[m\u001b[38;5;216mnoisy\u001b[m:\u001b[38;5;220mnoisy\u001b[m\u001b[38;5;236m│\u001b[m\u001b[38;5;61m\u003c  sec \u001b[38;5;236m│\u001b[m\u001b[38;5;216m   4\u001b[m\u001b[38;5;107m\u001b[38;1mK\u001b[m\u001b[m\u001b[38;5;236m│\u001b[m\u001b[01;34m.git\u001b[0m\r\n"
+    ],
+    [
+      0.000108,
+      "\u001b[38;5;236m▕\u001b[m \u001b[38;5;236m-\u001b[m\u001b[38;5;107mr\u001b[m\u001b[38;5;216mw\u001b[m\u001b[38;5;236m-\u001b[m\u001b[38;5;107mr\u001b[m\u001b[38;5;216mw\u001b[m\u001b[38;5;236m-\u001b[m\u001b[38;5;107mr\u001b[m\u001b[38;5;236m-\u001b[m\u001b[38;5;236m-\u001b[m\u001b[38;5;236m▏\u001b[m\u001b[38;5;216mnoisy\u001b[m:\u001b[38;5;220mnoisy\u001b[m\u001b[38;5;236m│\u001b[m\u001b[38;5;61m\u003c  sec \u001b[38;5;236m│\u001b[m\u001b[38;5;216m   1\u001b[m\u001b[38;5;107m\u001b[38;1mK\u001b[m\u001b[m\u001b[38;5;236m│\u001b[m.gitignore\r\n"
+    ],
+    [
+      0.000106,
+      "\u001b[38;5;236m▕\u001b[m \u001b[38;5;236m-\u001b[m\u001b[38;5;107mr\u001b[m\u001b[38;5;216mw\u001b[m\u001b[38;5;236m-\u001b[m\u001b[38;5;107mr\u001b[m\u001b[38;5;216mw\u001b[m\u001b[38;5;236m-\u001b[m\u001b[38;5;107mr\u001b[m\u001b[38;5;236m-\u001b[m\u001b[38;5;236m-\u001b[m\u001b[38;5;236m▏\u001b[m\u001b[38;5;216mnoisy\u001b[m:\u001b[38;5;220mnoisy\u001b[m\u001b[38;5;236m│\u001b[m\u001b[38;5;61m\u003c  sec \u001b[38;5;236m│\u001b[m\u001b[38;5;216m  24\u001b[m\u001b[38;5;248m\u001b[38;1mB\u001b[m\u001b[m\u001b[38;5;236m│\u001b[mREADME.md\r\n"
+    ],
+    [
+      0.000118,
+      "\u001b[38;5;236m▕\u001b[m \u001b[38;5;236m-\u001b[m\u001b[38;5;107mr\u001b[m\u001b[38;5;216mw\u001b[m\u001b[38;5;131mx\u001b[m\u001b[38;5;107mr\u001b[m\u001b[38;5;216mw\u001b[m\u001b[38;5;131mx\u001b[m\u001b[38;5;107mr\u001b[m\u001b[38;5;236m-\u001b[m\u001b[38;5;131mx\u001b[m\u001b[38;5;236m▏\u001b[m\u001b[38;5;216mnoisy\u001b[m:\u001b[38;5;220mnoisy\u001b[m\u001b[38;5;236m│\u001b[m\u001b[38;5;61m\u003c  sec \u001b[38;5;236m│\u001b[m\u001b[38;5;216m   5\u001b[m\u001b[38;5;107m\u001b[38;1mK\u001b[m\u001b[m\u001b[38;5;236m│\u001b[m\u001b[01;32mfind-similar-projects.py\u001b[0m\r\n"
+    ],
+    [
+      0.000099,
+      "\u001b[38;5;236m▕\u001b[m \u001b[38;5;236m-\u001b[m\u001b[38;5;107mr\u001b[m\u001b[38;5;216mw\u001b[m\u001b[38;5;236m-\u001b[m\u001b[38;5;107mr\u001b[m\u001b[38;5;216mw\u001b[m\u001b[38;5;236m-\u001b[m\u001b[38;5;107mr\u001b[m\u001b[38;5;236m-\u001b[m\u001b[38;5;236m-\u001b[m\u001b[38;5;236m▏\u001b[m\u001b[38;5;216mnoisy\u001b[m:\u001b[38;5;220mnoisy\u001b[m\u001b[38;5;236m│\u001b[m\u001b[38;5;61m\u003c  sec \u001b[38;5;236m│\u001b[m\u001b[38;5;216m  29\u001b[m\u001b[38;5;248m\u001b[38;1mB\u001b[m\u001b[m\u001b[38;5;236m│\u001b[mrequirements.txt\r\n"
+    ],
+    [
+      0.006135,
+      "\u001b[1;34m[find-similar-projects]\u001b[0m \u001b[0;32mnoisy@t440s \u001b[1;33m~/devel/find-similar-projects\u001b[0m \u001b[0;32m(master)\u001b[0m $ "
+    ],
+    [
+      2.000000,
+      "."
+    ],
+    [
+      0.074064,
+      "/"
+    ],
+    [
+      0.885392,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.139787,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.147594,
+      "\u0007"
+    ],
+    [
+      0.160252,
+      "\u0007"
+    ],
+    [
+      0.283755,
+      "p"
+    ],
+    [
+      0.117619,
+      "i"
+    ],
+    [
+      0.134332,
+      "p"
+    ],
+    [
+      0.137946,
+      " "
+    ],
+    [
+      0.205909,
+      "i"
+    ],
+    [
+      0.077851,
+      "n"
+    ],
+    [
+      0.068581,
+      "s"
+    ],
+    [
+      0.132948,
+      "t"
+    ],
+    [
+      0.081586,
+      "a"
+    ],
+    [
+      0.074956,
+      "l"
+    ],
+    [
+      0.149417,
+      "l"
+    ],
+    [
+      0.087537,
+      " "
+    ],
+    [
+      0.298442,
+      "-"
+    ],
+    [
+      0.077323,
+      "r"
+    ],
+    [
+      0.317203,
+      " "
+    ],
+    [
+      0.154077,
+      "r"
+    ],
+    [
+      0.133995,
+      "e"
+    ],
+    [
+      0.433707,
+      "q"
+    ],
+    [
+      0.164864,
+      "uirements.txt "
+    ],
+    [
+      0.789957,
+      "\r\n"
+    ],
+    [
+      0.125587,
+      "Downloading/unpacking lxml==3.4.4 (from -r requirements.txt (line 1))\r\n"
+    ],
+    [
+      0.786697,
+      "  Downloading lxml-3.4.4.tar.gz (3.5MB): "
+    ],
+    [
+      0.000036,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   0%  4.1kB"
+    ],
+    [
+      0.000088,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   0%  8.2kB"
+    ],
+    [
+      0.000048,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   0%  12kB "
+    ],
+    [
+      0.041063,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   0%  16kB"
+    ],
+    [
+      0.000036,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   0%  20kB"
+    ],
+    [
+      0.000115,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   0%  24kB"
+    ],
+    [
+      0.000056,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   0%  28kB"
+    ],
+    [
+      0.013592,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   0%  32kB"
+    ],
+    [
+      0.000207,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   1%  36kB"
+    ],
+    [
+      0.000234,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   1%  40kB"
+    ],
+    [
+      0.000102,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   1%  45kB"
+    ],
+    [
+      0.011049,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   1%  49kB"
+    ],
+    [
+      0.000133,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   1%  53kB"
+    ],
+    [
+      0.000261,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   1%  57kB"
+    ],
+    [
+      0.000190,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   1%  61kB"
+    ],
+    [
+      0.022808,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   1%  65kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   1%  69kB"
+    ],
+    [
+      0.000222,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   2%  73kB"
+    ],
+    [
+      0.000154,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   2%  77kB"
+    ],
+    [
+      0.010998,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   2%  81kB"
+    ],
+    [
+      0.000647,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   2%  86kB"
+    ],
+    [
+      0.000021,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   2%  90kB\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   2%  94kB"
+    ],
+    [
+      0.014688,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   2%  98kB"
+    ],
+    [
+      0.000169,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   2%  102kB"
+    ],
+    [
+      0.000267,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   3%  106kB"
+    ],
+    [
+      0.000115,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   3%  110kB"
+    ],
+    [
+      0.009936,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   3%  114kB"
+    ],
+    [
+      0.000106,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   3%  118kB"
+    ],
+    [
+      0.000194,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   3%  122kB"
+    ],
+    [
+      0.000074,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   3%  126kB"
+    ],
+    [
+      0.010184,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   3%  131kB"
+    ],
+    [
+      0.000103,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   3%  135kB"
+    ],
+    [
+      0.000198,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   3%  139kB"
+    ],
+    [
+      0.000147,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   4%  143kB"
+    ],
+    [
+      0.010749,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   4%  147kB"
+    ],
+    [
+      0.000089,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   4%  151kB"
+    ],
+    [
+      0.000243,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   4%  155kB"
+    ],
+    [
+      0.000116,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   4%  159kB"
+    ],
+    [
+      0.010434,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   4%  163kB"
+    ],
+    [
+      0.000111,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   4%  167kB"
+    ],
+    [
+      0.000226,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   4%  172kB"
+    ],
+    [
+      0.000149,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   4%  176kB"
+    ],
+    [
+      0.011177,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   5%  180kB"
+    ],
+    [
+      0.000079,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   5%  184kB"
+    ],
+    [
+      0.000142,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   5%  188kB"
+    ],
+    [
+      0.000082,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   5%  192kB"
+    ],
+    [
+      0.008903,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   5%  196kB"
+    ],
+    [
+      0.000102,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   5%  200kB"
+    ],
+    [
+      0.000197,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   5%  204kB"
+    ],
+    [
+      0.000129,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   5%  208kB"
+    ],
+    [
+      0.011421,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   6%  212kB"
+    ],
+    [
+      0.000083,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   6%  217kB"
+    ],
+    [
+      0.000111,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   6%  221kB"
+    ],
+    [
+      0.000065,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   6%  225kB"
+    ],
+    [
+      0.076687,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   6%  229kB"
+    ],
+    [
+      0.000098,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   6%  233kB"
+    ],
+    [
+      0.000177,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   6%  237kB"
+    ],
+    [
+      0.000064,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   6%  241kB"
+    ],
+    [
+      0.003201,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   6%  245kB"
+    ],
+    [
+      0.000053,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   7%  249kB"
+    ],
+    [
+      0.000157,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   7%  253kB"
+    ],
+    [
+      0.000086,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   7%  258kB"
+    ],
+    [
+      0.005427,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   7%  262kB"
+    ],
+    [
+      0.000198,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   7%  266kB"
+    ],
+    [
+      0.000332,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   7%  270kB"
+    ],
+    [
+      0.000084,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   7%  274kB"
+    ],
+    [
+      0.003132,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   7%  278kB"
+    ],
+    [
+      0.000130,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   7%  282kB"
+    ],
+    [
+      0.000285,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   8%  286kB"
+    ],
+    [
+      0.000121,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   8%  290kB"
+    ],
+    [
+      0.009172,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   8%  294kB"
+    ],
+    [
+      0.000109,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   8%  299kB"
+    ],
+    [
+      0.000220,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   8%  303kB"
+    ],
+    [
+      0.000122,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   8%  307kB"
+    ],
+    [
+      0.013812,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   8%  311kB"
+    ],
+    [
+      0.000062,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   8%  315kB"
+    ],
+    [
+      0.000096,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   9%  319kB"
+    ],
+    [
+      0.000060,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   9%  323kB"
+    ],
+    [
+      0.011618,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   9%  327kB"
+    ],
+    [
+      0.000035,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   9%  331kB"
+    ],
+    [
+      0.000074,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   9%  335kB"
+    ],
+    [
+      0.000031,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   9%  339kB"
+    ],
+    [
+      0.006792,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   9%  344kB"
+    ],
+    [
+      0.000036,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   9%  348kB"
+    ],
+    [
+      0.000076,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):   9%  352kB"
+    ],
+    [
+      0.000033,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  10%  356kB"
+    ],
+    [
+      0.000967,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  10%  360kB"
+    ],
+    [
+      0.000052,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  10%  364kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  10%  368kB"
+    ],
+    [
+      0.000027,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  10%  372kB"
+    ],
+    [
+      0.004344,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  10%  376kB"
+    ],
+    [
+      0.000073,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  10%  380kB"
+    ],
+    [
+      0.000211,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  10%  385kB"
+    ],
+    [
+      0.000102,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  10%  389kB"
+    ],
+    [
+      0.000239,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  11%  393kB"
+    ],
+    [
+      0.000118,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  11%  397kB"
+    ],
+    [
+      0.000168,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  11%  401kB"
+    ],
+    [
+      0.000322,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  11%  405kB"
+    ],
+    [
+      0.003073,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  11%  409kB"
+    ],
+    [
+      0.000131,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  11%  413kB"
+    ],
+    [
+      0.000195,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  11%  417kB"
+    ],
+    [
+      0.000117,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  11%  421kB"
+    ],
+    [
+      0.007586,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  12%  425kB"
+    ],
+    [
+      0.000053,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  12%  430kB"
+    ],
+    [
+      0.000085,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  12%  434kB"
+    ],
+    [
+      0.000045,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  12%  438kB"
+    ],
+    [
+      0.011164,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  12%  442kB"
+    ],
+    [
+      0.000071,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  12%  446kB"
+    ],
+    [
+      0.000081,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  12%  450kB"
+    ],
+    [
+      0.000049,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  12%  454kB"
+    ],
+    [
+      0.010326,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  12%  458kB"
+    ],
+    [
+      0.000057,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  13%  462kB"
+    ],
+    [
+      0.000064,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  13%  466kB"
+    ],
+    [
+      0.000036,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  13%  471kB"
+    ],
+    [
+      0.012512,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  13%  475kB"
+    ],
+    [
+      0.000071,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  13%  479kB"
+    ],
+    [
+      0.000127,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  13%  483kB"
+    ],
+    [
+      0.000059,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  13%  487kB"
+    ],
+    [
+      0.009313,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  13%  491kB"
+    ],
+    [
+      0.000053,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  14%  495kB"
+    ],
+    [
+      0.000109,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  14%  499kB"
+    ],
+    [
+      0.000039,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  14%  503kB"
+    ],
+    [
+      0.010070,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  14%  507kB"
+    ],
+    [
+      0.000032,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  14%  512kB"
+    ],
+    [
+      0.000068,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  14%  516kB"
+    ],
+    [
+      0.000036,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  14%  520kB"
+    ],
+    [
+      0.013681,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  14%  524kB"
+    ],
+    [
+      0.000046,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  14%  528kB"
+    ],
+    [
+      0.000085,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  15%  532kB"
+    ],
+    [
+      0.000030,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  15%  536kB"
+    ],
+    [
+      0.009180,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  15%  540kB"
+    ],
+    [
+      0.000011,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  15%  544kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  15%  548kB"
+    ],
+    [
+      0.000036,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  15%  552kB"
+    ],
+    [
+      0.010689,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  15%  557kB"
+    ],
+    [
+      0.000104,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  15%  561kB"
+    ],
+    [
+      0.000107,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  15%  565kB"
+    ],
+    [
+      0.000033,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  16%  569kB"
+    ],
+    [
+      0.010563,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  16%  573kB"
+    ],
+    [
+      0.000057,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  16%  577kB"
+    ],
+    [
+      0.000089,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  16%  581kB"
+    ],
+    [
+      0.000049,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  16%  585kB"
+    ],
+    [
+      0.010060,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  16%  589kB"
+    ],
+    [
+      0.000037,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  16%  593kB"
+    ],
+    [
+      0.000075,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  16%  598kB"
+    ],
+    [
+      0.000049,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  17%  602kB"
+    ],
+    [
+      0.011123,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  17%  606kB"
+    ],
+    [
+      0.000030,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  17%  610kB"
+    ],
+    [
+      0.000048,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  17%  614kB"
+    ],
+    [
+      0.000028,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  17%  618kB"
+    ],
+    [
+      0.018668,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  17%  622kB"
+    ],
+    [
+      0.000040,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  17%  626kB"
+    ],
+    [
+      0.000106,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  17%  630kB"
+    ],
+    [
+      0.000051,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  17%  634kB"
+    ],
+    [
+      0.010764,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  18%  638kB"
+    ],
+    [
+      0.000026,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  18%  643kB"
+    ],
+    [
+      0.000064,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  18%  647kB"
+    ],
+    [
+      0.000035,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  18%  651kB"
+    ],
+    [
+      0.010588,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  18%  655kB"
+    ],
+    [
+      0.000025,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  18%  659kB"
+    ],
+    [
+      0.000057,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  18%  663kB"
+    ],
+    [
+      0.000040,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  18%  667kB"
+    ],
+    [
+      0.011214,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  18%  671kB"
+    ],
+    [
+      0.000035,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  19%  675kB"
+    ],
+    [
+      0.000091,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  19%  679kB"
+    ],
+    [
+      0.000049,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  19%  684kB"
+    ],
+    [
+      0.010149,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  19%  688kB"
+    ],
+    [
+      0.000025,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  19%  692kB"
+    ],
+    [
+      0.000093,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  19%  696kB"
+    ],
+    [
+      0.000051,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  19%  700kB"
+    ],
+    [
+      0.011006,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  19%  704kB"
+    ],
+    [
+      0.000084,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  20%  708kB"
+    ],
+    [
+      0.000137,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  20%  712kB"
+    ],
+    [
+      0.000076,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  20%  716kB"
+    ],
+    [
+      0.013746,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  20%  720kB"
+    ],
+    [
+      0.000301,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  20%  724kB"
+    ],
+    [
+      0.000293,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  20%  729kB"
+    ],
+    [
+      0.000113,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  20%  733kB"
+    ],
+    [
+      0.009753,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  20%  737kB"
+    ],
+    [
+      0.000201,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  20%  741kB"
+    ],
+    [
+      0.000258,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  21%  745kB"
+    ],
+    [
+      0.000085,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  21%  749kB"
+    ],
+    [
+      0.011239,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  21%  753kB"
+    ],
+    [
+      0.000155,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  21%  757kB"
+    ],
+    [
+      0.000201,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  21%  761kB"
+    ],
+    [
+      0.000119,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  21%  765kB"
+    ],
+    [
+      0.009658,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  21%  770kB"
+    ],
+    [
+      0.000153,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  21%  774kB"
+    ],
+    [
+      0.000209,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  21%  778kB"
+    ],
+    [
+      0.000110,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  22%  782kB"
+    ],
+    [
+      0.012272,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  22%  786kB"
+    ],
+    [
+      0.000079,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  22%  790kB"
+    ],
+    [
+      0.000180,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  22%  794kB"
+    ],
+    [
+      0.000085,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  22%  798kB"
+    ],
+    [
+      0.074623,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  22%  802kB"
+    ],
+    [
+      0.000450,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  22%  806kB"
+    ],
+    [
+      0.000256,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  22%  811kB"
+    ],
+    [
+      0.000164,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  23%  815kB"
+    ],
+    [
+      0.007582,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  23%  819kB"
+    ],
+    [
+      0.000141,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  23%  823kB"
+    ],
+    [
+      0.000225,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  23%  827kB"
+    ],
+    [
+      0.000127,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  23%  831kB"
+    ],
+    [
+      0.000258,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  23%  835kB"
+    ],
+    [
+      0.000100,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  23%  839kB"
+    ],
+    [
+      0.000146,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  23%  843kB"
+    ],
+    [
+      0.000113,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  23%  847kB"
+    ],
+    [
+      0.000269,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  24%  851kB"
+    ],
+    [
+      0.000092,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  24%  856kB"
+    ],
+    [
+      0.000150,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  24%  860kB"
+    ],
+    [
+      0.000280,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  24%  864kB"
+    ],
+    [
+      0.000253,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  24%  868kB"
+    ],
+    [
+      0.000116,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  24%  872kB"
+    ],
+    [
+      0.000151,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  24%  876kB"
+    ],
+    [
+      0.000112,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  24%  880kB"
+    ],
+    [
+      0.000247,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  25%  884kB"
+    ],
+    [
+      0.000110,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  25%  888kB"
+    ],
+    [
+      0.000149,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  25%  892kB"
+    ],
+    [
+      0.000107,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  25%  897kB"
+    ],
+    [
+      0.000264,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  25%  901kB"
+    ],
+    [
+      0.000105,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  25%  905kB"
+    ],
+    [
+      0.000143,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  25%  909kB"
+    ],
+    [
+      0.000107,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  25%  913kB"
+    ],
+    [
+      0.000229,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  25%  917kB"
+    ],
+    [
+      0.000110,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  26%  921kB"
+    ],
+    [
+      0.000164,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  26%  925kB"
+    ],
+    [
+      0.000099,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  26%  929kB"
+    ],
+    [
+      0.008767,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  26%  933kB"
+    ],
+    [
+      0.000100,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  26%  937kB"
+    ],
+    [
+      0.000143,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  26%  942kB"
+    ],
+    [
+      0.000091,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  26%  946kB"
+    ],
+    [
+      0.015554,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  26%  950kB"
+    ],
+    [
+      0.000013,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  26%  954kB"
+    ],
+    [
+      0.000271,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  27%  958kB"
+    ],
+    [
+      0.000459,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  27%  962kB"
+    ],
+    [
+      0.015412,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  27%  966kB"
+    ],
+    [
+      0.000093,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  27%  970kB"
+    ],
+    [
+      0.000128,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  27%  974kB"
+    ],
+    [
+      0.000074,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  27%  978kB"
+    ],
+    [
+      0.010823,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  27%  983kB"
+    ],
+    [
+      0.000146,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  27%  987kB"
+    ],
+    [
+      0.000201,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  28%  991kB"
+    ],
+    [
+      0.000243,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  28%  995kB"
+    ],
+    [
+      0.012455,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  28%  999kB"
+    ],
+    [
+      0.000188,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  28%  1.0MB"
+    ],
+    [
+      0.000178,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  28%  1.0MB"
+    ],
+    [
+      0.000083,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  28%  1.0MB"
+    ],
+    [
+      0.007955,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  28%  1.0MB"
+    ],
+    [
+      0.000120,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  28%  1.0MB"
+    ],
+    [
+      0.000190,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  28%  1.0MB"
+    ],
+    [
+      0.000127,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  29%  1.0MB"
+    ],
+    [
+      0.010728,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  29%  1.0MB"
+    ],
+    [
+      0.000265,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  29%  1.0MB"
+    ],
+    [
+      0.000211,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  29%  1.0MB"
+    ],
+    [
+      0.000193,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  29%  1.0MB"
+    ],
+    [
+      0.016097,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  29%  1.0MB"
+    ],
+    [
+      0.000032,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  29%  1.1MB"
+    ],
+    [
+      0.000076,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  29%  1.1MB"
+    ],
+    [
+      0.000046,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  29%  1.1MB"
+    ],
+    [
+      0.012660,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  30%  1.1MB"
+    ],
+    [
+      0.000058,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  30%  1.1MB"
+    ],
+    [
+      0.000122,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  30%  1.1MB"
+    ],
+    [
+      0.000049,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  30%  1.1MB"
+    ],
+    [
+      0.008644,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  30%  1.1MB"
+    ],
+    [
+      0.000083,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  30%  1.1MB"
+    ],
+    [
+      0.000096,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  30%  1.1MB"
+    ],
+    [
+      0.000068,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  30%  1.1MB"
+    ],
+    [
+      0.011885,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  31%  1.1MB"
+    ],
+    [
+      0.000097,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  31%  1.1MB"
+    ],
+    [
+      0.000079,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  31%  1.1MB"
+    ],
+    [
+      0.000073,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  31%  1.1MB"
+    ],
+    [
+      0.009264,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  31%  1.1MB"
+    ],
+    [
+      0.000083,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  31%  1.1MB"
+    ],
+    [
+      0.000102,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  31%  1.1MB"
+    ],
+    [
+      0.000069,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  31%  1.1MB"
+    ],
+    [
+      0.009848,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  31%  1.1MB"
+    ],
+    [
+      0.000305,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  32%  1.1MB"
+    ],
+    [
+      0.000293,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  32%  1.1MB"
+    ],
+    [
+      0.000160,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  32%  1.1MB"
+    ],
+    [
+      0.018256,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  32%  1.1MB"
+    ],
+    [
+      0.000216,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  32%  1.2MB"
+    ],
+    [
+      0.000241,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  32%  1.2MB"
+    ],
+    [
+      0.000162,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  32%  1.2MB"
+    ],
+    [
+      0.009859,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  32%  1.2MB"
+    ],
+    [
+      0.000161,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  32%  1.2MB"
+    ],
+    [
+      0.000232,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  33%  1.2MB"
+    ],
+    [
+      0.000115,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  33%  1.2MB"
+    ],
+    [
+      0.011317,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  33%  1.2MB\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  33%  1.2MB\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  33%  1.2MB"
+    ],
+    [
+      0.000225,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  33%  1.2MB"
+    ],
+    [
+      0.010964,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  33%  1.2MB"
+    ],
+    [
+      0.000126,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  33%  1.2MB"
+    ],
+    [
+      0.000186,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  34%  1.2MB"
+    ],
+    [
+      0.000137,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  34%  1.2MB"
+    ],
+    [
+      0.010044,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  34%  1.2MB"
+    ],
+    [
+      0.000104,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  34%  1.2MB"
+    ],
+    [
+      0.000213,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  34%  1.2MB"
+    ],
+    [
+      0.000107,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  34%  1.2MB"
+    ],
+    [
+      0.009915,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  34%  1.2MB"
+    ],
+    [
+      0.000171,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  34%  1.2MB"
+    ],
+    [
+      0.000207,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  34%  1.2MB"
+    ],
+    [
+      0.000120,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  35%  1.2MB"
+    ],
+    [
+      0.012530,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  35%  1.2MB"
+    ],
+    [
+      0.000387,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  35%  1.2MB"
+    ],
+    [
+      0.000198,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  35%  1.3MB"
+    ],
+    [
+      0.000476,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  35%  1.3MB"
+    ],
+    [
+      0.006733,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  35%  1.3MB"
+    ],
+    [
+      0.000016,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  35%  1.3MB"
+    ],
+    [
+      0.000196,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  35%  1.3MB"
+    ],
+    [
+      0.000060,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  36%  1.3MB"
+    ],
+    [
+      0.012552,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  36%  1.3MB"
+    ],
+    [
+      0.000078,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  36%  1.3MB"
+    ],
+    [
+      0.000130,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  36%  1.3MB"
+    ],
+    [
+      0.000078,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  36%  1.3MB"
+    ],
+    [
+      0.010957,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  36%  1.3MB"
+    ],
+    [
+      0.000044,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  36%  1.3MB"
+    ],
+    [
+      0.000136,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  36%  1.3MB"
+    ],
+    [
+      0.000081,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  36%  1.3MB"
+    ],
+    [
+      0.009340,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  37%  1.3MB"
+    ],
+    [
+      0.000094,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  37%  1.3MB"
+    ],
+    [
+      0.000132,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  37%  1.3MB"
+    ],
+    [
+      0.000058,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  37%  1.3MB"
+    ],
+    [
+      0.010635,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  37%  1.3MB"
+    ],
+    [
+      0.000076,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  37%  1.3MB"
+    ],
+    [
+      0.000103,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  37%  1.3MB"
+    ],
+    [
+      0.000063,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  37%  1.3MB"
+    ],
+    [
+      0.015023,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  37%  1.3MB"
+    ],
+    [
+      0.000071,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  38%  1.3MB"
+    ],
+    [
+      0.000101,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  38%  1.4MB"
+    ],
+    [
+      0.000078,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  38%  1.4MB"
+    ],
+    [
+      0.014076,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  38%  1.4MB"
+    ],
+    [
+      0.000078,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  38%  1.4MB"
+    ],
+    [
+      0.000128,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  38%  1.4MB"
+    ],
+    [
+      0.000074,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  38%  1.4MB"
+    ],
+    [
+      0.005956,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  38%  1.4MB"
+    ],
+    [
+      0.000179,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  39%  1.4MB"
+    ],
+    [
+      0.000133,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  39%  1.4MB"
+    ],
+    [
+      0.000086,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  39%  1.4MB"
+    ],
+    [
+      0.010182,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  39%  1.4MB"
+    ],
+    [
+      0.000215,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  39%  1.4MB"
+    ],
+    [
+      0.000247,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  39%  1.4MB"
+    ],
+    [
+      0.000117,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  39%  1.4MB"
+    ],
+    [
+      0.009818,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  39%  1.4MB"
+    ],
+    [
+      0.000099,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  39%  1.4MB"
+    ],
+    [
+      0.000201,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  40%  1.4MB"
+    ],
+    [
+      0.000125,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  40%  1.4MB"
+    ],
+    [
+      0.010661,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  40%  1.4MB"
+    ],
+    [
+      0.000144,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  40%  1.4MB"
+    ],
+    [
+      0.000267,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  40%  1.4MB"
+    ],
+    [
+      0.000050,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  40%  1.4MB"
+    ],
+    [
+      0.018859,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  40%  1.4MB"
+    ],
+    [
+      0.000097,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  40%  1.4MB"
+    ],
+    [
+      0.000178,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  40%  1.4MB"
+    ],
+    [
+      0.000097,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  41%  1.5MB"
+    ],
+    [
+      0.011490,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  41%  1.5MB"
+    ],
+    [
+      0.000078,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  41%  1.5MB"
+    ],
+    [
+      0.000182,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  41%  1.5MB"
+    ],
+    [
+      0.000063,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  41%  1.5MB"
+    ],
+    [
+      0.008441,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  41%  1.5MB"
+    ],
+    [
+      0.000145,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  41%  1.5MB"
+    ],
+    [
+      0.000240,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  41%  1.5MB"
+    ],
+    [
+      0.000138,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  42%  1.5MB"
+    ],
+    [
+      0.010808,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  42%  1.5MB"
+    ],
+    [
+      0.000839,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  42%  1.5MB"
+    ],
+    [
+      0.000039,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  42%  1.5MB\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  42%  1.5MB"
+    ],
+    [
+      0.010829,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  42%  1.5MB"
+    ],
+    [
+      0.000102,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  42%  1.5MB"
+    ],
+    [
+      0.000173,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  42%  1.5MB"
+    ],
+    [
+      0.000074,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  42%  1.5MB"
+    ],
+    [
+      0.010083,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  43%  1.5MB"
+    ],
+    [
+      0.000163,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  43%  1.5MB"
+    ],
+    [
+      0.000275,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  43%  1.5MB"
+    ],
+    [
+      0.000151,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  43%  1.5MB"
+    ],
+    [
+      0.010487,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  43%  1.5MB"
+    ],
+    [
+      0.000114,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  43%  1.5MB"
+    ],
+    [
+      0.000240,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  43%  1.5MB"
+    ],
+    [
+      0.000141,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  43%  1.6MB"
+    ],
+    [
+      0.015229,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  43%  1.6MB"
+    ],
+    [
+      0.000590,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  44%  1.6MB\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  44%  1.6MB\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  44%  1.6MB"
+    ],
+    [
+      0.009660,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  44%  1.6MB"
+    ],
+    [
+      0.000223,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  44%  1.6MB"
+    ],
+    [
+      0.000235,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  44%  1.6MB"
+    ],
+    [
+      0.000080,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  44%  1.6MB"
+    ],
+    [
+      0.009886,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  44%  1.6MB"
+    ],
+    [
+      0.000139,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  45%  1.6MB"
+    ],
+    [
+      0.000159,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  45%  1.6MB"
+    ],
+    [
+      0.000098,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  45%  1.6MB"
+    ],
+    [
+      0.011213,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  45%  1.6MB"
+    ],
+    [
+      0.000316,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  45%  1.6MB\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  45%  1.6MB"
+    ],
+    [
+      0.000050,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  45%  1.6MB"
+    ],
+    [
+      0.013583,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  45%  1.6MB"
+    ],
+    [
+      0.000153,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  45%  1.6MB"
+    ],
+    [
+      0.000242,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  46%  1.6MB"
+    ],
+    [
+      0.000144,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  46%  1.6MB"
+    ],
+    [
+      0.008308,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  46%  1.6MB"
+    ],
+    [
+      0.000132,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  46%  1.6MB"
+    ],
+    [
+      0.000231,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  46%  1.6MB"
+    ],
+    [
+      0.000122,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  46%  1.7MB"
+    ],
+    [
+      0.011350,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  46%  1.7MB"
+    ],
+    [
+      0.000170,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  46%  1.7MB"
+    ],
+    [
+      0.000185,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  47%  1.7MB"
+    ],
+    [
+      0.000125,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  47%  1.7MB"
+    ],
+    [
+      0.013368,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  47%  1.7MB"
+    ],
+    [
+      0.000117,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  47%  1.7MB"
+    ],
+    [
+      0.000166,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  47%  1.7MB"
+    ],
+    [
+      0.000103,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  47%  1.7MB"
+    ],
+    [
+      0.007714,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  47%  1.7MB"
+    ],
+    [
+      0.000096,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  47%  1.7MB"
+    ],
+    [
+      0.000127,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  47%  1.7MB"
+    ],
+    [
+      0.000083,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  48%  1.7MB"
+    ],
+    [
+      0.011908,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  48%  1.7MB"
+    ],
+    [
+      0.000102,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  48%  1.7MB"
+    ],
+    [
+      0.000210,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  48%  1.7MB"
+    ],
+    [
+      0.000129,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  48%  1.7MB"
+    ],
+    [
+      0.009302,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  48%  1.7MB"
+    ],
+    [
+      0.000086,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  48%  1.7MB"
+    ],
+    [
+      0.000104,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  48%  1.7MB"
+    ],
+    [
+      0.000065,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  48%  1.7MB"
+    ],
+    [
+      0.009544,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  49%  1.7MB"
+    ],
+    [
+      0.000079,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  49%  1.7MB"
+    ],
+    [
+      0.000097,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  49%  1.7MB"
+    ],
+    [
+      0.000063,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  49%  1.7MB"
+    ],
+    [
+      0.042438,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  49%  1.8MB"
+    ],
+    [
+      0.000148,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  49%  1.8MB"
+    ],
+    [
+      0.000208,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  49%  1.8MB"
+    ],
+    [
+      0.000130,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  49%  1.8MB"
+    ],
+    [
+      0.067157,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  50%  1.8MB"
+    ],
+    [
+      0.000059,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  50%  1.8MB"
+    ],
+    [
+      0.000085,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  50%  1.8MB"
+    ],
+    [
+      0.000049,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  50%  1.8MB"
+    ],
+    [
+      0.012482,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  50%  1.8MB"
+    ],
+    [
+      0.000219,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  50%  1.8MB"
+    ],
+    [
+      0.000191,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  50%  1.8MB"
+    ],
+    [
+      0.000131,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  50%  1.8MB"
+    ],
+    [
+      0.010236,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  50%  1.8MB"
+    ],
+    [
+      0.000067,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  51%  1.8MB"
+    ],
+    [
+      0.000226,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  51%  1.8MB"
+    ],
+    [
+      0.000109,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  51%  1.8MB"
+    ],
+    [
+      0.006994,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  51%  1.8MB"
+    ],
+    [
+      0.000062,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  51%  1.8MB"
+    ],
+    [
+      0.000184,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  51%  1.8MB"
+    ],
+    [
+      0.000098,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  51%  1.8MB"
+    ],
+    [
+      0.007794,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  51%  1.8MB"
+    ],
+    [
+      0.000148,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  51%  1.8MB"
+    ],
+    [
+      0.000464,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  52%  1.8MB"
+    ],
+    [
+      0.000023,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  52%  1.8MB"
+    ],
+    [
+      0.000249,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  52%  1.9MB"
+    ],
+    [
+      0.000089,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  52%  1.9MB"
+    ],
+    [
+      0.000159,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  52%  1.9MB"
+    ],
+    [
+      0.000113,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  52%  1.9MB"
+    ],
+    [
+      0.005759,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  52%  1.9MB"
+    ],
+    [
+      0.000046,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  52%  1.9MB"
+    ],
+    [
+      0.000220,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  53%  1.9MB"
+    ],
+    [
+      0.000129,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  53%  1.9MB"
+    ],
+    [
+      0.015211,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  53%  1.9MB"
+    ],
+    [
+      0.000115,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  53%  1.9MB"
+    ],
+    [
+      0.000325,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  53%  1.9MB\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  53%  1.9MB"
+    ],
+    [
+      0.025417,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  53%  1.9MB"
+    ],
+    [
+      0.000075,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  53%  1.9MB"
+    ],
+    [
+      0.000587,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  53%  1.9MB"
+    ],
+    [
+      0.000096,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  54%  1.9MB"
+    ],
+    [
+      0.010311,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  54%  1.9MB"
+    ],
+    [
+      0.000121,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  54%  1.9MB"
+    ],
+    [
+      0.000175,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  54%  1.9MB"
+    ],
+    [
+      0.000105,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  54%  1.9MB"
+    ],
+    [
+      0.010369,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  54%  1.9MB"
+    ],
+    [
+      0.000091,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  54%  1.9MB"
+    ],
+    [
+      0.000154,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  54%  1.9MB"
+    ],
+    [
+      0.000103,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  54%  1.9MB"
+    ],
+    [
+      0.017445,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  55%  1.9MB"
+    ],
+    [
+      0.000124,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  55%  2.0MB"
+    ],
+    [
+      0.000280,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  55%  2.0MB"
+    ],
+    [
+      0.000151,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  55%  2.0MB"
+    ],
+    [
+      0.011562,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  55%  2.0MB"
+    ],
+    [
+      0.000053,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  55%  2.0MB"
+    ],
+    [
+      0.000158,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  55%  2.0MB\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  55%  2.0MB"
+    ],
+    [
+      0.021987,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  56%  2.0MB"
+    ],
+    [
+      0.000106,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  56%  2.0MB"
+    ],
+    [
+      0.000262,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  56%  2.0MB"
+    ],
+    [
+      0.000162,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  56%  2.0MB"
+    ],
+    [
+      0.011834,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  56%  2.0MB"
+    ],
+    [
+      0.000030,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  56%  2.0MB"
+    ],
+    [
+      0.000203,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  56%  2.0MB"
+    ],
+    [
+      0.000350,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  56%  2.0MB"
+    ],
+    [
+      0.007486,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  56%  2.0MB"
+    ],
+    [
+      0.000128,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  57%  2.0MB"
+    ],
+    [
+      0.000203,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  57%  2.0MB"
+    ],
+    [
+      0.000131,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  57%  2.0MB"
+    ],
+    [
+      0.010668,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  57%  2.0MB"
+    ],
+    [
+      0.000169,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  57%  2.0MB"
+    ],
+    [
+      0.000199,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  57%  2.0MB"
+    ],
+    [
+      0.000138,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  57%  2.0MB"
+    ],
+    [
+      0.018362,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  57%  2.0MB"
+    ],
+    [
+      0.000137,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  58%  2.1MB"
+    ],
+    [
+      0.000268,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  58%  2.1MB"
+    ],
+    [
+      0.000084,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  58%  2.1MB"
+    ],
+    [
+      0.019835,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  58%  2.1MB"
+    ],
+    [
+      0.000144,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  58%  2.1MB"
+    ],
+    [
+      0.000207,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  58%  2.1MB"
+    ],
+    [
+      0.000117,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  58%  2.1MB"
+    ],
+    [
+      0.010884,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  58%  2.1MB"
+    ],
+    [
+      0.000125,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  58%  2.1MB"
+    ],
+    [
+      0.000231,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  59%  2.1MB"
+    ],
+    [
+      0.000117,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  59%  2.1MB"
+    ],
+    [
+      0.010884,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  59%  2.1MB"
+    ],
+    [
+      0.000173,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  59%  2.1MB"
+    ],
+    [
+      0.000205,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  59%  2.1MB"
+    ],
+    [
+      0.000154,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  59%  2.1MB"
+    ],
+    [
+      0.010389,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  59%  2.1MB"
+    ],
+    [
+      0.000119,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  59%  2.1MB"
+    ],
+    [
+      0.000186,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  59%  2.1MB"
+    ],
+    [
+      0.000103,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  60%  2.1MB"
+    ],
+    [
+      0.020314,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  60%  2.1MB"
+    ],
+    [
+      0.000092,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  60%  2.1MB"
+    ],
+    [
+      0.000194,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  60%  2.1MB"
+    ],
+    [
+      0.000063,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  60%  2.1MB"
+    ],
+    [
+      0.018295,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  60%  2.1MB"
+    ],
+    [
+      0.000135,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  60%  2.2MB"
+    ],
+    [
+      0.000225,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  60%  2.2MB"
+    ],
+    [
+      0.000118,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  61%  2.2MB"
+    ],
+    [
+      0.011195,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  61%  2.2MB"
+    ],
+    [
+      0.000165,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  61%  2.2MB"
+    ],
+    [
+      0.000195,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  61%  2.2MB"
+    ],
+    [
+      0.000142,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  61%  2.2MB"
+    ],
+    [
+      0.011079,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  61%  2.2MB"
+    ],
+    [
+      0.000111,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  61%  2.2MB"
+    ],
+    [
+      0.000198,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  61%  2.2MB"
+    ],
+    [
+      0.000129,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  61%  2.2MB"
+    ],
+    [
+      0.010864,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  62%  2.2MB"
+    ],
+    [
+      0.000723,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  62%  2.2MB"
+    ],
+    [
+      0.001880,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  62%  2.2MB"
+    ],
+    [
+      0.000298,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  62%  2.2MB"
+    ],
+    [
+      0.015353,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  62%  2.2MB"
+    ],
+    [
+      0.000041,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  62%  2.2MB"
+    ],
+    [
+      0.000076,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  62%  2.2MB"
+    ],
+    [
+      0.000041,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  62%  2.2MB"
+    ],
+    [
+      0.008536,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  62%  2.2MB"
+    ],
+    [
+      0.000156,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  63%  2.2MB"
+    ],
+    [
+      0.000232,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  63%  2.2MB"
+    ],
+    [
+      0.000101,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  63%  2.2MB"
+    ],
+    [
+      0.020755,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  63%  2.2MB"
+    ],
+    [
+      0.000137,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  63%  2.2MB"
+    ],
+    [
+      0.000276,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  63%  2.3MB"
+    ],
+    [
+      0.000067,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  63%  2.3MB"
+    ],
+    [
+      0.011162,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  63%  2.3MB"
+    ],
+    [
+      0.000313,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  64%  2.3MB"
+    ],
+    [
+      0.000260,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  64%  2.3MB"
+    ],
+    [
+      0.000125,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  64%  2.3MB"
+    ],
+    [
+      0.011353,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  64%  2.3MB"
+    ],
+    [
+      0.000063,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  64%  2.3MB"
+    ],
+    [
+      0.000082,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  64%  2.3MB"
+    ],
+    [
+      0.000075,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  64%  2.3MB"
+    ],
+    [
+      0.008511,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  64%  2.3MB"
+    ],
+    [
+      0.000065,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  64%  2.3MB"
+    ],
+    [
+      0.000089,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  65%  2.3MB"
+    ],
+    [
+      0.000048,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  65%  2.3MB"
+    ],
+    [
+      0.016020,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  65%  2.3MB"
+    ],
+    [
+      0.000082,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  65%  2.3MB"
+    ],
+    [
+      0.000132,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  65%  2.3MB"
+    ],
+    [
+      0.000082,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  65%  2.3MB"
+    ],
+    [
+      0.011965,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  65%  2.3MB"
+    ],
+    [
+      0.000067,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  65%  2.3MB"
+    ],
+    [
+      0.000151,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  65%  2.3MB"
+    ],
+    [
+      0.000078,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  66%  2.3MB"
+    ],
+    [
+      0.019926,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  66%  2.3MB"
+    ],
+    [
+      0.000132,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  66%  2.3MB"
+    ],
+    [
+      0.000156,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  66%  2.4MB"
+    ],
+    [
+      0.000083,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  66%  2.4MB"
+    ],
+    [
+      0.011520,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  66%  2.4MB"
+    ],
+    [
+      0.000124,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  66%  2.4MB"
+    ],
+    [
+      0.000155,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  66%  2.4MB"
+    ],
+    [
+      0.000088,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  67%  2.4MB"
+    ],
+    [
+      0.010532,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  67%  2.4MB"
+    ],
+    [
+      0.000104,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  67%  2.4MB"
+    ],
+    [
+      0.000208,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  67%  2.4MB"
+    ],
+    [
+      0.000117,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  67%  2.4MB"
+    ],
+    [
+      0.009619,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  67%  2.4MB"
+    ],
+    [
+      0.000115,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  67%  2.4MB"
+    ],
+    [
+      0.000193,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  67%  2.4MB"
+    ],
+    [
+      0.000160,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  67%  2.4MB"
+    ],
+    [
+      0.015491,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  68%  2.4MB"
+    ],
+    [
+      0.000107,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  68%  2.4MB"
+    ],
+    [
+      0.000189,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  68%  2.4MB"
+    ],
+    [
+      0.000155,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  68%  2.4MB"
+    ],
+    [
+      0.018555,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  68%  2.4MB"
+    ],
+    [
+      0.000269,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  68%  2.4MB"
+    ],
+    [
+      0.000031,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  68%  2.4MB"
+    ],
+    [
+      0.000104,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  68%  2.4MB"
+    ],
+    [
+      0.012166,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  69%  2.4MB"
+    ],
+    [
+      0.000180,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  69%  2.4MB"
+    ],
+    [
+      0.000219,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  69%  2.4MB"
+    ],
+    [
+      0.000104,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  69%  2.5MB"
+    ],
+    [
+      0.011262,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  69%  2.5MB"
+    ],
+    [
+      0.000121,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  69%  2.5MB"
+    ],
+    [
+      0.000193,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  69%  2.5MB"
+    ],
+    [
+      0.000165,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  69%  2.5MB"
+    ],
+    [
+      0.010295,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  69%  2.5MB"
+    ],
+    [
+      0.000128,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  70%  2.5MB"
+    ],
+    [
+      0.000238,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  70%  2.5MB"
+    ],
+    [
+      0.000178,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  70%  2.5MB"
+    ],
+    [
+      0.020059,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  70%  2.5MB"
+    ],
+    [
+      0.000110,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  70%  2.5MB"
+    ],
+    [
+      0.000303,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  70%  2.5MB"
+    ],
+    [
+      0.000112,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  70%  2.5MB"
+    ],
+    [
+      0.009787,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  70%  2.5MB"
+    ],
+    [
+      0.000218,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  70%  2.5MB"
+    ],
+    [
+      0.000196,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  71%  2.5MB"
+    ],
+    [
+      0.000474,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  71%  2.5MB"
+    ],
+    [
+      0.017353,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  71%  2.5MB"
+    ],
+    [
+      0.000113,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  71%  2.5MB"
+    ],
+    [
+      0.000188,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  71%  2.5MB"
+    ],
+    [
+      0.000083,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  71%  2.5MB"
+    ],
+    [
+      0.010263,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  71%  2.5MB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  71%  2.5MB"
+    ],
+    [
+      0.000098,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  72%  2.5MB"
+    ],
+    [
+      0.000060,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  72%  2.6MB"
+    ],
+    [
+      0.010890,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  72%  2.6MB"
+    ],
+    [
+      0.000102,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  72%  2.6MB"
+    ],
+    [
+      0.000137,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  72%  2.6MB"
+    ],
+    [
+      0.000060,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  72%  2.6MB"
+    ],
+    [
+      0.011572,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  72%  2.6MB"
+    ],
+    [
+      0.000111,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  72%  2.6MB"
+    ],
+    [
+      0.000166,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  72%  2.6MB"
+    ],
+    [
+      0.000093,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  73%  2.6MB"
+    ],
+    [
+      0.014315,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  73%  2.6MB"
+    ],
+    [
+      0.000098,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  73%  2.6MB"
+    ],
+    [
+      0.000138,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  73%  2.6MB"
+    ],
+    [
+      0.000082,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  73%  2.6MB"
+    ],
+    [
+      0.010577,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  73%  2.6MB"
+    ],
+    [
+      0.000128,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  73%  2.6MB"
+    ],
+    [
+      0.000099,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  73%  2.6MB"
+    ],
+    [
+      0.000080,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  73%  2.6MB"
+    ],
+    [
+      0.022063,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  74%  2.6MB"
+    ],
+    [
+      0.000069,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  74%  2.6MB"
+    ],
+    [
+      0.000133,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  74%  2.6MB"
+    ],
+    [
+      0.000079,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  74%  2.6MB"
+    ],
+    [
+      0.008763,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  74%  2.6MB"
+    ],
+    [
+      0.000152,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  74%  2.6MB"
+    ],
+    [
+      0.000277,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  74%  2.6MB"
+    ],
+    [
+      0.000116,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  74%  2.7MB"
+    ],
+    [
+      0.010985,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  75%  2.7MB"
+    ],
+    [
+      0.000230,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  75%  2.7MB\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  75%  2.7MB\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  75%  2.7MB"
+    ],
+    [
+      0.010884,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  75%  2.7MB"
+    ],
+    [
+      0.000146,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  75%  2.7MB"
+    ],
+    [
+      0.000186,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  75%  2.7MB"
+    ],
+    [
+      0.000131,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  75%  2.7MB"
+    ],
+    [
+      0.012439,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  75%  2.7MB"
+    ],
+    [
+      0.000092,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  76%  2.7MB"
+    ],
+    [
+      0.000155,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  76%  2.7MB"
+    ],
+    [
+      0.000078,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  76%  2.7MB"
+    ],
+    [
+      0.011834,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  76%  2.7MB"
+    ],
+    [
+      0.000191,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  76%  2.7MB"
+    ],
+    [
+      0.000214,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  76%  2.7MB"
+    ],
+    [
+      0.000098,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  76%  2.7MB"
+    ],
+    [
+      0.021590,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  76%  2.7MB"
+    ],
+    [
+      0.000081,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  76%  2.7MB"
+    ],
+    [
+      0.000122,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  77%  2.7MB"
+    ],
+    [
+      0.000057,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  77%  2.7MB"
+    ],
+    [
+      0.011457,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  77%  2.7MB"
+    ],
+    [
+      0.000067,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  77%  2.7MB"
+    ],
+    [
+      0.000120,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  77%  2.7MB"
+    ],
+    [
+      0.000080,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  77%  2.7MB"
+    ],
+    [
+      0.009396,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  77%  2.8MB"
+    ],
+    [
+      0.000252,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  77%  2.8MB"
+    ],
+    [
+      0.000173,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  78%  2.8MB"
+    ],
+    [
+      0.000158,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  78%  2.8MB"
+    ],
+    [
+      0.009794,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  78%  2.8MB"
+    ],
+    [
+      0.000100,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  78%  2.8MB"
+    ],
+    [
+      0.000193,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  78%  2.8MB"
+    ],
+    [
+      0.000042,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  78%  2.8MB"
+    ],
+    [
+      0.014940,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  78%  2.8MB"
+    ],
+    [
+      0.000118,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  78%  2.8MB"
+    ],
+    [
+      0.000171,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  78%  2.8MB"
+    ],
+    [
+      0.000141,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  79%  2.8MB"
+    ],
+    [
+      0.010145,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  79%  2.8MB"
+    ],
+    [
+      0.000513,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  79%  2.8MB"
+    ],
+    [
+      0.000346,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  79%  2.8MB"
+    ],
+    [
+      0.000135,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  79%  2.8MB"
+    ],
+    [
+      0.020312,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  79%  2.8MB"
+    ],
+    [
+      0.000102,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  79%  2.8MB"
+    ],
+    [
+      0.000239,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  79%  2.8MB"
+    ],
+    [
+      0.000105,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  80%  2.8MB"
+    ],
+    [
+      0.011335,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  80%  2.8MB"
+    ],
+    [
+      0.000227,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  80%  2.8MB"
+    ],
+    [
+      0.000052,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  80%  2.8MB"
+    ],
+    [
+      0.000105,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  80%  2.8MB"
+    ],
+    [
+      0.010163,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  80%  2.9MB"
+    ],
+    [
+      0.000151,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  80%  2.9MB"
+    ],
+    [
+      0.000261,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  80%  2.9MB"
+    ],
+    [
+      0.000108,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  80%  2.9MB"
+    ],
+    [
+      0.010038,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  81%  2.9MB\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  81%  2.9MB"
+    ],
+    [
+      0.000190,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  81%  2.9MB"
+    ],
+    [
+      0.000137,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  81%  2.9MB"
+    ],
+    [
+      0.013086,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  81%  2.9MB"
+    ],
+    [
+      0.000158,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  81%  2.9MB"
+    ],
+    [
+      0.000235,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  81%  2.9MB"
+    ],
+    [
+      0.000245,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  81%  2.9MB"
+    ],
+    [
+      0.022414,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  81%  2.9MB"
+    ],
+    [
+      0.000086,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  82%  2.9MB"
+    ],
+    [
+      0.000226,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  82%  2.9MB"
+    ],
+    [
+      0.000088,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  82%  2.9MB"
+    ],
+    [
+      0.009938,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  82%  2.9MB\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  82%  2.9MB"
+    ],
+    [
+      0.000141,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  82%  2.9MB"
+    ],
+    [
+      0.000105,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  82%  2.9MB"
+    ],
+    [
+      0.011668,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  82%  2.9MB"
+    ],
+    [
+      0.000098,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  83%  2.9MB"
+    ],
+    [
+      0.000125,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  83%  2.9MB"
+    ],
+    [
+      0.000077,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  83%  2.9MB"
+    ],
+    [
+      0.009873,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  83%  2.9MB"
+    ],
+    [
+      0.000167,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  83%  3.0MB"
+    ],
+    [
+      0.000152,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  83%  3.0MB"
+    ],
+    [
+      0.000101,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  83%  3.0MB"
+    ],
+    [
+      0.013728,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  83%  3.0MB"
+    ],
+    [
+      0.000216,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  83%  3.0MB"
+    ],
+    [
+      0.000346,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  84%  3.0MB"
+    ],
+    [
+      0.000432,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  84%  3.0MB"
+    ],
+    [
+      0.011797,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  84%  3.0MB"
+    ],
+    [
+      0.000178,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  84%  3.0MB"
+    ],
+    [
+      0.000297,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  84%  3.0MB"
+    ],
+    [
+      0.000213,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  84%  3.0MB"
+    ],
+    [
+      0.070173,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  84%  3.0MB"
+    ],
+    [
+      0.000112,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  84%  3.0MB"
+    ],
+    [
+      0.000333,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  84%  3.0MB"
+    ],
+    [
+      0.000159,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  85%  3.0MB"
+    ],
+    [
+      0.010246,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  85%  3.0MB"
+    ],
+    [
+      0.000086,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  85%  3.0MB"
+    ],
+    [
+      0.000151,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  85%  3.0MB"
+    ],
+    [
+      0.000111,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  85%  3.0MB"
+    ],
+    [
+      0.009403,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  85%  3.0MB"
+    ],
+    [
+      0.000144,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  85%  3.0MB"
+    ],
+    [
+      0.000166,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  85%  3.0MB"
+    ],
+    [
+      0.000095,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  86%  3.0MB"
+    ],
+    [
+      0.011734,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  86%  3.0MB"
+    ],
+    [
+      0.000142,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  86%  3.1MB"
+    ],
+    [
+      0.000203,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  86%  3.1MB"
+    ],
+    [
+      0.000148,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  86%  3.1MB"
+    ],
+    [
+      0.012831,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  86%  3.1MB"
+    ],
+    [
+      0.000076,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  86%  3.1MB"
+    ],
+    [
+      0.000140,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  86%  3.1MB"
+    ],
+    [
+      0.000052,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  86%  3.1MB"
+    ],
+    [
+      0.011991,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  87%  3.1MB"
+    ],
+    [
+      0.000024,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  87%  3.1MB"
+    ],
+    [
+      0.000298,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  87%  3.1MB"
+    ],
+    [
+      0.000129,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  87%  3.1MB"
+    ],
+    [
+      0.012094,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  87%  3.1MB"
+    ],
+    [
+      0.000240,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  87%  3.1MB"
+    ],
+    [
+      0.000209,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  87%  3.1MB"
+    ],
+    [
+      0.000113,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  87%  3.1MB"
+    ],
+    [
+      0.011446,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  87%  3.1MB"
+    ],
+    [
+      0.000122,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  88%  3.1MB"
+    ],
+    [
+      0.000188,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  88%  3.1MB"
+    ],
+    [
+      0.000113,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  88%  3.1MB"
+    ],
+    [
+      0.019870,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  88%  3.1MB"
+    ],
+    [
+      0.000141,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  88%  3.1MB"
+    ],
+    [
+      0.000232,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  88%  3.1MB"
+    ],
+    [
+      0.000126,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  88%  3.1MB"
+    ],
+    [
+      0.008424,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  88%  3.1MB"
+    ],
+    [
+      0.000073,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  89%  3.1MB"
+    ],
+    [
+      0.000207,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  89%  3.2MB"
+    ],
+    [
+      0.000118,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  89%  3.2MB"
+    ],
+    [
+      0.012121,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  89%  3.2MB"
+    ],
+    [
+      0.000128,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  89%  3.2MB"
+    ],
+    [
+      0.000191,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  89%  3.2MB"
+    ],
+    [
+      0.000111,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  89%  3.2MB"
+    ],
+    [
+      0.013532,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  89%  3.2MB"
+    ],
+    [
+      0.000177,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  89%  3.2MB"
+    ],
+    [
+      0.000267,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  90%  3.2MB"
+    ],
+    [
+      0.000149,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  90%  3.2MB"
+    ],
+    [
+      0.012297,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  90%  3.2MB"
+    ],
+    [
+      0.000418,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  90%  3.2MB"
+    ],
+    [
+      0.000239,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  90%  3.2MB"
+    ],
+    [
+      0.000161,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  90%  3.2MB"
+    ],
+    [
+      0.009683,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  90%  3.2MB"
+    ],
+    [
+      0.000107,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  90%  3.2MB"
+    ],
+    [
+      0.000130,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  91%  3.2MB"
+    ],
+    [
+      0.000102,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  91%  3.2MB"
+    ],
+    [
+      0.017348,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  91%  3.2MB"
+    ],
+    [
+      0.000098,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  91%  3.2MB"
+    ],
+    [
+      0.000132,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  91%  3.2MB"
+    ],
+    [
+      0.000079,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  91%  3.2MB"
+    ],
+    [
+      0.011331,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  91%  3.2MB"
+    ],
+    [
+      0.000091,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  91%  3.2MB"
+    ],
+    [
+      0.000128,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  91%  3.3MB"
+    ],
+    [
+      0.000079,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  92%  3.3MB"
+    ],
+    [
+      0.012074,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  92%  3.3MB"
+    ],
+    [
+      0.000311,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  92%  3.3MB"
+    ],
+    [
+      0.000025,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  92%  3.3MB"
+    ],
+    [
+      0.000137,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  92%  3.3MB"
+    ],
+    [
+      0.008760,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  92%  3.3MB"
+    ],
+    [
+      0.000095,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  92%  3.3MB"
+    ],
+    [
+      0.000137,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  92%  3.3MB"
+    ],
+    [
+      0.000079,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  92%  3.3MB"
+    ],
+    [
+      0.014544,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  93%  3.3MB"
+    ],
+    [
+      0.000119,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  93%  3.3MB"
+    ],
+    [
+      0.000128,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  93%  3.3MB"
+    ],
+    [
+      0.000096,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  93%  3.3MB"
+    ],
+    [
+      0.008940,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  93%  3.3MB"
+    ],
+    [
+      0.000065,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  93%  3.3MB"
+    ],
+    [
+      0.000160,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  93%  3.3MB"
+    ],
+    [
+      0.000102,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  93%  3.3MB"
+    ],
+    [
+      0.011753,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  94%  3.3MB"
+    ],
+    [
+      0.000265,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  94%  3.3MB"
+    ],
+    [
+      0.000100,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  94%  3.3MB"
+    ],
+    [
+      0.000102,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  94%  3.3MB"
+    ],
+    [
+      0.020088,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  94%  3.3MB"
+    ],
+    [
+      0.000053,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  94%  3.3MB"
+    ],
+    [
+      0.000173,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  94%  3.4MB"
+    ],
+    [
+      0.000102,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  94%  3.4MB"
+    ],
+    [
+      0.010315,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  94%  3.4MB"
+    ],
+    [
+      0.000188,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  95%  3.4MB"
+    ],
+    [
+      0.000386,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  95%  3.4MB"
+    ],
+    [
+      0.000133,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  95%  3.4MB"
+    ],
+    [
+      0.011089,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  95%  3.4MB"
+    ],
+    [
+      0.000109,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  95%  3.4MB"
+    ],
+    [
+      0.000168,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  95%  3.4MB"
+    ],
+    [
+      0.000113,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  95%  3.4MB"
+    ],
+    [
+      0.010339,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  95%  3.4MB"
+    ],
+    [
+      0.000170,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  95%  3.4MB"
+    ],
+    [
+      0.000268,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  96%  3.4MB"
+    ],
+    [
+      0.000145,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  96%  3.4MB"
+    ],
+    [
+      0.014580,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  96%  3.4MB"
+    ],
+    [
+      0.000453,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  96%  3.4MB"
+    ],
+    [
+      0.000030,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  96%  3.4MB"
+    ],
+    [
+      0.000149,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  96%  3.4MB"
+    ],
+    [
+      0.012211,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  96%  3.4MB"
+    ],
+    [
+      0.000142,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  96%  3.4MB"
+    ],
+    [
+      0.000223,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  97%  3.4MB"
+    ],
+    [
+      0.000154,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  97%  3.4MB"
+    ],
+    [
+      0.008256,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  97%  3.4MB"
+    ],
+    [
+      0.000110,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  97%  3.4MB"
+    ],
+    [
+      0.000251,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  97%  3.4MB"
+    ],
+    [
+      0.000256,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  97%  3.5MB"
+    ],
+    [
+      0.008540,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  97%  3.5MB"
+    ],
+    [
+      0.000180,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  97%  3.5MB"
+    ],
+    [
+      0.000229,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  97%  3.5MB"
+    ],
+    [
+      0.000455,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  98%  3.5MB"
+    ],
+    [
+      0.016821,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  98%  3.5MB"
+    ],
+    [
+      0.000120,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  98%  3.5MB"
+    ],
+    [
+      0.000197,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  98%  3.5MB"
+    ],
+    [
+      0.000119,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  98%  3.5MB"
+    ],
+    [
+      0.010405,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  98%  3.5MB"
+    ],
+    [
+      0.000096,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  98%  3.5MB"
+    ],
+    [
+      0.000173,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  98%  3.5MB"
+    ],
+    [
+      0.000124,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  98%  3.5MB"
+    ],
+    [
+      0.011546,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  99%  3.5MB"
+    ],
+    [
+      0.000130,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  99%  3.5MB"
+    ],
+    [
+      0.000187,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  99%  3.5MB"
+    ],
+    [
+      0.000060,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  99%  3.5MB"
+    ],
+    [
+      0.009284,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  99%  3.5MB"
+    ],
+    [
+      0.000141,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  99%  3.5MB"
+    ],
+    [
+      0.000290,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  99%  3.5MB"
+    ],
+    [
+      0.000249,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):  99%  3.5MB"
+    ],
+    [
+      0.000301,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB): 100%  3.5MB"
+    ],
+    [
+      0.000335,
+      "\r  Downloading lxml-3.4.4.tar.gz (3.5MB):            \r  Downloading lxml-3.4.4.tar.gz (3.5MB): 3.5MB downloaded\r\n"
+    ],
+    [
+      0.356827,
+      "  Running setup.py (path:/home/noisy/.virtualenvs/find-similar-projects/build/lxml/setup.py) egg_info for package lxml\r\n"
+    ],
+    [
+      0.066549,
+      "    /usr/lib/python2.7/distutils/dist.py:267: UserWarning: Unknown distribution option: 'bugtrack_url'\r\n"
+    ],
+    [
+      0.000020,
+      "      warnings.warn(msg)\r\n"
+    ],
+    [
+      0.013568,
+      "    Building lxml version 3.4.4.\r\n"
+    ],
+    [
+      0.000026,
+      "    Building without Cython.\r\n"
+    ],
+    [
+      0.000060,
+      "    Using build configuration of libxslt 1.1.28\r\n"
+    ],
+    [
+      0.004794,
+      "    "
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.008426,
+      "    warning: no previously-included files found matching '*.py'\r\n"
+    ],
+    [
+      0.053199,
+      "Downloading/unpacking termcolor==1.1.0 (from -r requirements.txt (line 2))\r\n"
+    ],
+    [
+      0.351718,
+      "  Downloading termcolor-1.1.0.tar.gz\r\n"
+    ],
+    [
+      0.006215,
+      "  Running setup.py (path:/home/noisy/.virtualenvs/find-similar-projects/build/termcolor/setup.py) egg_info for package termcolor\r\n"
+    ],
+    [
+      0.061310,
+      "    \r\n"
+    ],
+    [
+      0.016014,
+      "Installing collected packages: lxml, termcolor\r\n"
+    ],
+    [
+      0.000115,
+      "  Running setup.py install for lxml\r\n"
+    ],
+    [
+      0.064740,
+      "    /usr/lib/python2.7/distutils/dist.py:267: UserWarning: Unknown distribution option: 'bugtrack_url'\r\n"
+    ],
+    [
+      0.000013,
+      "      warnings.warn(msg)\r\n"
+    ],
+    [
+      0.014566,
+      "    Building lxml version 3.4.4."
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000070,
+      "    Building without Cython."
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000074,
+      "    Using build configuration of libxslt 1.1.28"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.015496,
+      "    building 'lxml.etree' extension"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000352,
+      "    x86_64-linux-gnu-gcc -pthread -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fPIC -I/usr/include/libxml2 -I/home/noisy/.virtualenvs/find-similar-projects/build/lxml/src/lxml/includes -I/usr/include/python2.7 -c src/lxml/lxml.etree.c -o build/temp.linux-x86_64-2.7/src/lxml/lxml.etree.o -w"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "    x86_64-linux-gnu-gcc -pthread -shared -Wl,-O1 -Wl,-Bsymbolic-functions -Wl,-Bsymbolic-functions -Wl,-z,relro -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -D_FORTIFY_SOURCE=2 -g -fstack-protector --param=ssp-buffer-size=4 -Wformat -Werror=format-security build/temp.linux-x86_64-2.7/src/lxml/lxml.etree.o -lxslt -lexslt -lxml2 -lz -lm -o build/lib.linux-x86_64-2.7/lxml/etree.so\r\n"
+    ],
+    [
+      0.131039,
+      "    building 'lxml.objectify' extension\r\n"
+    ],
+    [
+      0.000164,
+      "    x86_64-linux-gnu-gcc -pthread -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fPIC -I/usr/include/libxml2 -I/home/noisy/.virtualenvs/find-similar-projects/build/lxml/src/lxml/includes -I/usr/include/python2.7 -c src/lxml/lxml.objectify.c -o build/temp.linux-x86_64-2.7/src/lxml/lxml.objectify.o -w\r\n"
+    ],
+    [
+      0.000020,
+      "    x86_64-linux-gnu-gcc -pthread -shared -Wl,-O1 -Wl,-Bsymbolic-functions -Wl,-Bsymbolic-functions -Wl,-z,relro -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -D_FORTIFY_SOURCE=2 -g -fstack-protector --param=ssp-buffer-size=4 -Wformat -Werror=format-security build/temp.linux-x86_64-2.7/src/lxml/lxml.objectify.o -lxslt -lexslt -lxml2 -lz -lm -o build/lib.linux-x86_64-2.7/lxml/objectify.so\r\n"
+    ],
+    [
+      0.134812,
+      "    \r\n"
+    ],
+    [
+      0.085991,
+      "  Running setup.py install for termcolor\r\n"
+    ],
+    [
+      0.074570,
+      "    \r\n"
+    ],
+    [
+      0.030280,
+      "Successfully installed lxml termcolor\r\n"
+    ],
+    [
+      0.000007,
+      "Cleaning up...\r\n"
+    ],
+    [
+      0.059283,
+      "\u001b[1;34m[find-similar-projects]\u001b[0m \u001b[0;32mnoisy@t440s \u001b[1;33m~/devel/find-similar-projects\u001b[0m \u001b[0;32m(master)\u001b[0m $ "
+    ],
+    [
+      0.059283,
+      "."
+    ],
+    [
+      0.064251,
+      "/"
+    ],
+    [
+      0.222533,
+      "f"
+    ],
+    [
+      0.129708,
+      "i"
+    ],
+    [
+      0.122992,
+      "nd-similar-projects.py "
+    ],
+    [
+      1.458201,
+      "-"
+    ],
+    [
+      0.133287,
+      "-"
+    ],
+    [
+      0.291495,
+      "h"
+    ],
+    [
+      0.104711,
+      "e"
+    ],
+    [
+      0.950856,
+      "l"
+    ],
+    [
+      0.060726,
+      "p"
+    ],
+    [
+      0.341774,
+      "\r\n"
+    ],
+    [
+      0.049722,
+      "usage: find-similar-projects.py python_package[==version] [python_package[==version] ...]\r\n"
+    ],
+    [
+      0.000011,
+      "\r\npositional arguments:\r\n  python_package\r\n\r\noptional arguments:\r\n  -h, --help      show this help message and exit\r\n\r\nfind-similar-projects.py is simple script, which grep all pip requirements\r\nfiles in all Github repositories. Thanks to this, script you can easily\r\nfind out whether someone else use similar configuration of python packages,\r\n"
+    ],
+    [
+      0.000004,
+      "how popular this configuration is.\r\n\r\nThis could help you found hundreds of similar projects, which could be used"
+    ],
+    [
+      0.000005,
+      "\r\nby you as example :)\r\n"
+    ],
+    [
+      0.000005,
+      "\r\nExample of use:\r\n"
+    ],
+    [
+      0.000004,
+      "\r\n./find-similar-projects.py django==1.8 django-allauth django-rest-auth\r\n"
+    ],
+    [
+      0.009539,
+      "\u001b[1;34m[find-similar-projects]\u001b[0m \u001b[0;32mnoisy@t440s \u001b[1;33m~/devel/find-similar-projects\u001b[0m \u001b[0;32m(master)\u001b[0m $ "
+    ],
+    [
+      2.000000,
+      "."
+    ],
+    [
+      0.000026,
+      "/"
+    ],
+    [
+      0.000083,
+      "f"
+    ],
+    [
+      0.000084,
+      "i"
+    ],
+    [
+      0.000085,
+      "n"
+    ],
+    [
+      0.000089,
+      "d"
+    ],
+    [
+      0.000075,
+      "-"
+    ],
+    [
+      0.000078,
+      "s"
+    ],
+    [
+      0.000085,
+      "i"
+    ],
+    [
+      0.000080,
+      "m"
+    ],
+    [
+      0.000084,
+      "i"
+    ],
+    [
+      0.000085,
+      "l"
+    ],
+    [
+      0.000154,
+      "a"
+    ],
+    [
+      0.000066,
+      "r"
+    ],
+    [
+      0.000089,
+      "-"
+    ],
+    [
+      0.000079,
+      "p"
+    ],
+    [
+      0.000083,
+      "r"
+    ],
+    [
+      0.000083,
+      "o"
+    ],
+    [
+      0.000085,
+      "j"
+    ],
+    [
+      0.000086,
+      "e"
+    ],
+    [
+      0.000091,
+      "c"
+    ],
+    [
+      0.000091,
+      "t"
+    ],
+    [
+      0.000092,
+      "s"
+    ],
+    [
+      0.000093,
+      "."
+    ],
+    [
+      0.000092,
+      "p"
+    ],
+    [
+      0.000095,
+      "y"
+    ],
+    [
+      0.000094,
+      " "
+    ],
+    [
+      0.000098,
+      "d"
+    ],
+    [
+      0.000096,
+      "j"
+    ],
+    [
+      0.000097,
+      "a"
+    ],
+    [
+      0.000098,
+      "n"
+    ],
+    [
+      0.000097,
+      "g"
+    ],
+    [
+      0.000098,
+      "o"
+    ],
+    [
+      0.000103,
+      "="
+    ],
+    [
+      0.000122,
+      "="
+    ],
+    [
+      0.000162,
+      "1"
+    ],
+    [
+      0.000155,
+      "."
+    ],
+    [
+      0.000161,
+      "8"
+    ],
+    [
+      0.000165,
+      " "
+    ],
+    [
+      0.000095,
+      "d"
+    ],
+    [
+      0.000087,
+      "j"
+    ],
+    [
+      0.000089,
+      "a"
+    ],
+    [
+      0.000121,
+      "n"
+    ],
+    [
+      0.000087,
+      "g"
+    ],
+    [
+      0.000096,
+      "o"
+    ],
+    [
+      0.000091,
+      "-"
+    ],
+    [
+      0.000089,
+      "a"
+    ],
+    [
+      0.000101,
+      "l"
+    ],
+    [
+      0.000088,
+      "l"
+    ],
+    [
+      0.000114,
+      "a"
+    ],
+    [
+      0.000125,
+      "u"
+    ],
+    [
+      0.000102,
+      "t"
+    ],
+    [
+      0.000044,
+      "h"
+    ],
+    [
+      0.000047,
+      " "
+    ],
+    [
+      0.000043,
+      "d"
+    ],
+    [
+      0.000045,
+      "j"
+    ],
+    [
+      0.000045,
+      "a"
+    ],
+    [
+      0.000045,
+      "n"
+    ],
+    [
+      0.000045,
+      "g"
+    ],
+    [
+      0.000045,
+      "o"
+    ],
+    [
+      0.000046,
+      "-"
+    ],
+    [
+      0.000046,
+      "r"
+    ],
+    [
+      0.000074,
+      "e"
+    ],
+    [
+      0.000064,
+      "s"
+    ],
+    [
+      0.000047,
+      "t"
+    ],
+    [
+      0.000047,
+      "-"
+    ],
+    [
+      0.000047,
+      "a"
+    ],
+    [
+      0.000051,
+      "u"
+    ],
+    [
+      0.000047,
+      "t"
+    ],
+    [
+      0.000048,
+      "h"
+    ],
+    [
+      1.210214,
+      "\r\n"
+    ],
+    [
+      1.367761,
+      "Repository: http://github.com/skylerberg/resu\r\n"
+    ],
+    [
+      0.000009,
+      "Status:\u001b[33mSimilar project\u001b[0m\r\nFile: server/requirements.txt\r\n    \u001b[36mdjango\u001b[0m\r\n"
+    ],
+    [
+      0.000015,
+      "    djangorestframework"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "    \u001b[32mdjango-allauth\u001b[0m\r\n"
+    ],
+    [
+      0.000023,
+      "    \u001b[32mdjango-rest-auth\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\r\n\r\n"
+    ],
+    [
+      0.302935,
+      "Repository: http://github.com/yuxiaorui/docker-django-rest-auth\r\n"
+    ],
+    [
+      0.000022,
+      "Status:\u001b[33mSimilar project\u001b[0m\r\nFile: app/requirements.txt\r\n"
+    ],
+    [
+      0.000013,
+      "    \u001b[36mdjango\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000050,
+      "    djangorestframework"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000060,
+      "    \u001b[32mdjango-allauth\u001b[0m\r\n"
+    ],
+    [
+      0.000049,
+      "    \u001b[32mdjango-rest-auth\u001b[0m\r\n"
+    ],
+    [
+      0.000033,
+      "\r\n"
+    ],
+    [
+      0.299133,
+      "Repository: http://github.com/gandlurm/fydip_new"
+    ],
+    [
+      0.000012,
+      "\r\nStatus:\u001b[33mSimilar project\u001b[0m\r\nFile: backend/requirements.pip\r\n"
+    ],
+    [
+      0.000020,
+      "    \u001b[36mdjango\u001b[0m\u003e=1.8.0"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "    \u001b[36mdjango-rest-auth\u001b[0m==0.3.4"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "    \u001b[36mdjango-allauth\u001b[0m==0.19.1\r\n"
+    ],
+    [
+      0.000014,
+      "    six==1.9.0"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.314013,
+      "Repository: http://github.com/gandlurm/FYDIP\r\n"
+    ],
+    [
+      0.000025,
+      "Status:\u001b[33mSimilar project\u001b[0m\r\nFile: backend/requirements.pip\r\n"
+    ],
+    [
+      0.000052,
+      "    \u001b[36mdjango\u001b[0m\u003e=1.8.0"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000046,
+      "    \u001b[36mdjango-rest-auth\u001b[0m==0.3.4\r\n"
+    ],
+    [
+      0.000044,
+      "    \u001b[36mdjango-allauth\u001b[0m==0.19.1"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "    six==1.9.0"
+    ],
+    [
+      0.000015,
+      "\r\n\r\n"
+    ],
+    [
+      0.304836,
+      "Repository: http://github.com/gandlurm/fydiprepo\r\n"
+    ],
+    [
+      0.000023,
+      "Status:\u001b[33mSimilar project\u001b[0m\r\nFile: backend/requirements.pip\r\n"
+    ],
+    [
+      0.000051,
+      "    \u001b[36mdjango\u001b[0m\u003e=1.8.0"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000054,
+      "    \u001b[36mdjango-rest-auth\u001b[0m==0.3.4\r\n"
+    ],
+    [
+      0.000019,
+      "    \u001b[36mdjango-allauth\u001b[0m==0.19.1"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000040,
+      "    six==1.9.0\r\n"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.297006,
+      "Repository: http://github.com/gandlurm/fdprepo\r\n"
+    ],
+    [
+      0.000027,
+      "Status:\u001b[33mSimilar project\u001b[0m\r\nFile: backend/requirements.pip\r\n"
+    ],
+    [
+      0.000072,
+      "    \u001b[36mdjango\u001b[0m\u003e=1.8.0"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000059,
+      "    \u001b[36mdjango-rest-auth\u001b[0m==0.3.4"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000038,
+      "    \u001b[36mdjango-allauth\u001b[0m==0.19.1"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "    six==1.9.0\r\n"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.302244,
+      "Repository: http://github.com/Tivix/django-rest-auth\r\n"
+    ],
+    [
+      0.000024,
+      "Status:\u001b[33mSimilar project\u001b[0m\r\nFile: demo/requirements.pip\r\n"
+    ],
+    [
+      0.000061,
+      "    \u001b[36mdjango\u001b[0m\u003e=1.5.0\r\n"
+    ],
+    [
+      0.000071,
+      "    \u001b[36mdjango-rest-auth\u001b[0m==0.4.0\r\n"
+    ],
+    [
+      0.000017,
+      "    \u001b[36mdjango-allauth\u001b[0m==0.19.1\r\n"
+    ],
+    [
+      0.000016,
+      "    six==1.9.0"
+    ],
+    [
+      0.000014,
+      "\r\n\r\n"
+    ],
+    [
+      0.305452,
+      "Repository: http://github.com/acarrasquillo/restallauth\r\n"
+    ],
+    [
+      0.000041,
+      "Status:\u001b[33mSimilar project\u001b[0m"
+    ],
+    [
+      0.000038,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "File: tutorial/requirements.txt\r\n"
+    ],
+    [
+      0.000173,
+      "    \u001b[36mdjango\u001b[0m==1.7.5\r\n    \u001b[36mdjango-allauth\u001b[0m==0.19.1\r\n    \u001b[36mdjango-rest-auth\u001b[0m==0.3.4"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000059,
+      "    djangorestframework==3.1.0\r\n"
+    ],
+    [
+      0.000036,
+      "    oauthlib==0.7.2"
+    ],
+    [
+      0.000033,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "    python-openid==2.2.5\r\n"
+    ],
+    [
+      0.000041,
+      "    requests==2.5.3"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.000030,
+      "    requests-oauthlib==0.4.2\r\n"
+    ],
+    [
+      0.000018,
+      "    six==1.9.0\r\n"
+    ],
+    [
+      0.000059,
+      "    wsgiref==0.1.2\r\n"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.312080,
+      "Repository: http://github.com/yassirj1/PostOfficeDjango"
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "Status:\u001b[33mSimilar project\u001b[0m\r\n"
+    ],
+    [
+      0.000017,
+      "File: PostOffice/PostOffice/requirements.txt"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000077,
+      "    \u001b[36mdjango\u001b[0m==1.7.5"
+    ],
+    [
+      0.000029,
+      "\r\n    djangorestframework==3.0.5"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "    ecdsa==0.13"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000045,
+      "    fabric==1.10.1"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "    paramiko==1.15.2"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000037,
+      "    paver==1.2.4"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000049,
+      "    \u001b[36mdjango-allauth\u001b[0m==0.19.1"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000050,
+      "    \u001b[36mdjango-rest-auth\u001b[0m==0.3.4"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      1.763975,
+      "Repository: http://github.com/Naible/django-nucleo\r\n"
+    ],
+    [
+      0.000024,
+      "Status:\u001b[33mSimilar project\u001b[0m\r\n"
+    ],
+    [
+      0.000012,
+      "File: requirements.txt\r\n"
+    ],
+    [
+      0.000064,
+      "    \u001b[36mdjango\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000043,
+      "    django-nose"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000037,
+      "    \u001b[32mdjango-allauth\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000049,
+      "    \u001b[32mdjango-rest-auth\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000039,
+      "    django-cors-headers"
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.308908,
+      "Repository: http://github.com/molamolastudio/bltserver\r\n"
+    ],
+    [
+      0.000018,
+      "Status:\u001b[33mSimilar project\u001b[0m\r\nFile: requirements.txt\r\n"
+    ],
+    [
+      0.000094,
+      "    \u001b[36mdjango\u001b[0m\u003e=1.7\u003c1.8\r\n"
+    ],
+    [
+      0.000012,
+      "    djangorestframework\u003e3.1\u003c3.2\r\n"
+    ],
+    [
+      0.000082,
+      "    \u001b[36mdjango-rest-auth\u001b[0m\u003e0.3\u003c0.4\r\n"
+    ],
+    [
+      0.000052,
+      "    \u001b[36mdjango-allauth\u001b[0m\u003e0.19\u003c0.20"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "    pillow\u003e=2.7\u003c2.8"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000049,
+      "    django-toolbelt\u003e=0.0.1\u003c0.1"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000037,
+      "    pytz\r\n"
+    ],
+    [
+      0.000136,
+      "    django-sslify\u003e=0.2.0\r\n\r\n"
+    ],
+    [
+      0.318577,
+      "Repository: http://github.com/tested22/fierce-river-6546\r\n"
+    ],
+    [
+      0.000026,
+      "Status:\u001b[33mSimilar project\u001b[0m\r\nFile: requirements.txt"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000069,
+      "    \u001b[36mdjango\u001b[0m==1.7.2\r\n"
+    ],
+    [
+      0.000398,
+      "    \u001b[36mdjango-rest-auth\u001b[0m==0.3.3\r\n"
+    ],
+    [
+      0.000049,
+      "    \u001b[36mdjango-allauth\u001b[0m==0.19.0\r\n"
+    ],
+    [
+      0.000069,
+      "    six==1.9.0\r\n"
+    ],
+    [
+      0.000017,
+      "    django-toolbelt==0.0.1\r\n"
+    ],
+    [
+      0.000045,
+      "    gunicorn==19.1.1"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "    wsgiref==0.1.2\r\n"
+    ],
+    [
+      0.000017,
+      "    psycopg2==2.5.3"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "    dj-database-url==0.3.0\r\n"
+    ],
+    [
+      0.000044,
+      "    dj-static==0.0.6\r\n"
+    ],
+    [
+      0.000016,
+      "    static==0.4\r\n"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.316509,
+      "Repository: http://github.com/peasnrice/pamplesneak\r\n"
+    ],
+    [
+      0.000017,
+      "Status:\u001b[33mSimilar project\u001b[0m\r\nFile: requirements.txt"
+    ],
+    [
+      0.000398,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "    \u001b[36mdjango\u001b[0m==1.7\r\n"
+    ],
+    [
+      0.000261,
+      "    \u001b[36mdjango-allauth\u001b[0m==0.19.1\r\n"
+    ],
+    [
+      0.000020,
+      "    \u001b[36mdjango-rest-auth\u001b[0m==0.3.4"
+    ],
+    [
+      0.000187,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "    django-separatedvaluesfield==0.3.2"
+    ],
+    [
+      0.000157,
+      "\r\n"
+    ],
+    [
+      0.000032,
+      "    djangorestframework==3.1.1"
+    ],
+    [
+      0.000134,
+      "\r\n"
+    ],
+    [
+      0.000039,
+      "    oauthlib==0.7.2"
+    ],
+    [
+      0.000117,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "    passlib==1.6.2\r\n"
+    ],
+    [
+      0.000026,
+      "    python-openid==2.2.5"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000028,
+      "    requests==2.6.0"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000030,
+      "    requests-oauthlib==0.4.2"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000039,
+      "    six==1.9.0\r\n"
+    ],
+    [
+      0.000031,
+      "    wsgiref==0.1.2"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000031,
+      "    psycopg2"
+    ],
+    [
+      0.000009,
+      "\r\n\r\n"
+    ],
+    [
+      0.327463,
+      "Repository: http://github.com/code-shoily/python-bootcamp-tutorial\r\n"
+    ],
+    [
+      0.000025,
+      "Status:\u001b[33mSimilar project\u001b[0m\r\nFile: requirements.txt\r\n"
+    ],
+    [
+      0.000018,
+      "    \u001b[36mdjango\u001b[0m==1.8.2\r\n"
+    ],
+    [
+      0.000053,
+      "    \u001b[36mdjango-allauth\u001b[0m==0.20.0\r\n"
+    ],
+    [
+      0.000037,
+      "    \u001b[36mdjango-rest-auth\u001b[0m==0.4.0"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "    djangorestframework==3.1.3\r\n"
+    ],
+    [
+      0.000017,
+      "    gnureadline==6.3.3"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "    ipython==3.1.0\r\n"
+    ],
+    [
+      0.000015,
+      "    oauthlib==0.7.2"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "    python-openid==2.2.5\r\n"
+    ],
+    [
+      0.000013,
+      "    requests==2.7.0\r\n"
+    ],
+    [
+      0.000039,
+      "    requests-oauthlib==0.5.0\r\n"
+    ],
+    [
+      0.000018,
+      "    six==1.9.0"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "    wsgiref==0.1.2\r\n"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.307810,
+      "Repository: http://github.com/tested22/Expense-tracker\r\n"
+    ],
+    [
+      0.000026,
+      "Status:\u001b[33mSimilar project\u001b[0m\r\nFile: requirements.txt\r\n"
+    ],
+    [
+      0.000017,
+      "    \u001b[36mdjango\u001b[0m==1.7.2"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000053,
+      "    \u001b[36mdjango-rest-auth\u001b[0m==0.3.3"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000038,
+      "    \u001b[36mdjango-allauth\u001b[0m==0.19.0"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000050,
+      "    six==1.9.0\r\n"
+    ],
+    [
+      0.000042,
+      "    django-toolbelt==0.0.1\r\n"
+    ],
+    [
+      0.000046,
+      "    gunicorn==19.1.1\r\n"
+    ],
+    [
+      0.000037,
+      "    wsgiref==0.1.2"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000029,
+      "    psycopg2==2.5.3"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000032,
+      "    dj-database-url==0.3.0"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000033,
+      "    dj-static==0.0.6"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000029,
+      "    static==0.4"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.076066,
+      "^C"
+    ],
+    [
+      0.016051,
+      "\u001b[1;34m[find-similar-projects]\u001b[0m \u001b[0;32mnoisy@t440s \u001b[1;33m~/devel/find-similar-projects\u001b[0m \u001b[0;32m(master)\u001b[0m $ "
+    ],
+    [
+      1.032132,
+      "./find-similar-projects.py django==1.8 django-allauth django-rest-auth"
+    ],
+    [
+      0.557736,
+      "\u0008"
+    ],
+    [
+      0.500584,
+      "\u0008"
+    ],
+    [
+      0.029188,
+      "\u0008"
+    ],
+    [
+      0.030667,
+      "\u0008"
+    ],
+    [
+      0.029236,
+      "\u0008"
+    ],
+    [
+      0.033412,
+      "\u0008"
+    ],
+    [
+      0.030417,
+      "\u0008"
+    ],
+    [
+      0.029039,
+      "\u0008"
+    ],
+    [
+      0.031144,
+      "\u0008"
+    ],
+    [
+      0.034896,
+      "\u0008"
+    ],
+    [
+      0.027079,
+      "\u0008"
+    ],
+    [
+      0.033701,
+      "\u0008"
+    ],
+    [
+      0.029568,
+      "\u0008"
+    ],
+    [
+      0.031839,
+      "\u0008"
+    ],
+    [
+      0.028461,
+      "\u0008"
+    ],
+    [
+      0.030376,
+      "\u0008"
+    ],
+    [
+      0.031708,
+      "\u0008"
+    ],
+    [
+      0.028783,
+      "\u0008"
+    ],
+    [
+      0.031792,
+      "\u0008"
+    ],
+    [
+      0.029002,
+      "\u0008"
+    ],
+    [
+      0.029829,
+      "\u0008"
+    ],
+    [
+      0.031407,
+      "\u0008"
+    ],
+    [
+      0.032034,
+      "\u0008"
+    ],
+    [
+      0.030156,
+      "\u0008"
+    ],
+    [
+      0.031550,
+      "\u0008"
+    ],
+    [
+      0.029943,
+      "\u0008"
+    ],
+    [
+      0.028175,
+      "\u0008"
+    ],
+    [
+      0.030067,
+      "\u0008"
+    ],
+    [
+      0.029744,
+      "\u0008"
+    ],
+    [
+      0.030229,
+      "\u0008"
+    ],
+    [
+      0.033385,
+      "\u0008"
+    ],
+    [
+      0.031196,
+      "\u0008"
+    ],
+    [
+      0.886204,
+      "\u001b[C"
+    ],
+    [
+      1.294461,
+      "\u001b[1P"
+    ],
+    [
+      0.500967,
+      "\u001b[1P"
+    ],
+    [
+      0.032415,
+      "\u001b[1P"
+    ],
+    [
+      0.031600,
+      "\u001b[1P"
+    ],
+    [
+      0.030314,
+      "\u001b[1P"
+    ],
+    [
+      0.028268,
+      "\u001b[1P"
+    ],
+    [
+      0.032757,
+      "\u001b[1P"
+    ],
+    [
+      0.025867,
+      "\u001b[1P"
+    ],
+    [
+      0.029670,
+      "\u001b[C\u001b[1P\u0008"
+    ],
+    [
+      0.035431,
+      "\u001b[1P"
+    ],
+    [
+      0.027936,
+      "\u001b[1P"
+    ],
+    [
+      0.031542,
+      "\u001b[1P"
+    ],
+    [
+      0.030150,
+      "\u001b[1P"
+    ],
+    [
+      0.031605,
+      "\u001b[1P django-rest-auth\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.033096,
+      "\u001b[1Pdjango-rest-auth\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.025417,
+      "\u001b[1Pjango-rest-auth\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.033899,
+      "\u001b[1Pango-rest-auth\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.030471,
+      "\u001b[1Pngo-rest-auth\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.027194,
+      "\u001b[1Pgo-rest-auth\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.032357,
+      "\u001b[1Po-rest-auth\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.033055,
+      "\u001b[1P-rest-auth\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.028583,
+      "\u001b[1Prest-auth\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.030825,
+      "\u001b[1Pest-auth\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.030717,
+      "\u001b[1Pst-auth\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.032799,
+      "\u001b[1Pt-auth\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.029984,
+      "\u001b[1P-auth\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.031057,
+      "\u001b[1Pauth\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.029343,
+      "\u001b[1Puth\u0008\u0008\u0008"
+    ],
+    [
+      0.031406,
+      "\u001b[1Pth\u0008\u0008"
+    ],
+    [
+      0.027180,
+      "\u001b[1Ph\u0008"
+    ],
+    [
+      0.243798,
+      "\u001b[K"
+    ],
+    [
+      0.430990,
+      "d"
+    ],
+    [
+      0.126211,
+      "j"
+    ],
+    [
+      0.077002,
+      "a"
+    ],
+    [
+      0.118233,
+      "n"
+    ],
+    [
+      0.109876,
+      "g"
+    ],
+    [
+      0.059991,
+      "o"
+    ],
+    [
+      0.450274,
+      "r"
+    ],
+    [
+      0.069236,
+      "e"
+    ],
+    [
+      0.190367,
+      "s"
+    ],
+    [
+      0.140864,
+      "t"
+    ],
+    [
+      0.476231,
+      "f"
+    ],
+    [
+      0.180034,
+      "r"
+    ],
+    [
+      0.110244,
+      "a"
+    ],
+    [
+      0.198460,
+      "m"
+    ],
+    [
+      0.116706,
+      "e"
+    ],
+    [
+      0.658019,
+      "w"
+    ],
+    [
+      0.142988,
+      "o"
+    ],
+    [
+      0.094306,
+      "r"
+    ],
+    [
+      0.122749,
+      "k"
+    ],
+    [
+      1.015969,
+      "="
+    ],
+    [
+      0.151255,
+      "="
+    ],
+    [
+      0.260876,
+      "3"
+    ],
+    [
+      0.585828,
+      "."
+    ],
+    [
+      0.203378,
+      "1"
+    ],
+    [
+      0.201186,
+      "."
+    ],
+    [
+      0.112701,
+      "1"
+    ],
+    [
+      0.597400,
+      "\r\n"
+    ],
+    [
+      1.313442,
+      "Repository: http://github.com/fortyanov/KudaGo\r\n"
+    ],
+    [
+      0.000173,
+      "Status:\u001b[33mSimilar project\u001b[0m\r\n"
+    ],
+    [
+      0.000013,
+      "File: Feeder/requirements.txt\r\n"
+    ],
+    [
+      0.000025,
+      "    \u001b[36mdjango\u001b[0m\r\n"
+    ],
+    [
+      0.000023,
+      "    \u001b[36mdjangorestframework\u001b[0m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "    djangorestframework-xml"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.324603,
+      "Repository: http://github.com/nicoman/DREST_token\r\n"
+    ],
+    [
+      0.000029,
+      "Status:\u001b[33mSimilar project\u001b[0m"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "File: requirements.txt\r\n"
+    ],
+    [
+      0.000074,
+      "    \u001b[36mdjango\u001b[0m==1.7.5\r\n"
+    ],
+    [
+      0.000060,
+      "    \u001b[36mdjangorestframework\u001b[0m==3.0.5\r\n"
+    ],
+    [
+      0.000052,
+      "    djangorestframework-jwt==1.2.0\r\n"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.317168,
+      "Repository: http://github.com/lgp171188/sweet_life\r\n"
+    ],
+    [
+      0.000009,
+      "Status:\u001b[33mSimilar project\u001b[0m\r\nFile: requirements/requirements.txt\r\n"
+    ],
+    [
+      0.000023,
+      "    \u001b[32mdjango==1.8\u001b[0m\r\n"
+    ],
+    [
+      0.000030,
+      "    \u001b[36mdjangorestframework\u001b[0m==3.1\r\n\r\n"
+    ],
+    [
+      0.311068,
+      "Repository: http://github.com/Corrensanders/laidai"
+    ],
+    [
+      0.000027,
+      "\r\nStatus:\u001b[33mSimilar project\u001b[0m\r\n"
+    ],
+    [
+      0.000019,
+      "File: requirements.txt"
+    ],
+    [
+      0.000037,
+      "\r\n"
+    ],
+    [
+      0.000392,
+      "    \u001b[36mdjango\u001b[0m==1.8.2\r\n    \u001b[36mdjangorestframework\u001b[0m==3.1.2\r\n\r\n"
+    ],
+    [
+      0.314901,
+      "Repository: http://github.com/jibin-jacob-jose/Django_Rest_API-Example\r\n"
+    ],
+    [
+      0.000034,
+      "Status:\u001b[33mSimilar project\u001b[0m\r\nFile: requirements.txt\r\n    \u001b[36mdjango\u001b[0m==1.7.4\r\n    \u001b[36mdjangorestframework\u001b[0m\r\n\r\n"
+    ],
+    [
+      0.309914,
+      "Repository: http://github.com/toranb/ember-django-rest\r\n"
+    ],
+    [
+      0.000008,
+      "Status:\u001b[33mSimilar project\u001b[0m\r\nFile: requirements.txt\r\n"
+    ],
+    [
+      0.000028,
+      "    \u001b[36mdjango\u001b[0m\r\n"
+    ],
+    [
+      0.000005,
+      "    \u001b[36mdjangorestframework\u001b[0m\r\n"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.328921,
+      "Repository: http://github.com/dmyerscough/nagios-restful-api\r\n"
+    ],
+    [
+      0.000027,
+      "Status:\u001b[33mSimilar project\u001b[0m\r\nFile: requirements.txt\r\n    \u001b[36mdjango\u001b[0m==1.6\r\n"
+    ],
+    [
+      0.000044,
+      "    \u001b[36mdjangorestframework\u001b[0m==2.3.9"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.326075,
+      "Repository: http://github.com/toranb/ember-django-grunt\r\n"
+    ],
+    [
+      0.000028,
+      "Status:\u001b[33mSimilar project\u001b[0m\r\nFile: requirements.txt\r\n    \u001b[36mdjango\u001b[0m"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "    \u001b[36mdjangorestframework\u001b[0m\r\n"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.318088,
+      "Repository: http://github.com/Batman21/mindcookie\r\n"
+    ],
+    [
+      0.000022,
+      "Status:\u001b[33mSimilar project\u001b[0m\r\nFile: requirements.txt\r\n"
+    ],
+    [
+      0.000044,
+      "    \u001b[36mdjango\u001b[0m==1.7"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000043,
+      "    \u001b[36mdjangorestframework\u001b[0m==2.4.3"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.322232,
+      "Repository: http://github.com/itsClay/django-drf-starter-project\r\n"
+    ],
+    [
+      0.000034,
+      "Status:\u001b[33mSimilar project\u001b[0m"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "File: requirements.txt\r\n"
+    ],
+    [
+      0.000071,
+      "    \u001b[36mdjango\u001b[0m==1.8.2"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000039,
+      "    \u001b[36mdjangorestframework\u001b[0m==3.1.2"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      1.441516,
+      "Repository: http://github.com/maxc0c0s/technical_tests"
+    ],
+    [
+      0.000061,
+      "\r\n"
+    ],
+    [
+      0.000085,
+      "Status:\u001b[32mPerfect match\u001b[0m"
+    ],
+    [
+      0.000021,
+      "\r\nFile: requirements.txt"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.000327,
+      "    \u001b[32mdjango==1.8\u001b[0m\r\n    \u001b[32mdjangorestframework==3.1.1\u001b[0m\r\n\r\n"
+    ],
+    [
+      0.382781,
+      "Repository: http://github.com/catalyst/powerdns-zone-editor\r\n"
+    ],
+    [
+      0.000009,
+      "Status:\u001b[33mSimilar project\u001b[0m\r\n"
+    ],
+    [
+      0.000004,
+      "File: powerdns_zone_editor/client/requirements.txt"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000030,
+      "    \u001b[36mdjango\u001b[0m\r\n"
+    ],
+    [
+      0.000016,
+      "    \u001b[36mdjangorestframework\u001b[0m\r\n"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.410595,
+      "Repository: http://github.com/nluo/authentication-server"
+    ],
+    [
+      0.000009,
+      "\r\nStatus:\u001b[32mPerfect match\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "File: requirements.txt\r\n"
+    ],
+    [
+      0.000024,
+      "    \u001b[32mdjango==1.8\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000083,
+      "    \u001b[32mdjangorestframework==3.1.1\u001b[0m"
+    ],
+    [
+      0.000006,
+      "\r\n\r\n"
+    ],
+    [
+      0.348073,
+      "Repository: http://github.com/jhgrng/django-users-api\r\n"
+    ],
+    [
+      0.000022,
+      "Status:\u001b[33mSimilar project\u001b[0m\r\nFile: requirements.txt\r\n"
+    ],
+    [
+      0.000051,
+      "    \u001b[36mdjango\u001b[0m==1.8.1"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000037,
+      "    \u001b[32mdjangorestframework==3.1.1\u001b[0m"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.311624,
+      "Repository: http://github.com/bbenko/TopToDo\r\n"
+    ],
+    [
+      0.000021,
+      "Status:\u001b[33mSimilar project\u001b[0m\r\nFile: requirements.txt\r\n"
+    ],
+    [
+      0.000013,
+      "    \u001b[36mdjango\u001b[0m==1.5.1"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000051,
+      "    \u001b[36mdjangorestframework\u001b[0m==2.3.6\r\n"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.310121,
+      "Repository: http://github.com/miki725/django-rest-framework-bulk"
+    ],
+    [
+      0.000029,
+      "\r\nStatus:\u001b[33mSimilar project\u001b[0m\r\n"
+    ],
+    [
+      0.000019,
+      "File: requirements.txt"
+    ],
+    [
+      0.000038,
+      "\r\n"
+    ],
+    [
+      0.000081,
+      "    \u001b[36mdjango\u001b[0m"
+    ],
+    [
+      0.000033,
+      "\r\n    \u001b[36mdjangorestframework\u001b[0m"
+    ],
+    [
+      0.000018,
+      "\r\n\r\n"
+    ],
+    [
+      0.312906,
+      "Repository: http://github.com/RicterZ/AnimeReminder\r\n"
+    ],
+    [
+      0.000026,
+      "Status:\u001b[33mSimilar project\u001b[0m\r\n"
+    ],
+    [
+      0.000011,
+      "File: requirements.txt\r\n"
+    ],
+    [
+      0.000110,
+      "    \u001b[36mdjango\u001b[0m\u003e=1.7.0\r\n"
+    ],
+    [
+      0.000062,
+      "    \u001b[36mdjangorestframework\u001b[0m\u003e=3.0.0"
+    ],
+    [
+      0.000012,
+      "\r\n\r\n"
+    ],
+    [
+      0.300756,
+      "Repository: http://github.com/jonycse/djnagoRest\r\n"
+    ],
+    [
+      0.000024,
+      "Status:\u001b[33mSimilar project\u001b[0m\r\nFile: requirements.txt\r\n    \u001b[36mdjango\u001b[0m"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "    \u001b[36mdjangorestframework\u001b[0m\r\n"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.313068,
+      "Repository: http://github.com/KleeTaurus/django-angularjs-blog\r\n"
+    ],
+    [
+      0.000011,
+      "Status:\u001b[33mSimilar project\u001b[0m\r\nFile: blogpost/requirements.txt"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000028,
+      "    \u001b[36mdjango\u001b[0m==1.6.6"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000024,
+      "    \u001b[36mdjangorestframework\u001b[0m==2.4.1\r\n"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      1.279275,
+      "Repository: http://github.com/neelam-yadav/django-rest-api\r\nStatus:\u001b[33mSimilar project\u001b[0m\r\n"
+    ],
+    [
+      0.000027,
+      "File: requirements.txt\r\n    \u001b[36mdjango\u001b[0m\u003e=1.7\r\n"
+    ],
+    [
+      0.000017,
+      "    \u001b[36mdjangorestframework\u001b[0m\u003e=3.1\r\n"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.317018,
+      "Repository: http://github.com/lawik/backbone-django-demo\r\n"
+    ],
+    [
+      0.000010,
+      "Status:\u001b[33mSimilar project\u001b[0m\r\nFile: requirements.txt\r\n    \u001b[36mdjango\u001b[0m==1.4.1\r\n"
+    ],
+    [
+      0.000007,
+      "    \u001b[36mdjangorestframework\u001b[0m==0.4.0\r\n"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.209544,
+      "Repository: http://github.com/KleeTaurus/django-angularjs-blog\r\nStatus:\u001b[33mSimilar project\u001b[0m\r\nFile: blogpost/requirements.txt\r\n    \u001b[36mdjango\u001b[0m==1.6.6\r\n    \u001b[36mdjangorestframework\u001b[0m==2.4.1\r\n\r\n"
+    ],
+    [
+      0.309425,
+      "Repository: http://github.com/brianhv/drfissue\r\n"
+    ],
+    [
+      0.000025,
+      "Status:\u001b[33mSimilar project\u001b[0m\r\nFile: requirements.txt\r\n"
+    ],
+    [
+      0.000017,
+      "    \u001b[36mdjango\u001b[0m==1.6.8\r\n"
+    ],
+    [
+      0.000050,
+      "    \u001b[36mdjangorestframework\u001b[0m==3.0.0\r\n"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.305157,
+      "Repository: http://github.com/shwetareddy/portfolio-performance\r\n"
+    ],
+    [
+      0.000015,
+      "Status:\u001b[33mSimilar project\u001b[0m\r\nFile: requirements.txt\r\n"
+    ],
+    [
+      0.000080,
+      "    \u001b[36mdjango\u001b[0m==1.7.6"
+    ],
+    [
+      0.000019,
+      "\r\n    \u001b[36mdjangorestframework\u001b[0m==3.1.0"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.325640,
+      "Repository: http://github.com/toranb/django-rest-framework-kata\r\n"
+    ],
+    [
+      0.000054,
+      "Status:\u001b[33mSimilar project\u001b[0m"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "File: requirements.txt\r\n"
+    ],
+    [
+      0.000410,
+      "    \u001b[36mdjango\u001b[0m\r\n    \u001b[36mdjangorestframework\u001b[0m==2.1.2\r\n\r\n"
+    ],
+    [
+      0.306420,
+      "Repository: http://github.com/catskul/django_api\r\n"
+    ],
+    [
+      0.000017,
+      "Status:\u001b[33mSimilar project\u001b[0m\r\n"
+    ],
+    [
+      0.000008,
+      "File: requirements.txt\r\n"
+    ],
+    [
+      0.000025,
+      "    \u001b[36mdjango\u001b[0m\r\n"
+    ],
+    [
+      0.000020,
+      "    \u001b[36mdjangorestframework\u001b[0m"
+    ],
+    [
+      0.000006,
+      "\r\n\r\n"
+    ],
+    [
+      0.117353,
+      "^C"
+    ],
+    [
+      0.016288,
+      "\u001b[1;34m[find-similar-projects]\u001b[0m \u001b[0;32mnoisy@t440s \u001b[1;33m~/devel/find-similar-projects\u001b[0m \u001b[0;32m(master)\u001b[0m $ "
+    ],
+    [
+      2.000000,
+      "#"
+    ],
+    [
+      0.662251,
+      " "
+    ],
+    [
+      0.752181,
+      "T"
+    ],
+    [
+      0.165178,
+      "h"
+    ],
+    [
+      0.108893,
+      "a"
+    ],
+    [
+      0.186191,
+      "n"
+    ],
+    [
+      0.113940,
+      "k"
+    ],
+    [
+      0.083367,
+      "s"
+    ],
+    [
+      0.213163,
+      " "
+    ],
+    [
+      0.387991,
+      "f"
+    ],
+    [
+      0.086016,
+      "o"
+    ],
+    [
+      0.086988,
+      "r"
+    ],
+    [
+      0.100050,
+      " "
+    ],
+    [
+      0.258578,
+      "w"
+    ],
+    [
+      0.160450,
+      "a"
+    ],
+    [
+      0.219756,
+      "t"
+    ],
+    [
+      1.085952,
+      "c"
+    ],
+    [
+      1.085952,
+      "h"
+    ],
+    [
+      0.137160,
+      "i"
+    ],
+    [
+      0.236012,
+      "n"
+    ],
+    [
+      0.220639,
+      "g"
+    ],
+    [
+      2.000000,
+      " "
+    ],
+    [
+      0.469495,
+      ":"
+    ],
+    [
+      0.292672,
+      ")"
+    ],
+    [
+      2.000000,
+      "\u0007"
+    ],
+    [
+      0.321453,
+      "^C"
+    ],
+    [
+      0.000036,
+      "\r\n"
+    ],
+    [
+      0.005974,
+      "\u001b[1;34m[find-similar-projects]\u001b[0m \u001b[0;32mnoisy@t440s \u001b[1;33m~/devel/find-similar-projects\u001b[0m \u001b[0;32m(master)\u001b[0m \u001b[1;31m$\u001b[0m "
+    ],
+    [
+      0.194339,
+      "exit\r\n"
+    ]
+  ]
+}
