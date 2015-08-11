@@ -1,0 +1,5142 @@
+{
+  "version": 1,
+  "width": 100,
+  "height": 24,
+  "duration": 346.425340,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.055838,
+      "\u001b]0;diegoboot@diegoboot-ntb: ~\u0007diegoboot@diegoboot-ntb:~$ "
+    ],
+    [
+      1.378557,
+      "sudo add-apt-repository ppa:ubuntu-mozilla-daily/ppa"
+    ],
+    [
+      1.764609,
+      "\r\n"
+    ],
+    [
+      0.039178,
+      "[sudo] password for diegoboot: "
+    ],
+    [
+      2.579376,
+      "\r\n"
+    ],
+    [
+      2.325571,
+      " daily (or even multiple builds per day) for various mozilla projects and branches.\r\n\r\nFor questions and bugs with software in this archive, please contact \u003cemail address hidden\u003e or visit #ubuntu-mozillateam on freenode.\r\n Mais informações: https://launchpad.net/~ubuntu-mozilla-daily/+archive/ubuntu/ppa\r\nPressione [ENTER] para continuar ou ctrl-c para cancelar a adição\r\n"
+    ],
+    [
+      0.957563,
+      "\r\n"
+    ],
+    [
+      1.424537,
+      "gpg: chaveiro `/tmp/tmpl4jm8ntl/secring.gpg' criado\r\ngpg: chaveiro `/tmp/tmpl4jm8ntl/pubring.gpg' criado\r\n"
+    ],
+    [
+      0.000526,
+      "gpg: "
+    ],
+    [
+      0.000134,
+      "requisitando chave 247510BE de servidor hkp - keyserver.ubuntu.com\r\n"
+    ],
+    [
+      0.865718,
+      "gpg: /tmp/tmpl4jm8ntl/trustdb.gpg: banco de dados de confiabilidade criado\r\ngpg: chave 247510BE: chave pública \"Launchpad PPA for Ubuntu Mozilla Daily Build Team\" importada\r\ngpg: ultimamente não encontradas chaves confiáveis\r\ngpg: Número total processado: 1\r\ngpg:               importados: 1  (RSA: 1)\r\n"
+    ],
+    [
+      0.077181,
+      "OK\r\n"
+    ],
+    [
+      0.032393,
+      "\u001b]0;diegoboot@diegoboot-ntb: ~\u0007diegoboot@diegoboot-ntb:~$ "
+    ],
+    [
+      2.912793,
+      "s"
+    ],
+    [
+      0.125035,
+      "u"
+    ],
+    [
+      0.059866,
+      "d"
+    ],
+    [
+      0.094645,
+      "o"
+    ],
+    [
+      0.089694,
+      " "
+    ],
+    [
+      0.401327,
+      "a"
+    ],
+    [
+      0.127243,
+      "p"
+    ],
+    [
+      0.328972,
+      "t"
+    ],
+    [
+      0.255851,
+      "-"
+    ],
+    [
+      0.255581,
+      "g"
+    ],
+    [
+      0.095953,
+      "e"
+    ],
+    [
+      0.096494,
+      "t"
+    ],
+    [
+      0.103849,
+      " "
+    ],
+    [
+      0.826084,
+      "u"
+    ],
+    [
+      0.110706,
+      "p"
+    ],
+    [
+      0.072605,
+      "d"
+    ],
+    [
+      0.092444,
+      "a"
+    ],
+    [
+      0.094464,
+      "t"
+    ],
+    [
+      0.130093,
+      "e"
+    ],
+    [
+      0.226231,
+      "\r\n"
+    ],
+    [
+      0.037597,
+      "\r\r0% [Trabalhando]"
+    ],
+    [
+      0.146719,
+      "\r                \rIgn http://br.archive.ubuntu.com trusty InRelease\r\n"
+    ],
+    [
+      0.000014,
+      "\r                \r2% [Conectando em security.ubuntu.com (91.189.92.200)] [Conectando em archive.c"
+    ],
+    [
+      0.050135,
+      "\r                                                                               \rIgn http://br.archive.ubuntu.com trusty-updates InRelease\r\n"
+    ],
+    [
+      0.000023,
+      "\r4% [Conectando em security.ubuntu.com (91.189.92.200)] [Conectando em archive.c"
+    ],
+    [
+      0.051340,
+      "\r                                                                               \rIgn http://br.archive.ubuntu.com trusty-backports InRelease\r\n"
+    ],
+    [
+      0.000016,
+      "\r5% [Conectando em security.ubuntu.com (91.189.92.200)] [Conectando em archive.c"
+    ],
+    [
+      0.049679,
+      "\r                                                                               \rAtingido http://br.archive.ubuntu.com trusty Release.gpg\r\n\r13% [Conectando em security.ubuntu.com (91.189.92.200)] [Conectando em archive."
+    ],
+    [
+      0.055802,
+      "\r                                                                               \rObter:1 http://br.archive.ubuntu.com trusty-updates Release.gpg [933 B]\r\n"
+    ],
+    [
+      0.000019,
+      "\r97% [1 Release.gpg 933 B/933 B 100%] [Aguardando por cabeçalhos] [Aguardando p"
+    ],
+    [
+      0.000108,
+      "\r97% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] [Aguardando por c"
+    ],
+    [
+      0.049956,
+      "\r                                                                               \rAtingido http://br.archive.ubuntu.com trusty-backports Release.gpg\r\n\r97% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] [Aguardando por c"
+    ],
+    [
+      0.054487,
+      "\r                                                                               \rAtingido http://br.archive.ubuntu.com trusty Release\r\n\r97% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] [Aguardando por c"
+    ],
+    [
+      0.000556,
+      "\r97% [Release gpgv 58,5 kB] [Aguardando por cabeçalhos] [Aguardando por cabeça"
+    ],
+    [
+      0.012840,
+      "\r95% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] [Aguardando por c"
+    ],
+    [
+      0.025600,
+      "\r                                                                               \rIgn http://dl.google.com stable InRelease\r\n"
+    ],
+    [
+      0.000028,
+      "\r95% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] [Aguardando por c"
+    ],
+    [
+      0.006296,
+      "\r                                                                               \rObter:2 http://repository.spotify.com stable InRelease [3.300 B]\r\n\r43% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] [Aguardando por c"
+    ],
+    [
+      0.005441,
+      "\r99% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] [Aguardando por c"
+    ],
+    [
+      0.000093,
+      "\r99% [2 InRelease gpgv 3.300 B] [Aguardando por cabeçalhos] [Aguardando por cab"
+    ],
+    [
+      0.003240,
+      "\r                                                                               \rObter:3 http://br.archive.ubuntu.com trusty-updates Release [63,5 kB]\r\n"
+    ],
+    [
+      0.000048,
+      "\r8% [2 InRelease gpgv 3.300 B] [3 Release 1.237 B/63,5 kB 2%] [Aguardando por ca"
+    ],
+    [
+      0.002173,
+      "\r                                                                               \rIgn http://repository.spotify.com stable InRelease\r\n"
+    ],
+    [
+      0.000010,
+      "\r8% [3 Release 1.237 B/63,5 kB 2%] [Aguardando por cabeçalhos] [Aguardando por "
+    ],
+    [
+      0.035016,
+      "\r                                                                               \rIgn http://ppa.launchpad.net trusty InRelease\r\n"
+    ],
+    [
+      0.000011,
+      "\r27% [3 Release 14,1 kB/63,5 kB 22%] [Aguardando por cabeçalhos] [Aguardando po"
+    ],
+    [
+      0.031920,
+      "\r                                                                               \rIgn http://security.ubuntu.com trusty-security InRelease\r\n"
+    ],
+    [
+      0.000012,
+      "\r35% [3 Release 19,8 kB/63,5 kB 31%] [Aguardando por cabeçalhos] [Aguardando po"
+    ],
+    [
+      0.001476,
+      "\r                                                                               \rIgn http://extras.ubuntu.com trusty InRelease\r\n"
+    ],
+    [
+      0.000007,
+      "\r35% [3 Release 19,8 kB/63,5 kB 31%] [Aguardando por cabeçalhos] [Aguardando po"
+    ],
+    [
+      0.044993,
+      "\r                                                                               \rIgn http://archive.canonical.com trusty InRelease\r\n"
+    ],
+    [
+      0.000013,
+      "\r61% [3 Release 36,9 kB/63,5 kB 58%] [Aguardando por cabeçalhos] [Aguardando po"
+    ],
+    [
+      0.066855,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] [Aguardando por "
+    ],
+    [
+      0.000289,
+      "\r100% [3 Release gpgv 63,5 kB] [Aguardando por cabeçalhos] [Aguardando por cabe"
+    ],
+    [
+      0.008588,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] [Aguardando por "
+    ],
+    [
+      0.005314,
+      "\r                                                                               \rIgn http://repository.spotify.com stable/non-free amd64 Packages/DiffIndex\r\n\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] [Aguardando por "
+    ],
+    [
+      0.035109,
+      "\r                                                                               \rAtingido http://br.archive.ubuntu.com trusty-backports Release\r\n\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] [Aguardando por "
+    ],
+    [
+      0.000587,
+      "\r100% [Release gpgv 63,5 kB] [Aguardando por cabeçalhos] [Aguardando por cabeç"
+    ],
+    [
+      0.007267,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] [Aguardando por "
+    ],
+    [
+      0.046333,
+      "\r                                                                               \rAtingido http://br.archive.ubuntu.com trusty/main Sources\r\n\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] [Aguardando por "
+    ],
+    [
+      0.000449,
+      "\r100% [Sources 5.000 kB] [Aguardando por cabeçalhos] [Aguardando por cabeçalho"
+    ],
+    [
+      0.005235,
+      "\r                                                                               \rIgn http://ppa.launchpad.net trusty InRelease\r\n\r100% [Sources 5.000 kB] [Aguardando por cabeçalhos] [Aguardando por cabeçalho"
+    ],
+    [
+      0.041160,
+      "\r                                                                               \rAtingido http://security.ubuntu.com trusty-security Release.gpg\r\n\r100% [Sources 5.000 kB] [Aguardando por cabeçalhos] [Aguardando por cabeçalho"
+    ],
+    [
+      0.000975,
+      "\r                                                                               \rAtingido http://extras.ubuntu.com trusty Release.gpg\r\n"
+    ],
+    [
+      0.000021,
+      "\r100% [Sources 5.000 kB] [Aguardando por cabeçalhos] [Aguardando por cabeçalho"
+    ],
+    [
+      0.001672,
+      "\r                                                                               \rAtingido http://br.archive.ubuntu.com trusty/restricted Sources\r\n"
+    ],
+    [
+      0.000018,
+      "\r100% [Sources 5.000 kB] [Aguardando por cabeçalhos] [Aguardando por cabeçalho"
+    ],
+    [
+      0.051067,
+      "\r                                                                               \rAtingido http://archive.canonical.com trusty Release.gpg\r\n\r100% [Sources 5.000 kB] [Aguardando por cabeçalhos] [Aguardando por cabeçalho"
+    ],
+    [
+      0.003742,
+      "\r                                                                               \rIgn http://repository.spotify.com stable/non-free i386 Packages/DiffIndex\r\n\r100% [Sources 5.000 kB] [Aguardando por cabeçalhos] [Aguardando por cabeçalho"
+    ],
+    [
+      0.000994,
+      "\r                                                                               \rAtingido http://br.archive.ubuntu.com trusty/universe Sources\r\n\r100% [Sources 5.000 kB] [Aguardando por cabeçalhos] [Aguardando por cabeçalho"
+    ],
+    [
+      0.032601,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] [Aguardando por "
+    ],
+    [
+      0.000176,
+      "\r100% [Sources 22,9 kB] [Aguardando por cabeçalhos] [Aguardando por cabeçalhos"
+    ],
+    [
+      0.000766,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] [Aguardando por "
+    ],
+    [
+      0.000090,
+      "\r100% [Sources 27,9 MB] [Aguardando por cabeçalhos] [Aguardando por cabeçalhos"
+    ],
+    [
+      0.032836,
+      "\r                                                                               \rAtingido http://br.archive.ubuntu.com trusty/multiverse Sources\r\n\r100% [Sources 27,9 MB] [Aguardando por cabeçalhos] [Aguardando por cabeçalhos"
+    ],
+    [
+      0.040044,
+      "\r                                                                               \rAtingido http://p.pkgfarm.com trusty InRelease\r\n\r100% [Sources 27,9 MB] [Aguardando por cabeçalhos] [Aguardando por cabeçalhos"
+    ],
+    [
+      0.000073,
+      "\r100% [Sources 27,9 MB] [InRelease gpgv 2.080 B] [Aguardando por cabeçalhos] [A"
+    ],
+    [
+      0.004592,
+      "\r100% [Sources 27,9 MB] [Aguardando por cabeçalhos] [Aguardando por cabeçalhos"
+    ],
+    [
+      0.004975,
+      "\r                                                                               \rAtingido http://br.archive.ubuntu.com trusty/main amd64 Packages\r\n"
+    ],
+    [
+      0.000019,
+      "\r100% [Sources 27,9 MB] [Aguardando por cabeçalhos] [Aguardando por cabeçalhos"
+    ],
+    [
+      0.038142,
+      "\r                                                                               \rIgn http://ppa.launchpad.net trusty InRelease\r\n"
+    ],
+    [
+      0.000007,
+      "\r100% [Sources 27,9 MB] [Aguardando por cabeçalhos] [Aguardando por cabeçalhos"
+    ],
+    [
+      0.011515,
+      "\r                                                                               \rAtingido http://br.archive.ubuntu.com trusty/restricted amd64 Packages\r\n"
+    ],
+    [
+      0.000017,
+      "\r100% [Sources 27,9 MB] [Aguardando por cabeçalhos] [Aguardando por cabeçalhos"
+    ],
+    [
+      0.038893,
+      "\r                                                                               \rAtingido http://security.ubuntu.com trusty-security Release\r\n"
+    ],
+    [
+      0.000008,
+      "\r100% [Sources 27,9 MB] [Aguardando por cabeçalhos] [Aguardando por cabeçalhos"
+    ],
+    [
+      0.000121,
+      "\r100% [Sources 27,9 MB] [Release gpgv 63,5 kB] [Aguardando por cabeçalhos] [Agu"
+    ],
+    [
+      0.002375,
+      "\r                                                                               \rAtingido http://extras.ubuntu.com trusty Release\r\n\r100% [Sources 27,9 MB] [Release gpgv 63,5 kB] [Aguardando por cabeçalhos] [Agu"
+    ],
+    [
+      0.006081,
+      "\r100% [Sources 27,9 MB] [Aguardando por cabeçalhos] [Aguardando por cabeçalhos"
+    ],
+    [
+      0.000222,
+      "\r100% [Sources 27,9 MB] [Release gpgv 11,9 kB] [Aguardando por cabeçalhos] [Agu"
+    ],
+    [
+      0.004371,
+      "\r100% [Sources 27,9 MB] [Aguardando por cabeçalhos] [Aguardando por cabeçalhos"
+    ],
+    [
+      0.056193,
+      "\r                                                                               \rAtingido http://archive.canonical.com trusty Release\r\n"
+    ],
+    [
+      0.000008,
+      "\r100% [Sources 27,9 MB] [Aguardando por cabeçalhos] [Aguardando por cabeçalhos"
+    ],
+    [
+      0.000122,
+      "\r100% [Sources 27,9 MB] [Release gpgv 9.359 B] [Aguardando por cabeçalhos] [Agu"
+    ],
+    [
+      0.005919,
+      "\r100% [Sources 27,9 MB] [Aguardando por cabeçalhos] [Aguardando por cabeçalhos"
+    ],
+    [
+      0.040521,
+      "\r                                                                               \rAtingido http://p.pkgfarm.com trusty/main amd64 Packages\r\n"
+    ],
+    [
+      0.000008,
+      "\r100% [Sources 27,9 MB] [Aguardando por cabeçalhos] [Aguardando por cabeçalhos"
+    ],
+    [
+      0.294158,
+      "\r                                                                               \rAtingido http://br.archive.ubuntu.com trusty/universe amd64 Packages\r\n\r100% [Sources 27,9 MB] [Aguardando por cabeçalhos] [Aguardando por cabeçalhos"
+    ],
+    [
+      0.057547,
+      "\r                                                                               \rAtingido http://dl.google.com stable Release.gpg\r\n"
+    ],
+    [
+      0.000062,
+      "\r100% [Sources 27,9 MB] [Aguardando por cabeçalhos] [Aguardando por cabeçalhos"
+    ],
+    [
+      0.069115,
+      "\r                                                                               \rAtingido http://br.archive.ubuntu.com trusty/multiverse amd64 Packages\r\n\r100% [Sources 27,9 MB] [Aguardando por cabeçalhos] [Aguardando por cabeçalhos"
+    ],
+    [
+      0.039403,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] [Aguardando por "
+    ],
+    [
+      0.000084,
+      "\r100% [Sources 711 kB] [Aguardando por cabeçalhos] [Aguardando por cabeçalhos]"
+    ],
+    [
+      0.009500,
+      "\r                                                                               \rAtingido http://br.archive.ubuntu.com trusty/main i386 Packages\r\n\r100% [Sources 711 kB] [Aguardando por cabeçalhos] [Aguardando por cabeçalhos]"
+    ],
+    [
+      0.010014,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] [Aguardando por "
+    ],
+    [
+      0.000117,
+      "\r100% [Packages 8.235 kB] [Aguardando por cabeçalhos] [Aguardando por cabeçalh"
+    ],
+    [
+      0.040255,
+      "\r                                                                               \rAtingido http://br.archive.ubuntu.com trusty/restricted i386 Packages\r\n\r100% [Packages 8.235 kB] [Aguardando por cabeçalhos] [Aguardando por cabeçalh"
+    ],
+    [
+      0.036550,
+      "\r                                                                               \rAtingido http://security.ubuntu.com trusty-security/main Sources\r\n\r100% [Packages 8.235 kB] [Aguardando por cabeçalhos] [Aguardando por cabeçalh"
+    ],
+    [
+      0.065724,
+      "\r                                                                               \rAtingido http://archive.canonical.com trusty/partner Sources\r\n\r100% [Packages 8.235 kB] [Aguardando por cabeçalhos] [Aguardando por cabeçalh"
+    ],
+    [
+      0.041494,
+      "\r                                                                               \rIgn http://ppa.launchpad.net trusty InRelease\r\n\r100% [Packages 8.235 kB] [Aguardando por cabeçalhos] [Aguardando por cabeçalh"
+    ],
+    [
+      0.000875,
+      "\r                                                                               \rAtingido http://br.archive.ubuntu.com trusty/universe i386 Packages\r\n\r100% [Packages 8.235 kB] [Aguardando por cabeçalhos] [Aguardando por cabeçalh"
+    ],
+    [
+      0.036527,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] [Aguardando por "
+    ],
+    [
+      0.000058,
+      "\r100% [Packages 184 kB] [Aguardando por cabeçalhos] [Aguardando por cabeçalhos"
+    ],
+    [
+      0.005029,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] [Aguardando por "
+    ],
+    [
+      0.000068,
+      "\r100% [Packages 567 B] [Aguardando por cabeçalhos] [Aguardando por cabeçalhos]"
+    ],
+    [
+      0.000133,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] [Aguardando por "
+    ],
+    [
+      0.000086,
+      "\r100% [Packages 31,7 MB] [Aguardando por cabeçalhos] [Aguardando por cabeçalho"
+    ],
+    [
+      0.011152,
+      "\r                                                                               \rAtingido http://br.archive.ubuntu.com trusty/multiverse i386 Packages\r\n\r100% [Packages 31,7 MB] [Aguardando por cabeçalhos] [Aguardando por cabeçalho"
+    ],
+    [
+      0.027746,
+      "\r                                                                               \rAtingido http://extras.ubuntu.com trusty/main Sources\r\n\r100% [Packages 31,7 MB] [Aguardando por cabeçalhos] [Aguardando por cabeçalho"
+    ],
+    [
+      0.022077,
+      "\r                                                                               \rAtingido http://br.archive.ubuntu.com trusty/main Translation-pt_BR\r\n\r100% [Packages 31,7 MB] [Aguardando por cabeçalhos] [Aguardando por cabeçalho"
+    ],
+    [
+      0.049251,
+      "\r                                                                               \rAtingido http://br.archive.ubuntu.com trusty/main Translation-pt\r\n\r100% [Packages 31,7 MB] [Aguardando por cabeçalhos] [Aguardando por cabeçalho"
+    ],
+    [
+      0.002269,
+      "\r                                                                               \rAtingido http://security.ubuntu.com trusty-security/restricted Sources\r\n\r100% [Packages 31,7 MB] [Aguardando por cabeçalhos] [Aguardando por cabeçalho"
+    ],
+    [
+      0.046552,
+      "\r                                                                               \rAtingido http://br.archive.ubuntu.com trusty/main Translation-en\r\n\r100% [Packages 31,7 MB] [Aguardando por cabeçalhos] [Aguardando por cabeçalho"
+    ],
+    [
+      0.023777,
+      "\r                                                                               \rAtingido http://archive.canonical.com trusty/partner amd64 Packages\r\n\r100% [Packages 31,7 MB] [Aguardando por cabeçalhos] [Aguardando por cabeçalho"
+    ],
+    [
+      0.025506,
+      "\r                                                                               \rAtingido http://br.archive.ubuntu.com trusty/multiverse Translation-pt_BR\r\n\r100% [Packages 31,7 MB] [Aguardando por cabeçalhos] [Aguardando por cabeçalho"
+    ],
+    [
+      0.002539,
+      "\r                                                                               \rIgn http://ppa.launchpad.net trusty InRelease\r\n\r100% [Packages 31,7 MB] [Aguardando por cabeçalhos] [Aguardando por cabeçalho"
+    ],
+    [
+      0.048848,
+      "\r                                                                               \rAtingido http://br.archive.ubuntu.com trusty/multiverse Translation-pt\r\n\r100% [Packages 31,7 MB] [Aguardando por cabeçalhos] [Aguardando por cabeçalho"
+    ],
+    [
+      0.037709,
+      "\r                                                                               \rAtingido http://extras.ubuntu.com trusty/main amd64 Packages\r\n\r100% [Packages 31,7 MB] [Aguardando por cabeçalhos] [Aguardando por cabeçalho"
+    ],
+    [
+      0.012404,
+      "\r                                                                               \rAtingido http://br.archive.ubuntu.com trusty/multiverse Translation-en\r\n\r100% [Packages 31,7 MB] [Aguardando por cabeçalhos] [Aguardando por cabeçalho"
+    ],
+    [
+      0.049102,
+      "\r                                                                               \rAtingido http://br.archive.ubuntu.com trusty/restricted Translation-pt_BR\r\n\r100% [Packages 31,7 MB] [Aguardando por cabeçalhos] [Aguardando por cabeçalho"
+    ],
+    [
+      0.017645,
+      "\r                                                                               \rAtingido http://security.ubuntu.com trusty-security/universe Sources\r\n\r100% [Packages 31,7 MB] [Aguardando por cabeçalhos] [Aguardando por cabeçalho"
+    ],
+    [
+      0.034249,
+      "\r                                                                               \rAtingido http://br.archive.ubuntu.com trusty/restricted Translation-pt\r\n\r100% [Packages 31,7 MB] [Aguardando por cabeçalhos] [Aguardando por cabeçalho"
+    ],
+    [
+      0.037055,
+      "\r                                                                               \rAtingido http://archive.canonical.com trusty/partner i386 Packages\r\n\r100% [Packages 31,7 MB] [Aguardando por cabeçalhos] [Aguardando por cabeçalho"
+    ],
+    [
+      0.012695,
+      "\r                                                                               \rAtingido http://br.archive.ubuntu.com trusty/restricted Translation-en\r\n\r100% [Packages 31,7 MB] [Aguardando por cabeçalhos] [Aguardando por cabeçalho"
+    ],
+    [
+      0.005206,
+      "\r                                                                               \rIgn http://ppa.launchpad.net trusty InRelease\r\n\r100% [Packages 31,7 MB] [Aguardando por cabeçalhos] [Aguardando por cabeçalho"
+    ],
+    [
+      0.044173,
+      "\r                                                                               \rAtingido http://br.archive.ubuntu.com trusty/universe Translation-pt_BR\r\n\r100% [Packages 31,7 MB] [Aguardando por cabeçalhos] [Aguardando por cabeçalho"
+    ],
+    [
+      0.046637,
+      "\r                                                                               \rAtingido http://extras.ubuntu.com trusty/main i386 Packages\r\n\r100% [Packages 31,7 MB] [Aguardando por cabeçalhos] [Aguardando por cabeçalho"
+    ],
+    [
+      0.002372,
+      "\r                                                                               \rAtingido http://br.archive.ubuntu.com trusty/universe Translation-pt\r\n\r100% [Packages 31,7 MB] [Aguardando por cabeçalhos] [Aguardando por cabeçalho"
+    ],
+    [
+      0.054996,
+      "\r                                                                               \rAtingido http://br.archive.ubuntu.com trusty/universe Translation-en\r\n\r100% [Packages 31,7 MB] [Aguardando por cabeçalhos] [Aguardando por cabeçalho"
+    ],
+    [
+      0.026445,
+      "\r                                                                               \rAtingido http://security.ubuntu.com trusty-security/multiverse Sources\r\n\r100% [Packages 31,7 MB] [Aguardando por cabeçalhos] [Aguardando por cabeçalho"
+    ],
+    [
+      0.029040,
+      "\r                                                                               \rObter:4 http://br.archive.ubuntu.com trusty-updates/main Sources [228 kB]\r\n\r99% [Packages 31,7 MB] [4 Sources 1.200 B/228 kB 1%] [Aguardando por cabeçalho"
+    ],
+    [
+      0.141188,
+      "\r                                                                               \rIgn http://ppa.launchpad.net trusty InRelease\r\n\r100% [Packages 31,7 MB] [4 Sources 58,3 kB/228 kB 26%] [Aguardando por cabeçal"
+    ],
+    [
+      0.051213,
+      "\r100% [4 Sources 76,9 kB/228 kB 34%] [Aguardando por cabeçalhos] [Aguardando po"
+    ],
+    [
+      0.000096,
+      "\r100% [Packages 664 kB] [4 Sources 76,9 kB/228 kB 34%] [Aguardando por cabeçalh"
+    ],
+    [
+      0.018259,
+      "\r100% [4 Sources 84,0 kB/228 kB 37%] [Aguardando por cabeçalhos] [Aguardando po"
+    ],
+    [
+      0.000063,
+      "\r100% [Packages 8.205 kB] [4 Sources 84,0 kB/228 kB 37%] [Aguardando por cabeça"
+    ],
+    [
+      0.112445,
+      "\r                                                                               \rAtingido http://security.ubuntu.com trusty-security/main amd64 Packages\r\n\r100% [Packages 8.205 kB] [4 Sources 130 kB/228 kB 57%] [Aguardando por cabeçal"
+    ],
+    [
+      0.018584,
+      "\r                                                                               \rAtingido http://dl.google.com stable Release\r\n\r100% [Packages 8.205 kB] [4 Sources 137 kB/228 kB 60%] [Aguardando por cabeçal"
+    ],
+    [
+      0.000106,
+      "\r100% [Packages 8.205 kB] [Release gpgv 1.347 B] [4 Sources 137 kB/228 kB 60%] ["
+    ],
+    [
+      0.004154,
+      "\r100% [Packages 8.205 kB] [4 Sources 138 kB/228 kB 61%] [Aguardando por cabeçal"
+    ],
+    [
+      0.087425,
+      "\r100% [4 Sources 173 kB/228 kB 76%] [Aguardando por cabeçalhos] [Aguardando por"
+    ],
+    [
+      0.000100,
+      "\r100% [Packages 185 kB] [4 Sources 173 kB/228 kB 76%] [Aguardando por cabeçalho"
+    ],
+    [
+      0.005226,
+      "\r100% [4 Sources 173 kB/228 kB 76%] [Aguardando por cabeçalhos] [Aguardando por"
+    ],
+    [
+      0.000112,
+      "\r100% [Sources 451 kB] [4 Sources 173 kB/228 kB 76%] [Aguardando por cabeçalhos"
+    ],
+    [
+      0.012525,
+      "\r100% [4 Sources 181 kB/228 kB 79%] [Aguardando por cabeçalhos] [Aguardando por"
+    ],
+    [
+      0.000062,
+      "\r100% [Sources 36,2 kB] [4 Sources 181 kB/228 kB 79%] [Aguardando por cabeçalho"
+    ],
+    [
+      0.001267,
+      "\r100% [4 Sources 181 kB/228 kB 79%] [Aguardando por cabeçalhos] [Aguardando por"
+    ],
+    [
+      0.000114,
+      "\r100% [Packages 31,7 MB] [4 Sources 181 kB/228 kB 79%] [Aguardando por cabeçalh"
+    ],
+    [
+      0.036943,
+      "\r                                                                               \rIgn http://ppa.launchpad.net trusty InRelease\r\n\r100% [Packages 31,7 MB] [4 Sources 195 kB/228 kB 86%] [Aguardando por cabeçalh"
+    ],
+    [
+      0.088228,
+      "\r100% [Packages 31,7 MB] [Aguardando por cabeçalhos] [Aguardando por cabeçalho"
+    ],
+    [
+      0.000528,
+      "\r100% [4 Sources bzip2 0 B] [Packages 31,7 MB] [Aguardando por cabeçalhos] [Agu"
+    ],
+    [
+      0.009740,
+      "\r                                                                               \rAtingido http://security.ubuntu.com trusty-security/restricted amd64 Packages\r\n\r100% [4 Sources bzip2 0 B] [Packages 31,7 MB] [Aguardando por cabeçalhos] [Agu"
+    ],
+    [
+      0.040282,
+      "\r                                                                               \rObter:5 http://br.archive.ubuntu.com trusty-updates/restricted Sources [4.717 B]\r\n\r100% [4 Sources bzip2 0 B] [Packages 31,7 MB] [5 Sources 1.203 B/4.717 B 26%] ["
+    ],
+    [
+      0.008783,
+      "\r100% [4 Sources bzip2 0 B] [Packages 31,7 MB] [Aguardando por cabeçalhos] [Agu"
+    ],
+    [
+      0.184628,
+      "\r100% [Packages 31,7 MB] [Aguardando por cabeçalhos] [Aguardando por cabeçalho"
+    ],
+    [
+      0.000225,
+      "\r                                                                               \rObter:6 http://br.archive.ubuntu.com trusty-updates/universe Sources [131 kB]\r\n"
+    ],
+    [
+      0.000054,
+      "\r100% [Packages 31,7 MB] [6 Sources 25,2 kB/131 kB 19%] [Aguardando por cabeçal"
+    ],
+    [
+      0.000180,
+      "\r100% [5 Sources bzip2 0 B] [Packages 31,7 MB] [6 Sources 25,2 kB/131 kB 19%] [A"
+    ],
+    [
+      0.002702,
+      "\r100% [Packages 31,7 MB] [6 Sources 54,0 kB/131 kB 41%] [Aguardando por cabeçal"
+    ],
+    [
+      0.026012,
+      "\r                                                                               \rAtingido http://dl.google.com stable/main amd64 Packages\r\n"
+    ],
+    [
+      0.000009,
+      "\r100% [Packages 31,7 MB] [6 Sources 64,0 kB/131 kB 49%] [Aguardando por cabeçal"
+    ],
+    [
+      0.014704,
+      "\r                                                                               \rIgn http://ppa.launchpad.net trusty InRelease\r\n"
+    ],
+    [
+      0.000073,
+      "\r100% [Packages 31,7 MB] [6 Sources 69,7 kB/131 kB 53%] [Aguardando por cabeçal"
+    ],
+    [
+      0.008018,
+      "\r                                                                               \rIgn http://archive.canonical.com trusty/partner Translation-en\r\n"
+    ],
+    [
+      0.000065,
+      "\r100% [Packages 31,7 MB] [6 Sources 72,6 kB/131 kB 55%] [Aguardando por cabeçal"
+    ],
+    [
+      0.083863,
+      "\r                                                                               \rAtingido http://security.ubuntu.com trusty-security/universe amd64 Packages\r\n"
+    ],
+    [
+      0.000087,
+      "\r100% [Packages 31,7 MB] [6 Sources 104 kB/131 kB 79%] [Aguardando por cabeçalh"
+    ],
+    [
+      0.066426,
+      "\r100% [Packages 31,7 MB] [Aguardando por cabeçalhos] [Aguardando por cabeçalho"
+    ],
+    [
+      0.000188,
+      "\r100% [6 Sources bzip2 0 B] [Packages 31,7 MB] [Aguardando por cabeçalhos] [Agu"
+    ],
+    [
+      0.053603,
+      "\r100% [Packages 31,7 MB] [Aguardando por cabeçalhos] [Aguardando por cabeçalho"
+    ],
+    [
+      0.000689,
+      "\r                                                                               \rObter:7 http://br.archive.ubuntu.com trusty-updates/multiverse Sources [5.138 B]\r\n\r100% [Packages 31,7 MB] [7 Sources 1.203 B/5.138 B 23%] [Aguardando por cabeça"
+    ],
+    [
+      0.011400,
+      "\r100% [Packages 31,7 MB] [Aguardando por cabeçalhos] [Aguardando por cabeçalho"
+    ],
+    [
+      0.000114,
+      "\r100% [7 Sources bzip2 0 B] [Packages 31,7 MB] [Aguardando por cabeçalhos] [Agu"
+    ],
+    [
+      0.001591,
+      "\r100% [Packages 31,7 MB] [Aguardando por cabeçalhos] [Aguardando por cabeçalho"
+    ],
+    [
+      0.026646,
+      "\r                                                                               \rIgn http://ppa.launchpad.net trusty InRelease\r\n"
+    ],
+    [
+      0.000009,
+      "\r100% [Packages 31,7 MB] [Aguardando por cabeçalhos] [Aguardando por cabeçalho"
+    ],
+    [
+      0.104369,
+      "\r                                                                               \rAtingido http://security.ubuntu.com trusty-security/multiverse amd64 Packages\r\n"
+    ],
+    [
+      0.000020,
+      "\r100% [Packages 31,7 MB] [Aguardando por cabeçalhos] [Aguardando por cabeçalho"
+    ],
+    [
+      0.008536,
+      "\r                                                                               \rObter:8 http://br.archive.ubuntu.com trusty-updates/main amd64 Packages [599 kB]\r\n"
+    ],
+    [
+      0.000029,
+      "\r99% [Packages 31,7 MB] [8 Packages 1.200 B/599 kB 0%] [Aguardando por cabeçalh"
+    ],
+    [
+      0.086663,
+      "\r100% [8 Packages 35,5 kB/599 kB 6%] [Aguardando por cabeçalhos] [Aguardando po"
+    ],
+    [
+      0.000089,
+      "\r100% [Packages 674 kB] [8 Packages 35,5 kB/599 kB 6%] [Aguardando por cabeçalh"
+    ],
+    [
+      0.018241,
+      "\r100% [8 Packages 42,6 kB/599 kB 7%] [Aguardando por cabeçalhos] [Aguardando po"
+    ],
+    [
+      0.000075,
+      "\r100% [Sources 0 B] [8 Packages 42,6 kB/599 kB 7%] [Aguardando por cabeçalhos] "
+    ],
+    [
+      0.000220,
+      "\r100% [8 Packages 42,6 kB/599 kB 7%] [Aguardando por cabeçalhos] [Aguardando po"
+    ],
+    [
+      0.000049,
+      "\r100% [Translation-pt_BR 1.571 kB] [8 Packages 42,6 kB/599 kB 7%] [Aguardando po"
+    ],
+    [
+      0.042029,
+      "\r100% [8 Packages 59,7 kB/599 kB 10%] [Aguardando por cabeçalhos] [Aguardando p"
+    ],
+    [
+      0.000127,
+      "\r100% [Translation-pt 1.531 kB] [8 Packages 59,7 kB/599 kB 10%] [Aguardando por "
+    ],
+    [
+      0.041533,
+      "\r100% [8 Packages 75,5 kB/599 kB 13%] [Aguardando por cabeçalhos] [Aguardando p"
+    ],
+    [
+      0.000226,
+      "\r100% [Sources 8.902 B] [8 Packages 75,5 kB/599 kB 13%] [Aguardando por cabeçal"
+    ],
+    [
+      0.000277,
+      "\r100% [8 Packages 76,9 kB/599 kB 13%] [Aguardando por cabeçalhos] [Aguardando p"
+    ],
+    [
+      0.000092,
+      "\r100% [Translation-en 4.149 kB] [8 Packages 76,9 kB/599 kB 13%] [Aguardando por "
+    ],
+    [
+      0.072912,
+      "\r                                                                               \rAtingido http://dl.google.com stable/main i386 Packages\r\n"
+    ],
+    [
+      0.000028,
+      "\r100% [Translation-en 4.149 kB] [8 Packages 105 kB/599 kB 18%] [Aguardando por c"
+    ],
+    [
+      0.008092,
+      "\r                                                                               \rIgn http://ppa.launchpad.net trusty InRelease\r\n"
+    ],
+    [
+      0.000007,
+      "\r100% [Translation-en 4.149 kB] [8 Packages 108 kB/599 kB 18%] [Aguardando por c"
+    ],
+    [
+      0.030076,
+      "\r100% [8 Packages 120 kB/599 kB 20%] [Aguardando por cabeçalhos] [Aguardando po"
+    ],
+    [
+      0.000084,
+      "\r100% [Packages 17,4 kB] [8 Packages 120 kB/599 kB 20%] [Aguardando por cabeçal"
+    ],
+    [
+      0.000866,
+      "\r100% [8 Packages 120 kB/599 kB 20%] [Aguardando por cabeçalhos] [Aguardando po"
+    ],
+    [
+      0.000180,
+      "\r100% [Translation-pt_BR 70,4 kB] [8 Packages 120 kB/599 kB 20%] [Aguardando por"
+    ],
+    [
+      0.002011,
+      "\r100% [8 Packages 121 kB/599 kB 20%] [Aguardando por cabeçalhos] [Aguardando po"
+    ],
+    [
+      0.000075,
+      "\r100% [Translation-pt 36,9 kB] [8 Packages 121 kB/599 kB 20%] [Aguardando por ca"
+    ],
+    [
+      0.001114,
+      "\r100% [8 Packages 121 kB/599 kB 20%] [Aguardando por cabeçalhos] [Aguardando po"
+    ],
+    [
+      0.000081,
+      "\r100% [Packages 0 B] [8 Packages 121 kB/599 kB 20%] [Aguardando por cabeçalhos]"
+    ],
+    [
+      0.000113,
+      "\r100% [8 Packages 121 kB/599 kB 20%] [Aguardando por cabeçalhos] [Aguardando po"
+    ],
+    [
+      0.000101,
+      "\r100% [Translation-en 409 kB] [8 Packages 121 kB/599 kB 20%] [Aguardando por cab"
+    ],
+    [
+      0.011188,
+      "\r100% [8 Packages 125 kB/599 kB 21%] [Aguardando por cabeçalhos] [Aguardando po"
+    ],
+    [
+      0.000079,
+      "\r100% [Translation-pt_BR 11,9 kB] [8 Packages 125 kB/599 kB 21%] [Aguardando por"
+    ],
+    [
+      0.000435,
+      "\r100% [8 Packages 127 kB/599 kB 21%] [Aguardando por cabeçalhos] [Aguardando po"
+    ],
+    [
+      0.000049,
+      "\r100% [Sources 118 kB] [8 Packages 127 kB/599 kB 21%] [Aguardando por cabeçalho"
+    ],
+    [
+      0.003319,
+      "\r100% [8 Packages 128 kB/599 kB 21%] [Aguardando por cabeçalhos] [Aguardando po"
+    ],
+    [
+      0.000076,
+      "\r100% [Translation-pt 12,0 kB] [8 Packages 128 kB/599 kB 21%] [Aguardando por ca"
+    ],
+    [
+      0.000404,
+      "\r100% [8 Packages 128 kB/599 kB 21%] [Aguardando por cabeçalhos] [Aguardando po"
+    ],
+    [
+      0.000086,
+      "\r100% [Packages 19,7 kB] [8 Packages 128 kB/599 kB 21%] [Aguardando por cabeçal"
+    ],
+    [
+      0.000672,
+      "\r100% [8 Packages 128 kB/599 kB 21%] [Aguardando por cabeçalhos] [Aguardando po"
+    ],
+    [
+      0.000073,
+      "\r100% [Translation-en 21,2 kB] [8 Packages 128 kB/599 kB 21%] [Aguardando por ca"
+    ],
+    [
+      0.000674,
+      "\r100% [8 Packages 128 kB/599 kB 21%] [Aguardando por cabeçalhos] [Aguardando po"
+    ],
+    [
+      0.000077,
+      "\r100% [Translation-pt_BR 3.304 kB] [8 Packages 128 kB/599 kB 21%] [Aguardando po"
+    ],
+    [
+      0.070767,
+      "\r                                                                               \rAtingido http://security.ubuntu.com trusty-security/main i386 Packages\r\n"
+    ],
+    [
+      0.000021,
+      "\r100% [Translation-pt_BR 3.304 kB] [8 Packages 157 kB/599 kB 26%] [Aguardando po"
+    ],
+    [
+      0.017061,
+      "\r100% [8 Packages 163 kB/599 kB 27%] [Aguardando por cabeçalhos] [Aguardando po"
+    ],
+    [
+      0.000099,
+      "\r100% [Packages 0 B] [8 Packages 163 kB/599 kB 27%] [Aguardando por cabeçalhos]"
+    ],
+    [
+      0.000255,
+      "\r100% [8 Packages 163 kB/599 kB 27%] [Aguardando por cabeçalhos] [Aguardando po"
+    ],
+    [
+      0.000117,
+      "\r100% [Translation-pt 3.978 kB] [8 Packages 163 kB/599 kB 27%] [Aguardando por c"
+    ],
+    [
+      0.105976,
+      "\r100% [8 Packages 205 kB/599 kB 34%] [Aguardando por cabeçalhos] [Aguardando po"
+    ],
+    [
+      0.000083,
+      "\r100% [Translation-en 18,6 MB] [8 Packages 205 kB/599 kB 34%] [Aguardando por ca"
+    ],
+    [
+      0.076876,
+      "\r                                                                               \rIgn http://ppa.launchpad.net trusty InRelease\r\n"
+    ],
+    [
+      0.000022,
+      "\r100% [Translation-en 18,6 MB] [8 Packages 235 kB/599 kB 39%] [Aguardando por ca"
+    ],
+    [
+      0.278883,
+      "\r                                                                               \rAtingido http://security.ubuntu.com trusty-security/restricted i386 Packages\r\n"
+    ],
+    [
+      0.000077,
+      "\r100% [Translation-en 18,6 MB] [8 Packages 337 kB/599 kB 56%] [Aguardando por ca"
+    ],
+    [
+      0.128268,
+      "\r                                                                               \rIgn http://ppa.launchpad.net trusty InRelease\r\n\r100% [Translation-en 18,6 MB] [8 Packages 337 kB/599 kB 56%] [Aguardando por ca"
+    ],
+    [
+      0.011999,
+      "\r100% [8 Packages 337 kB/599 kB 56%] [Aguardando por cabeçalhos] [Aguardando po"
+    ],
+    [
+      0.000133,
+      "\r100% [Sources 5.864 B] [8 Packages 337 kB/599 kB 56%] [Aguardando por cabeçalh"
+    ],
+    [
+      0.000280,
+      "\r100% [8 Packages 337 kB/599 kB 56%] [Aguardando por cabeçalhos] [Aguardando po"
+    ],
+    [
+      0.000072,
+      "\r100% [Packages 2.178 kB] [8 Packages 337 kB/599 kB 56%] [Aguardando por cabeça"
+    ],
+    [
+      0.058976,
+      "\r100% [8 Packages 342 kB/599 kB 57%] [Aguardando por cabeçalhos] [Aguardando po"
+    ],
+    [
+      0.000085,
+      "\r100% [Packages 136 kB] [8 Packages 342 kB/599 kB 57%] [Aguardando por cabeçalh"
+    ],
+    [
+      0.004021,
+      "\r100% [8 Packages 345 kB/599 kB 58%] [Aguardando por cabeçalhos] [Aguardando po"
+    ],
+    [
+      0.000116,
+      "\r100% [Packages 4.119 B] [8 Packages 345 kB/599 kB 58%] [Aguardando por cabeçal"
+    ],
+    [
+      0.000437,
+      "\r100% [8 Packages 345 kB/599 kB 58%] [Aguardando por cabeçalhos] [Aguardando po"
+    ],
+    [
+      0.000168,
+      "\r100% [Packages 680 kB] [8 Packages 345 kB/599 kB 58%] [Aguardando por cabeçalh"
+    ],
+    [
+      0.018407,
+      "\r100% [8 Packages 431 kB/599 kB 72%] [Aguardando por cabeçalhos] [Aguardando po"
+    ],
+    [
+      0.000075,
+      "\r100% [Packages 12,5 kB] [8 Packages 431 kB/599 kB 72%] [Aguardando por cabeçal"
+    ],
+    [
+      0.000545,
+      "\r100% [8 Packages 431 kB/599 kB 72%] [Aguardando por cabeçalhos] [Aguardando po"
+    ],
+    [
+      0.000078,
+      "\r100% [Packages 4.113 B] [8 Packages 431 kB/599 kB 72%] [Aguardando por cabeçal"
+    ],
+    [
+      0.000317,
+      "\r100% [8 Packages 431 kB/599 kB 72%] [Aguardando por cabeçalhos] [Aguardando po"
+    ],
+    [
+      0.000079,
+      "\r100% [Packages 2.059 kB] [8 Packages 431 kB/599 kB 72%] [Aguardando por cabeça"
+    ],
+    [
+      0.055738,
+      "\r100% [8 Packages 454 kB/599 kB 76%] [Aguardando por cabeçalhos] [Aguardando po"
+    ],
+    [
+      0.000077,
+      "\r100% [Packages 136 kB] [8 Packages 454 kB/599 kB 76%] [Aguardando por cabeçalh"
+    ],
+    [
+      0.003744,
+      "\r100% [8 Packages 455 kB/599 kB 76%] [Aguardando por cabeçalhos] [Aguardando po"
+    ],
+    [
+      0.092158,
+      "\r                                                                               \rAtingido http://security.ubuntu.com trusty-security/universe i386 Packages\r\n\r100% [8 Packages 491 kB/599 kB 82%] [Aguardando por cabeçalhos] [Aguardando po"
+    ],
+    [
+      0.001035,
+      "\r100% [Packages 679 kB] [8 Packages 491 kB/599 kB 82%] [Aguardando por cabeçalh"
+    ],
+    [
+      0.024876,
+      "\r100% [8 Packages 501 kB/599 kB 84%] [Aguardando por cabeçalhos] [Aguardando po"
+    ],
+    [
+      0.092404,
+      "\r                                                                               \rIgn http://ppa.launchpad.net trusty InRelease\r\n\r100% [8 Packages 538 kB/599 kB 90%] [Aguardando por cabeçalhos] [Aguardando po"
+    ],
+    [
+      0.155893,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] [Aguardando por "
+    ],
+    [
+      0.000110,
+      "\r100% [8 Packages bzip2 0 B] [Aguardando por cabeçalhos] [Aguardando por cabeç"
+    ],
+    [
+      0.002440,
+      "\r                                                                               \rIgn http://p.pkgfarm.com trusty/main Translation-pt_BR\r\n\r100% [8 Packages bzip2 0 B] [Aguardando por cabeçalhos] [Aguardando por cabeç"
+    ],
+    [
+      0.000666,
+      "\r                                                                               \rAtingido http://security.ubuntu.com trusty-security/multiverse i386 Packages\r\n\r100% [8 Packages bzip2 0 B] [Aguardando por cabeçalhos] [Aguardando por cabeç"
+    ],
+    [
+      0.000656,
+      "\r100% [8 Packages bzip2 0 B] [Packages 13,4 kB] [Aguardando por cabeçalhos] [Ag\r100% [8 Packages bzip2 0 B] [Aguardando por cabeçalhos] [Aguardando por cabeç"
+    ],
+    [
+      0.050627,
+      "\r                                                                               \rObter:9 http://br.archive.ubuntu.com trusty-updates/restricted amd64 Packages [15,3 kB]\r\n\r100% [8 Packages bzip2 0 B] [9 Packages 1.202 B/15,3 kB 8%] [Aguardando por cab"
+    ],
+    [
+      0.035052,
+      "\r100% [8 Packages bzip2 0 B] [Aguardando por cabeçalhos] [Aguardando por cabeç"
+    ],
+    [
+      0.006829,
+      "\r                                                                               \rIgn http://ppa.launchpad.net trusty InRelease\r\n\r100% [8 Packages bzip2 0 B] [Aguardando por cabeçalhos] [Aguardando por cabeç"
+    ],
+    [
+      0.046325,
+      "\r                                                                               \rObter:10 http://br.archive.ubuntu.com trusty-updates/universe amd64 Packages [302 kB]\r\n\r100% [8 Packages bzip2 0 B] [10 Packages 0 B/302 kB 0%] [Aguardando por cabeça"
+    ],
+    [
+      0.150902,
+      "\r100% [10 Packages 61,2 kB/302 kB 20%] [Aguardando por cabeçalhos] [Aguardando "
+    ],
+    [
+      0.000093,
+      "\r100% [9 Packages bzip2 0 B] [10 Packages 61,2 kB/302 kB 20%] [Aguardando por ca"
+    ],
+    [
+      0.448329,
+      "\r100% [10 Packages 238 kB/302 kB 79%] [Aguardando por cabeçalhos] [Aguardando p\r                                                                               \rAtingido http://security.ubuntu.com trusty-security/main Translation-en\r\n\r                                                                               \rIgn http://ppa.launchpad.net trusty InRelease\r\n\r                                                                               \rIgn http://p.pkgfarm.com trusty/main Translation-pt\r\n\r                                                                               \rIgn http://p.pkgfarm.com trusty/main Translation-en\r\n\r100% [10 Packages 238 kB/302 kB 79%] [Aguardando por cabeçalhos] [Aguardando p"
+    ],
+    [
+      0.000170,
+      "\r100% [Translation-en 2.064 kB] [10 Packages 238 kB/302 kB 79%] [Aguardando por "
+    ],
+    [
+      0.013172,
+      "\r                                                                               \rAtingido http://security.ubuntu.com trusty-security/multiverse Translation-en\r\n\r100% [Translation-en 2.064 kB] [10 Packages 244 kB/302 kB 81%] [Aguardando por "
+    ],
+    [
+      0.044131,
+      "\r100% [10 Packages 261 kB/302 kB 86%] [Aguardando por cabeçalhos] [Aguardando p"
+    ],
+    [
+      0.000070,
+      "\r100% [Translation-en 5.770 B] [10 Packages 261 kB/302 kB 86%] [Aguardando por c"
+    ],
+    [
+      0.000330,
+      "\r100% [10 Packages 261 kB/302 kB 86%] [Aguardando por cabeçalhos] [Aguardando p"
+    ],
+    [
+      0.024479,
+      "\r                                                                               \rIgn http://ppa.launchpad.net trusty InRelease\r\n\r100% [10 Packages 271 kB/302 kB 90%] [Aguardando por cabeçalhos] [Aguardando p"
+    ],
+    [
+      0.078250,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] [Aguardando por "
+    ],
+    [
+      0.000215,
+      "\r100% [10 Packages bzip2 0 B] [Aguardando por cabeçalhos] [Aguardando por cabe\ufffd"
+    ],
+    [
+      0.002445,
+      "\r                                                                               \rAtingido http://repository.spotify.com stable/non-free amd64 Packages\r\n\r100% [10 Packages bzip2 0 B] [Aguardando por cabeçalhos] [Aguardando por cabe\ufffd\r100% [10 Packages bzip2 0 B] [Packages 4.409 B] [Aguardando por cabeçalhos] [A\r100% [10 Packages bzip2 0 B] [Aguardando por cabeçalhos] [Aguardando por cabe\ufffd"
+    ],
+    [
+      0.051941,
+      "\r                                                                               \rObter:11 http://br.archive.ubuntu.com trusty-updates/multiverse amd64 Packages [12,0 kB]\r\n\r100% [10 Packages bzip2 0 B] [11 Packages 1.202 B/12,0 kB 10%] [Aguardando por "
+    ],
+    [
+      0.025153,
+      "\r100% [10 Packages bzip2 0 B] [Aguardando por cabeçalhos] [Aguardando por cabe\ufffd"
+    ],
+    [
+      0.037476,
+      "\r                                                                               \rAtingido http://security.ubuntu.com trusty-security/restricted Translation-en\r\n\r100% [10 Packages bzip2 0 B] [Aguardando por cabeçalhos] [Aguardando por cabe\ufffd\r100% [10 Packages bzip2 0 B] [Translation-en 15,4 kB] [Aguardando por cabeçalh\r100% [10 Packages bzip2 0 B] [Aguardando por cabeçalhos] [Aguardando por cabe\ufffd"
+    ],
+    [
+      0.014745,
+      "\r                                                                               \rObter:12 http://br.archive.ubuntu.com trusty-updates/main i386 Packages [579 kB]\r\n\r100% [10 Packages bzip2 0 B] [12 Packages 1.200 B/579 kB 0%] [Aguardando por ca"
+    ],
+    [
+      0.027527,
+      "\r100% [12 Packages 11,2 kB/579 kB 2%] [Aguardando por cabeçalhos] [Aguardando p"
+    ],
+    [
+      0.000085,
+      "\r100% [11 Packages bzip2 0 B] [12 Packages 12,6 kB/579 kB 2%] [Aguardando por ca"
+    ],
+    [
+      0.003974,
+      "\r100% [12 Packages 14,1 kB/579 kB 2%] [Aguardando por cabeçalhos] [Aguardando p"
+    ],
+    [
+      0.123272,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty Release.gpg\r\n\r100% [12 Packages 62,6 kB/579 kB 11%] [Aguardando por cabeçalhos] [Aguardando "
+    ],
+    [
+      0.351741,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty Release.gpg\r\n\r100% [12 Packages 201 kB/579 kB 35%] [Aguardando por cabeçalhos] [Aguardando p"
+    ],
+    [
+      0.014652,
+      "\r                                                                               \rAtingido http://repository.spotify.com stable/non-free i386 Packages\r\n\r100% [12 Packages 207 kB/579 kB 36%] [Aguardando por cabeçalhos] [Aguardando p"
+    ],
+    [
+      0.000167,
+      "\r100% [Packages 3.001 B] [12 Packages 207 kB/579 kB 36%] [Aguardando por cabeça"
+    ],
+    [
+      0.000286,
+      "\r100% [12 Packages 207 kB/579 kB 36%] [Aguardando por cabeçalhos] [Aguardando p"
+    ],
+    [
+      0.167025,
+      "\r                                                                               \rIgn http://extras.ubuntu.com trusty/main Translation-pt_BR\r\n"
+    ],
+    [
+      0.000053,
+      "\r100% [12 Packages 274 kB/579 kB 47%] [Aguardando por cabeçalhos] [Aguardando p"
+    ],
+    [
+      0.064815,
+      "\r                                                                               \rAtingido http://security.ubuntu.com trusty-security/universe Translation-en\r\n\r100% [12 Packages 300 kB/579 kB 52%] [Aguardando por cabeçalhos] [Aguardando p"
+    ],
+    [
+      0.000157,
+      "\r100% [Translation-en 334 kB] [12 Packages 300 kB/579 kB 52%] [Aguardando por ca"
+    ],
+    [
+      0.012371,
+      "\r100% [12 Packages 304 kB/579 kB 53%] [Aguardando por cabeçalhos] [Aguardando p"
+    ],
+    [
+      0.045857,
+      "\r                                                                               \rIgn http://repository.spotify.com stable/non-free Translation-pt_BR\r\n\r100% [12 Packages 322 kB/579 kB 56%] [Aguardando por cabeçalhos] [Aguardando p"
+    ],
+    [
+      0.050245,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty Release.gpg\r\n\r100% [12 Packages 327 kB/579 kB 56%] [Aguardando por cabeçalhos] [Aguardando p"
+    ],
+    [
+      0.167214,
+      "\r                                                                               \rIgn http://extras.ubuntu.com trusty/main Translation-pt\r\n\r100% [12 Packages 410 kB/579 kB 71%] [Aguardando por cabeçalhos] [Aguardando p"
+    ],
+    [
+      0.044702,
+      "\r                                                                               \rIgn http://repository.spotify.com stable/non-free Translation-pt\r\n\r100% [12 Packages 425 kB/579 kB 73%] [Aguardando por cabeçalhos] [Aguardando p"
+    ],
+    [
+      0.105450,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty Release.gpg\r\n\r100% [12 Packages 467 kB/579 kB 81%] [Aguardando por cabeçalhos] [Aguardando p"
+    ],
+    [
+      0.155279,
+      "\r                                                                               \rIgn http://repository.spotify.com stable/non-free Translation-en\r\n\r100% [12 Packages 528 kB/579 kB 91%] [Aguardando por cabeçalhos] [Aguardando p"
+    ],
+    [
+      0.022188,
+      "\r                                                                               \rIgn http://extras.ubuntu.com trusty/main Translation-en\r\n\r100% [12 Packages 537 kB/579 kB 93%] [Aguardando por cabeçalhos] [Aguardando p"
+    ],
+    [
+      0.106232,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos]     25,7 MB/s 0s"
+    ],
+    [
+      0.000135,
+      "\r100% [12 Packages bzip2 0 B] [Aguardando por cabeçalhos] [Aguardando por cabe\ufffd"
+    ],
+    [
+      0.280046,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] [Aguardando por "
+    ],
+    [
+      0.170936,
+      "\r                                                                               \rObter:13 http://br.archive.ubuntu.com trusty-updates/restricted i386 Packages [15,2 kB]\r\n\r100% [13 Packages 1.202 B/15,2 kB 8%] [Aguardando por cabeçalhos] [Aguardando "
+    ],
+    [
+      0.034177,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos]     25,7 MB/s 0s"
+    ],
+    [
+      0.000178,
+      "\r100% [13 Packages bzip2 0 B] [Aguardando por cabeçalhos] [Aguardando por cabe\ufffd"
+    ],
+    [
+      0.019631,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] [Aguardando por "
+    ],
+    [
+      0.150313,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty Release.gpg\r\n"
+    ],
+    [
+      0.000046,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos]     25,7 MB/s 0s"
+    ],
+    [
+      0.384813,
+      "\r                                                                               \rObter:14 http://br.archive.ubuntu.com trusty-updates/universe i386 Packages [303 kB]\r\n\r100% [14 Packages 1.200 B/303 kB 0%] [Aguardando por cabeçalhos] [Aguardando p"
+    ],
+    [
+      0.288844,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty Release.gpg\r\n\r100% [14 Packages 117 kB/303 kB 39%] [Aguardando por cabeçalhos]  25,7 MB/s 0s"
+    ],
+    [
+      0.345429,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty Release.gpg\r\n"
+    ],
+    [
+      0.000064,
+      "\r100% [14 Packages 251 kB/303 kB 83%] [Aguardando por cabeçalhos]  25,7 MB/s 0s"
+    ],
+    [
+      0.129854,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos]     25,7 MB/s 0s"
+    ],
+    [
+      0.000111,
+      "\r100% [14 Packages bzip2 0 B] [Aguardando por cabeçalhos] [Aguardando por cabe\ufffd"
+    ],
+    [
+      0.053986,
+      "\r                                                                               \rObter:15 http://br.archive.ubuntu.com trusty-updates/multiverse i386 Packages [12,1 kB]\r\n\r100% [14 Packages bzip2 0 B] [15 Packages 1.202 B/12,1 kB 10%] [Aguardando por "
+    ],
+    [
+      0.026669,
+      "\r100% [14 Packages bzip2 0 B] [Aguardando por cabeçalhos] [Aguardando por cabe\ufffd"
+    ],
+    [
+      0.042094,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty Release.gpg\r\n\r100% [14 Packages bzip2 0 B] [Aguardando por cabeçalhos] [Aguardando por cabe\ufffd"
+    ],
+    [
+      0.007692,
+      "\r                                                                               \rAtingido http://br.archive.ubuntu.com trusty-updates/main Translation-en\r\n\r100% [14 Packages bzip2 0 B] [Aguardando por cabeçalhos] [Aguardando por cabe\ufffd"
+    ],
+    [
+      0.000875,
+      "\r100% [14 Packages bzip2 0 B] [Translation-en 2.875 kB] [Aguardando por cabeçal"
+    ],
+    [
+      0.030591,
+      "\r100% [Translation-en 2.875 kB] [Aguardando por cabeçalhos] [Aguardando por cab"
+    ],
+    [
+      0.000102,
+      "\r100% [15 Packages bzip2 0 B] [Translation-en 2.875 kB] [Aguardando por cabeçal"
+    ],
+    [
+      0.004675,
+      "\r100% [Translation-en 2.875 kB] [Aguardando por cabeçalhos] [Aguardando por cab"
+    ],
+    [
+      0.013562,
+      "\r                                                                               \rAtingido http://br.archive.ubuntu.com trusty-updates/multiverse Translation-en\r\n\r100% [Translation-en 2.875 kB] [Aguardando por cabeçalhos] [Aguardando por cab"
+    ],
+    [
+      0.032277,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] [Aguardando por "
+    ],
+    [
+      0.000045,
+      "\r100% [Translation-en 21,7 kB] [Aguardando por cabeçalhos] [Aguardando por cabe"
+    ],
+    [
+      0.000717,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] [Aguardando por "
+    ],
+    [
+      0.018003,
+      "\r                                                                               \rAtingido http://br.archive.ubuntu.com trusty-updates/restricted Translation-en\r\n\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos]     25,7 MB/s 0s"
+    ],
+    [
+      0.000056,
+      "\r100% [Translation-en 30,3 kB] [Aguardando por cabeçalhos] [Aguardando por cabe"
+    ],
+    [
+      0.001278,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] [Aguardando por "
+    ],
+    [
+      0.049106,
+      "\r                                                                               \rAtingido http://br.archive.ubuntu.com trusty-updates/universe Translation-en\r\n"
+    ],
+    [
+      0.000018,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos]     25,7 MB/s 0s"
+    ],
+    [
+      0.002619,
+      "\r100% [Translation-en 817 kB] [Aguardando por cabeçalhos] [Aguardando por cabe\ufffd"
+    ],
+    [
+      0.020874,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] [Aguardando por "
+    ],
+    [
+      0.025571,
+      "\r                                                                               \rAtingido http://br.archive.ubuntu.com trusty-backports/main Sources\r\n\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos]     25,7 MB/s 0s"
+    ],
+    [
+      0.000088,
+      "\r100% [Sources 18,3 kB] [Aguardando por cabeçalhos] [Aguardando por cabeçalhos"
+    ],
+    [
+      0.001538,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] [Aguardando por "
+    ],
+    [
+      0.043395,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty Release.gpg\r\n\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos]     25,7 MB/s 0s"
+    ],
+    [
+      0.004982,
+      "\r                                                                               \rAtingido http://br.archive.ubuntu.com trusty-backports/restricted Sources\r\n\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos]     25,7 MB/s 0s"
+    ],
+    [
+      0.000366,
+      "\r100% [Sources 0 B] [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] [A\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] [Aguardando por "
+    ],
+    [
+      0.048196,
+      "\r                                                                               \rAtingido http://br.archive.ubuntu.com trusty-backports/universe Sources\r\n"
+    ],
+    [
+      0.000019,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos]     25,7 MB/s 0s"
+    ],
+    [
+      0.000134,
+      "\r100% [Sources 111 kB] [Aguardando por cabeçalhos] [Aguardando por cabeçalhos]"
+    ],
+    [
+      0.003282,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] [Aguardando por "
+    ],
+    [
+      0.046748,
+      "\r                                                                               \rAtingido http://br.archive.ubuntu.com trusty-backports/multiverse Sources\r\n\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos]     25,7 MB/s 0s"
+    ],
+    [
+      0.000133,
+      "\r100% [Sources 4.444 B] [Aguardando por cabeçalhos] [Aguardando por cabeçalhos"
+    ],
+    [
+      0.000278,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] [Aguardando por "
+    ],
+    [
+      0.049172,
+      "\r                                                                               \rAtingido http://br.archive.ubuntu.com trusty-backports/main amd64 Packages\r\n\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos]     25,7 MB/s 0s"
+    ],
+    [
+      0.001573,
+      "\r100% [Packages 24,0 kB] [Aguardando por cabeçalhos] [Aguardando por cabeçalho\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] [Aguardando por "
+    ],
+    [
+      0.048060,
+      "\r                                                                               \rAtingido http://br.archive.ubuntu.com trusty-backports/restricted amd64 Packages\r\n\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos]     25,7 MB/s 0s"
+    ],
+    [
+      0.000291,
+      "\r100% [Packages 0 B] [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] [\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] [Aguardando por "
+    ],
+    [
+      0.050068,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty Release.gpg\r\n\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] [Aguardando por "
+    ],
+    [
+      0.096385,
+      "\r                                                                               \rAtingido http://br.archive.ubuntu.com trusty-backports/universe amd64 Packages\r\n\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos]     25,7 MB/s 0s"
+    ],
+    [
+      0.000077,
+      "\r100% [Packages 160 kB] [Aguardando por cabeçalhos] [Aguardando por cabeçalhos"
+    ],
+    [
+      0.004410,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] [Aguardando por "
+    ],
+    [
+      0.045637,
+      "\r                                                                               \rAtingido http://br.archive.ubuntu.com trusty-backports/multiverse amd64 Packages\r\n\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos]     25,7 MB/s 0s"
+    ],
+    [
+      0.000075,
+      "\r100% [Packages 3.396 B] [Aguardando por cabeçalhos] [Aguardando por cabeçalho"
+    ],
+    [
+      0.000212,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] [Aguardando por "
+    ],
+    [
+      0.051849,
+      "\r                                                                               \rAtingido http://br.archive.ubuntu.com trusty-backports/main i386 Packages\r\n\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos]     25,7 MB/s 0s"
+    ],
+    [
+      0.000033,
+      "\r100% [Packages 23,9 kB] [Aguardando por cabeçalhos] [Aguardando por cabeçalho"
+    ],
+    [
+      0.000860,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] [Aguardando por "
+    ],
+    [
+      0.048080,
+      "\r                                                                               \rAtingido http://br.archive.ubuntu.com trusty-backports/restricted i386 Packages\r\n\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos]     25,7 MB/s 0s"
+    ],
+    [
+      0.000055,
+      "\r100% [Packages 0 B] [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] ["
+    ],
+    [
+      0.000130,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] [Aguardando por "
+    ],
+    [
+      0.006327,
+      "\r                                                                               \rObter:16 http://ppa.launchpad.net trusty Release.gpg [316 B]\r\n\r100% [Aguardando por cabeçalhos] [16 Release.gpg 316 B/316 B 100%] [Aguardando"
+    ],
+    [
+      0.000108,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos]     25,7 MB/s 0s"
+    ],
+    [
+      0.042635,
+      "\r                                                                               \rAtingido http://br.archive.ubuntu.com trusty-backports/universe i386 Packages\r\n\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos]     25,7 MB/s 0s"
+    ],
+    [
+      0.000068,
+      "\r100% [Packages 159 kB] [Aguardando por cabeçalhos] [Aguardando por cabeçalhos"
+    ],
+    [
+      0.006227,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] [Aguardando por "
+    ],
+    [
+      0.043251,
+      "\r                                                                               \rAtingido http://br.archive.ubuntu.com trusty-backports/multiverse i386 Packages\r\n\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos]     25,7 MB/s 0s"
+    ],
+    [
+      0.000136,
+      "\r100% [Packages 3.341 B] [Aguardando por cabeçalhos] [Aguardando por cabeçalho"
+    ],
+    [
+      0.000248,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] [Aguardando por "
+    ],
+    [
+      0.048586,
+      "\r                                                                               \rAtingido http://br.archive.ubuntu.com trusty-backports/main Translation-en\r\n\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos]     25,7 MB/s 0s"
+    ],
+    [
+      0.000077,
+      "\r100% [Translation-en 12,4 kB] [Aguardando por cabeçalhos] [Aguardando por cabe"
+    ],
+    [
+      0.000429,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] [Aguardando por "
+    ],
+    [
+      0.048363,
+      "\r                                                                               \rAtingido http://br.archive.ubuntu.com trusty-backports/multiverse Translation-en\r\n\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos]     25,7 MB/s 0s"
+    ],
+    [
+      0.000072,
+      "\r100% [Translation-en 2.242 B] [Aguardando por cabeçalhos] [Aguardando por cabe"
+    ],
+    [
+      0.000165,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] [Aguardando por "
+    ],
+    [
+      0.049965,
+      "\r                                                                               \rAtingido http://br.archive.ubuntu.com trusty-backports/restricted Translation-en\r\n\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos]     25,7 MB/s 0s"
+    ],
+    [
+      0.000076,
+      "\r100% [Translation-en 0 B] [Aguardando por cabeçalhos] [Aguardando por cabeçal"
+    ],
+    [
+      0.000094,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] [Aguardando por "
+    ],
+    [
+      0.012577,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty Release.gpg\r\n\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos]     25,7 MB/s 0s"
+    ],
+    [
+      0.037251,
+      "\r                                                                               \rAtingido http://br.archive.ubuntu.com trusty-backports/universe Translation-en\r\n\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos]     25,7 MB/s 0s"
+    ],
+    [
+      0.000128,
+      "\r100% [Translation-en 115 kB] [Aguardando por cabeçalhos] [Aguardando por cabe\ufffd"
+    ],
+    [
+      0.003195,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos]     25,7 MB/s 0s"
+    ],
+    [
+      0.212650,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty Release.gpg\r\n\r100% [Aguardando por cabeçalhos]                                  25,7 MB/s 0s"
+    ],
+    [
+      0.252554,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty Release.gpg\r\n\r100% [Aguardando por cabeçalhos]                                  25,7 MB/s 0s"
+    ],
+    [
+      0.253724,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty Release.gpg\r\n\r100% [Aguardando por cabeçalhos]                                  25,7 MB/s 0s"
+    ],
+    [
+      0.253369,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty Release.gpg\r\n\r100% [Aguardando por cabeçalhos]                                  25,7 MB/s 0s"
+    ],
+    [
+      0.217056,
+      "\r                                                                               \rIgn http://dl.google.com stable/main Translation-pt_BR\r\n\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos]     25,7 MB/s 0s"
+    ],
+    [
+      0.035931,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty Release.gpg\r\n\r100% [Aguardando por cabeçalhos]                                  25,7 MB/s 0s"
+    ],
+    [
+      0.277255,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty Release\r\n\r100% [Aguardando por cabeçalhos]                                 1.249 kB/s 0s"
+    ],
+    [
+      0.000238,
+      "\r100% [Release gpgv 15,1 kB] [Aguardando por cabeçalhos] [Aguardando por cabeç"
+    ],
+    [
+      0.002866,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos]    1.249 kB/s 0s"
+    ],
+    [
+      0.246948,
+      "\r                                                                               \rIgn http://dl.google.com stable/main Translation-pt\r\n\r100% [Aguardando por cabeçalhos]                                 1.249 kB/s 0s"
+    ],
+    [
+      0.003659,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty Release\r\n\r100% [Aguardando por cabeçalhos]                                 1.249 kB/s 0s"
+    ],
+    [
+      0.000566,
+      "\r100% [Release gpgv 19,4 kB] [Aguardando por cabeçalhos] [Aguardando por cabeç"
+    ],
+    [
+      0.002959,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos]    1.249 kB/s 0s"
+    ],
+    [
+      0.252214,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty Release\r\n\r100% [Aguardando por cabeçalhos]                                 1.249 kB/s 0s"
+    ],
+    [
+      0.000261,
+      "\r100% [Release gpgv 15,1 kB] [Aguardando por cabeçalhos] [Aguardando por cabeç"
+    ],
+    [
+      0.002689,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos]    1.249 kB/s 0s"
+    ],
+    [
+      0.023609,
+      "\r                                                                               \rIgn http://dl.google.com stable/main Translation-en\r\n\r100% [Aguardando por cabeçalhos]                                 1.249 kB/s 0s"
+    ],
+    [
+      0.226359,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty Release\r\n\r100% [Trabalhando]                                                1.249 kB/s 0s"
+    ],
+    [
+      0.000245,
+      "\r100% [Release gpgv 15,1 kB] [Aguardando por cabeçalhos]          1.249 kB/s 0s"
+    ],
+    [
+      0.003913,
+      "\r100% [Aguardando por cabeçalhos]                                 1.249 kB/s 0s"
+    ],
+    [
+      0.250217,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty Release\r\n\r100% [Trabalhando]                                                1.249 kB/s 0s"
+    ],
+    [
+      0.000206,
+      "\r100% [Release gpgv 15,1 kB] [Aguardando por cabeçalhos]          1.249 kB/s 0s"
+    ],
+    [
+      0.002677,
+      "\r100% [Aguardando por cabeçalhos]                                 1.249 kB/s 0s"
+    ],
+    [
+      0.251852,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty Release\r\n\r100% [Trabalhando]                                                1.249 kB/s 0s"
+    ],
+    [
+      0.000173,
+      "\r100% [Release gpgv 15,1 kB] [Aguardando por cabeçalhos]          1.249 kB/s 0s"
+    ],
+    [
+      0.003692,
+      "\r100% [Aguardando por cabeçalhos]                                 1.249 kB/s 0s"
+    ],
+    [
+      0.500573,
+      "\r100% [Aguardando por cabeçalhos]                                 1.249 kB/s 0s"
+    ],
+    [
+      0.041064,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty Release\r\n\r100% [Trabalhando]                                                1.249 kB/s 0s"
+    ],
+    [
+      0.000312,
+      "\r100% [Release gpgv 15,1 kB] [Aguardando por cabeçalhos]          1.249 kB/s 0s"
+    ],
+    [
+      0.003232,
+      "\r100% [Aguardando por cabeçalhos]                                 1.249 kB/s 0s"
+    ],
+    [
+      0.250770,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty Release\r\n\r100% [Aguardando por cabeçalhos]                                 1.249 kB/s 0s"
+    ],
+    [
+      0.000242,
+      "\r100% [Release gpgv 15,1 kB] [Aguardando por cabeçalhos]          1.249 kB/s 0s"
+    ],
+    [
+      0.003815,
+      "\r100% [Aguardando por cabeçalhos]                                 1.249 kB/s 0s"
+    ],
+    [
+      0.285142,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty Release\r\n\r100% [Trabalhando]                                                1.249 kB/s 0s"
+    ],
+    [
+      0.000113,
+      "\r100% [Release gpgv 15,1 kB] [Aguardando por cabeçalhos]          1.249 kB/s 0s"
+    ],
+    [
+      0.003077,
+      "\r100% [Aguardando por cabeçalhos]                                 1.249 kB/s 0s"
+    ],
+    [
+      0.250624,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty Release\r\n\r100% [Trabalhando]                                                1.249 kB/s 0s\r100% [Release gpgv 14,5 kB] [Aguardando por cabeçalhos]          1.249 kB/s 0s"
+    ],
+    [
+      0.003174,
+      "\r100% [Aguardando por cabeçalhos]                                 1.249 kB/s 0s"
+    ],
+    [
+      0.268893,
+      "\r                                                                               \rObter:17 http://ppa.launchpad.net trusty Release [20,5 kB]\r\n\r100% [17 Release 1.115 B/20,5 kB 5%]                              1.249 kB/s 0s"
+    ],
+    [
+      0.500686,
+      "\r100% [17 Release 15,4 kB/20,5 kB 75%]                             1.249 kB/s 0s"
+    ],
+    [
+      0.038112,
+      "\r100% [Trabalhando]                                                1.249 kB/s 0s"
+    ],
+    [
+      0.000063,
+      "\r100% [17 Release gpgv 20,5 kB] [Aguardando por cabeçalhos]       1.249 kB/s 0s"
+    ],
+    [
+      0.004473,
+      "\r100% [Aguardando por cabeçalhos]                                 1.249 kB/s 0s"
+    ],
+    [
+      0.248672,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty Release\r\n\r100% [Trabalhando]                                                1.249 kB/s 0s"
+    ],
+    [
+      0.000292,
+      "\r100% [Release gpgv 15,1 kB] [Aguardando por cabeçalhos]          1.249 kB/s 0s"
+    ],
+    [
+      0.003781,
+      "\r100% [Aguardando por cabeçalhos]                                 1.249 kB/s 0s"
+    ],
+    [
+      0.249226,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty Release\r\n\r100% [Trabalhando]                                                1.249 kB/s 0s"
+    ],
+    [
+      0.000130,
+      "\r100% [Release gpgv 15,1 kB] [Aguardando por cabeçalhos]          1.249 kB/s 0s"
+    ],
+    [
+      0.007046,
+      "\r100% [Aguardando por cabeçalhos]                                 1.249 kB/s 0s"
+    ],
+    [
+      0.245965,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty Release\r\n\r100% [Trabalhando]                                                1.249 kB/s 0s"
+    ],
+    [
+      0.000340,
+      "\r100% [Release gpgv 15,1 kB] [Aguardando por cabeçalhos]          1.249 kB/s 0s"
+    ],
+    [
+      0.005220,
+      "\r100% [Aguardando por cabeçalhos]                                 1.249 kB/s 0s"
+    ],
+    [
+      0.253831,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty Release\r\n\r100% [Trabalhando]                                                1.249 kB/s 0s"
+    ],
+    [
+      0.000117,
+      "\r100% [Release gpgv 15,1 kB] [Aguardando por cabeçalhos]          1.249 kB/s 0s"
+    ],
+    [
+      0.004396,
+      "\r100% [Aguardando por cabeçalhos]                                 1.249 kB/s 0s"
+    ],
+    [
+      0.255989,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty Release\r\n\r100% [Trabalhando]                                                1.249 kB/s 0s"
+    ],
+    [
+      0.000431,
+      "\r100% [Release gpgv 15,1 kB] [Aguardando por cabeçalhos]          1.249 kB/s 0s"
+    ],
+    [
+      0.006808,
+      "\r100% [Aguardando por cabeçalhos]                                 1.249 kB/s 0s"
+    ],
+    [
+      0.245947,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty Release\r\n\r100% [Trabalhando]                                                1.249 kB/s 0s"
+    ],
+    [
+      0.000102,
+      "\r100% [Release gpgv 15,1 kB] [Aguardando por cabeçalhos]          1.249 kB/s 0s"
+    ],
+    [
+      0.005225,
+      "\r100% [Aguardando por cabeçalhos]                                 1.249 kB/s 0s"
+    ],
+    [
+      0.247652,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty/main amd64 Packages\r\n\r100% [Trabalhando]                                                1.249 kB/s 0s"
+    ],
+    [
+      0.000423,
+      "\r100% [Packages 516 B] [Aguardando por cabeçalhos]                1.249 kB/s 0s\r100% [Aguardando por cabeçalhos]                                 1.249 kB/s 0s"
+    ],
+    [
+      0.254818,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty/main i386 Packages\r\n\r100% [Trabalhando]                                                1.249 kB/s 0s\r100% [Packages 514 B] [Aguardando por cabeçalhos]                1.249 kB/s 0s"
+    ],
+    [
+      0.000224,
+      "\r100% [Aguardando por cabeçalhos]                                 1.249 kB/s 0s"
+    ],
+    [
+      0.254685,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty/main Translation-en\r\n\r100% [Trabalhando]                                                1.249 kB/s 0s"
+    ],
+    [
+      0.000257,
+      "\r100% [Translation-en 137 B] [Aguardando por cabeçalhos]          1.249 kB/s 0s"
+    ],
+    [
+      0.000023,
+      "\r100% [Aguardando por cabeçalhos]                                 1.249 kB/s 0s"
+    ],
+    [
+      0.500755,
+      "\r100% [Aguardando por cabeçalhos]                                  3.485 B/s 0s"
+    ],
+    [
+      0.500584,
+      "\r100% [Aguardando por cabeçalhos]                                  3.485 B/s 0s"
+    ],
+    [
+      0.041909,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty/main amd64 Packages\r\n\r100% [Trabalhando]                                                 3.485 B/s 0s"
+    ],
+    [
+      0.000129,
+      "\r100% [Packages 76,5 kB] [Aguardando por cabeçalhos]               3.485 B/s 0s"
+    ],
+    [
+      0.003051,
+      "\r100% [Aguardando por cabeçalhos]                                  3.485 B/s 0s"
+    ],
+    [
+      0.253262,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty/main i386 Packages\r\n\r100% [Trabalhando]                                                 3.485 B/s 0s"
+    ],
+    [
+      0.000121,
+      "\r100% [Packages 76,4 kB] [Aguardando por cabeçalhos]               3.485 B/s 0s"
+    ],
+    [
+      0.003538,
+      "\r100% [Aguardando por cabeçalhos]                                  3.485 B/s 0s"
+    ],
+    [
+      0.500510,
+      "\r100% [Aguardando por cabeçalhos]                                  3.485 B/s 0s"
+    ],
+    [
+      0.500916,
+      "\r100% [Aguardando por cabeçalhos]                                  3.485 B/s 0s"
+    ],
+    [
+      0.296186,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty/main amd64 Packages\r\n\r100% [Trabalhando]                                                 3.485 B/s 0s"
+    ],
+    [
+      0.000120,
+      "\r100% [Packages 3.559 B] [Aguardando por cabeçalhos]               3.485 B/s 0s"
+    ],
+    [
+      0.000235,
+      "\r100% [Aguardando por cabeçalhos]                                  3.485 B/s 0s"
+    ],
+    [
+      0.253271,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty/main i386 Packages\r\n\r100% [Trabalhando]                                                 3.485 B/s 0s"
+    ],
+    [
+      0.000119,
+      "\r100% [Packages 3.554 B] [Aguardando por cabeçalhos]               3.485 B/s 0s"
+    ],
+    [
+      0.000393,
+      "\r100% [Aguardando por cabeçalhos]                                  3.485 B/s 0s"
+    ],
+    [
+      0.252203,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty/main Translation-en\r\n\r100% [Trabalhando]                                                 3.485 B/s 0s"
+    ],
+    [
+      0.000195,
+      "\r100% [Translation-en 2.330 B] [Aguardando por cabeçalhos]         3.485 B/s 0s"
+    ],
+    [
+      0.000222,
+      "\r100% [Aguardando por cabeçalhos]                                  3.485 B/s 0s"
+    ],
+    [
+      0.258269,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty/main amd64 Packages\r\n\r100% [Aguardando por cabeçalhos]                                  3.485 B/s 0s\r100% [Aguardando por cabeçalhos]                                  3.485 B/s 0s"
+    ],
+    [
+      0.252667,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty/main i386 Packages\r\n\r100% [Trabalhando]                                                 3.485 B/s 0s"
+    ],
+    [
+      0.000192,
+      "\r100% [Packages 23,1 kB] [Aguardando por cabeçalhos]               3.485 B/s 0s"
+    ],
+    [
+      0.001785,
+      "\r100% [Aguardando por cabeçalhos]                                  3.485 B/s 0s"
+    ],
+    [
+      0.251383,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty/main Translation-en\r\n\r100% [Trabalhando]                                                 3.485 B/s 0s\r100% [Translation-en 20,3 kB] [Aguardando por cabeçalhos]         3.485 B/s 0s"
+    ],
+    [
+      0.000272,
+      "\r100% [Aguardando por cabeçalhos]                                  3.485 B/s 0s"
+    ],
+    [
+      0.255347,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty/main amd64 Packages\r\n\r100% [Trabalhando]                                                 3.485 B/s 0s"
+    ],
+    [
+      0.000177,
+      "\r100% [Packages 193 kB] [Aguardando por cabeçalhos]                3.485 B/s 0s"
+    ],
+    [
+      0.008295,
+      "\r100% [Aguardando por cabeçalhos]                                  3.485 B/s 0s"
+    ],
+    [
+      0.245247,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty/main i386 Packages\r\n\r100% [Trabalhando]                                                 3.485 B/s 0s"
+    ],
+    [
+      0.000094,
+      "\r100% [Packages 193 kB] [Aguardando por cabeçalhos]                3.485 B/s 0s"
+    ],
+    [
+      0.006043,
+      "\r100% [Aguardando por cabeçalhos]                                  3.485 B/s 0s"
+    ],
+    [
+      0.247388,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty/main Translation-en\r\n\r100% [Trabalhando]                                                 3.485 B/s 0s"
+    ],
+    [
+      0.000215,
+      "\r100% [Translation-en 127 kB] [Aguardando por cabeçalhos]          3.485 B/s 0s"
+    ],
+    [
+      0.005547,
+      "\r100% [Aguardando por cabeçalhos]                                  3.485 B/s 0s"
+    ],
+    [
+      0.252767,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty/main amd64 Packages\r\n\r100% [Trabalhando]                                                 3.485 B/s 0s"
+    ],
+    [
+      0.000210,
+      "\r100% [Packages 2.324 B] [Aguardando por cabeçalhos]               3.485 B/s 0s"
+    ],
+    [
+      0.000298,
+      "\r100% [Aguardando por cabeçalhos]                                  3.485 B/s 0s"
+    ],
+    [
+      0.253758,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty/main i386 Packages\r\n\r100% [Aguardando por cabeçalhos]                                  3.485 B/s 0s"
+    ],
+    [
+      0.000150,
+      "\r100% [Packages 2.324 B] [Aguardando por cabeçalhos]               3.485 B/s 0s"
+    ],
+    [
+      0.000503,
+      "\r100% [Aguardando por cabeçalhos]                                  3.485 B/s 0s"
+    ],
+    [
+      0.255913,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty/main Translation-en\r\n\r100% [Trabalhando]                                                 3.485 B/s 0s"
+    ],
+    [
+      0.000310,
+      "\r100% [Translation-en 1.580 B] [Aguardando por cabeçalhos]         3.485 B/s 0s"
+    ],
+    [
+      0.000327,
+      "\r100% [Aguardando por cabeçalhos]                                  3.485 B/s 0s"
+    ],
+    [
+      0.254644,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty/main amd64 Packages\r\n\r100% [Trabalhando]                                                 3.485 B/s 0s"
+    ],
+    [
+      0.000127,
+      "\r100% [Packages 2.941 B] [Aguardando por cabeçalhos]               3.485 B/s 0s"
+    ],
+    [
+      0.000397,
+      "\r100% [Aguardando por cabeçalhos]                                  3.485 B/s 0s"
+    ],
+    [
+      0.254512,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty/main i386 Packages\r\n\r100% [Trabalhando]                                                 3.485 B/s 0s"
+    ],
+    [
+      0.000736,
+      "\r100% [Aguardando por cabeçalhos]                                  3.485 B/s 0s"
+    ],
+    [
+      0.253639,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty/main Translation-en\r\n\r100% [Trabalhando]                                                 3.485 B/s 0s"
+    ],
+    [
+      0.000299,
+      "\r                                                                               \r100% [Translation-en 1.353 B] [Conectando em ppa.launchpad.net (91.189.95.83)]"
+    ],
+    [
+      0.000400,
+      "\r                                                                              \r100% [Conectando em ppa.launchpad.net (91.189.95.83)]              3.485 B/s 0s"
+    ],
+    [
+      0.500638,
+      "\r100% [Aguardando por cabeçalhos]                                   122 kB/s 0s"
+    ],
+    [
+      0.024116,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty/main amd64 Packages\r\n\r100% [Trabalhando]                                                  122 kB/s 0s"
+    ],
+    [
+      0.000861,
+      "\r100% [Aguardando por cabeçalhos]                                   122 kB/s 0s"
+    ],
+    [
+      0.255604,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty/main i386 Packages\r\n\r100% [Trabalhando]                                                  122 kB/s 0s"
+    ],
+    [
+      0.000097,
+      "\r100% [Packages 11,3 kB] [Aguardando por cabeçalhos]                122 kB/s 0s"
+    ],
+    [
+      0.000866,
+      "\r100% [Aguardando por cabeçalhos]                                   122 kB/s 0s"
+    ],
+    [
+      0.259224,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty/main Translation-en\r\n\r100% [Trabalhando]                                                  122 kB/s 0s"
+    ],
+    [
+      0.000482,
+      "\r100% [Aguardando por cabeçalhos]                                   122 kB/s 0s"
+    ],
+    [
+      0.256204,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty/main amd64 Packages\r\n\r100% [Trabalhando]                                                  122 kB/s 0s"
+    ],
+    [
+      0.000191,
+      "\r100% [Packages 3.783 B] [Aguardando por cabeçalhos]                122 kB/s 0s"
+    ],
+    [
+      0.000637,
+      "\r100% [Aguardando por cabeçalhos]                                   122 kB/s 0s"
+    ],
+    [
+      0.254641,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty/main i386 Packages\r\n\r100% [Trabalhando]                                                  122 kB/s 0s"
+    ],
+    [
+      0.000188,
+      "\r100% [Packages 3.788 B] [Aguardando por cabeçalhos]                122 kB/s 0s"
+    ],
+    [
+      0.000975,
+      "\r100% [Aguardando por cabeçalhos]                                   122 kB/s 0s"
+    ],
+    [
+      0.255258,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty/main Translation-en\r\n\r100% [Trabalhando]                                                  122 kB/s 0s"
+    ],
+    [
+      0.000134,
+      "\r100% [Translation-en 1.722 B] [Aguardando por cabeçalhos]          122 kB/s 0s"
+    ],
+    [
+      0.000449,
+      "\r100% [Aguardando por cabeçalhos]                                   122 kB/s 0s"
+    ],
+    [
+      0.255458,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty/main amd64 Packages\r\n\r100% [Trabalhando]                                                  122 kB/s 0s"
+    ],
+    [
+      0.000190,
+      "\r100% [Packages 788 B] [Aguardando por cabeçalhos]                  122 kB/s 0s"
+    ],
+    [
+      0.000405,
+      "\r100% [Aguardando por cabeçalhos]                                   122 kB/s 0s"
+    ],
+    [
+      0.255560,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty/main i386 Packages\r\n\r100% [Trabalhando]                                                  122 kB/s 0s"
+    ],
+    [
+      0.000198,
+      "\r100% [Packages 788 B] [Aguardando por cabeçalhos]                  122 kB/s 0s"
+    ],
+    [
+      0.000266,
+      "\r100% [Aguardando por cabeçalhos]                                   122 kB/s 0s"
+    ],
+    [
+      0.254283,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty/main Translation-en\r\n\r100% [Trabalhando]                                                  122 kB/s 0s"
+    ],
+    [
+      0.000127,
+      "\r100% [Translation-en 531 B] [Aguardando por cabeçalhos]            122 kB/s 0s"
+    ],
+    [
+      0.000279,
+      "\r100% [Aguardando por cabeçalhos]                                   122 kB/s 0s"
+    ],
+    [
+      0.276660,
+      "\r                                                                               \rObter:18 http://ppa.launchpad.net trusty/main amd64 Packages [13,0 kB]\r\n\r100% [18 Packages 1.080 B/13,0 kB 8%]                               122 kB/s 0s"
+    ],
+    [
+      0.021441,
+      "\r100% [Trabalhando]                                                  122 kB/s 0s"
+    ],
+    [
+      0.000061,
+      "\r100% [18 Packages bzip2 0 B] [Aguardando por cabeçalhos]           122 kB/s 0s"
+    ],
+    [
+      0.007103,
+      "\r100% [Aguardando por cabeçalhos]                                   122 kB/s 0s"
+    ],
+    [
+      0.251658,
+      "\r                                                                               \rObter:19 http://ppa.launchpad.net trusty/main i386 Packages [13,0 kB]\r\n\r100% [19 Packages 1.080 B/13,0 kB 8%]                               122 kB/s 0s"
+    ],
+    [
+      0.029725,
+      "\r100% [Trabalhando]                                                  122 kB/s 0s"
+    ],
+    [
+      0.002020,
+      "\r100% [19 Packages bzip2 0 B] [Aguardando por cabeçalhos]           122 kB/s 0s"
+    ],
+    [
+      0.003023,
+      "\r100% [Aguardando por cabeçalhos]                                   122 kB/s 0s"
+    ],
+    [
+      0.270377,
+      "\r                                                                               \rObter:20 http://ppa.launchpad.net trusty/main Translation-en [4.963 B]\r\n\r100% [20 Translation-en 1.179 B/4.963 B 24%]                        122 kB/s 0s"
+    ],
+    [
+      0.012215,
+      "\r100% [Trabalhando]                                                  122 kB/s 0s"
+    ],
+    [
+      0.000377,
+      "\r                                                                               \r100% [20 Translation-en bzip2 27,1 kB] [Aguardando por cabeçalhos]\r                                                                   \r100% [Aguardando por cabeçalhos]                                   122 kB/s 0s"
+    ],
+    [
+      0.256046,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty/main amd64 Packages\r\n\r100% [Aguardando por cabeçalhos]                                   122 kB/s 0s\r100% [Aguardando por cabeçalhos]                                   122 kB/s 0s"
+    ],
+    [
+      0.253617,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty/main i386 Packages\r\n\r100% [Trabalhando]                                                  122 kB/s 0s"
+    ],
+    [
+      0.000768,
+      "\r100% [Aguardando por cabeçalhos]                                   122 kB/s 0s"
+    ],
+    [
+      0.255090,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty/main Translation-en\r\n\r100% [Trabalhando]                                                  122 kB/s 0s\r100% [Translation-en 9.130 B] [Aguardando por cabeçalhos]          122 kB/s 0s"
+    ],
+    [
+      0.000287,
+      "\r100% [Aguardando por cabeçalhos]                                   122 kB/s 0s"
+    ],
+    [
+      0.253887,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty/main amd64 Packages\r\n\r100% [Trabalhando]                                                  122 kB/s 0s"
+    ],
+    [
+      0.000531,
+      "\r100% [Aguardando por cabeçalhos]                                   122 kB/s 0s"
+    ],
+    [
+      0.255130,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty/main i386 Packages\r\n\r100% [Trabalhando]                                                  122 kB/s 0s"
+    ],
+    [
+      0.000177,
+      "\r100% [Packages 968 B] [Aguardando por cabeçalhos]                  122 kB/s 0s"
+    ],
+    [
+      0.000439,
+      "\r100% [Aguardando por cabeçalhos]                                   122 kB/s 0s"
+    ],
+    [
+      0.254912,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty/main Translation-en\r\n\r100% [Trabalhando]                                                  122 kB/s 0s"
+    ],
+    [
+      0.000480,
+      "\r100% [Translation-en 183 B] [Aguardando por cabeçalhos]            122 kB/s 0s\r100% [Aguardando por cabeçalhos]                                   122 kB/s 0s"
+    ],
+    [
+      0.500658,
+      "\r100% [Aguardando por cabeçalhos]                                   122 kB/s 0s"
+    ],
+    [
+      0.055226,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty/main amd64 Packages\r\n\r100% [Trabalhando]                                                  122 kB/s 0s"
+    ],
+    [
+      0.000163,
+      "\r100% [Packages 15,5 kB] [Aguardando por cabeçalhos]                122 kB/s 0s"
+    ],
+    [
+      0.000700,
+      "\r100% [Aguardando por cabeçalhos]                                   122 kB/s 0s"
+    ],
+    [
+      0.254980,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty/main i386 Packages\r\n\r100% [Trabalhando]                                                  122 kB/s 0s"
+    ],
+    [
+      0.000091,
+      "\r100% [Packages 15,5 kB] [Aguardando por cabeçalhos]                122 kB/s 0s"
+    ],
+    [
+      0.000894,
+      "\r100% [Aguardando por cabeçalhos]                                   122 kB/s 0s"
+    ],
+    [
+      0.258565,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty/main Translation-en\r\n\r100% [Trabalhando]                                                  122 kB/s 0s"
+    ],
+    [
+      0.000273,
+      "\r100% [Translation-en 7.963 B] [Aguardando por cabeçalhos]          122 kB/s 0s"
+    ],
+    [
+      0.000482,
+      "\r100% [Aguardando por cabeçalhos]                                   122 kB/s 0s"
+    ],
+    [
+      0.277307,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty/main amd64 Packages\r\n\r100% [Aguardando por cabeçalhos]                                   122 kB/s 0s"
+    ],
+    [
+      0.000225,
+      "\r100% [Packages 2.039 B] [Aguardando por cabeçalhos]                122 kB/s 0s"
+    ],
+    [
+      0.000342,
+      "\r100% [Aguardando por cabeçalhos]                                   122 kB/s 0s"
+    ],
+    [
+      0.260108,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty/main i386 Packages\r\n\r100% [Trabalhando]                                                 23,8 kB/s 0s"
+    ],
+    [
+      0.000089,
+      "\r100% [Packages 2.037 B] [Aguardando por cabeçalhos]               23,8 kB/s 0s"
+    ],
+    [
+      0.003082,
+      "\r100% [Aguardando por cabeçalhos]                                  23,8 kB/s 0s"
+    ],
+    [
+      0.251699,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty/main Translation-en\r\n\r100% [Trabalhando]                                                 23,8 kB/s 0s"
+    ],
+    [
+      0.000076,
+      "\r100% [Translation-en 1.434 B] [Aguardando por cabeçalhos]         23,8 kB/s 0s"
+    ],
+    [
+      0.000145,
+      "\r100% [Aguardando por cabeçalhos]                                  23,8 kB/s 0s"
+    ],
+    [
+      0.255199,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty/main amd64 Packages\r\n\r100% [Aguardando por cabeçalhos]                                  23,8 kB/s 0s"
+    ],
+    [
+      0.000346,
+      "\r100% [Packages 85,2 kB] [Aguardando por cabeçalhos]               23,8 kB/s 0s"
+    ],
+    [
+      0.005671,
+      "\r100% [Aguardando por cabeçalhos]                                  23,8 kB/s 0s"
+    ],
+    [
+      0.248939,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty/main i386 Packages\r\n\r100% [Trabalhando]                                                 23,8 kB/s 0s"
+    ],
+    [
+      0.000071,
+      "\r100% [Packages 85,0 kB] [Aguardando por cabeçalhos]               23,8 kB/s 0s"
+    ],
+    [
+      0.003343,
+      "\r100% [Aguardando por cabeçalhos]                                  23,8 kB/s 0s"
+    ],
+    [
+      0.252060,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty/main Translation-en\r\n\r100% [Trabalhando]                                                 23,8 kB/s 0s"
+    ],
+    [
+      0.000075,
+      "\r100% [Translation-en 37,0 kB] [Aguardando por cabeçalhos]         23,8 kB/s 0s"
+    ],
+    [
+      0.002520,
+      "\r100% [Aguardando por cabeçalhos]                                  23,8 kB/s 0s"
+    ],
+    [
+      0.415651,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty/main amd64 Packages\r\n\r100% [Trabalhando]                                                 23,8 kB/s 0s"
+    ],
+    [
+      0.000374,
+      "\r100% [Packages 1.639 B] [Aguardando por cabeçalhos]               23,8 kB/s 0s\r100% [Aguardando por cabeçalhos]                                  23,8 kB/s 0s"
+    ],
+    [
+      0.095539,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty/main i386 Packages\r\n\r100% [Trabalhando]                                                 23,8 kB/s 0s"
+    ],
+    [
+      0.000099,
+      "\r100% [Packages 1.640 B] [Aguardando por cabeçalhos]               23,8 kB/s 0s"
+    ],
+    [
+      0.000225,
+      "\r100% [Aguardando por cabeçalhos]                                  23,8 kB/s 0s"
+    ],
+    [
+      0.255427,
+      "\r                                                                               \rAtingido http://ppa.launchpad.net trusty/main Translation-en\r\n\r100% [Trabalhando]                                                 23,8 kB/s 0s"
+    ],
+    [
+      0.000104,
+      "\r100% [Translation-en 832 B] [Aguardando por cabeçalhos]           23,8 kB/s 0s"
+    ],
+    [
+      0.000242,
+      "\r100% [Aguardando por cabeçalhos]                                  23,8 kB/s 0s"
+    ],
+    [
+      0.500505,
+      "\r100% [Aguardando por cabeçalhos]                                  23,8 kB/s 0s"
+    ],
+    [
+      0.500457,
+      "\r100% [Aguardando por cabeçalhos]                                  23,8 kB/s 0s"
+    ],
+    [
+      0.500615,
+      "\r100% [Aguardando por cabeçalhos]                                  23,8 kB/s 0s"
+    ],
+    [
+      0.500675,
+      "\r100% [Aguardando por cabeçalhos]                                  23,8 kB/s 0s"
+    ],
+    [
+      0.500607,
+      "\r100% [Aguardando por cabeçalhos]                                  23,8 kB/s 0s"
+    ],
+    [
+      0.436179,
+      "\r                                                                               \rIgn http://ppa.launchpad.net trusty/main Translation-pt_BR\r\n\r100% [Trabalhando]                                                 23,8 kB/s 0s"
+    ],
+    [
+      0.272205,
+      "\r                                                                               \rIgn http://ppa.launchpad.net trusty/main Translation-pt\r\n\r100% [Trabalhando]                                                 23,8 kB/s 0s"
+    ],
+    [
+      0.280616,
+      "\r                                                                               \rIgn http://ppa.launchpad.net trusty/main Translation-en\r\n\r100% [Trabalhando]                                                 23,8 kB/s 0s\r                                                                               \rBaixados 2.326 kB em 36s (64,4 kB/s)\r\n"
+    ],
+    [
+      0.027195,
+      "\rLendo listas de pacotes... 0%\r"
+    ],
+    [
+      0.074471,
+      "\rLendo listas de pacotes... 0%\r"
+    ],
+    [
+      0.030897,
+      "\rLendo listas de pacotes... 1%\r"
+    ],
+    [
+      0.203562,
+      "\rLendo listas de pacotes... 5%\r"
+    ],
+    [
+      0.000052,
+      "\rLendo listas de pacotes... 5%\r"
+    ],
+    [
+      0.001549,
+      "\rLendo listas de pacotes... 5%\r"
+    ],
+    [
+      0.000045,
+      "\rLendo listas de pacotes... 5%\r"
+    ],
+    [
+      0.494878,
+      "\rLendo listas de pacotes... 16%\r"
+    ],
+    [
+      0.617305,
+      "\rLendo listas de pacotes... 27%\r"
+    ],
+    [
+      0.000010,
+      "\rLendo listas de pacotes... 27%\r"
+    ],
+    [
+      0.026191,
+      "\rLendo listas de pacotes... 28%\r"
+    ],
+    [
+      0.000009,
+      "\rLendo listas de pacotes... 28%\r"
+    ],
+    [
+      0.074840,
+      "\rLendo listas de pacotes... 31%\r"
+    ],
+    [
+      0.093180,
+      "\rLendo listas de pacotes... 34%\r"
+    ],
+    [
+      0.000027,
+      "\rLendo listas de pacotes... 34%\r"
+    ],
+    [
+      0.002047,
+      "\rLendo listas de pacotes... 34%\r"
+    ],
+    [
+      0.000019,
+      "\rLendo listas de pacotes... 34%\r"
+    ],
+    [
+      0.635944,
+      "\rLendo listas de pacotes... 56%\r"
+    ],
+    [
+      0.007358,
+      "\rLendo listas de pacotes... 56%\r"
+    ],
+    [
+      0.000021,
+      "\rLendo listas de pacotes... 56%\r"
+    ],
+    [
+      0.016304,
+      "\rLendo listas de pacotes... 56%\r"
+    ],
+    [
+      0.000029,
+      "\rLendo listas de pacotes... 56%\r"
+    ],
+    [
+      0.105172,
+      "\rLendo listas de pacotes... 59%\r"
+    ],
+    [
+      0.000021,
+      "\rLendo listas de pacotes... 59%\r"
+    ],
+    [
+      0.032258,
+      "\rLendo listas de pacotes... 60%\r"
+    ],
+    [
+      0.000023,
+      "\rLendo listas de pacotes... 60%\r"
+    ],
+    [
+      0.033642,
+      "\rLendo listas de pacotes... 61%\r"
+    ],
+    [
+      0.000028,
+      "\rLendo listas de pacotes... 61%\r"
+    ],
+    [
+      0.008812,
+      "\rLendo listas de pacotes... 62%\r"
+    ],
+    [
+      0.000020,
+      "\rLendo listas de pacotes... 62%\r"
+    ],
+    [
+      0.000738,
+      "\rLendo listas de pacotes... 62%\r"
+    ],
+    [
+      0.000028,
+      "\rLendo listas de pacotes... 62%\r"
+    ],
+    [
+      0.001234,
+      "\rLendo listas de pacotes... 62%\r"
+    ],
+    [
+      0.000028,
+      "\rLendo listas de pacotes... 62%\r"
+    ],
+    [
+      0.000761,
+      "\rLendo listas de pacotes... 62%\r"
+    ],
+    [
+      0.000028,
+      "\rLendo listas de pacotes... 62%\r"
+    ],
+    [
+      0.000324,
+      "\rLendo listas de pacotes... 62%\r"
+    ],
+    [
+      0.000029,
+      "\rLendo listas de pacotes... 62%\r"
+    ],
+    [
+      0.000277,
+      "\rLendo listas de pacotes... 62%\r"
+    ],
+    [
+      0.000034,
+      "\rLendo listas de pacotes... 62%\r"
+    ],
+    [
+      0.454029,
+      "\rLendo listas de pacotes... 75%\r"
+    ],
+    [
+      0.000027,
+      "\rLendo listas de pacotes... 75%\r"
+    ],
+    [
+      0.054488,
+      "\rLendo listas de pacotes... 77%\r"
+    ],
+    [
+      0.027162,
+      "\rLendo listas de pacotes... 77%\r"
+    ],
+    [
+      0.000058,
+      "\rLendo listas de pacotes... 77%\r"
+    ],
+    [
+      0.060019,
+      "\rLendo listas de pacotes... 80%\r"
+    ],
+    [
+      0.000028,
+      "\rLendo listas de pacotes... 80%\r"
+    ],
+    [
+      0.148644,
+      "\rLendo listas de pacotes... 82%\r"
+    ],
+    [
+      0.000020,
+      "\rLendo listas de pacotes... 82%\r"
+    ],
+    [
+      0.002890,
+      "\rLendo listas de pacotes... 83%\r"
+    ],
+    [
+      0.000025,
+      "\rLendo listas de pacotes... 83%\r"
+    ],
+    [
+      0.074650,
+      "\rLendo listas de pacotes... 84%\r"
+    ],
+    [
+      0.000031,
+      "\rLendo listas de pacotes... 84%\r"
+    ],
+    [
+      0.002872,
+      "\rLendo listas de pacotes... 84%\r"
+    ],
+    [
+      0.000031,
+      "\rLendo listas de pacotes... 84%\r"
+    ],
+    [
+      0.099739,
+      "\rLendo listas de pacotes... 86%\r"
+    ],
+    [
+      0.000009,
+      "\rLendo listas de pacotes... 86%\r"
+    ],
+    [
+      0.002576,
+      "\rLendo listas de pacotes... 87%\r"
+    ],
+    [
+      0.000007,
+      "\rLendo listas de pacotes... 87%\r"
+    ],
+    [
+      0.054460,
+      "\rLendo listas de pacotes... 88%\r"
+    ],
+    [
+      0.000020,
+      "\rLendo listas de pacotes... 88%\r"
+    ],
+    [
+      0.002204,
+      "\rLendo listas de pacotes... 88%\r"
+    ],
+    [
+      0.000026,
+      "\rLendo listas de pacotes... 88%\r"
+    ],
+    [
+      0.068209,
+      "\rLendo listas de pacotes... 90%\r"
+    ],
+    [
+      0.000047,
+      "\rLendo listas de pacotes... 90%\r"
+    ],
+    [
+      0.000824,
+      "\rLendo listas de pacotes... 90%\r"
+    ],
+    [
+      0.000028,
+      "\rLendo listas de pacotes... 90%\r"
+    ],
+    [
+      0.001086,
+      "\rLendo listas de pacotes... 90%\r"
+    ],
+    [
+      0.000044,
+      "\rLendo listas de pacotes... 90%\r"
+    ],
+    [
+      0.023874,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.000050,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.001296,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.000048,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.000431,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.000048,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.006656,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.000020,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.000432,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.000035,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.000932,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.000022,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.000296,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.000045,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.003713,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.000020,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.000443,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.000033,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.000553,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.000023,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.000187,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.000035,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.000104,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.000047,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.002496,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.000054,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.029381,
+      "\rLendo listas de pacotes... 92%\r"
+    ],
+    [
+      0.000063,
+      "\rLendo listas de pacotes... 92%\r"
+    ],
+    [
+      0.001952,
+      "\rLendo listas de pacotes... 92%\r"
+    ],
+    [
+      0.000027,
+      "\rLendo listas de pacotes... 92%\r"
+    ],
+    [
+      0.007815,
+      "\rLendo listas de pacotes... 93%\r"
+    ],
+    [
+      0.000019,
+      "\rLendo listas de pacotes... 93%\r"
+    ],
+    [
+      0.000423,
+      "\rLendo listas de pacotes... 93%\r"
+    ],
+    [
+      0.000041,
+      "\rLendo listas de pacotes... 93%\r"
+    ],
+    [
+      0.016242,
+      "\rLendo listas de pacotes... 94%\r"
+    ],
+    [
+      0.000032,
+      "\rLendo listas de pacotes... 94%\r"
+    ],
+    [
+      0.001709,
+      "\rLendo listas de pacotes... 94%\r"
+    ],
+    [
+      0.000065,
+      "\rLendo listas de pacotes... 94%\r"
+    ],
+    [
+      0.006168,
+      "\rLendo listas de pacotes... 95%\r"
+    ],
+    [
+      0.000029,
+      "\rLendo listas de pacotes... 95%\r"
+    ],
+    [
+      0.000423,
+      "\rLendo listas de pacotes... 95%\r"
+    ],
+    [
+      0.000034,
+      "\rLendo listas de pacotes... 95%\r"
+    ],
+    [
+      0.050756,
+      "\rLendo listas de pacotes... 96%\r"
+    ],
+    [
+      0.000052,
+      "\rLendo listas de pacotes... 96%\r"
+    ],
+    [
+      0.000287,
+      "\rLendo listas de pacotes... 96%\r"
+    ],
+    [
+      0.000036,
+      "\rLendo listas de pacotes... 96%\r"
+    ],
+    [
+      0.000658,
+      "\rLendo listas de pacotes... 96%\r"
+    ],
+    [
+      0.000037,
+      "\rLendo listas de pacotes... 96%\r"
+    ],
+    [
+      0.004956,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.005743,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000035,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.001053,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000027,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000837,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000027,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000479,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000028,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000195,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000031,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000182,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000034,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000569,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000027,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000330,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000030,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000225,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000020,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000210,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000033,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000108,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000041,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.002969,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000020,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.002487,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000008,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000545,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000030,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000451,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000026,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000530,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000027,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000407,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000029,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000155,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000021,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.001247,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000023,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.001060,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000029,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000477,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000035,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.008651,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000020,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.002730,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000020,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.002388,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000020,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000587,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000046,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000347,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000046,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000230,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000052,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000620,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000034,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000557,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000041,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000208,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000046,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000982,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000049,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000377,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000048,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000471,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000052,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000411,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000039,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000521,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000024,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000383,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000031,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000195,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000020,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000272,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000029,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000179,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000035,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000102,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000041,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.002159,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000037,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.002253,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000059,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.001283,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000034,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.001331,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000030,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000927,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000042,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000324,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000033,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000293,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000051,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000577,
+      "\rLendo listas de pacotes... 97%\r\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000208,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000021,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.001942,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000046,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.001728,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000028,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000633,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000050,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000565,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000047,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000339,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000051,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000214,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000059,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.005715,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.000038,
+      "\rLendo listas de pacotes... 97%\r"
+    ],
+    [
+      0.005366,
+      "\rLendo listas de pacotes... 98%\r"
+    ],
+    [
+      0.000048,
+      "\rLendo listas de pacotes... 98%\r"
+    ],
+    [
+      0.002596,
+      "\rLendo listas de pacotes... 98%\r"
+    ],
+    [
+      0.000059,
+      "\rLendo listas de pacotes... 98%\r"
+    ],
+    [
+      0.000677,
+      "\rLendo listas de pacotes... 98%\r"
+    ],
+    [
+      0.000042,
+      "\rLendo listas de pacotes... 98%\r"
+    ],
+    [
+      0.000425,
+      "\rLendo listas de pacotes... 98%\r"
+    ],
+    [
+      0.000046,
+      "\rLendo listas de pacotes... 98%\r"
+    ],
+    [
+      1.026810,
+      "\rLendo listas de pacotes... 98%\r\rLendo listas de pacotes... 98%\r"
+    ],
+    [
+      0.013093,
+      "\rLendo listas de pacotes... 99%\r"
+    ],
+    [
+      0.614360,
+      "\rLendo listas de pacotes... Pronto\r\r\n"
+    ],
+    [
+      0.002161,
+      "W: Erro GPG: http://repository.spotify.com stable InRelease: As assinaturas a seguir não puderam ser verificadas devido à chave pública não estar disponível: NO_PUBKEY 13B00F1FD2C19886\r\n"
+    ],
+    [
+      0.000958,
+      "\u001b]0;diegoboot@diegoboot-ntb: ~\u0007diegoboot@diegoboot-ntb:~$ "
+    ],
+    [
+      41.519528,
+      "s"
+    ],
+    [
+      0.127809,
+      "u"
+    ],
+    [
+      0.086681,
+      "d"
+    ],
+    [
+      0.115736,
+      "o"
+    ],
+    [
+      0.257767,
+      " "
+    ],
+    [
+      0.610335,
+      "a"
+    ],
+    [
+      0.178790,
+      "p"
+    ],
+    [
+      0.323586,
+      "t"
+    ],
+    [
+      0.223453,
+      "-"
+    ],
+    [
+      0.369580,
+      "g"
+    ],
+    [
+      0.112015,
+      "e"
+    ],
+    [
+      0.084185,
+      "t"
+    ],
+    [
+      0.488652,
+      " "
+    ],
+    [
+      0.953140,
+      "i"
+    ],
+    [
+      0.088470,
+      "n"
+    ],
+    [
+      0.092474,
+      "s"
+    ],
+    [
+      0.146964,
+      "t"
+    ],
+    [
+      0.130273,
+      "a"
+    ],
+    [
+      0.643394,
+      "l"
+    ],
+    [
+      0.131036,
+      "l"
+    ],
+    [
+      0.205586,
+      " "
+    ],
+    [
+      1.477161,
+      "t"
+    ],
+    [
+      0.091702,
+      "h"
+    ],
+    [
+      0.114751,
+      "u"
+    ],
+    [
+      0.159814,
+      "d"
+    ],
+    [
+      0.179405,
+      "e"
+    ],
+    [
+      0.131884,
+      "r"
+    ],
+    [
+      0.977082,
+      "b"
+    ],
+    [
+      0.154251,
+      "i"
+    ],
+    [
+      0.278028,
+      "r"
+    ],
+    [
+      0.241445,
+      "d"
+    ],
+    [
+      1.464648,
+      "-"
+    ],
+    [
+      0.432582,
+      "t"
+    ],
+    [
+      0.257945,
+      "r"
+    ],
+    [
+      1.155347,
+      "h"
+    ],
+    [
+      0.137024,
+      "u"
+    ],
+    [
+      0.721108,
+      "n"
+    ],
+    [
+      0.130994,
+      "k"
+    ],
+    [
+      3.482087,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.128829,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.134862,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.129973,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.665639,
+      "u"
+    ],
+    [
+      0.208459,
+      "n"
+    ],
+    [
+      0.167313,
+      "k"
+    ],
+    [
+      0.735029,
+      "\r\n"
+    ],
+    [
+      0.018317,
+      "\rLendo listas de pacotes... 0%\r"
+    ],
+    [
+      0.007707,
+      "\rLendo listas de pacotes... 100%\r\rLendo listas de pacotes... Pronto\r\r\n"
+    ],
+    [
+      0.007042,
+      "\rConstruindo árvore de dependências... 0%\r\rConstruindo árvore de dependências... 0%\r"
+    ],
+    [
+      0.046969,
+      "\rConstruindo árvore de dependências... 50%\r\rConstruindo árvore de dependências... 50%\r"
+    ],
+    [
+      0.269076,
+      "\rConstruindo árvore de dependências       \r\r\n\rLendo informação de estado... 0%  \r"
+    ],
+    [
+      0.000008,
+      "\rLendo informação de estado... 0%\r"
+    ],
+    [
+      0.005215,
+      "\rLendo informação de estado... Pronto\r\r\n"
+    ],
+    [
+      0.185058,
+      "E"
+    ],
+    [
+      0.000008,
+      ": Impossível encontrar o pacote thuderbird-trunk\r\n"
+    ],
+    [
+      0.001407,
+      "\u001b]0;diegoboot@diegoboot-ntb: ~\u0007diegoboot@diegoboot-ntb:~$ "
+    ],
+    [
+      16.263838,
+      "sudo apt-get install thunderbird-trunk"
+    ],
+    [
+      0.936719,
+      "\r\n"
+    ],
+    [
+      0.021481,
+      "\rLendo listas de pacotes... 0%\r"
+    ],
+    [
+      0.009181,
+      "\rLendo listas de pacotes... 100%\r\rLendo listas de pacotes... Pronto\r\r\n"
+    ],
+    [
+      0.006965,
+      "\rConstruindo árvore de dependências... 0%\r\rConstruindo árvore de dependências... 0%\r"
+    ],
+    [
+      0.047654,
+      "\rConstruindo árvore de dependências... 50%\r"
+    ],
+    [
+      0.000010,
+      "\rConstruindo árvore de dependências... 50%\r"
+    ],
+    [
+      0.271295,
+      "\rConstruindo árvore de dependências       \r\r\n\rLendo informação de estado... 0%  \r"
+    ],
+    [
+      0.000010,
+      "\rLendo informação de estado... 0%\r"
+    ],
+    [
+      0.005092,
+      "\rLendo informação de estado... Pronto\r\r\n"
+    ],
+    [
+      0.392847,
+      "Pacotes sugeridos:\r\n  thunderbird-trunk-gnome-support\r\n"
+    ],
+    [
+      0.004351,
+      "Os NOVOS pacotes a seguir serão instalados:\r\n"
+    ],
+    [
+      0.000010,
+      "  thunderbird-trunk\r\n"
+    ],
+    [
+      0.017966,
+      "0 pacotes atualizados, 1 pacotes novos instalados, 0 a serem removidos e 0 não atualizados.\r\n"
+    ],
+    [
+      0.066596,
+      "É preciso baixar 33,7 MB de arquivos.\r\nDepois desta operação, 94,4 MB adicionais de espaço em disco serão usados.\r\n"
+    ],
+    [
+      0.003646,
+      "\r\r0% [Trabalhando]"
+    ],
+    [
+      0.500557,
+      "\r                \r0% [Aguardando por cabeçalhos]"
+    ],
+    [
+      0.114831,
+      "\r                               \rObter:1 http://ppa.launchpad.net/ubuntu-mozilla-daily/ppa/ubuntu/ trusty/main thunderbird-trunk amd64 41.0~a1~hg20150519r17960.244718-0ubuntu1~umd1~trusty [33,7 MB]\r\n\r                               \r0% [1 thunderbird-trunk 1.163 B/33,7 MB 0%]"
+    ],
+    [
+      0.500644,
+      "\r0% [1 thunderbird-trunk 42,6 kB/33,7 MB 0%]"
+    ],
+    [
+      0.500655,
+      "\r                                           \r1% [1 thunderbird-trunk 173 kB/33,7 MB 1%]"
+    ],
+    [
+      0.500638,
+      "\r1% [1 thunderbird-trunk 325 kB/33,7 MB 1%]"
+    ],
+    [
+      0.500652,
+      "\r1% [1 thunderbird-trunk 335 kB/33,7 MB 1%]"
+    ],
+    [
+      0.500769,
+      "\r2% [1 thunderbird-trunk 558 kB/33,7 MB 2%]"
+    ],
+    [
+      0.500615,
+      "\r2% [1 thunderbird-trunk 558 kB/33,7 MB 2%]"
+    ],
+    [
+      0.500623,
+      "\r3% [1 thunderbird-trunk 885 kB/33,7 MB 3%]"
+    ],
+    [
+      0.500367,
+      "\r                                          \r3% [1 thunderbird-trunk 1.019 kB/33,7 MB 3%]"
+    ],
+    [
+      0.500676,
+      "\r3% [1 thunderbird-trunk 1.115 kB/33,7 MB 3%]"
+    ],
+    [
+      0.500734,
+      "\r4% [1 thunderbird-trunk 1.186 kB/33,7 MB 4%]"
+    ],
+    [
+      0.500624,
+      "\r                                            \r4% [1 thunderbird-trunk 1.252 kB/33,7 MB 4%]                  205 kB/s 2min 38s"
+    ],
+    [
+      0.500743,
+      "\r4% [1 thunderbird-trunk 1.289 kB/33,7 MB 4%]                  205 kB/s 2min 38s"
+    ],
+    [
+      0.500590,
+      "\r4% [1 thunderbird-trunk 1.348 kB/33,7 MB 4%]                  205 kB/s 2min 38s"
+    ],
+    [
+      0.500715,
+      "\r4% [1 thunderbird-trunk 1.411 kB/33,7 MB 4%]                  205 kB/s 2min 37s"
+    ],
+    [
+      0.500724,
+      "\r4% [1 thunderbird-trunk 1.479 kB/33,7 MB 4%]                  205 kB/s 2min 37s"
+    ],
+    [
+      0.500642,
+      "\r5% [1 thunderbird-trunk 1.543 kB/33,7 MB 5%]                  205 kB/s 2min 37s"
+    ],
+    [
+      0.500472,
+      "\r5% [1 thunderbird-trunk 1.615 kB/33,7 MB 5%]                  205 kB/s 2min 36s"
+    ],
+    [
+      0.500674,
+      "\r5% [1 thunderbird-trunk 1.685 kB/33,7 MB 5%]                  205 kB/s 2min 36s"
+    ],
+    [
+      0.500424,
+      "\r5% [1 thunderbird-trunk 1.750 kB/33,7 MB 5%]                  205 kB/s 2min 36s"
+    ],
+    [
+      0.500647,
+      "\r5% [1 thunderbird-trunk 1.819 kB/33,7 MB 5%]                  205 kB/s 2min 35s"
+    ],
+    [
+      0.500737,
+      "\r6% [1 thunderbird-trunk 1.895 kB/33,7 MB 6%]                  205 kB/s 2min 35s"
+    ],
+    [
+      0.500692,
+      "\r6% [1 thunderbird-trunk 1.965 kB/33,7 MB 6%]                  205 kB/s 2min 35s"
+    ],
+    [
+      0.500577,
+      "\r6% [1 thunderbird-trunk 2.023 kB/33,7 MB 6%]                   128 kB/s 4min 6s"
+    ],
+    [
+      0.500697,
+      "\r6% [1 thunderbird-trunk 2.070 kB/33,7 MB 6%]                   128 kB/s 4min 6s"
+    ],
+    [
+      0.500637,
+      "\r6% [1 thunderbird-trunk 2.176 kB/33,7 MB 6%]                   128 kB/s 4min 5s"
+    ],
+    [
+      0.500782,
+      "\r7% [1 thunderbird-trunk 2.233 kB/33,7 MB 7%]                   128 kB/s 4min 4s"
+    ],
+    [
+      0.500529,
+      "\r7% [1 thunderbird-trunk 2.323 kB/33,7 MB 7%]                   128 kB/s 4min 4s"
+    ],
+    [
+      0.500668,
+      "\r7% [1 thunderbird-trunk 2.416 kB/33,7 MB 7%]                   128 kB/s 4min 3s"
+    ],
+    [
+      0.500745,
+      "\r7% [1 thunderbird-trunk 2.507 kB/33,7 MB 7%]                   128 kB/s 4min 2s"
+    ],
+    [
+      0.500655,
+      "\r8% [1 thunderbird-trunk 2.606 kB/33,7 MB 8%]                   128 kB/s 4min 2s"
+    ],
+    [
+      0.500547,
+      "\r8% [1 thunderbird-trunk 2.693 kB/33,7 MB 8%]                   128 kB/s 4min 1s"
+    ],
+    [
+      0.500663,
+      "\r8% [1 thunderbird-trunk 2.763 kB/33,7 MB 8%]                   128 kB/s 4min 0s"
+    ],
+    [
+      0.500364,
+      "\r8% [1 thunderbird-trunk 2.771 kB/33,7 MB 8%]                   128 kB/s 4min 0s"
+    ],
+    [
+      0.500674,
+      "\r9% [1 thunderbird-trunk 2.869 kB/33,7 MB 9%]                   128 kB/s 4min 0s"
+    ],
+    [
+      0.500702,
+      "\r9% [1 thunderbird-trunk 2.930 kB/33,7 MB 9%]                  151 kB/s 3min 23s"
+    ],
+    [
+      0.500546,
+      "\r9% [1 thunderbird-trunk 3.004 kB/33,7 MB 9%]                  151 kB/s 3min 23s"
+    ],
+    [
+      0.500694,
+      "\r9% [1 thunderbird-trunk 3.094 kB/33,7 MB 9%]                  151 kB/s 3min 22s"
+    ],
+    [
+      0.500327,
+      "\r9% [1 thunderbird-trunk 3.168 kB/33,7 MB 9%]                  151 kB/s 3min 22s"
+    ],
+    [
+      0.500568,
+      "\r10% [1 thunderbird-trunk 3.257 kB/33,7 MB 10%]                151 kB/s 3min 21s"
+    ],
+    [
+      0.500651,
+      "\r10% [1 thunderbird-trunk 3.344 kB/33,7 MB 10%]                151 kB/s 3min 20s"
+    ],
+    [
+      0.501079,
+      "\r10% [1 thunderbird-trunk 3.437 kB/33,7 MB 10%]                151 kB/s 3min 20s"
+    ],
+    [
+      0.500517,
+      "\r10% [1 thunderbird-trunk 3.530 kB/33,7 MB 10%]                151 kB/s 3min 19s"
+    ],
+    [
+      0.500583,
+      "\r11% [1 thunderbird-trunk 3.618 kB/33,7 MB 11%]                151 kB/s 3min 19s"
+    ],
+    [
+      0.500469,
+      "\r11% [1 thunderbird-trunk 3.721 kB/33,7 MB 11%]                151 kB/s 3min 18s"
+    ],
+    [
+      0.500792,
+      "\r11% [1 thunderbird-trunk 3.773 kB/33,7 MB 11%]                151 kB/s 3min 18s"
+    ],
+    [
+      0.500692,
+      "\r11% [1 thunderbird-trunk 3.858 kB/33,7 MB 11%]                151 kB/s 3min 17s"
+    ],
+    [
+      0.500633,
+      "\r12% [1 thunderbird-trunk 3.911 kB/33,7 MB 12%]                 163 kB/s 3min 2s"
+    ],
+    [
+      0.500532,
+      "\r12% [1 thunderbird-trunk 3.990 kB/33,7 MB 12%]                 163 kB/s 3min 1s"
+    ],
+    [
+      0.500739,
+      "\r12% [1 thunderbird-trunk 4.000 kB/33,7 MB 12%]                 163 kB/s 3min 1s"
+    ],
+    [
+      0.500716,
+      "\r12% [1 thunderbird-trunk 4.035 kB/33,7 MB 12%]                 163 kB/s 3min 1s"
+    ],
+    [
+      0.500546,
+      "\r12% [1 thunderbird-trunk 4.090 kB/33,7 MB 12%]                 163 kB/s 3min 1s"
+    ],
+    [
+      0.500646,
+      "\r12% [1 thunderbird-trunk 4.124 kB/33,7 MB 12%]                 163 kB/s 3min 0s"
+    ],
+    [
+      0.500883,
+      "\r12% [1 thunderbird-trunk 4.167 kB/33,7 MB 12%]                 163 kB/s 3min 0s"
+    ],
+    [
+      0.500455,
+      "\r13% [1 thunderbird-trunk 4.214 kB/33,7 MB 13%]                 163 kB/s 3min 0s"
+    ],
+    [
+      0.500655,
+      "\r13% [1 thunderbird-trunk 4.255 kB/33,7 MB 13%]                 163 kB/s 3min 0s"
+    ],
+    [
+      0.500798,
+      "\r13% [1 thunderbird-trunk 4.301 kB/33,7 MB 13%]                163 kB/s 2min 59s"
+    ],
+    [
+      0.500693,
+      "\r13% [1 thunderbird-trunk 4.338 kB/33,7 MB 13%]                163 kB/s 2min 59s"
+    ],
+    [
+      0.500563,
+      "\r13% [1 thunderbird-trunk 4.389 kB/33,7 MB 13%]                163 kB/s 2min 59s"
+    ],
+    [
+      0.500555,
+      "\r13% [1 thunderbird-trunk 4.438 kB/33,7 MB 13%]               87,7 kB/s 5min 33s"
+    ],
+    [
+      0.500601,
+      "\r13% [1 thunderbird-trunk 4.499 kB/33,7 MB 13%]               87,7 kB/s 5min 32s"
+    ],
+    [
+      0.500625,
+      "\r14% [1 thunderbird-trunk 4.582 kB/33,7 MB 14%]               87,7 kB/s 5min 31s"
+    ],
+    [
+      0.500142,
+      "\r14% [1 thunderbird-trunk 4.679 kB/33,7 MB 14%]               87,7 kB/s 5min 30s"
+    ],
+    [
+      0.500614,
+      "\r14% [1 thunderbird-trunk 4.805 kB/33,7 MB 14%]               87,7 kB/s 5min 29s"
+    ],
+    [
+      0.500618,
+      "\r15% [1 thunderbird-trunk 4.928 kB/33,7 MB 15%]               87,7 kB/s 5min 27s"
+    ],
+    [
+      0.500691,
+      "\r15% [1 thunderbird-trunk 5.102 kB/33,7 MB 15%]               87,7 kB/s 5min 25s"
+    ],
+    [
+      0.500649,
+      "\r16% [1 thunderbird-trunk 5.282 kB/33,7 MB 16%]               87,7 kB/s 5min 23s"
+    ],
+    [
+      0.500751,
+      "\r16% [1 thunderbird-trunk 5.353 kB/33,7 MB 16%]               87,7 kB/s 5min 22s"
+    ],
+    [
+      0.500694,
+      "\r17% [1 thunderbird-trunk 5.560 kB/33,7 MB 17%]               87,7 kB/s 5min 20s"
+    ],
+    [
+      0.500604,
+      "\r17% [1 thunderbird-trunk 5.710 kB/33,7 MB 17%]               87,7 kB/s 5min 18s"
+    ],
+    [
+      0.500651,
+      "\r17% [1 thunderbird-trunk 5.837 kB/33,7 MB 17%]               87,7 kB/s 5min 17s"
+    ],
+    [
+      0.500677,
+      "\r18% [1 thunderbird-trunk 5.980 kB/33,7 MB 18%]                257 kB/s 1min 47s"
+    ],
+    [
+      0.500735,
+      "\r18% [1 thunderbird-trunk 6.133 kB/33,7 MB 18%]                257 kB/s 1min 47s"
+    ],
+    [
+      0.500675,
+      "\r19% [1 thunderbird-trunk 6.292 kB/33,7 MB 19%]                257 kB/s 1min 46s"
+    ],
+    [
+      0.500728,
+      "\r19% [1 thunderbird-trunk 6.436 kB/33,7 MB 19%]                257 kB/s 1min 46s"
+    ],
+    [
+      0.500721,
+      "\r19% [1 thunderbird-trunk 6.559 kB/33,7 MB 19%]                257 kB/s 1min 45s"
+    ],
+    [
+      0.500667,
+      "\r20% [1 thunderbird-trunk 6.707 kB/33,7 MB 20%]                257 kB/s 1min 45s"
+    ],
+    [
+      0.500559,
+      "\r20% [1 thunderbird-trunk 6.871 kB/33,7 MB 20%]                257 kB/s 1min 44s"
+    ],
+    [
+      0.500658,
+      "\r21% [1 thunderbird-trunk 6.993 kB/33,7 MB 21%]                257 kB/s 1min 43s"
+    ],
+    [
+      0.500587,
+      "\r21% [1 thunderbird-trunk 7.033 kB/33,7 MB 21%]                257 kB/s 1min 43s"
+    ],
+    [
+      0.500646,
+      "\r21% [1 thunderbird-trunk 7.235 kB/33,7 MB 21%]                257 kB/s 1min 42s"
+    ],
+    [
+      0.500567,
+      "\r22% [1 thunderbird-trunk 7.371 kB/33,7 MB 22%]                257 kB/s 1min 42s"
+    ],
+    [
+      0.500438,
+      "\r22% [1 thunderbird-trunk 7.518 kB/33,7 MB 22%]                257 kB/s 1min 41s"
+    ],
+    [
+      0.500634,
+      "\r23% [1 thunderbird-trunk 7.657 kB/33,7 MB 23%]                279 kB/s 1min 33s"
+    ],
+    [
+      0.500643,
+      "\r23% [1 thunderbird-trunk 7.788 kB/33,7 MB 23%]                279 kB/s 1min 32s"
+    ],
+    [
+      0.500597,
+      "\r23% [1 thunderbird-trunk 7.898 kB/33,7 MB 23%]                279 kB/s 1min 32s"
+    ],
+    [
+      0.500611,
+      "\r24% [1 thunderbird-trunk 7.951 kB/33,7 MB 24%]                279 kB/s 1min 32s"
+    ],
+    [
+      0.500475,
+      "\r24% [1 thunderbird-trunk 8.154 kB/33,7 MB 24%]                279 kB/s 1min 31s"
+    ],
+    [
+      0.500723,
+      "\r25% [1 thunderbird-trunk 8.292 kB/33,7 MB 25%]                279 kB/s 1min 30s"
+    ],
+    [
+      0.500258,
+      "\r25% [1 thunderbird-trunk 8.439 kB/33,7 MB 25%]                279 kB/s 1min 30s"
+    ],
+    [
+      0.500575,
+      "\r25% [1 thunderbird-trunk 8.579 kB/33,7 MB 25%]                279 kB/s 1min 29s"
+    ],
+    [
+      0.500578,
+      "\r26% [1 thunderbird-trunk 8.743 kB/33,7 MB 26%]                279 kB/s 1min 29s"
+    ],
+    [
+      0.500589,
+      "\r26% [1 thunderbird-trunk 8.798 kB/33,7 MB 26%]                279 kB/s 1min 29s"
+    ],
+    [
+      0.500634,
+      "\r26% [1 thunderbird-trunk 8.919 kB/33,7 MB 26%]                279 kB/s 1min 28s"
+    ],
+    [
+      0.500645,
+      "\r27% [1 thunderbird-trunk 9.010 kB/33,7 MB 27%]                279 kB/s 1min 28s"
+    ],
+    [
+      0.500707,
+      "\r27% [1 thunderbird-trunk 9.103 kB/33,7 MB 27%]                241 kB/s 1min 42s"
+    ],
+    [
+      0.500529,
+      "\r27% [1 thunderbird-trunk 9.152 kB/33,7 MB 27%]                241 kB/s 1min 41s"
+    ],
+    [
+      0.500639,
+      "\r28% [1 thunderbird-trunk 9.305 kB/33,7 MB 28%]                241 kB/s 1min 41s"
+    ],
+    [
+      0.500586,
+      "\r28% [1 thunderbird-trunk 9.462 kB/33,7 MB 28%]                241 kB/s 1min 40s"
+    ],
+    [
+      0.500665,
+      "\r29% [1 thunderbird-trunk 9.616 kB/33,7 MB 29%]                241 kB/s 1min 39s"
+    ],
+    [
+      0.500690,
+      "\r29% [1 thunderbird-trunk 9.784 kB/33,7 MB 29%]                241 kB/s 1min 39s"
+    ],
+    [
+      0.500207,
+      "\r30% [1 thunderbird-trunk 9.950 kB/33,7 MB 30%]                241 kB/s 1min 38s"
+    ],
+    [
+      0.500708,
+      "\r30% [1 thunderbird-trunk 10,1 MB/33,7 MB 30%]                 241 kB/s 1min 37s"
+    ],
+    [
+      0.500751,
+      "\r30% [1 thunderbird-trunk 10,2 MB/33,7 MB 30%]                 241 kB/s 1min 37s"
+    ],
+    [
+      0.500639,
+      "\r31% [1 thunderbird-trunk 10,3 MB/33,7 MB 31%]                 241 kB/s 1min 37s"
+    ],
+    [
+      0.500674,
+      "\r31% [1 thunderbird-trunk 10,5 MB/33,7 MB 31%]                 241 kB/s 1min 36s"
+    ],
+    [
+      0.500642,
+      "\r31% [1 thunderbird-trunk 10,6 MB/33,7 MB 31%]                 241 kB/s 1min 35s"
+    ],
+    [
+      0.500538,
+      "\r32% [1 thunderbird-trunk 10,7 MB/33,7 MB 32%]                 271 kB/s 1min 24s"
+    ],
+    [
+      0.500672,
+      "\r32% [1 thunderbird-trunk 10,9 MB/33,7 MB 32%]                 271 kB/s 1min 23s"
+    ],
+    [
+      0.500808,
+      "\r33% [1 thunderbird-trunk 11,0 MB/33,7 MB 33%]                 271 kB/s 1min 23s"
+    ],
+    [
+      0.500644,
+      "\r33% [1 thunderbird-trunk 11,2 MB/33,7 MB 33%]                 271 kB/s 1min 22s"
+    ],
+    [
+      0.500637,
+      "\r34% [1 thunderbird-trunk 11,3 MB/33,7 MB 34%]                 271 kB/s 1min 22s"
+    ],
+    [
+      0.500622,
+      "\r34% [1 thunderbird-trunk 11,5 MB/33,7 MB 34%]                 271 kB/s 1min 21s"
+    ],
+    [
+      0.500661,
+      "\r35% [1 thunderbird-trunk 11,7 MB/33,7 MB 35%]                 271 kB/s 1min 21s"
+    ],
+    [
+      0.500721,
+      "\r35% [1 thunderbird-trunk 11,8 MB/33,7 MB 35%]                 271 kB/s 1min 20s"
+    ],
+    [
+      0.500275,
+      "\r36% [1 thunderbird-trunk 12,0 MB/33,7 MB 36%]                 271 kB/s 1min 19s"
+    ],
+    [
+      0.500601,
+      "\r36% [1 thunderbird-trunk 12,2 MB/33,7 MB 36%]                 271 kB/s 1min 19s"
+    ],
+    [
+      0.500702,
+      "\r37% [1 thunderbird-trunk 12,3 MB/33,7 MB 37%]                 271 kB/s 1min 18s"
+    ],
+    [
+      0.500734,
+      "\r37% [1 thunderbird-trunk 12,5 MB/33,7 MB 37%]                 271 kB/s 1min 18s"
+    ],
+    [
+      0.500411,
+      "\r37% [1 thunderbird-trunk 12,5 MB/33,7 MB 37%]                 301 kB/s 1min 10s"
+    ],
+    [
+      0.500643,
+      "\r38% [1 thunderbird-trunk 12,7 MB/33,7 MB 38%]                  301 kB/s 1min 9s"
+    ],
+    [
+      0.500680,
+      "\r38% [1 thunderbird-trunk 12,9 MB/33,7 MB 38%]                  301 kB/s 1min 8s"
+    ],
+    [
+      0.500624,
+      "\r39% [1 thunderbird-trunk 13,1 MB/33,7 MB 39%]                  301 kB/s 1min 8s"
+    ],
+    [
+      0.500598,
+      "\r39% [1 thunderbird-trunk 13,2 MB/33,7 MB 39%]                  301 kB/s 1min 8s"
+    ],
+    [
+      0.500644,
+      "\r40% [1 thunderbird-trunk 13,4 MB/33,7 MB 40%]                  301 kB/s 1min 7s"
+    ],
+    [
+      0.500576,
+      "\r40% [1 thunderbird-trunk 13,6 MB/33,7 MB 40%]                  301 kB/s 1min 6s"
+    ],
+    [
+      0.500577,
+      "\r41% [1 thunderbird-trunk 13,7 MB/33,7 MB 41%]                  301 kB/s 1min 6s"
+    ],
+    [
+      0.500149,
+      "\r41% [1 thunderbird-trunk 14,0 MB/33,7 MB 41%]                  301 kB/s 1min 5s"
+    ],
+    [
+      0.500651,
+      "\r42% [1 thunderbird-trunk 14,1 MB/33,7 MB 42%]                  301 kB/s 1min 4s"
+    ],
+    [
+      0.500357,
+      "\r42% [1 thunderbird-trunk 14,3 MB/33,7 MB 42%]                  301 kB/s 1min 4s"
+    ],
+    [
+      0.500169,
+      "\r43% [1 thunderbird-trunk 14,4 MB/33,7 MB 43%]                  301 kB/s 1min 3s"
+    ],
+    [
+      0.500590,
+      "\r43% [1 thunderbird-trunk 14,5 MB/33,7 MB 43%]                      334 kB/s 57s"
+    ],
+    [
+      0.500742,
+      "\r44% [1 thunderbird-trunk 14,7 MB/33,7 MB 44%]                      334 kB/s 56s"
+    ],
+    [
+      0.500592,
+      "\r44% [1 thunderbird-trunk 14,8 MB/33,7 MB 44%]                      334 kB/s 56s"
+    ],
+    [
+      0.500693,
+      "\r44% [1 thunderbird-trunk 14,9 MB/33,7 MB 44%]                      334 kB/s 56s"
+    ],
+    [
+      0.500684,
+      "\r44% [1 thunderbird-trunk 14,9 MB/33,7 MB 44%]                      334 kB/s 56s"
+    ],
+    [
+      0.500528,
+      "\r45% [1 thunderbird-trunk 15,0 MB/33,7 MB 45%]                      334 kB/s 55s"
+    ],
+    [
+      0.500325,
+      "\r45% [1 thunderbird-trunk 15,0 MB/33,7 MB 45%]                      334 kB/s 55s"
+    ],
+    [
+      0.500737,
+      "\r45% [1 thunderbird-trunk 15,1 MB/33,7 MB 45%]                      334 kB/s 55s"
+    ],
+    [
+      0.500778,
+      "\r45% [1 thunderbird-trunk 15,2 MB/33,7 MB 45%]                      334 kB/s 55s"
+    ],
+    [
+      0.500614,
+      "\r45% [1 thunderbird-trunk 15,2 MB/33,7 MB 45%]                      334 kB/s 55s"
+    ],
+    [
+      0.500693,
+      "\r45% [1 thunderbird-trunk 15,2 MB/33,7 MB 45%]                      334 kB/s 55s"
+    ],
+    [
+      0.500807,
+      "\r45% [1 thunderbird-trunk 15,3 MB/33,7 MB 45%]                      334 kB/s 55s"
+    ],
+    [
+      0.500609,
+      "\r45% [1 thunderbird-trunk 15,3 MB/33,7 MB 45%]                 122 kB/s 2min 30s"
+    ],
+    [
+      0.500621,
+      "\r45% [1 thunderbird-trunk 15,3 MB/33,7 MB 45%]                 122 kB/s 2min 30s"
+    ],
+    [
+      0.500649,
+      "\r45% [1 thunderbird-trunk 15,3 MB/33,7 MB 45%]                 122 kB/s 2min 30s"
+    ],
+    [
+      0.500155,
+      "\r46% [1 thunderbird-trunk 15,4 MB/33,7 MB 46%]                 122 kB/s 2min 29s"
+    ],
+    [
+      0.500574,
+      "\r46% [1 thunderbird-trunk 15,4 MB/33,7 MB 46%]                 122 kB/s 2min 29s"
+    ],
+    [
+      0.500635,
+      "\r46% [1 thunderbird-trunk 15,4 MB/33,7 MB 46%]                 122 kB/s 2min 29s"
+    ],
+    [
+      0.500568,
+      "\r46% [1 thunderbird-trunk 15,5 MB/33,7 MB 46%]                 122 kB/s 2min 28s"
+    ],
+    [
+      0.500573,
+      "\r46% [1 thunderbird-trunk 15,5 MB/33,7 MB 46%]                 122 kB/s 2min 28s"
+    ],
+    [
+      0.500666,
+      "\r46% [1 thunderbird-trunk 15,6 MB/33,7 MB 46%]                 122 kB/s 2min 28s"
+    ],
+    [
+      0.500704,
+      "\r46% [1 thunderbird-trunk 15,6 MB/33,7 MB 46%]                 122 kB/s 2min 27s"
+    ],
+    [
+      0.500669,
+      "\r47% [1 thunderbird-trunk 15,7 MB/33,7 MB 47%]                 122 kB/s 2min 27s"
+    ],
+    [
+      0.500710,
+      "\r47% [1 thunderbird-trunk 15,8 MB/33,7 MB 47%]                 122 kB/s 2min 26s"
+    ],
+    [
+      0.500705,
+      "\r47% [1 thunderbird-trunk 15,8 MB/33,7 MB 47%]                92,9 kB/s 3min 11s"
+    ],
+    [
+      0.500646,
+      "\r47% [1 thunderbird-trunk 15,9 MB/33,7 MB 47%]                92,9 kB/s 3min 10s"
+    ],
+    [
+      0.500634,
+      "\r48% [1 thunderbird-trunk 16,0 MB/33,7 MB 48%]                 92,9 kB/s 3min 9s"
+    ],
+    [
+      0.500643,
+      "\r48% [1 thunderbird-trunk 16,2 MB/33,7 MB 48%]                 92,9 kB/s 3min 7s"
+    ],
+    [
+      0.500353,
+      "\r49% [1 thunderbird-trunk 16,4 MB/33,7 MB 49%]                 92,9 kB/s 3min 5s"
+    ],
+    [
+      0.500550,
+      "\r49% [1 thunderbird-trunk 16,6 MB/33,7 MB 49%]                 92,9 kB/s 3min 3s"
+    ],
+    [
+      0.500707,
+      "\r50% [1 thunderbird-trunk 16,8 MB/33,7 MB 50%]                 92,9 kB/s 3min 1s"
+    ],
+    [
+      0.500602,
+      "\r50% [1 thunderbird-trunk 16,8 MB/33,7 MB 50%]                 92,9 kB/s 3min 1s"
+    ],
+    [
+      0.500543,
+      "\r51% [1 thunderbird-trunk 17,2 MB/33,7 MB 51%]                92,9 kB/s 2min 57s"
+    ],
+    [
+      0.500646,
+      "\r51% [1 thunderbird-trunk 17,3 MB/33,7 MB 51%]                92,9 kB/s 2min 56s"
+    ],
+    [
+      0.500521,
+      "\r52% [1 thunderbird-trunk 17,5 MB/33,7 MB 52%]                92,9 kB/s 2min 53s"
+    ],
+    [
+      0.500345,
+      "\r53% [1 thunderbird-trunk 17,7 MB/33,7 MB 53%]                92,9 kB/s 2min 51s"
+    ],
+    [
+      0.500607,
+      "\r53% [1 thunderbird-trunk 17,9 MB/33,7 MB 53%]                      343 kB/s 45s"
+    ],
+    [
+      0.500743,
+      "\r54% [1 thunderbird-trunk 18,1 MB/33,7 MB 54%]                      343 kB/s 45s"
+    ],
+    [
+      0.500501,
+      "\r54% [1 thunderbird-trunk 18,3 MB/33,7 MB 54%]                      343 kB/s 44s"
+    ],
+    [
+      0.500572,
+      "\r55% [1 thunderbird-trunk 18,5 MB/33,7 MB 55%]                      343 kB/s 44s"
+    ],
+    [
+      0.500603,
+      "\r55% [1 thunderbird-trunk 18,7 MB/33,7 MB 55%]                      343 kB/s 43s"
+    ],
+    [
+      0.500641,
+      "\r56% [1 thunderbird-trunk 18,8 MB/33,7 MB 56%]                      343 kB/s 43s"
+    ],
+    [
+      0.500667,
+      "\r57% [1 thunderbird-trunk 19,0 MB/33,7 MB 57%]                      343 kB/s 42s"
+    ],
+    [
+      0.500672,
+      "\r57% [1 thunderbird-trunk 19,2 MB/33,7 MB 57%]                      343 kB/s 42s"
+    ],
+    [
+      0.500300,
+      "\r57% [1 thunderbird-trunk 19,4 MB/33,7 MB 57%]                      343 kB/s 41s"
+    ],
+    [
+      0.500659,
+      "\r58% [1 thunderbird-trunk 19,6 MB/33,7 MB 58%]                      343 kB/s 41s"
+    ],
+    [
+      0.500564,
+      "\r58% [1 thunderbird-trunk 19,7 MB/33,7 MB 58%]                      343 kB/s 40s"
+    ],
+    [
+      0.500174,
+      "\r59% [1 thunderbird-trunk 19,8 MB/33,7 MB 59%]                      343 kB/s 40s"
+    ],
+    [
+      0.500316,
+      "\r59% [1 thunderbird-trunk 19,8 MB/33,7 MB 59%]                      320 kB/s 43s"
+    ],
+    [
+      0.500698,
+      "\r59% [1 thunderbird-trunk 19,9 MB/33,7 MB 59%]                      320 kB/s 43s"
+    ],
+    [
+      0.500650,
+      "\r59% [1 thunderbird-trunk 19,9 MB/33,7 MB 59%]                      320 kB/s 43s"
+    ],
+    [
+      0.500728,
+      "\r59% [1 thunderbird-trunk 19,9 MB/33,7 MB 59%]                      320 kB/s 43s"
+    ],
+    [
+      0.500694,
+      "\r59% [1 thunderbird-trunk 19,9 MB/33,7 MB 59%]                      320 kB/s 42s"
+    ],
+    [
+      0.500553,
+      "\r59% [1 thunderbird-trunk 19,9 MB/33,7 MB 59%]                      320 kB/s 42s"
+    ],
+    [
+      0.500665,
+      "\r59% [1 thunderbird-trunk 20,0 MB/33,7 MB 59%]                      320 kB/s 42s"
+    ],
+    [
+      0.500772,
+      "\r59% [1 thunderbird-trunk 20,0 MB/33,7 MB 59%]                      320 kB/s 42s"
+    ],
+    [
+      0.500596,
+      "\r59% [1 thunderbird-trunk 20,0 MB/33,7 MB 59%]                      320 kB/s 42s"
+    ],
+    [
+      0.500605,
+      "\r59% [1 thunderbird-trunk 20,0 MB/33,7 MB 59%]                      320 kB/s 42s"
+    ],
+    [
+      0.500805,
+      "\r59% [1 thunderbird-trunk 20,0 MB/33,7 MB 59%]                      320 kB/s 42s"
+    ],
+    [
+      0.500602,
+      "\r59% [1 thunderbird-trunk 20,0 MB/33,7 MB 59%]                      320 kB/s 42s"
+    ],
+    [
+      0.500734,
+      "\r59% [1 thunderbird-trunk 20,0 MB/33,7 MB 59%]                29,2 kB/s 7min 47s"
+    ],
+    [
+      0.500669,
+      "\r59% [1 thunderbird-trunk 20,0 MB/33,7 MB 59%]                29,2 kB/s 7min 46s"
+    ],
+    [
+      0.500626,
+      "\r59% [1 thunderbird-trunk 20,0 MB/33,7 MB 59%]                29,2 kB/s 7min 46s"
+    ],
+    [
+      0.500547,
+      "\r59% [1 thunderbird-trunk 20,0 MB/33,7 MB 59%]                29,2 kB/s 7min 46s"
+    ],
+    [
+      0.500614,
+      "\r59% [1 thunderbird-trunk 20,0 MB/33,7 MB 59%]                29,2 kB/s 7min 46s"
+    ],
+    [
+      0.500678,
+      "\r60% [1 thunderbird-trunk 20,1 MB/33,7 MB 60%]                29,2 kB/s 7min 44s"
+    ],
+    [
+      0.500528,
+      "\r60% [1 thunderbird-trunk 20,1 MB/33,7 MB 60%]                29,2 kB/s 7min 44s"
+    ],
+    [
+      0.500756,
+      "\r60% [1 thunderbird-trunk 20,2 MB/33,7 MB 60%]                29,2 kB/s 7min 42s"
+    ],
+    [
+      0.500654,
+      "\r60% [1 thunderbird-trunk 20,2 MB/33,7 MB 60%]                29,2 kB/s 7min 42s"
+    ],
+    [
+      0.500687,
+      "\r60% [1 thunderbird-trunk 20,2 MB/33,7 MB 60%]                29,2 kB/s 7min 39s"
+    ],
+    [
+      0.500734,
+      "\r60% [1 thunderbird-trunk 20,3 MB/33,7 MB 60%]                29,2 kB/s 7min 37s"
+    ],
+    [
+      0.500511,
+      "\r60% [1 thunderbird-trunk 20,4 MB/33,7 MB 60%]                29,2 kB/s 7min 35s"
+    ],
+    [
+      0.500496,
+      "\r61% [1 thunderbird-trunk 20,4 MB/33,7 MB 61%]                 73,4 kB/s 3min 0s"
+    ],
+    [
+      0.500620,
+      "\r61% [1 thunderbird-trunk 20,5 MB/33,7 MB 61%]                73,4 kB/s 2min 59s"
+    ],
+    [
+      0.500683,
+      "\r61% [1 thunderbird-trunk 20,6 MB/33,7 MB 61%]                73,4 kB/s 2min 58s"
+    ],
+    [
+      0.500698,
+      "\r61% [1 thunderbird-trunk 20,7 MB/33,7 MB 61%]                73,4 kB/s 2min 56s"
+    ],
+    [
+      0.500775,
+      "\r62% [1 thunderbird-trunk 20,8 MB/33,7 MB 62%]                73,4 kB/s 2min 55s"
+    ],
+    [
+      0.500580,
+      "\r62% [1 thunderbird-trunk 20,9 MB/33,7 MB 62%]                73,4 kB/s 2min 54s"
+    ],
+    [
+      0.500717,
+      "\r62% [1 thunderbird-trunk 21,0 MB/33,7 MB 62%]                73,4 kB/s 2min 52s"
+    ],
+    [
+      0.500512,
+      "\r63% [1 thunderbird-trunk 21,2 MB/33,7 MB 63%]                73,4 kB/s 2min 50s"
+    ],
+    [
+      0.500565,
+      "\r63% [1 thunderbird-trunk 21,3 MB/33,7 MB 63%]                73,4 kB/s 2min 48s"
+    ],
+    [
+      0.500625,
+      "\r64% [1 thunderbird-trunk 21,5 MB/33,7 MB 64%]                73,4 kB/s 2min 45s"
+    ],
+    [
+      0.500454,
+      "\r64% [1 thunderbird-trunk 21,6 MB/33,7 MB 64%]                73,4 kB/s 2min 44s"
+    ],
+    [
+      0.500730,
+      "\r65% [1 thunderbird-trunk 21,8 MB/33,7 MB 65%]                73,4 kB/s 2min 41s"
+    ],
+    [
+      0.500558,
+      "\r65% [1 thunderbird-trunk 22,0 MB/33,7 MB 65%]                      262 kB/s 44s"
+    ],
+    [
+      0.500586,
+      "\r66% [1 thunderbird-trunk 22,2 MB/33,7 MB 66%]                      262 kB/s 43s"
+    ],
+    [
+      0.500688,
+      "\r66% [1 thunderbird-trunk 22,4 MB/33,7 MB 66%]                      262 kB/s 43s"
+    ],
+    [
+      0.500682,
+      "\r67% [1 thunderbird-trunk 22,6 MB/33,7 MB 67%]                      262 kB/s 42s"
+    ],
+    [
+      0.500497,
+      "\r68% [1 thunderbird-trunk 22,8 MB/33,7 MB 68%]                      262 kB/s 41s"
+    ],
+    [
+      0.500702,
+      "\r68% [1 thunderbird-trunk 22,9 MB/33,7 MB 68%]                      262 kB/s 41s"
+    ],
+    [
+      0.500542,
+      "\r69% [1 thunderbird-trunk 23,1 MB/33,7 MB 69%]                      262 kB/s 40s"
+    ],
+    [
+      0.500735,
+      "\r69% [1 thunderbird-trunk 23,3 MB/33,7 MB 69%]                      262 kB/s 39s"
+    ],
+    [
+      0.500672,
+      "\r70% [1 thunderbird-trunk 23,5 MB/33,7 MB 70%]                      262 kB/s 38s"
+    ],
+    [
+      0.500542,
+      "\r70% [1 thunderbird-trunk 23,7 MB/33,7 MB 70%]                      262 kB/s 38s"
+    ],
+    [
+      0.500652,
+      "\r71% [1 thunderbird-trunk 23,8 MB/33,7 MB 71%]                      262 kB/s 37s"
+    ],
+    [
+      0.500711,
+      "\r71% [1 thunderbird-trunk 24,0 MB/33,7 MB 71%]                      262 kB/s 36s"
+    ],
+    [
+      0.500608,
+      "\r72% [1 thunderbird-trunk 24,2 MB/33,7 MB 72%]                      365 kB/s 25s"
+    ],
+    [
+      0.500651,
+      "\r72% [1 thunderbird-trunk 24,4 MB/33,7 MB 72%]                      365 kB/s 25s"
+    ],
+    [
+      0.500646,
+      "\r73% [1 thunderbird-trunk 24,5 MB/33,7 MB 73%]                      365 kB/s 25s"
+    ],
+    [
+      0.500623,
+      "\r73% [1 thunderbird-trunk 24,7 MB/33,7 MB 73%]                      365 kB/s 24s"
+    ],
+    [
+      0.500688,
+      "\r74% [1 thunderbird-trunk 24,9 MB/33,7 MB 74%]                      365 kB/s 24s"
+    ],
+    [
+      0.500680,
+      "\r74% [1 thunderbird-trunk 25,1 MB/33,7 MB 74%]                      365 kB/s 23s"
+    ],
+    [
+      0.500695,
+      "\r75% [1 thunderbird-trunk 25,3 MB/33,7 MB 75%]                      365 kB/s 23s"
+    ],
+    [
+      0.500285,
+      "\r76% [1 thunderbird-trunk 25,4 MB/33,7 MB 76%]                      365 kB/s 22s"
+    ],
+    [
+      0.500833,
+      "\r76% [1 thunderbird-trunk 25,5 MB/33,7 MB 76%]                      365 kB/s 22s"
+    ],
+    [
+      0.500148,
+      "\r77% [1 thunderbird-trunk 25,8 MB/33,7 MB 77%]                      365 kB/s 21s"
+    ],
+    [
+      0.500662,
+      "\r77% [1 thunderbird-trunk 26,0 MB/33,7 MB 77%]                      365 kB/s 21s"
+    ],
+    [
+      0.500590,
+      "\r78% [1 thunderbird-trunk 26,1 MB/33,7 MB 78%]                      365 kB/s 20s"
+    ],
+    [
+      0.500606,
+      "\r78% [1 thunderbird-trunk 26,3 MB/33,7 MB 78%]                      348 kB/s 21s"
+    ],
+    [
+      0.500574,
+      "\r79% [1 thunderbird-trunk 26,5 MB/33,7 MB 79%]                      348 kB/s 20s"
+    ],
+    [
+      0.500585,
+      "\r79% [1 thunderbird-trunk 26,6 MB/33,7 MB 79%]                      348 kB/s 20s"
+    ],
+    [
+      0.500788,
+      "\r80% [1 thunderbird-trunk 26,8 MB/33,7 MB 80%]                      348 kB/s 19s"
+    ],
+    [
+      0.500197,
+      "\r80% [1 thunderbird-trunk 27,0 MB/33,7 MB 80%]                      348 kB/s 19s"
+    ],
+    [
+      0.500613,
+      "\r81% [1 thunderbird-trunk 27,2 MB/33,7 MB 81%]                      348 kB/s 18s"
+    ],
+    [
+      0.500642,
+      "\r81% [1 thunderbird-trunk 27,4 MB/33,7 MB 81%]                      348 kB/s 18s"
+    ],
+    [
+      0.500838,
+      "\r82% [1 thunderbird-trunk 27,5 MB/33,7 MB 82%]                      348 kB/s 17s"
+    ],
+    [
+      0.500536,
+      "\r82% [1 thunderbird-trunk 27,7 MB/33,7 MB 82%]                      348 kB/s 17s"
+    ],
+    [
+      0.500579,
+      "\r83% [1 thunderbird-trunk 27,9 MB/33,7 MB 83%]                      348 kB/s 16s"
+    ],
+    [
+      0.500726,
+      "\r83% [1 thunderbird-trunk 28,0 MB/33,7 MB 83%]                      348 kB/s 16s"
+    ],
+    [
+      0.500763,
+      "\r83% [1 thunderbird-trunk 28,1 MB/33,7 MB 83%]                      348 kB/s 16s"
+    ],
+    [
+      0.500716,
+      "\r84% [1 thunderbird-trunk 28,3 MB/33,7 MB 84%]                      329 kB/s 16s"
+    ],
+    [
+      0.500761,
+      "\r84% [1 thunderbird-trunk 28,3 MB/33,7 MB 84%]                      329 kB/s 16s"
+    ],
+    [
+      0.500766,
+      "\r84% [1 thunderbird-trunk 28,4 MB/33,7 MB 84%]                      329 kB/s 16s"
+    ],
+    [
+      0.500661,
+      "\r85% [1 thunderbird-trunk 28,5 MB/33,7 MB 85%]                      329 kB/s 15s"
+    ],
+    [
+      0.500410,
+      "\r85% [1 thunderbird-trunk 28,5 MB/33,7 MB 85%]                      329 kB/s 15s"
+    ],
+    [
+      0.500785,
+      "\r85% [1 thunderbird-trunk 28,6 MB/33,7 MB 85%]                      329 kB/s 15s"
+    ],
+    [
+      0.500481,
+      "\r85% [1 thunderbird-trunk 28,7 MB/33,7 MB 85%]                      329 kB/s 15s"
+    ],
+    [
+      0.500632,
+      "\r85% [1 thunderbird-trunk 28,7 MB/33,7 MB 85%]                      329 kB/s 15s"
+    ],
+    [
+      0.500682,
+      "\r85% [1 thunderbird-trunk 28,8 MB/33,7 MB 85%]                      329 kB/s 14s"
+    ],
+    [
+      0.500430,
+      "\r86% [1 thunderbird-trunk 28,8 MB/33,7 MB 86%]                      329 kB/s 14s"
+    ],
+    [
+      0.500729,
+      "\r86% [1 thunderbird-trunk 28,9 MB/33,7 MB 86%]                      329 kB/s 14s"
+    ],
+    [
+      0.500598,
+      "\r86% [1 thunderbird-trunk 28,9 MB/33,7 MB 86%]                      329 kB/s 14s"
+    ],
+    [
+      0.500770,
+      "\r86% [1 thunderbird-trunk 28,9 MB/33,7 MB 86%]                      112 kB/s 42s"
+    ],
+    [
+      0.500606,
+      "\r86% [1 thunderbird-trunk 29,0 MB/33,7 MB 86%]                      112 kB/s 41s"
+    ],
+    [
+      0.500779,
+      "\r86% [1 thunderbird-trunk 29,1 MB/33,7 MB 86%]                      112 kB/s 41s"
+    ],
+    [
+      0.500285,
+      "\r86% [1 thunderbird-trunk 29,1 MB/33,7 MB 86%]                      112 kB/s 40s"
+    ],
+    [
+      0.500581,
+      "\r87% [1 thunderbird-trunk 29,1 MB/33,7 MB 87%]                      112 kB/s 40s"
+    ],
+    [
+      0.500613,
+      "\r87% [1 thunderbird-trunk 29,2 MB/33,7 MB 87%]                      112 kB/s 40s"
+    ],
+    [
+      0.500694,
+      "\r87% [1 thunderbird-trunk 29,2 MB/33,7 MB 87%]                      112 kB/s 39s"
+    ],
+    [
+      0.500620,
+      "\r87% [1 thunderbird-trunk 29,3 MB/33,7 MB 87%]                      112 kB/s 38s"
+    ],
+    [
+      0.500802,
+      "\r87% [1 thunderbird-trunk 29,4 MB/33,7 MB 87%]                      112 kB/s 38s"
+    ],
+    [
+      0.500587,
+      "\r88% [1 thunderbird-trunk 29,5 MB/33,7 MB 88%]                      112 kB/s 37s"
+    ],
+    [
+      0.500710,
+      "\r88% [1 thunderbird-trunk 29,6 MB/33,7 MB 88%]                      112 kB/s 36s"
+    ],
+    [
+      0.500715,
+      "\r88% [1 thunderbird-trunk 29,7 MB/33,7 MB 88%]                      112 kB/s 35s"
+    ],
+    [
+      0.500749,
+      "\r89% [1 thunderbird-trunk 29,8 MB/33,7 MB 89%]                      150 kB/s 25s"
+    ],
+    [
+      0.500563,
+      "\r89% [1 thunderbird-trunk 30,0 MB/33,7 MB 89%]                      150 kB/s 24s"
+    ],
+    [
+      0.500643,
+      "\r89% [1 thunderbird-trunk 30,1 MB/33,7 MB 89%]                      150 kB/s 23s"
+    ],
+    [
+      0.500563,
+      "\r90% [1 thunderbird-trunk 30,2 MB/33,7 MB 90%]                      150 kB/s 23s"
+    ],
+    [
+      0.500627,
+      "\r90% [1 thunderbird-trunk 30,3 MB/33,7 MB 90%]                      150 kB/s 22s"
+    ],
+    [
+      0.500775,
+      "\r90% [1 thunderbird-trunk 30,4 MB/33,7 MB 90%]                      150 kB/s 21s"
+    ],
+    [
+      0.500518,
+      "\r91% [1 thunderbird-trunk 30,6 MB/33,7 MB 91%]                      150 kB/s 20s"
+    ],
+    [
+      0.500708,
+      "\r91% [1 thunderbird-trunk 30,7 MB/33,7 MB 91%]                      150 kB/s 20s"
+    ],
+    [
+      0.500512,
+      "\r92% [1 thunderbird-trunk 30,8 MB/33,7 MB 92%]                      150 kB/s 19s"
+    ],
+    [
+      0.500714,
+      "\r92% [1 thunderbird-trunk 31,0 MB/33,7 MB 92%]                      150 kB/s 17s"
+    ],
+    [
+      0.500668,
+      "\r92% [1 thunderbird-trunk 31,0 MB/33,7 MB 92%]                      150 kB/s 17s"
+    ],
+    [
+      0.500671,
+      "\r92% [1 thunderbird-trunk 31,1 MB/33,7 MB 92%]                      150 kB/s 17s"
+    ],
+    [
+      0.500805,
+      "\r92% [1 thunderbird-trunk 31,1 MB/33,7 MB 92%]                      216 kB/s 11s"
+    ],
+    [
+      0.500523,
+      "\r93% [1 thunderbird-trunk 31,4 MB/33,7 MB 93%]                      216 kB/s 10s"
+    ],
+    [
+      0.500642,
+      "\r94% [1 thunderbird-trunk 31,5 MB/33,7 MB 94%]                      216 kB/s 10s"
+    ],
+    [
+      0.500282,
+      "\r94% [1 thunderbird-trunk 31,6 MB/33,7 MB 94%]                       216 kB/s 9s"
+    ],
+    [
+      0.500723,
+      "\r94% [1 thunderbird-trunk 31,6 MB/33,7 MB 94%]                       216 kB/s 9s"
+    ],
+    [
+      0.500664,
+      "\r94% [1 thunderbird-trunk 31,8 MB/33,7 MB 94%]                       216 kB/s 8s"
+    ],
+    [
+      0.500653,
+      "\r95% [1 thunderbird-trunk 31,9 MB/33,7 MB 95%]                       216 kB/s 8s"
+    ],
+    [
+      0.500694,
+      "\r95% [1 thunderbird-trunk 32,0 MB/33,7 MB 95%]                       216 kB/s 7s"
+    ],
+    [
+      0.500622,
+      "\r95% [1 thunderbird-trunk 32,1 MB/33,7 MB 95%]                       216 kB/s 7s"
+    ],
+    [
+      0.500696,
+      "\r95% [1 thunderbird-trunk 32,2 MB/33,7 MB 95%]                       216 kB/s 7s"
+    ],
+    [
+      0.500669,
+      "\r96% [1 thunderbird-trunk 32,2 MB/33,7 MB 96%]                       216 kB/s 6s"
+    ],
+    [
+      0.500764,
+      "\r96% [1 thunderbird-trunk 32,3 MB/33,7 MB 96%]                       216 kB/s 6s"
+    ],
+    [
+      0.500679,
+      "\r96% [1 thunderbird-trunk 32,4 MB/33,7 MB 96%]                       202 kB/s 6s"
+    ],
+    [
+      0.500541,
+      "\r96% [1 thunderbird-trunk 32,4 MB/33,7 MB 96%]                       202 kB/s 6s"
+    ],
+    [
+      0.500629,
+      "\r96% [1 thunderbird-trunk 32,4 MB/33,7 MB 96%]                       202 kB/s 6s"
+    ],
+    [
+      0.500783,
+      "\r96% [1 thunderbird-trunk 32,4 MB/33,7 MB 96%]                       202 kB/s 6s"
+    ],
+    [
+      0.500622,
+      "\r97% [1 thunderbird-trunk 32,5 MB/33,7 MB 97%]                       202 kB/s 5s"
+    ],
+    [
+      0.500591,
+      "\r97% [1 thunderbird-trunk 32,6 MB/33,7 MB 97%]                       202 kB/s 5s"
+    ],
+    [
+      0.500627,
+      "\r97% [1 thunderbird-trunk 32,7 MB/33,7 MB 97%]                       202 kB/s 4s"
+    ],
+    [
+      0.500577,
+      "\r97% [1 thunderbird-trunk 32,8 MB/33,7 MB 97%]                       202 kB/s 4s"
+    ],
+    [
+      0.500704,
+      "\r98% [1 thunderbird-trunk 32,9 MB/33,7 MB 98%]                       202 kB/s 3s"
+    ],
+    [
+      0.500649,
+      "\r98% [1 thunderbird-trunk 33,0 MB/33,7 MB 98%]                       202 kB/s 3s"
+    ],
+    [
+      0.500591,
+      "\r98% [1 thunderbird-trunk 33,1 MB/33,7 MB 98%]                       202 kB/s 2s"
+    ],
+    [
+      0.500765,
+      "\r99% [1 thunderbird-trunk 33,2 MB/33,7 MB 99%]                       202 kB/s 2s"
+    ],
+    [
+      0.500702,
+      "\r99% [1 thunderbird-trunk 33,3 MB/33,7 MB 99%]                       153 kB/s 2s"
+    ],
+    [
+      0.500659,
+      "\r99% [1 thunderbird-trunk 33,3 MB/33,7 MB 99%]                       153 kB/s 2s"
+    ],
+    [
+      0.500753,
+      "\r99% [1 thunderbird-trunk 33,4 MB/33,7 MB 99%]                       153 kB/s 1s"
+    ],
+    [
+      0.500658,
+      "\r100% [1 thunderbird-trunk 33,5 MB/33,7 MB 100%]                     153 kB/s 1s"
+    ],
+    [
+      0.500738,
+      "\r100% [1 thunderbird-trunk 33,6 MB/33,7 MB 100%]                     153 kB/s 0s"
+    ],
+    [
+      0.274656,
+      "\r100% [Trabalhando]                                                  153 kB/s 0s\r                                                                               \rBaixados 33,7 MB em 2min 38s (212 kB/s)\r\n"
+    ],
+    [
+      3.356956,
+      "A seleccionar pacote anteriormente não seleccionado thunderbird-trunk.\r\n(Lendo banco de dados ... \r"
+    ],
+    [
+      0.175754,
+      "(Lendo banco de dados ... 5%\r(Lendo banco de dados ... 10%\r(Lendo banco de dados ... 15%\r"
+    ],
+    [
+      0.000052,
+      "(Lendo banco de dados ... 20%\r(Lendo banco de dados ... 25%\r"
+    ],
+    [
+      0.000036,
+      "(Lendo banco de dados ... 30%\r"
+    ],
+    [
+      0.000036,
+      "(Lendo banco de dados ... 35%\r"
+    ],
+    [
+      0.000034,
+      "(Lendo banco de dados ... 40%\r"
+    ],
+    [
+      0.000042,
+      "(Lendo banco de dados ... 45%\r"
+    ],
+    [
+      1.525609,
+      "(Lendo banco de dados ... 50%\r"
+    ],
+    [
+      1.431541,
+      "(Lendo banco de dados ... 55%\r"
+    ],
+    [
+      1.310780,
+      "(Lendo banco de dados ... 60%\r"
+    ],
+    [
+      0.463019,
+      "(Lendo banco de dados ... 65%\r"
+    ],
+    [
+      0.241277,
+      "(Lendo banco de dados ... 70%\r"
+    ],
+    [
+      0.154631,
+      "(Lendo banco de dados ... 75%\r"
+    ],
+    [
+      0.127466,
+      "(Lendo banco de dados ... 80%\r"
+    ],
+    [
+      0.266600,
+      "(Lendo banco de dados ... 85%\r"
+    ],
+    [
+      0.127435,
+      "(Lendo banco de dados ... 90%\r"
+    ],
+    [
+      0.285921,
+      "(Lendo banco de dados ... 95%\r"
+    ],
+    [
+      1.829918,
+      "(Lendo banco de dados ... 100%\r(Lendo banco de dados ... 482302 ficheiros e directórios actualmente instalados.)\r\n"
+    ],
+    [
+      0.059900,
+      "Preparing to unpack .../thunderbird-trunk_41.0~a1~hg20150519r17960.244718-0ubuntu1~umd1~trusty_amd64.deb ...\r\n"
+    ],
+    [
+      0.138555,
+      "Unpacking thunderbird-trunk (41.0~a1~hg20150519r17960.244718-0ubuntu1~umd1~trusty) ...\r\n"
+    ],
+    [
+      6.435532,
+      "Processing triggers for man-db (2.6.7.1-1ubuntu1) ...\r\n"
+    ],
+    [
+      5.298939,
+      "Processing triggers for desktop-file-utils (0.22-1ubuntu1) ...\r\n"
+    ],
+    [
+      0.190091,
+      "Processing triggers for gnome-menus (3.10.1-0ubuntu2) ...\r\n"
+    ],
+    [
+      0.300237,
+      "Processing triggers for mime-support (3.54ubuntu1.1) ...\r\n"
+    ],
+    [
+      1.419797,
+      "Configurando thunderbird-trunk (41.0~a1~hg20150519r17960.244718-0ubuntu1~umd1~trusty) ...\r\n"
+    ],
+    [
+      1.917452,
+      "\u001b]0;diegoboot@diegoboot-ntb: ~\u0007diegoboot@diegoboot-ntb:~$ "
+    ],
+    [
+      21.414242,
+      "e"
+    ],
+    [
+      0.048703,
+      "x"
+    ],
+    [
+      0.199633,
+      "i"
+    ],
+    [
+      0.113994,
+      "t"
+    ],
+    [
+      0.190944,
+      "\r\nexit\r\n"
+    ]
+  ]
+}
