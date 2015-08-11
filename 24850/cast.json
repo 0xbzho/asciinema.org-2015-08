@@ -1,0 +1,2446 @@
+{
+  "version": 1,
+  "width": 85,
+  "height": 19,
+  "duration": 104.944104,
+  "command": "/usr/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/usr/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.710096,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                    \r \r"
+    ],
+    [
+      0.075908,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;243m~/hn\u001b[32m\u001b[39m\r\n\u001b[31m\u001b[38;5;243m$\u001b[0m \u001b[K\u001b[82C\u001b[33m\u001b[39m\u001b[82D"
+    ],
+    [
+      0.000048,
+      "\u001b[?2004h"
+    ],
+    [
+      1.084511,
+      "g"
+    ],
+    [
+      0.181472,
+      "\u0008go"
+    ],
+    [
+      0.196925,
+      " "
+    ],
+    [
+      0.150429,
+      "g"
+    ],
+    [
+      0.088823,
+      "e"
+    ],
+    [
+      0.132085,
+      "t"
+    ],
+    [
+      0.082842,
+      " "
+    ],
+    [
+      0.175768,
+      "g"
+    ],
+    [
+      0.093694,
+      "i"
+    ],
+    [
+      0.119306,
+      "t"
+    ],
+    [
+      0.088503,
+      "h"
+    ],
+    [
+      0.177387,
+      "u"
+    ],
+    [
+      0.112628,
+      "b"
+    ],
+    [
+      0.158470,
+      "."
+    ],
+    [
+      0.152736,
+      "c"
+    ],
+    [
+      0.142469,
+      "o"
+    ],
+    [
+      0.135747,
+      "m"
+    ],
+    [
+      0.238681,
+      "/"
+    ],
+    [
+      0.291051,
+      "h"
+    ],
+    [
+      0.102987,
+      "o"
+    ],
+    [
+      0.256221,
+      "l"
+    ],
+    [
+      0.123557,
+      "y"
+    ],
+    [
+      0.206504,
+      "g"
+    ],
+    [
+      0.083246,
+      "e"
+    ],
+    [
+      0.165589,
+      "e"
+    ],
+    [
+      0.139569,
+      "k"
+    ],
+    [
+      0.354242,
+      "/"
+    ],
+    [
+      0.137461,
+      "f"
+    ],
+    [
+      0.056231,
+      "e"
+    ],
+    [
+      0.144572,
+      "t"
+    ],
+    [
+      0.196658,
+      "c"
+    ],
+    [
+      0.071177,
+      "h"
+    ],
+    [
+      0.230773,
+      "p"
+    ],
+    [
+      0.056402,
+      "o"
+    ],
+    [
+      0.097105,
+      "s"
+    ],
+    [
+      0.104795,
+      "t"
+    ],
+    [
+      0.343185,
+      "\u001b[?2004l"
+    ],
+    [
+      0.000110,
+      "\r"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.267924,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                    \r \r"
+    ],
+    [
+      0.068520,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;243m~/hn\u001b[32m\u001b[39m\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[31m\u001b[38;5;243m$\u001b[0m \u001b[K\u001b[82C\u001b[33m\u001b[39m\u001b[82D"
+    ],
+    [
+      0.000045,
+      "\u001b[?2004h"
+    ],
+    [
+      2.276242,
+      "f"
+    ],
+    [
+      0.117940,
+      "\u0008fe"
+    ],
+    [
+      0.128476,
+      "t"
+    ],
+    [
+      0.207032,
+      "c"
+    ],
+    [
+      0.089533,
+      "h"
+    ],
+    [
+      0.201809,
+      "p"
+    ],
+    [
+      0.104555,
+      "o"
+    ],
+    [
+      0.058064,
+      "s"
+    ],
+    [
+      0.072385,
+      "t"
+    ],
+    [
+      0.112729,
+      " "
+    ],
+    [
+      0.140205,
+      "'"
+    ],
+    [
+      0.359332,
+      "h"
+    ],
+    [
+      0.006231,
+      "t"
+    ],
+    [
+      0.006626,
+      "t"
+    ],
+    [
+      0.006485,
+      "p"
+    ],
+    [
+      0.005924,
+      "s"
+    ],
+    [
+      0.006166,
+      ":"
+    ],
+    [
+      0.006227,
+      "/"
+    ],
+    [
+      0.006642,
+      "/"
+    ],
+    [
+      0.005532,
+      "n"
+    ],
+    [
+      0.006192,
+      "e"
+    ],
+    [
+      0.006326,
+      "w"
+    ],
+    [
+      0.007358,
+      "s"
+    ],
+    [
+      0.006124,
+      "."
+    ],
+    [
+      0.005716,
+      "y"
+    ],
+    [
+      0.005548,
+      "c"
+    ],
+    [
+      0.006873,
+      "o"
+    ],
+    [
+      0.006971,
+      "m"
+    ],
+    [
+      0.005290,
+      "b"
+    ],
+    [
+      0.006600,
+      "i"
+    ],
+    [
+      0.006100,
+      "n"
+    ],
+    [
+      0.006565,
+      "a"
+    ],
+    [
+      0.006366,
+      "t"
+    ],
+    [
+      0.006790,
+      "o"
+    ],
+    [
+      0.005622,
+      "r"
+    ],
+    [
+      0.006088,
+      "."
+    ],
+    [
+      0.006500,
+      "c"
+    ],
+    [
+      0.006194,
+      "o"
+    ],
+    [
+      0.006081,
+      "m"
+    ],
+    [
+      0.006158,
+      "/"
+    ],
+    [
+      0.006448,
+      "i"
+    ],
+    [
+      0.006222,
+      "t"
+    ],
+    [
+      0.006020,
+      "e"
+    ],
+    [
+      0.006157,
+      "m"
+    ],
+    [
+      0.006915,
+      "?"
+    ],
+    [
+      0.006303,
+      "i"
+    ],
+    [
+      0.006165,
+      "d"
+    ],
+    [
+      0.006569,
+      "="
+    ],
+    [
+      0.005695,
+      "1"
+    ],
+    [
+      0.006069,
+      "0"
+    ],
+    [
+      0.006012,
+      "0"
+    ],
+    [
+      0.006048,
+      "3"
+    ],
+    [
+      0.006275,
+      "8"
+    ],
+    [
+      0.006749,
+      "5"
+    ],
+    [
+      0.005795,
+      "1"
+    ],
+    [
+      0.006071,
+      "5"
+    ],
+    [
+      0.387264,
+      "'"
+    ],
+    [
+      0.444895,
+      "\u001b[?2004l"
+    ],
+    [
+      0.000072,
+      "\r\r\n"
+    ],
+    [
+      1.230377,
+      "+"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.303302,
+      " "
+    ],
+    [
+      0.000023,
+      "+\r\n"
+    ],
+    [
+      0.267665,
+      " +"
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.268951,
+      " "
+    ],
+    [
+      0.000022,
+      " +\r\n"
+    ],
+    [
+      0.268039,
+      " "
+    ],
+    [
+      0.000023,
+      "+\r\n"
+    ],
+    [
+      0.267106,
+      "  "
+    ],
+    [
+      0.000024,
+      "+\r\n"
+    ],
+    [
+      0.268141,
+      " "
+    ],
+    [
+      0.000018,
+      " +\r\n"
+    ],
+    [
+      0.267624,
+      "  "
+    ],
+    [
+      0.000024,
+      " +\r\n"
+    ],
+    [
+      0.267246,
+      "  "
+    ],
+    [
+      0.000020,
+      " +\r\n"
+    ],
+    [
+      0.268573,
+      "  "
+    ],
+    [
+      0.000020,
+      "+\r\n"
+    ],
+    [
+      0.267742,
+      " "
+    ],
+    [
+      0.000019,
+      "  +\r\n"
+    ],
+    [
+      0.282063,
+      " "
+    ],
+    [
+      0.000017,
+      " +\r\n"
+    ],
+    [
+      0.284727,
+      "  "
+    ],
+    [
+      0.000022,
+      " +\r\n"
+    ],
+    [
+      0.269084,
+      " "
+    ],
+    [
+      0.000024,
+      "   +\r\n"
+    ],
+    [
+      0.270076,
+      " "
+    ],
+    [
+      0.000019,
+      "    +\r\n"
+    ],
+    [
+      0.266467,
+      "  "
+    ],
+    [
+      0.000023,
+      "+\r\n"
+    ],
+    [
+      0.267529,
+      " "
+    ],
+    [
+      0.000025,
+      "  +\r\n"
+    ],
+    [
+      0.267558,
+      " "
+    ],
+    [
+      0.000023,
+      "  +\r\n"
+    ],
+    [
+      0.267558,
+      " "
+    ],
+    [
+      0.000018,
+      " +\r\n"
+    ],
+    [
+      0.267688,
+      " "
+    ],
+    [
+      0.000018,
+      " +\r\n"
+    ],
+    [
+      0.270309,
+      " "
+    ],
+    [
+      0.000023,
+      " +\r\n"
+    ],
+    [
+      0.266174,
+      " "
+    ],
+    [
+      0.000012,
+      "  +\r\n"
+    ],
+    [
+      0.267877,
+      " "
+    ],
+    [
+      0.000032,
+      " +\r\n"
+    ],
+    [
+      0.275371,
+      " "
+    ],
+    [
+      0.000022,
+      "  +\r\n"
+    ],
+    [
+      0.269138,
+      " "
+    ],
+    [
+      0.000022,
+      "   +\r\n"
+    ],
+    [
+      0.267606,
+      "  "
+    ],
+    [
+      0.000022,
+      " +\r\n"
+    ],
+    [
+      0.268895,
+      "  "
+    ],
+    [
+      0.000022,
+      "  +\r\n"
+    ],
+    [
+      0.266136,
+      " +"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.269729,
+      " "
+    ],
+    [
+      0.000018,
+      "+\r\n"
+    ],
+    [
+      0.269275,
+      " +"
+    ],
+    [
+      0.000030,
+      "\r\n"
+    ],
+    [
+      0.265866,
+      " "
+    ],
+    [
+      0.000022,
+      " +\r\n"
+    ],
+    [
+      0.269559,
+      "   +"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.267985,
+      " +\r\n"
+    ],
+    [
+      0.297526,
+      " "
+    ],
+    [
+      0.000013,
+      " +\r\n"
+    ],
+    [
+      0.265825,
+      " "
+    ],
+    [
+      0.000023,
+      "+\r\n"
+    ],
+    [
+      0.267586,
+      " "
+    ],
+    [
+      0.000021,
+      "+\r\n"
+    ],
+    [
+      0.267259,
+      " "
+    ],
+    [
+      0.000012,
+      "+\r\n"
+    ],
+    [
+      0.269290,
+      " "
+    ],
+    [
+      0.000023,
+      " +\r\nSICP_in_Clojure\r\n"
+    ],
+    [
+      0.002843,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                    \r \r"
+    ],
+    [
+      0.073539,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;243m~/hn\u001b[32m\u001b[39m\r\n\u001b[31m\u001b[38;5;243m$\u001b[0m \u001b[K\u001b[82C\u001b[33m\u001b[39m\u001b[82D"
+    ],
+    [
+      0.000027,
+      "\u001b[?2004h"
+    ],
+    [
+      1.348041,
+      "c"
+    ],
+    [
+      0.097224,
+      "\u0008ca"
+    ],
+    [
+      0.124460,
+      "t"
+    ],
+    [
+      0.111140,
+      " "
+    ],
+    [
+      0.151846,
+      "m"
+    ],
+    [
+      0.186425,
+      "u"
+    ],
+    [
+      0.078488,
+      "t"
+    ],
+    [
+      0.180740,
+      "t"
+    ],
+    [
+      0.166610,
+      "r"
+    ],
+    [
+      0.172612,
+      "c"
+    ],
+    [
+      0.161749,
+      "\u001b[?2004l"
+    ],
+    [
+      0.000059,
+      "\r\r\n"
+    ],
+    [
+      0.075735,
+      "set sort = threads\r\nignore subject to date\r\nunignore x-date\r\n"
+    ],
+    [
+      0.000189,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                    \r \r"
+    ],
+    [
+      0.067509,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;243m~/hn\u001b[32m\u001b[39m\r\n\u001b[31m\u001b[38;5;243m$\u001b[0m \u001b[K\u001b[82C\u001b[33m\u001b[39m\u001b[82D"
+    ],
+    [
+      0.000026,
+      "\u001b[?2004h"
+    ],
+    [
+      1.516360,
+      "m"
+    ],
+    [
+      0.153655,
+      "\u0008mu"
+    ],
+    [
+      0.157090,
+      "t"
+    ],
+    [
+      0.146182,
+      "t"
+    ],
+    [
+      0.213789,
+      " "
+    ],
+    [
+      0.543850,
+      "-"
+    ],
+    [
+      0.245798,
+      "F"
+    ],
+    [
+      0.241955,
+      " "
+    ],
+    [
+      0.654306,
+      "m"
+    ],
+    [
+      0.151410,
+      "u"
+    ],
+    [
+      0.128670,
+      "t"
+    ],
+    [
+      0.174900,
+      "t"
+    ],
+    [
+      0.208651,
+      "r"
+    ],
+    [
+      0.236176,
+      "c"
+    ],
+    [
+      0.260186,
+      " "
+    ],
+    [
+      0.511427,
+      "-"
+    ],
+    [
+      0.192383,
+      "f"
+    ],
+    [
+      0.137432,
+      " "
+    ],
+    [
+      0.927495,
+      "S"
+    ],
+    [
+      0.163489,
+      "I"
+    ],
+    [
+      0.293664,
+      "CP_in_Clojure\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.886161,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000122,
+      "\u001b[?2004l"
+    ],
+    [
+      0.000125,
+      "\r"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.075912,
+      "\u001b(B\u001b)0\u001b[?1049h\u001b[1;19r\u001b[m\u000f\u001b[4l\u001b[39;49m\u001b[?1h\u001b="
+    ],
+    [
+      0.002393,
+      "\u001b[39;49m\u001b[19;1H\u001b[K\u001b[19;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000548,
+      "\u001b[?1049h\u001b[1;19r\u001b[39;49m\u001b[m\u000f\u001b[4l\u001b[39;49m\u001b[37m\u001b[40m\u001b[1;1H                                                                                     \u001b[2;1H                                                                                     \u001b[3;1H                                                                                     \u001b[4;1H                                                                                     \u001b[5;1H                                                                                     \u001b[6;1H                                                                                     \u001b[7;1H                                                                                     \u001b[8;1H                                                                                     \u001b[9;1H                                                                                     \u001b[10;1H                                                                                     \u001b[11;1H                                                                                     \u001b[12;1H                                                                                     \u001b[13;1H                                                                                     \u001b[14;1H                                                                                     \u001b[15;1H                                                                                     \u001b[16;1H                                                                                     \u001b[17;1H                                                                                     \u001b[18;1H                                                                                     \u001b[19;1H                                                                                    \u0008 \u0008\u001b[1@ \u001b[H\u001b[18BReading SICP_in_Clojure..."
+    ],
+    [
+      0.000070,
+      "\rScanning SICP_in_Clojure... 0"
+    ],
+    [
+      0.000166,
+      "\u000810"
+    ],
+    [
+      0.000064,
+      "\u0008\u000820"
+    ],
+    [
+      0.000067,
+      "\u0008\u000830"
+    ],
+    [
+      0.000080,
+      "\rReading SICP_in_Clojure... 0/38 (0%)"
+    ],
+    [
+      0.000627,
+      "\u001b[19;28H10/38 (26%)"
+    ],
+    [
+      0.000439,
+      "\u001b[19;28H2\u001b[6C52%)"
+    ],
+    [
+      0.000498,
+      "\u001b[19;28H3\u001b[6C78%)"
+    ],
+    [
+      0.000378,
+      "\rScanning SICP_in_Clojure... 0         \u001b[19;30H"
+    ],
+    [
+      0.000092,
+      "\rReading SICP_in_Clojure... 0 \u0008"
+    ],
+    [
+      0.000082,
+      "\rSorting mailbox...          \u001b[19;19H"
+    ],
+    [
+      0.000150,
+      "\u001b[?25l"
+    ],
+    [
+      0.001739,
+      "\u001b[H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40mq:Quit  d:Del  u:Undel  s:Save  m:Mail  r:Reply  g:Group  ?:Help                     \u001b[2;1H   1 N   Jan 01 MattF           (0.1K) (119 points) SICP in Clojure                  \u001b[3;4H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m2 N   Jan 01 markc\u001b[3;33H(0.6K) There's also \u003ca href=\"http://ecmendenhall.gith\u001b[4;4H3 N   Jan 01 ninjakeyboard   (0.1K) “I personally don't think SICP will help you m\u001b[5;4H4 N   Jan 01 erikcw\u001b[5;33H(0.4K) └─\u003eMy guess is that this is being taken out of\u001b[6;4H5 N   Jan 01 neoncontrails   (2.0K) I've been feeling the past few weeks the repea\u001b[7;4H6 N   Jan 01 a-saleh\u001b[7;33H(0.7K) ├─\u003e\u003e The thought of a little Clojure or Haskel\u001b[8;4H7 N   Jan 01 copsarebastards (1.5K) ├─\u003eI've been writing Python a lot coming from\r\n   8 N   Jan 01 agentultra\u001b[6C(1.3K) │ ├─\u003ePrecisely!\u003cp\u003eI've been bitten by the data\u001b[10;4H9 N   Jan 01 beatband\u001b[10;33H(0.1K) │ └─\u003ewould love to see an example of your code\u001b[11;3H10 N   Jan 01 jahnu\u001b[11;33H(0.3K) ├─\u003eA lot of that feeling, at least for some of\u001b[12;3H11 N   Jan 01 vladsanchez     (0.2K) │ └─\u003eSounds like a Rules Engine to me. Your de\u001b[13;3H12 N   Jan 01 babo\u001b[13;33H(0.1K) ├─\u003eCheck some Python code from Peter Norvig an\u001b[14;3H13 N   Jan 01 yati\u001b[14;33H(0.1K) │ └─\u003eWhile I've learned a lot from Norvig's po\u001b[15;3H14 N   Jan 01 ww2\u001b[15;33H(0.1K) │   └─\u003eThat is just the point, you dont have t\u001b[16;3H15 N   Jan 01 erichmond\u001b[7C(0.6K) │     └─\u003eI agree with you in spirit, but that'\u001b[17;3H16 N   Jan 01 adamc\u001b[17;33H(0.4K) ├─\u003eI dunno. I spent some time learning Clojure\u001b[18;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m---Mutt: SICP_in_Clojure [Msgs:38 New:38 24K]---(threads/date)---------------(42%)---\u001b[19;1H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m                  \u001b[2;85H"
+    ],
+    [
+      0.000016,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.152798,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000036,
+      "\u001b[?25l"
+    ],
+    [
+      0.000353,
+      "\r   1 N   Jan 01 MattF           (0.1K) (119 points) SICP in Clojure                  \u001b[3;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m   2 N   Jan 01 markc           (0.6K) There's also \u003ca href=\"http://ecmendenhall.gith\u001b[3;85H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      1.263055,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000021,
+      "\u001b[?25l"
+    ],
+    [
+      0.000346,
+      "\r\u001bM\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m   1 N   Jan 01 MattF           (0.1K) (119 points) SICP in Clojure                  \u001b[3;1H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m   2 N   Jan 01 markc           (0.6K) There's also \u003ca href=\"http://ecmendenhall.gith\u001b[2;85H"
+    ],
+    [
+      0.167300,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.008152,
+      "\u001b[?25l"
+    ],
+    [
+      0.000978,
+      "\r\u001bM\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40mi:Exit  -:PrevPg  \u003cSpace\u003e:NextPg v:View Attachm.  d:Del  r:Reply  j:Next ?:Help\r\n\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40mFrom: MattF                                                                          \u001b[3;1HX-Date: 11 Aug 15 09:01 +0800                                                        \u001b[4;4H                                                                                  \u001b[5;1Hhttp://www.afronski.pl/sicp-in-clojure/2015/08/07/sicp-in-clojure-chapter-2.html     \u001b[6;4H                                                                                  \u001b[7;4H                    \u001b[7;33H                                                     \u001b[8;4H                                                                                 \r\n                          \u001b[6C                                                     \u001b[10;4H                     \u001b[10;33H                                                     \u001b[11;3H                   \u001b[11;33H                                                     \u001b[12;3H                                                                                   \u001b[13;3H                  \u001b[13;33H                                                     \u001b[14;3H                  \u001b[14;33H                                                     \u001b[15;3H                 \u001b[15;33H                                                     \u001b[16;3H                       \u001b[7C                                                     \u001b[17;3H                   \u001b[17;33H                                                     \u001b[18;2H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40mN  - 1/38: MattF                  (119 points) SICP in Clojure              -- (all)\u001b[18;85H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      4.474000,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000146,
+      "\u001b[?25l"
+    ],
+    [
+      0.000012,
+      "\u001b[34h\u001b[?25h\u001b[?25l"
+    ],
+    [
+      0.002997,
+      "\u001b[H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40mq:Quit  d:Del  u:Undel  s:Save  m:Mail  r:Reply  g:Group  ?:Help               \r\n   1     Jan 01 MattF           (0.1K) (119 points) SICP in Clojure                  \u001b[3;1H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m   2 N   Jan 01 markc           (0.6K) There's also \u003ca href=\"http://ecmendenhall.gith\u001b[4;4H3 N   Jan 01 ninjakeyboard   (0.1K) “I personally don't think SICP will help you m\u001b[5;1H   4 N   Jan 01 erikcw          (0.4K) └─\u003eMy guess is that this is being taken out of\u001b[6;4H5 N   Jan 01 neoncontrails   (2.0K) I've been feeling the past few weeks the repea\u001b[7;4H6 N   Jan 01 a-saleh\u001b[7;33H(0.7K) ├─\u003e\u003e The thought of a little Clojure or Haskel\u001b[8;4H7 N   Jan 01 copsarebastards (1.5K) ├─\u003eI've been writing Python a lot coming from\r\n   8 N   Jan 01 agentultra\u001b[6C(1.3K) │ ├─\u003ePrecisely!\u003cp\u003eI've been bitten by the data\u001b[10;4H9 N   Jan 01 beatband\u001b[10;33H(0.1K) │ └─\u003ewould love to see an example of your code\u001b[11;3H10 N   Jan 01 jahnu\u001b[11;33H(0.3K) ├─\u003eA lot of that feeling, at least for some of\u001b[12;3H11 N   Jan 01 vladsanchez     (0.2K) │ └─\u003eSounds like a Rules Engine to me. Your de\u001b[13;3H12 N   Jan 01 babo\u001b[13;33H(0.1K) ├─\u003eCheck some Python code from Peter Norvig an\u001b[14;3H13 N   Jan 01 yati\u001b[14;33H(0.1K) │ └─\u003eWhile I've learned a lot from Norvig's po\u001b[15;3H14 N   Jan 01 ww2\u001b[15;33H(0.1K) │   └─\u003eThat is just the point, you dont have t\u001b[16;3H15 N   Jan 01 erichmond\u001b[7C(0.6K) │     └─\u003eI agree with you in spirit, but that'\u001b[17;3H16 N   Jan 01 adamc\u001b[17;33H(0.4K) ├─\u003eI dunno. I spent some time learning Clojure\u001b[18;2H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m*-Mutt: SICP_in_Clojure [Msgs:38 New:37 24K]---(threads/date)---------------(42%)---\u001b[2;85H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.526830,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000018,
+      "\u001b[?25l"
+    ],
+    [
+      0.000482,
+      "\r   1     Jan 01 MattF           (0.1K) (119 points) SICP in Clojure                  \u001b[3;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m   2 N   Jan 01 markc           (0.6K) There's also \u003ca href=\"http://ecmendenhall.gith\u001b[3;85H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      1.039382,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.007915,
+      "\u001b[?25l"
+    ],
+    [
+      0.000814,
+      "\u001b[H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40mi:Exit  -:PrevPg  \u003cSpace\u003e:NextPg v:View Attachm.  d:Del  r:Reply  j:Next ?:Help\r\n\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40mFrom: markc          \u001b[2;33H                                   \r\nX-Date: 11 Aug 15 23:56 +0800                                                        \u001b[4;4H                                                                                  \u001b[5;1HThere's also \u003ca href=\"http://ecmendenhall.github.io/sicpclojure/pages/contents.html\" \u001b[6;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m+\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40mrel=\"nofollow\"\u003ehttp://ecmendenhall.github.io/sicpclojure/pages/contents.htm...\u003c/a\u003e  \u001b[7;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m+\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40mwhich is an actual translation of the book into Clojure, currently up to chapter    \u001b[8;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m+\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m2.1.4.                                                                             \r\n                          \u001b[6C                                                     \u001b[10;1HAnd the ill-fated sicpinclojure.com site, which looked beautiful and had such great  \u001b[11;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m+\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40mpromise, but mysteriously stalled and died.                                         \u001b[12;3H                                                                                   \u001b[13;1HLooks like vqc below has done quite a few of the exercises. Nice.                    \u001b[14;3H                  \u001b[14;33H                                                     \u001b[15;1HTommy Hall's SICP Distilled seems like the best shot at a complete book now. It's    \u001b[16;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m+\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40mrunning a bit behind schedule but appears to be in the home stretch. We'll see!     \u001b[17;3H                   \u001b[17;33H                                                     \u001b[18;2H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40mN  - 2/38: markc                  There's also \u003ca href=\"http://ecmendenhall -- (all)\u001b[18;85H\u001b[m\u000f\u001b[39;49"
+    ],
+    [
+      0.000016,
+      "m\u001b[37m\u001b[40m"
+    ],
+    [
+      1.090522,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000353,
+      "\u001b[?25l\u001b[34h\u001b[?25h\u001b[?25l"
+    ],
+    [
+      0.003487,
+      "\u001b[H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40mq:Quit  d:Del  u:Undel  s:Save  m:Mail  r:Reply  g:Group  ?:Help               \r\n\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m   1     Jan 01 MattF\u001b[2;33H(0.1K) (119 points) SICP in Clojure\r\n\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m   2     Jan 01 markc           (0.6K) There's also \u003ca href=\"http://ecmendenhall.gith\u001b[4;4H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m3 N   Jan 01 ninjakeyboard   (0.1K) “I personally don't think SICP will help you m\u001b[5;1H   4 N   Jan 01 erikcw          (0.4K) └─\u003eMy guess is that this is being taken out of\u001b[6;1H   5 N   Jan 01 neoncontrails   (2.0K) I've been feeling the past few weeks the repea\u001b[7;1H   6 N   Jan 01 a-saleh         (0.7K) ├─\u003e\u003e The thought of a little Clojure or Haskel\u001b[8;1H   7 N   Jan 01 copsarebastards (1.5K) ├─\u003eI've been writing Python a lot coming from\r\n   8 N   Jan 01 agentultra\u001b[6C(1.3K) │ ├─\u003ePrecisely!\u003cp\u003eI've been bitten by the data\u001b[10;1H   9 N   Jan 01 beatband        (0.1K) │ └─\u003ewould love to see an example of your code\u001b[11;1H  10 N   Jan 01 jahnu           (0.3K) ├─\u003eA lot of that feeling, at least for some of\u001b[12;3H11 N   Jan 01 vladsanchez     (0.2K) │ └─\u003eSounds like a Rules Engine to me. Your de\u001b[13;1H  12 N   Jan 01 babo            (0.1K) ├─\u003eCheck some Python code from Peter Norvig an\u001b[14;3H13 N   Jan 01 yati\u001b[14;33H(0.1K) │ └─\u003eWhile I've learned a lot from Norvig's po\u001b[15;1H  14 N   Jan 01 ww2             (0.1K) │   └─\u003eThat is just the point, you dont have t\u001b[16;1H  15 N   Jan 01 erichmond       (0.6K) │     └─\u003eI agree with you in spirit, but that'\u001b[17;3H16 N   Jan 01 adamc\u001b[17;33H(0.4K) ├─\u003eI dunno. I spent some time learning Clojure\u001b[18;2H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m*-Mutt: SICP_in_Clojure [Msgs:38 New:36 24K]---(threads/date)---------------(42%)---\u001b[3;85H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.924436,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000020,
+      "\u001b[?25l"
+    ],
+    [
+      0.000366,
+      "\r   2     Jan 01 markc           (0.6K) There's also \u003ca href=\"http://ecmendenhall.gith\u001b[4;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m   3 N   Jan 01 ninjakeyboard   (0.1K) “I personally don't think SICP will help you m\u001b[4;85H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      1.039666,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.007791,
+      "\u001b[?25l"
+    ],
+    [
+      0.000752,
+      "\u001b[H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40mi:Exit  -:PrevPg  \u003cSpace\u003e:NextPg v:View Attachm.  d:Del  r:Reply  j:Next ?:Help\r\n\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40mFrom: ninjakeyboard  \u001b[2;33H                                   \r\nX-Date: 11 Aug 15 22:52 +0800                                                        \u001b[4;1H                                                                                     \u001b[5;1H“I personally don't think SICP will help you much with Clojure. YMMV.”               \u001b[6;4H                                                                                  \u001b[7;1H—Rich Hickey, author, Clojure programming language                                   \u001b[8;4H                                                                                 \r\n                          \u001b[6C                                                     \u001b[10;4H                     \u001b[10;33H                                                     \u001b[11;3H                   \u001b[11;33H                                                     \u001b[12;3H                                                                                   \u001b[13;3H                  \u001b[13;33H                                                     \u001b[14;3H                  \u001b[14;33H                                                     \u001b[15;3H                 \u001b[15;33H                                                     \u001b[16;3H                       \u001b[7C                                                     \u001b[17;3H                   \u001b[17;33H                                                     \u001b[18;2H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40mN  - 3/38: ninjakeyboard          “I personally don't think SICP will help  -- (all)\u001b[18;85H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      1.250898,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000260,
+      "\u001b[?25l"
+    ],
+    [
+      0.000013,
+      "\u001b[34h\u001b[?25h\u001b[?25l"
+    ],
+    [
+      0.002330,
+      "\u001b[H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40mq:Quit  d:Del  u:Undel  s:Save  m:Mail  r:Reply  g:Group  ?:Help               \r\n\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m   1     Jan 01 MattF\u001b[2;33H(0.1K) (119 points) SICP in Clojure\r\n   2     Jan 01 markc           (0.6K) There's also \u003ca href=\"http://ecmendenhall.gith\u001b[4;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m   3     Jan 01 ninjakeyboard   (0.1K) “I personally don't think SICP will help you m\u001b[5;1H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m   4 N   Jan 01 erikcw          (0.4K) └─\u003eMy guess is that this is being taken out of\u001b[6;4H5 N   Jan 01 neoncontrails   (2.0K) I've been feeling the past few weeks the repea\u001b[7;1H   6 N   Jan 01 a-saleh         (0.7K) ├─\u003e\u003e The thought of a little Clojure or Haskel\u001b[8;4H7 N   Jan 01 copsarebastards (1.5K) ├─\u003eI've been writing Python a lot coming from\r\n   8 N   Jan 01 agentultra\u001b[6C(1.3K) │ ├─\u003ePrecisely!\u003cp\u003eI've been bitten by the data\u001b[10;4H9 N   Jan 01 beatband\u001b[10;33H(0.1K) │ └─\u003ewould love to see an example of your code\u001b[11;3H10 N   Jan 01 jahnu\u001b[11;33H(0.3K) ├─\u003eA lot of that feeling, at least for some of\u001b[12;3H11 N   Jan 01 vladsanchez     (0.2K) │ └─\u003eSounds like a Rules Engine to me. Your de\u001b[13;3H12 N   Jan 01 babo\u001b[13;33H(0.1K) ├─\u003eCheck some Python code from Peter Norvig an\u001b[14;3H13 N   Jan 01 yati\u001b[14;33H(0.1K) │ └─\u003eWhile I've learned a lot from Norvig's po\u001b[15;3H14 N   Jan 01 ww2\u001b[15;33H(0.1K) │   └─\u003eThat is just the point, you dont have t\u001b[16;3H15 N   Jan 01 erichmond\u001b[7C(0.6K) │     └─\u003eI agree with you in spirit, but that'\u001b[17;3H16 N   Jan 01 adamc\u001b[17;33H(0.4K) ├─\u003eI dunno. I spent some time learning Clojure\u001b[18;2H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m*-Mutt: SICP_in_Clojure [Msgs:38 New:35 24K]---(threads/date)---------------(42%)---\u001b[4;85H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.402572,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000012,
+      "\u001b[?25l"
+    ],
+    [
+      0.000251,
+      "\r   3     Jan 01 ninjakeyboard   (0.1K) “I personally don't think SICP will help you m\u001b[5;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m   4 N   Jan 01 erikcw          (0.4K) └─\u003eMy guess is that this is being taken out of\u001b[5;85H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.730019,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.006377,
+      "\u001b[?25l"
+    ],
+    [
+      0.000960,
+      "\u001b[H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40mi:Exit  -:PrevPg  \u003cSpace\u003e:NextPg v:View Attachm.  d:Del  r:Reply  j:Next ?:Help\r\n\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40mFrom: erikcw         \u001b[2;33H                                   \r\nX-Date: 11 Aug 15 23:58 +0800                                                        \u001b[4;4H                                                                                  \u001b[5;1HMy guess is that this is being taken out of context.                                 \u001b[6;4H                                                                                  \u001b[7;1HI don't want to put words in Rick's mouth, but I imagine that he means that SICP     \u001b[8;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m+\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40mwon't help you learn Clojure the language.  Not that SICP won't make you a better  \r\n\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m+\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40mprogrammer in Clojure (and all other languages).                                    \u001b[10;4H                     \u001b[10;33H                                                     \u001b[11;1HPersonally I found it helpful to work through the book in scheme (the language used  \u001b[12;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m+\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40min the book), porting some of the exercises to Clojure and other languages I'm      \u001b[13;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m+\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40minterested in as a supplement.                                                      \u001b[14;3H                  \u001b[14;33H                                                     \u001b[15;3H                 \u001b[15;33H                                                     \u001b[16;3H                       \u001b[7C                                                     \u001b[17;3H                   \u001b[17;33H                                                     \u001b[18;2H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40mN  - 4/38: erikcw                 My guess is that this is being taken out  -- (all)\u001b[18;85H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      1.444638,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000022,
+      "\u001b[?25l\u001b[34h\u001b[?25h\u001b[?25l"
+    ],
+    [
+      0.003902,
+      "\u001b[H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40mq:Quit  d:Del  u:Undel  s:Save  m:Mail  r:Reply  g:Group  ?:Help               \r\n\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m   1     Jan 01 MattF\u001b[2;33H(0.1K) (119 points) SICP in Clojure\r\n   2     Jan 01 markc           (0.6K) There's also \u003ca href=\"http://ecmendenhall.gith\u001b[4;4H3     Jan 01 ninjakeyboard   (0.1K) “I personally don't think SICP will help you m\u001b[5;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m   4     Jan 01 erikcw          (0.4K) └─\u003eMy guess is that this is being taken out of\u001b[6;4H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m5 N   Jan 01 neoncontrails   (2.0K) I've been feeling the past few weeks the repea\u001b[7;1H   6 N   Jan 01 a-saleh         (0.7K) ├─\u003e\u003e The thought of a little Clojure or Haskel\u001b[8;1H   7 N   Jan 01 copsarebastards (1.5K) ├─\u003eI've been writing Python a lot coming from\r\n   8 N   Jan 01 agentultra      (1.3K) │ ├─\u003ePrecisely!\u003cp\u003eI've been bitten by the data\u001b[10;4H9 N   Jan 01 beatband\u001b[10;33H(0.1K) │ └─\u003ewould love to see an example of your code\u001b[11;1H  10 N   Jan 01 jahnu           (0.3K) ├─\u003eA lot of that feeling, at least for some of\u001b[12;1H  11 N   Jan 01 vladsanchez     (0.2K) │ └─\u003eSounds like a Rules Engine to me. Your de\u001b[13;1H  12 N   Jan 01 babo            (0.1K) ├─\u003eCheck some Python code from Peter Norvig an\u001b[14;3H13 N   Jan 01 yati\u001b[14;33H(0.1K) │ └─\u003eWhile I've learned a lot from Norvig's po\u001b[15;3H14 N   Jan 01 ww2\u001b[15;33H(0.1K) │   └─\u003eThat is just the point, you dont have t\u001b[16;3H15 N   Jan 01 erichmond\u001b[7C(0.6K) │     └─\u003eI agree with you in spirit, but that'\u001b[17;3H16 N   Jan 01 adamc\u001b[17;33H(0.4K) ├─\u003eI dunno. I spent some time learning Clojure\u001b[18;2H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m*-Mutt: SICP_in_Clojure [Msgs:38 New:34 24K]---(threads/date)---------------(42%)---\u001b[5;85H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.693586,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000010,
+      "\u001b[?25l"
+    ],
+    [
+      0.000373,
+      "\r   4     Jan 01 erikcw          (0.4K) └─\u003eMy guess is that this is being taken out of\u001b[6;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m   5 N   Jan 01 neoncontrails   (2.0K) I've been feeling the past few weeks the repea\u001b[6;85H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.294752,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000020,
+      "\u001b[?25l"
+    ],
+    [
+      0.000547,
+      "\r   5 N   Jan 01 neoncontrails   (2.0K) I've been feeling the past few weeks the repea\u001b[7;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m   6 N   Jan 01 a-saleh         (0.7K) ├─\u003e\u003e The thought of a little Clojure or Haskel\u001b[7;85H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.957842,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000016,
+      "\u001b[?25l"
+    ],
+    [
+      0.000493,
+      "\r\u001bM\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m   5 N   Jan 01 neoncontrails   (2.0K) I've been feeling the past few weeks the repea\u001b[7;1H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m   6 N   Jan 01 a-saleh         (0.7K) ├─\u003e\u003e The thought of a little Clojure or Haskel\u001b[6;85H"
+    ],
+    [
+      0.998961,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.007203,
+      "\u001b[?25l"
+    ],
+    [
+      0.000859,
+      "\u001b[H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40mi:Exit  -:PrevPg  \u003cSpace\u003e:NextPg v:View Attachm.  d:Del  r:Reply  j:Next ?:Help\r\n\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40mFrom: neoncontrails  \u001b[2;33H                                   \r\nX-Date: 11 Aug 15 12:36 +0800                                                        \u001b[4;4H                                                                                  \u001b[5;1HI've been feeling the past few weeks the repeated impact of hitting a wall.          \u001b[6;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m+\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40mProgramming was starting to feel like grinding. I felt wistful for SICP, when       \u001b[7;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m+\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40mprogramming was full of big ideas and elegant new approaches to problems my         \u001b[8;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m+\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40munprincipled brain's first instinct was to clobber by brute force -- and learned,  \r\n\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m+\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40mquickly, in Scheme, it's \u003ci\u003ehard\u003c/i\u003e to be artless. It is, I think, harder code     \u001b[10;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m+\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40mgracelessly in Scheme than to code with grace: it has a way of bending your ideas to\u001b[11;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m+\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40ma form. I think that's my main complaint with Python. In Python, exactly the        \u001b[12;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m+\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40mopposite is true: it doesn't force you to think overly hard about the \u003ci\u003eway\u003c/i\u003e you\u001b[13;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m+\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40msolve problems, so you can solve more problems! Woohoo! You can Code Like Coltrane, \u001b[14;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m+\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40mas Rich Hickey says.\u001b[14;33H                                                     \u001b[15;3H                 \u001b[15;33H                                                     \u001b[16;1HFor better or for worse. Here's an unfortunate side effect I've noticed: my programs \u001b[17;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m+\u001b"
+    ],
+    [
+      0.000026,
+      "[m\u000f\u001b[39;49m\u001b[37m\u001b[40mare vastly more complex and efficient than when I graduated from SICP a year ago,   \u001b[18;2H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40mN  - 5/38: neoncontrails          I've been feeling the past few weeks the  -- (46%)\u001b[18;85H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      2.217443,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000194,
+      "\u001b[?25l"
+    ],
+    [
+      0.000011,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000050,
+      "\u001b[?25l"
+    ],
+    [
+      0.002884,
+      "\u001b[H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40mq:Quit  d:Del  u:Undel  s:Save  m:Mail  r:Reply  g:Group  ?:Help               \r\n\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m   1     Jan 01 MattF\u001b[2;33H(0.1K) (119 points) SICP in Clojure\r\n   2     Jan 01 markc           (0.6K) There's also \u003ca href=\"http://ecmendenhall.gith\u001b[4;4H3     Jan 01 ninjakeyboard   (0.1K) “I personally don't think SICP will help you m\u001b[5;1H   4     Jan 01 erikcw          (0.4K) └─\u003eMy guess is that this is being taken out of\u001b[6;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m   5     Jan 01 neoncontrails   (2.0K) I've been feeling the past few weeks the repea\u001b[7;1H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m   6 N   Jan 01 a-saleh         (0.7K) ├─\u003e\u003e The thought of a little Clojure or Haskel\u001b[8;1H   7 N   Jan 01 copsarebastards (1.5K) ├─\u003eI've been writing Python a lot coming from\r\n   8 N   Jan 01 agentultra      (1.3K) │ ├─\u003ePrecisely!\u003cp\u003eI've been bitten by the data\u001b[10;1H   9 N   Jan 01 beatband        (0.1K) │ └─\u003ewould love to see an example of your code\u001b[11;1H  10 N   Jan 01 jahnu           (0.3K) ├─\u003eA lot of that feeling, at least for some of\u001b[12;1H  11 N   Jan 01 vladsanchez     (0.2K) │ └─\u003eSounds like a Rules Engine to me. Your de\u001b[13;1H  12 N   Jan 01 babo            (0.1K) ├─\u003eCheck some Python code from Peter Norvig an\u001b[14;1H  13 N   Jan 01 yati \u001b[14;33H(0.1K) │ └─\u003eWhile I've learned a lot from Norvig's po\u001b[15;3H14 N   Jan 01 ww2\u001b[15;33H(0.1K) │   └─\u003eThat is just the point, you dont have t\u001b[16;1H  15 N   Jan 01 erichmond       (0.6K) │     └─\u003eI agree with you in spirit, but that'\u001b[17;1H  16 N   Jan 01 adamc           (0.4K) ├─\u003eI dunno. I spent some time learning Clojure\u001b[18;2H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m*-Mutt: SICP_in_Clojure [Msgs:38 New:33 24K]---(threads/date)---------------(42%)---\u001b[6;85H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.902438,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000020,
+      "\u001b[?25l"
+    ],
+    [
+      0.000386,
+      "\r   5     Jan 01 neoncontrails   (2.0K) I've been feeling the past few weeks the repea\u001b[7;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m   6 N   Jan 01 a-saleh         (0.7K) ├─\u003e\u003e The thought of a little Clojure or Haskel\u001b[7;85H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.500066,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000020,
+      "\u001b[?25l"
+    ],
+    [
+      0.000411,
+      "\r   6 N   Jan 01 a-saleh         (0.7K) ├─\u003e\u003e The thought of a little Clojure or Haskel\u001b[8;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m   7 N   Jan 01 copsarebastards (1.5K) ├─\u003eI've been writing Python a lot coming from \u001b[8;85H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.030376,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000021,
+      "\u001b[?25l"
+    ],
+    [
+      0.000409,
+      "\r   7 N   Jan 01 copsarebastards (1.5K) ├─\u003eI've been writing Python a lot coming from \u001b[9;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m   8 N   Jan 01 agentultra      (1.3K) │ ├─\u003ePrecisely!\u003cp\u003eI've been bitten by the data\u001b[9;85H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.030621,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000021,
+      "\u001b[?25l"
+    ],
+    [
+      0.000456,
+      "\r   8 N   Jan 01 agentultra      (1.3K) │ ├─\u003ePrecisely!\u003cp\u003eI've been bitten by the data\u001b[10;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m   9 N   Jan 01 beatband        (0.1K) │ └─\u003ewould love to see an example of your code\u001b[10;85H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.030031,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000021,
+      "\u001b[?25l"
+    ],
+    [
+      0.000423,
+      "\r   9 N   Jan 01 beatband        (0.1K) │ └─\u003ewould love to see an example of your code\u001b[11;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m  10 N   Jan 01 jahnu           (0.3K) ├─\u003eA lot of that feeling, at least for some of\u001b[11;85H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.029192,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000024,
+      "\u001b[?25l"
+    ],
+    [
+      0.000402,
+      "\r  10 N   Jan 01 jahnu           (0.3K) ├─\u003eA lot of that feeling, at least for some of\u001b[12;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m  11 N   Jan 01 vladsanchez     (0.2K) │ └─\u003eSounds like a Rules Engine to me. Your de\u001b[12;85H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.029784,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000017,
+      "\u001b[?25l"
+    ],
+    [
+      0.000678,
+      "\r  11 N   Jan 01 vladsanchez     (0.2K) │ └─\u003eSounds like a Rules Engine to me. Your de\u001b[13;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m  12 N   Jan 01 babo            (0.1K) ├─\u003eCheck some Python code from Peter Norvig an\u001b[13;85H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.029360,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000021,
+      "\u001b[?25l"
+    ],
+    [
+      0.000386,
+      "\r  12 N   Jan 01 babo            (0.1K) ├─\u003eCheck some Python code from Peter Norvig an\u001b[14;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m  13 N   Jan 01 yati            (0.1K) │ └─\u003eWhile I've learned a lot from Norvig's po\u001b[14;85H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.030004,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000026,
+      "\u001b[?25l"
+    ],
+    [
+      0.000387,
+      "\r  13 N   Jan 01 yati            (0.1K) │ └─\u003eWhile I've learned a lot from Norvig's po\u001b[15;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m  14 N   Jan 01 ww2             (0.1K) │   └─\u003eThat is just the point, you dont have t\u001b[15;85H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.030599,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000023,
+      "\u001b[?25l"
+    ],
+    [
+      0.000455,
+      "\r  14 N   Jan 01 ww2             (0.1K) │   └─\u003eThat is just the point, you dont have t\u001b[16;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m  15 N   Jan 01 erichmond       (0.6K) │     └─\u003eI agree with you in spirit, but that'\u001b[16;85H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.029914,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000165,
+      "\u001b[?25l"
+    ],
+    [
+      0.000591,
+      "\r  15 N   Jan 01 erichmond       (0.6K) │     └─\u003eI agree with you in spirit, but that'\u001b[17;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m  16 N   Jan 01 adamc           (0.4K) ├─\u003eI dunno. I spent some time learning Clojure\u001b[17;85H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.028944,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000022,
+      "\u001b[?25l"
+    ],
+    [
+      0.002059,
+      "\u001b[H\n\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m  17 N   Jan 01 erichmond       (0.2K) │ ├─\u003eInteresting you have been spending time l\u001b[3;3H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m18 N\u001b[3;17Harkx \u001b[3;36H1K) │ └─\u003eClojureScript is a very good tool without\u001b[4;3H19 N\u001b[4;17H-Deleted-       (  0K) ├─\u003e-Deleted-                                  \u001b[5;3H20 N\u001b[5;17Hdkersten\u001b[5;36H2K) ├─\u003eThis is sort of how I feel after moving fro\u001b[6;3H21 N\u001b[6;17Hkwhitefoot      (0.2K) ├─\u003eYou can write in functional style in pretty\u001b[7;3H22\u001b[7;17Hdavexunit\u001b[7;36H5K) │ └─\u003eBut you \u003ci\u003ealways\u003c/i\u003e have to make some s\u001b[8;3H23\u001b[8;17Htaeric          (0.1K) └─\u003eSwiss clocks feel impressive, no doubt.  Qu\u001b[9;3H24\u001b[9;17Hdagw      \u001b[7C0.1K)   ├─\u003eA lot of Swiss watches (even from the mos\u001b[10;3H25\u001b[10;17Htaeric  \u001b[10;40H  │ └─\u003eI felt it was safe to assume, for the a\u001b[11;3H26\u001b[11;17H59nadir\u001b[11;36H1K)   └─\u003eThis has absolutely no relevance to the a\u001b[12;3H27\u001b[12;17Htaeric     \u001b[12;36H4K)     └─\u003eIf you are expecting working code to b\r\n  28\u001b[13;17Hrjberry\u001b[13;36H2K) Clojure seems too high level for SICP. Scheme \u001b[14;3H29\u001b[14;17Hrachbowyer\u001b[14;36H6K) For those people in London (England) intereste\u001b[15;3H30\u001b[15;17Hsbensu\u001b[15;36H2K) To the author: on the compound data structures\u001b[16;3H31\u001b[16;18Hdem     \u001b[16;36H2K) └─\u003eThis was confusing to me as well since in t\u001b[17;1H  32 N   Jan 01 brudgers        (1.2K)   └─\u003eImplementing \u003ci\u003edefine\u003c/i\u003e in a way that \u001b[18;79H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m84\u001b[2;85H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.029053,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000022,
+      "\u001b[?25l"
+    ],
+    [
+      0.000470,
+      "\r  17 N   Jan 01 erichmond       (0.2K) │ ├─\u003eInteresting you have been spending time l\u001b[3;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m  18 N   Jan 01 arkx            (0.1K) │ └─\u003eClojureScript is a very good tool without\u001b[3;85H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.030604,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000024,
+      "\u001b[?25l"
+    ],
+    [
+      0.000397,
+      "\r  18 N   Jan 01 arkx            (0.1K) │ └─\u003eClojureScript is a very good tool without\u001b[4;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m  19 N   Jan 01 -Deleted-       (  0K) ├─\u003e-Deleted-                                  \u001b[4;85H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.029307,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000021,
+      "\u001b[?25l"
+    ],
+    [
+      0.000378,
+      "\r  19 N   Jan 01 -Deleted-       (  0K) ├─\u003e-Deleted-                                  \u001b[5;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m  20 N   Jan 01 dkersten        (0.2K) ├─\u003eThis is sort of how I feel after moving fro\u001b[5;85H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.030098,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000021,
+      "\u001b[?25l"
+    ],
+    [
+      0.000474,
+      "\r  20 N   Jan 01 dkersten        (0.2K) ├─\u003eThis is sort of how I feel after moving fro\u001b[6;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m  21 N   Jan 01 kwhitefoot      (0.2K) ├─\u003eYou can write in functional style in pretty\u001b[6;85H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.029918,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000021,
+      "\u001b[?25l"
+    ],
+    [
+      0.000436,
+      "\r  21 N   Jan 01 kwhitefoot      (0.2K) ├─\u003eYou can write in functional style in pretty\u001b[7;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m  22 N   Jan 01 davexunit       (0.5K) │ └─\u003eBut you \u003ci\u003ealways\u003c/i\u003e have to make some s\u001b[7;85H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.029739,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000022,
+      "\u001b[?25l"
+    ],
+    [
+      0.000476,
+      "\r  22 N   Jan 01 davexunit       (0.5K) │ └─\u003eBut you \u003ci\u003ealways\u003c/i\u003e have to make some s\u001b[8;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m  23 N   Jan 01 taeric          (0.1K) └─\u003eSwiss clocks feel impressive, no doubt.  Qu\u001b[8;85H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.030392,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000022,
+      "\u001b[?25l"
+    ],
+    [
+      0.000386,
+      "\r  23 N   Jan 01 taeric          (0.1K) └─\u003eSwiss clocks feel impressive, no doubt.  Qu\u001b[9;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m  24 N   Jan 01 dagw            (0.1K)   ├─\u003eA lot of Swiss watches (even from the mos\u001b[9;85H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.030709,
+      "\u001b[34h\u001b[?25h\u001b[?25l"
+    ],
+    [
+      0.000454,
+      "\r  24 N   Jan 01 dagw            (0.1K)   ├─\u003eA lot of Swiss watches (even from the mos\u001b[10;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m  25 N   Jan 01 taeric          (0.1K)   │ └─\u003eI felt it was safe to assume, for the a\u001b[10;85H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.030435,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000023,
+      "\u001b[?25l"
+    ],
+    [
+      0.000478,
+      "\r  25 N   Jan 01 taeric          (0.1K)   │ └─\u003eI felt it was safe to assume, for the a\u001b[11;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m  26 N   Jan 01 59nadir         (0.1K)   └─\u003eThis has absolutely no relevance to the a\u001b[11;85H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.030961,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000021,
+      "\u001b[?25l"
+    ],
+    [
+      0.000422,
+      "\r  26 N   Jan 01 59nadir         (0.1K)   └─\u003eThis has absolutely no relevance to the a\u001b[12;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m  27 N   Jan 01 taeric          (0.4K)     └─\u003eIf you are expecting working code to be\u001b[12;85H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.029820,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000022,
+      "\u001b[?25l"
+    ],
+    [
+      0.000410,
+      "\r  27 N   Jan 01 taeric          (0.4K)     └─\u003eIf you are expecting working code to be\u001b[13;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m  28 N   Jan 01 rjberry         (0.2K) Clojure seems too high level for SICP. Scheme \u001b[13;85H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.029319,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000023,
+      "\u001b[?25l"
+    ],
+    [
+      0.000295,
+      "\r  28 N   Jan 01 rjberry         (0.2K) Clojure seems too high level for SICP. Scheme \u001b[14;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m  29 N   Jan 01 rachbowyer      (0.6K) For those people in London (England) intereste\u001b[14;85H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.029629,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000021,
+      "\u001b[?25l"
+    ],
+    [
+      0.000363,
+      "\r  29 N   Jan 01 rachbowyer      (0.6K) For those people in London (England) intereste\u001b[15;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m  30 N   Jan 01 sbensu          (0.2K) To the author: on the compound data structures\u001b[15;85H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      1.075496,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000021,
+      "\u001b[?25l"
+    ],
+    [
+      0.000499,
+      "\r  30 N   Jan 01 sbensu          (0.2K) To the author: on the compound data structures\u001b[16;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m  31 N   Jan 01 edem            (0.2K) └─\u003eThis was confusing to me as well since in t\u001b[16;85H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.498536,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000015,
+      "\u001b[?25l"
+    ],
+    [
+      0.000335,
+      "\r  31 N   Jan 01 edem            (0.2K) └─\u003eThis was confusing to me as well since in t\u001b[17;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m  32 N   Jan 01 brudgers        (1.2K)   └─\u003eImplementing \u003ci\u003edefine\u003c/i\u003e in a way that \u001b[17;85H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.030762,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000023,
+      "\u001b[?25l"
+    ],
+    [
+      0.001132,
+      "\u001b[H\n\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m  33 N   Jan 01 ericmo          (0.3K) There was another person doing SICP in Clojure\u001b[3;3H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m34\u001b[3;17Hericmo\u001b[3;40H└─\u003eAlso really interesting: \u003ca href=\"http://xu\u001b[4;3H35\u001b[4;17Hbogomipz \u001b[4;34H0.4K) This is awesome! I would love to see this span\u001b[5;3H36\u001b[5;17Hvqc     \u001b[5;40HThis is exciting; I've been looking forward t\r\n  37\u001b[6;17Hprovemewrong\u001b[6;40HThe link to previos charpter in the blog post \u001b[7;3H38\u001b[7;17Hafronski \u001b[7;36H1K) └─\u003eI've changed yesterday the structure and I'\u001b[8;3H                    \u001b[8;33H                                                     \u001b[9;3H                  \u001b[9;33H                                                     \u001b[10;3H                    \u001b[10;33H                                                     \u001b[11;3H                     \u001b[11;33H                                                     \u001b[12;3H                    \u001b[12;33H                                                     \u001b[13;3H                     \u001b[13;33H                                                    \r\n                          \u001b[6C                                                     \u001b[15;3H                    \u001b[15;33H                                                     \u001b[16;3H                  \u001b[16;33H                                                     \u001b[17;1H                                                                                     \u001b[18;79H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40mend\u001b[2;85H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.029033,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000021,
+      "\u001b[?25l"
+    ],
+    [
+      0.000378,
+      "\r  33 N   Jan 01 ericmo          (0.3K) There was another person doing SICP in Clojure\u001b[3;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m  34 N   Jan 01 ericmo          (0.1K) └─\u003eAlso really interesting: \u003ca href=\"http://xu\u001b[3;85H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.029898,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000018,
+      "\u001b[?25l"
+    ],
+    [
+      0.000331,
+      "\r  34 N   Jan 01 ericmo          (0.1K) └─\u003eAlso really interesting: \u003ca href=\"http://xu\u001b[4;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m  35 N   Jan 01 bogomipz        (0.4K) This is awesome! I would love to see this span\u001b[4;85H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.030967,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000017,
+      "\u001b[?25l"
+    ],
+    [
+      0.000339,
+      "\r  35 N   Jan 01 bogomipz        (0.4K) This is awesome! I would love to see this span\u001b[5;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m  36 N   Jan 01 vqc             (0.2K) This is exciting; I've been looking forward to\u001b[5;85H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.030338,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000023,
+      "\u001b[?25l"
+    ],
+    [
+      0.000401,
+      "\r  36 N   Jan 01 vqc             (0.2K) This is exciting; I've been looking forward to\u001b[6;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m  37 N   Jan 01 provemewrong    (0.2K) The link to previos charpter in the blog post \u001b[6;85H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.030299,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000022,
+      "\u001b[?25l"
+    ],
+    [
+      0.000394,
+      "\r  37 N   Jan 01 provemewrong    (0.2K) The link to previos charpter in the blog post \u001b[7;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m  38 N   Jan 01 afronski        (0.1K) └─\u003eI've changed yesterday the structure and I'\u001b[7;85H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.029932,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000040,
+      "\u0007"
+    ],
+    [
+      0.000084,
+      "\r\u001b[12BYou are on the last message."
+    ],
+    [
+      0.000058,
+      "\u001b[?25l"
+    ],
+    [
+      0.000032,
+      "\u001b[7;85H"
+    ],
+    [
+      0.030499,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000023,
+      "\u0007"
+    ],
+    [
+      0.000060,
+      "\u001b[19;29H"
+    ],
+    [
+      0.000024,
+      "\u001b[?25l"
+    ],
+    [
+      0.000049,
+      "\u001b[7;85H"
+    ],
+    [
+      0.030024,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000021,
+      "\u0007"
+    ],
+    [
+      0.000059,
+      "\u001b[19;29H"
+    ],
+    [
+      0.000030,
+      "\u001b[?25l"
+    ],
+    [
+      0.000049,
+      "\u001b[7;85H"
+    ],
+    [
+      0.031526,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000023,
+      "\u0007"
+    ],
+    [
+      0.000071,
+      "\u001b[19;29H"
+    ],
+    [
+      0.000016,
+      "\u001b[?25l"
+    ],
+    [
+      0.000067,
+      "\u001b[7;85H"
+    ],
+    [
+      0.030498,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000027,
+      "\u0007"
+    ],
+    [
+      0.000016,
+      "\u001b[19;29H"
+    ],
+    [
+      0.000051,
+      "\u001b[?25l"
+    ],
+    [
+      0.000056,
+      "\u001b[7;85H"
+    ],
+    [
+      0.029753,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000034,
+      "\u0007"
+    ],
+    [
+      0.000038,
+      "\u001b[19;29H"
+    ],
+    [
+      0.000056,
+      "\u001b[?25l"
+    ],
+    [
+      0.000034,
+      "\u001b[7;85H"
+    ],
+    [
+      0.029668,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000022,
+      "\u0007"
+    ],
+    [
+      0.000057,
+      "\u001b[19;29H"
+    ],
+    [
+      0.000054,
+      "\u001b[?25l"
+    ],
+    [
+      0.000036,
+      "\u001b[7;85H"
+    ],
+    [
+      0.030179,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000023,
+      "\u0007"
+    ],
+    [
+      0.000070,
+      "\u001b[19;29H"
+    ],
+    [
+      0.000017,
+      "\u001b[?25l"
+    ],
+    [
+      0.000065,
+      "\u001b[7;85H"
+    ],
+    [
+      0.030424,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000081,
+      "\u0007"
+    ],
+    [
+      0.000041,
+      "\u001b[19;29H"
+    ],
+    [
+      0.000013,
+      "\u001b[?25l"
+    ],
+    [
+      0.000048,
+      "\u001b[7;85H"
+    ],
+    [
+      0.907143,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.006335,
+      "\u001b[?25l"
+    ],
+    [
+      0.000569,
+      "\u001b[H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40mi:Exit  -:PrevPg  \u003cSpace\u003e:NextPg v:View Attachm.  d:Del  r:Reply  j:Next ?:Help\r\n\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40mFrom: afronski        \u001b[2;33H                                                     \u001b[3;1HX-Date: 11 Aug 15 15:25 +0800                                                        \u001b[4;3H                      \u001b[4;33H                                                     \u001b[5;1HI've changed yesterday the structure and I've messed up previous links - it should be\u001b[6;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m+\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40mfine now. ;)                                                                       \r\n                                                                                     \u001b[18;2H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40mN  - 38/38: afronski               I've changed yesterday the structure and -- (all)\u001b[19;1H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m                            \u001bM\u001b[56C"
+    ],
+    [
+      2.163939,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000029,
+      "\u001b[?25l\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000013,
+      "\u001b[?25l"
+    ],
+    [
+      0.001784,
+      "\u001b[H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40mq:Quit  d:Del  u:Undel  s:Save  m:Mail  r:Reply  g:Group  ?:Help               \r\n\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m  33 N   Jan 01 ericmo\u001b[2;33H(0.3K) There was another person doing SICP in Clojure\u001b[3;1H  34 N   Jan 01 ericmo          (0.1K) └─\u003eAlso really interesting: \u003ca href=\"http://xu\u001b[4;3H35 N   Jan 01 bogomipz\u001b[4;33H(0.4K) This is awesome! I would love to see this span\u001b[5;1H  36 N   Jan 01 vqc             (0.2K) This is exciting; I've been looking forward to\u001b[6;1H  37 N   Jan 01 provemewrong    (0.2K) The link to previos charpter in the blog post\r\n\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m  38     Jan 01 afronski        (0.1K) └─\u003eI've changed yesterday the structure and I'\u001b[18;2H*-Mutt: SICP_in_Clojure [Msgs:38 New:32 24K]---(threads/date)---------------(end)---\u001b[7;85H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.858978,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000019,
+      "\u001b[?25l"
+    ],
+    [
+      0.000542,
+      "\r\u001bM\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m  37 N   Jan 01 provemewrong    (0.2K) The link to previos charpter in the blog post \u001b[7;1H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m  38     Jan 01 afronski        (0.1K) └─\u003eI've changed yesterday the structure and I'\u001b[6;85H"
+    ],
+    [
+      0.253608,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.007446,
+      "\u001b[?25l"
+    ],
+    [
+      0.000701,
+      "\u001b[H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40mi:Exit  -:PrevPg  \u003cSpace\u003e:NextPg v:View Attachm.  d:Del  r:Reply  j:Next ?:Help\r\n\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40mFrom: provemewrong    \u001b[2;33H                                                     \u001b[3;1HX-Date: 11 Aug 15 13:37 +0800                                                        \u001b[4;3H                      \u001b[4;33H                                                     \u001b[5;1HThe link to previos charpter in the blog post 404's (but I could navigate to it      \u001b[6;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m+\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40mthrough the sidebar). Anyway, I'm looking forward to reading them when I get home   \u001b[7;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m+\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40mand hope to see the following charpters as well.                                    \u001b[18;2H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40mN  - 37/38: provemewrong           The link to previos charpter in the blog -- (all)\u001b[18;85H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      1.888938,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000137,
+      "\u001b[?25l\u001b[34h\u001b[?25h\u001b[?25l"
+    ],
+    [
+      0.001373,
+      "\u001b[H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40mq:Quit  d:Del  u:Undel  s:Save  m:Mail  r:Reply  g:Group  ?:Help               \r\n\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m  33 N   Jan 01 ericmo\u001b[2;33H(0.3K) There was another person doing SICP in Clojure\u001b[3;1H  34 N   Jan 01 ericmo          (0.1K) └─\u003eAlso really interesting: \u003ca href=\"http://xu\u001b[4;3H35 N   Jan 01 bogomipz\u001b[4;33H(0.4K) This is awesome! I would love to see this span\u001b[5;1H  36 N   Jan 01 vqc             (0.2K) This is exciting; I've been looking forward to\u001b[6;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m  37     Jan 01 provemewrong    (0.2K) The link to previos charpter in the blog post \u001b[7;1H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m  38     Jan 01 afronski        (0.1K) └─\u003eI've changed yesterday the structure and I'\u001b[18;2H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m*-Mutt: SICP_in_Clojure [Msgs:38 New:31 24K]---(threads/date)---------------(end)---\u001b[6;85H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      1.518992,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000015,
+      "\u001b[?25l"
+    ],
+    [
+      0.000542,
+      "\r\u001bM\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m  36 N   Jan 01 vqc             (0.2K) This is exciting; I've been looking forward to\u001b[6;1H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m  37     Jan 01 provemewrong    (0.2K) The link to previos charpter in the blog post \u001b[5;85H"
+    ],
+    [
+      0.990315,
+      "\u001b[34h\u001b[?25h\u001b[?25l"
+    ],
+    [
+      0.000508,
+      "\r\u001bM\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m  35 N   Jan 01 bogomipz        (0.4K) This is awesome! I would love to see this span\u001b[5;1H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m  36 N   Jan 01 vqc             (0.2K) This is exciting; I've been looking forward to\u001b[4;85H"
+    ],
+    [
+      0.499600,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000018,
+      "\u001b[?25l"
+    ],
+    [
+      0.000491,
+      "\r\u001bM\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m  34 N   Jan 01 ericmo          (0.1K) └─\u003eAlso really interesting: \u003ca href=\"http://xu\u001b[4;1H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m  35 N   Jan 01 bogomipz        (0.4K) This is awesome! I would love to see this span\u001b[3;85H"
+    ],
+    [
+      0.029240,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000016,
+      "\u001b[?25l"
+    ],
+    [
+      0.000485,
+      "\r\u001bM\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m  33 N   Jan 01 ericmo          (0.3K) There was another person doing SICP in Clojure\u001b[3;1H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m  34 N   Jan 01 ericmo          (0.1K) └─\u003eAlso really interesting: \u003ca href=\"http://xu\u001b[2;85H"
+    ],
+    [
+      0.029354,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000015,
+      "\u001b[?25l"
+    ],
+    [
+      0.002314,
+      "\r  17 N   Jan 01 erichmond       (0.2K) │ ├─\u003eInteresting you have been spending time l\u001b[3;3H18\u001b[3;17Harkx  \u001b[3;40H│ └─\u003eClojureScript is a very good tool without\u001b[4;3H19\u001b[4;17H-Deleted-\u001b[4;34H  0K) ├─\u003e-Deleted-                                  \u001b[5;3H20\u001b[5;17Hdkersten\u001b[5;40H├─\u003eThis is sort of how I feel after moving fr\r\n  21 N\u001b[6;17Hkwhitefoot  \u001b[6;40H├─\u003eYou can write in functional style in pretty\u001b[7;3H22 N\u001b[7;17Hdavexunit\u001b[7;36H5K) │ └─\u003eBut you \u003ci\u003ealways\u003c/i\u003e have to make some s\u001b[8;3H23 N   Jan 01 taeric\u001b[8;33H(0.1K) └─\u003eSwiss clocks feel impressive, no doubt.  Qu\u001b[9;3H24 N   Jan 01 dagw\u001b[9;33H(0.1K)   ├─\u003eA lot of Swiss watches (even from the mos\u001b[10;3H25 N   Jan 01 taeric\u001b[10;33H(0.1K)   │ └─\u003eI felt it was safe to assume, for the a\u001b[11;3H26 N   Jan 01 59nadir\u001b[11;33H(0.1K)   └─\u003eThis has absolutely no relevance to the a\u001b[12;3H27 N   Jan 01 taeric\u001b[12;33H(0.4K)     └─\u003eIf you are expecting working code to be\u001b[13;3H28 N   Jan 01 rjberry\u001b[13;33H(0.2K) Clojure seems too high level for SICP. Scheme\r\n  29 N   Jan 01 rachbowyer\u001b[6C(0.6K) For those people in London (England) intereste\u001b[15;3H30 N   Jan 01 sbensu\u001b[15;33H(0.2K) To the author: on the compound data structures\u001b[16;3H31 N   Jan 01 edem\u001b[16;33H(0.2K) └─\u003eThis was confusing to me as well since in t\u001b[17;1H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m  32 N   Jan 01 brudgers        (1.2K)   └─\u003eImplementing \u003ci\u003edefine\u003c/i\u003e in a way that \u001b[18;79H84%\u001bMhat\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.028134,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000012,
+      "\u001b[?25l"
+    ],
+    [
+      0.000391,
+      "\r\u001bM\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m  31 N   Jan 01 edem            (0.2K) └─\u003eThis was confusing to me as well since in t\u001b[17;1H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m  32 N   Jan 01 brudgers        (1.2K)   └─\u003eImplementing \u003ci\u003edefine\u003c/i\u003e in a way that \u001b[16;85H"
+    ],
+    [
+      0.030522,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000022,
+      "\u001b[?25l"
+    ],
+    [
+      0.000579,
+      "\r\u001bM\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m  30 N   Jan 01 sbensu          (0.2K) To the author: on the compound data structures\u001b[16;1H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m  31 N   Jan 01 edem            (0.2K) └─\u003eThis was confusing to me as well since in t\u001b[15;85H"
+    ],
+    [
+      0.030002,
+      "\u001b[34h\u001b[?25h\u001b[?25l"
+    ],
+    [
+      0.000500,
+      "\r\u001bM\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40m  29 N   Jan 01 rachbowyer      (0.6K) For those people in London (England) intereste\u001b[15;1H\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m  30 N   Jan 01 sbensu          (0.2K) To the author: on the compound data structures\u001b[14;85H"
+    ],
+    [
+      3.962980,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.036559,
+      "\r\u001b[5BSort (d)ate/(f)rm/(r)ecv/(s)ubj/t(o)/(t)hread/(u)nsort/si(z)e/s(c)ore/s(p)am?: "
+    ],
+    [
+      1.052495,
+      "\r                                                                              \r"
+    ],
+    [
+      0.000025,
+      "Sorting mailbox..."
+    ],
+    [
+      0.000045,
+      "\u001b[?25l"
+    ],
+    [
+      0.002058,
+      "\u001b[2;40HInteresting you have been spending time lookin\u001b[3;40HClojureScript is a very good tool without any \u001b[4;40H-Deleted-   \u001b[5;40HThis is sort of how I feel after moving from \u001b[6;40HYou can write in functional style in pretty mu\u001b[7;40HBut you \u003ci\u003ealways\u003c/i\u003e have to make some seriou\u001b[8;40HSwiss clocks feel impressive, no doubt.  Quart\u001b[9;40HA lot of Swiss watches (even from the most hig\u001b[10;40HI felt it was safe to assume, for the analogy,\u001b[11;40HThis has absolutely no relevance to the analog\u001b[12;40HIf you are expecting working code to be as el\u001b[16;40HThis was confusing to me as well since in the \u001b[17;40HImplementing \u003ci\u003edefine\u003c/i\u003e in a way that allow\u001b[18;50H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40mdate/date)---\r\n\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m                  \u001b[14;85H"
+    ],
+    [
+      1.069664,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000068,
+      "\r\u001b[5BSort (d)ate/(f)rm/(r)ecv/(s)ubj/t(o)/(t)hread/(u)nsort/si(z)e/s(c)ore/s(p)am?: "
+    ],
+    [
+      0.708429,
+      "\r                                                                              \r"
+    ],
+    [
+      0.000020,
+      "Sorting mailbox..."
+    ],
+    [
+      0.000064,
+      "\u001b[?25l"
+    ],
+    [
+      0.002181,
+      "\u001b[2;40H│ ├─\u003eInteresting you have been spending time l\u001b[3;40H│ └─\u003eClojureScript is a very good tool without\u001b[4;40H├─\u003e-Deleted-\u001b[5;40H├─\u003eThis is sort of how I feel after moving fr\u001b[6;40H├─\u003eYou can write in functional style in pretty\u001b[7;40H│ └─\u003eBut you \u003ci\u003ealways\u003c/i\u003e have to make some s\u001b[8;40H└─\u003eSwiss clocks feel impressive, no doubt.  Qu\u001b[9;40H  ├─\u003eA lot of Swiss watches (even from the mos\u001b[10;40H  │ └─\u003eI felt it was safe to assume, for the a\u001b[11;40H  └─\u003eThis has absolutely no relevance to the a\u001b[12;40H    └─\u003eIf you are expecting working code to b\u001b[16;40H└─\u003eThis was confusing to me as well since in t\u001b[17;40H  └─\u003eImplementing \u003ci\u003edefine\u003c/i\u003e in a way that \u001b[18;50H\u001b[0;7m\u000f\u001b[39;49m\u001b[37m\u001b[40mthreads/date)\r\n\u001b[m\u000f\u001b[39;49m\u001b[37m\u001b[40m                  \u001b[14;85H"
+    ],
+    [
+      1.377109,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000144,
+      "\r\u001b[5BWriting SICP_in_Clojure..."
+    ],
+    [
+      0.000176,
+      " 0/38 (0%)"
+    ],
+    [
+      0.000631,
+      "\u001b[19;28H10/38 (26%)"
+    ],
+    [
+      0.000409,
+      "\u001b[19;28H2\u001b[6C52%)"
+    ],
+    [
+      0.000658,
+      "\u001b[19;28H3\u001b[6C78%)"
+    ],
+    [
+      0.000478,
+      "\r38 kept, 0 deleted.                   \u001b[19;20H\u001b[39;49m\r\u001b[K\u001b[19;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.002054,
+      "38 kept, 0 deleted.\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                    \r \r"
+    ],
+    [
+      0.078238,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;243m~/hn\u001b[32m\u001b[39m\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[31m\u001b[38;5;243m$\u001b[0m \u001b[K\u001b[82C\u001b[33m\u001b[39m\u001b[82D"
+    ],
+    [
+      0.000068,
+      "\u001b[?2004h"
+    ],
+    [
+      4.331456,
+      "f"
+    ],
+    [
+      0.118221,
+      "\u0008fe"
+    ],
+    [
+      0.123727,
+      "t"
+    ],
+    [
+      0.195585,
+      "c"
+    ],
+    [
+      0.260995,
+      "p"
+    ],
+    [
+      0.065293,
+      "o"
+    ],
+    [
+      0.123268,
+      "s"
+    ],
+    [
+      0.169590,
+      "t"
+    ],
+    [
+      0.603298,
+      " "
+    ],
+    [
+      1.120287,
+      "\u0008"
+    ],
+    [
+      0.194556,
+      "\u0008 \u0008"
+    ],
+    [
+      0.171859,
+      "\u0008 \u0008"
+    ],
+    [
+      0.163365,
+      "\u0008 \u0008"
+    ],
+    [
+      0.105635,
+      "\u0008 \u0008"
+    ],
+    [
+      0.586057,
+      "h"
+    ],
+    [
+      0.484769,
+      "p"
+    ],
+    [
+      0.067510,
+      "o"
+    ],
+    [
+      0.150173,
+      "s"
+    ],
+    [
+      0.096429,
+      "t"
+    ],
+    [
+      0.109406,
+      " "
+    ],
+    [
+      0.288612,
+      "S"
+    ],
+    [
+      0.175212,
+      "I"
+    ],
+    [
+      0.299493,
+      "CP_in_Clojure\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.755520,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000114,
+      "\u001b[?2004l"
+    ],
+    [
+      0.000110,
+      "\r"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      1.282566,
+      "*\r\n"
+    ],
+    [
+      0.262329,
+      " "
+    ],
+    [
+      0.000022,
+      "*\r\n"
+    ],
+    [
+      0.263486,
+      " "
+    ],
+    [
+      0.000022,
+      "*\r\n"
+    ],
+    [
+      0.263997,
+      " "
+    ],
+    [
+      0.000022,
+      " *\r\n"
+    ],
+    [
+      0.261440,
+      " "
+    ],
+    [
+      0.000016,
+      "*\r\n"
+    ],
+    [
+      0.262581,
+      " "
+    ],
+    [
+      0.000024,
+      " *\r\n"
+    ],
+    [
+      0.259846,
+      " "
+    ],
+    [
+      0.000017,
+      " *\r\n"
+    ],
+    [
+      0.265758,
+      " "
+    ],
+    [
+      0.000020,
+      "  *\r\n"
+    ],
+    [
+      0.263250,
+      " "
+    ],
+    [
+      0.000020,
+      "  *\r\n"
+    ],
+    [
+      0.262501,
+      " "
+    ],
+    [
+      0.000019,
+      " *\r\n"
+    ],
+    [
+      0.261030,
+      " "
+    ],
+    [
+      0.000026,
+      "  *\r\n"
+    ],
+    [
+      0.263621,
+      " "
+    ],
+    [
+      0.000017,
+      " *\r\n"
+    ],
+    [
+      0.259704,
+      "  "
+    ],
+    [
+      0.000023,
+      " *\r\n"
+    ],
+    [
+      0.262475,
+      " "
+    ],
+    [
+      0.000019,
+      "   *\r\n"
+    ],
+    [
+      0.262801,
+      " "
+    ],
+    [
+      0.000023,
+      "    *\r\n"
+    ],
+    [
+      0.263176,
+      " "
+    ],
+    [
+      0.000024,
+      " *\r\n"
+    ],
+    [
+      0.265053,
+      " "
+    ],
+    [
+      0.000024,
+      "  *\r\n"
+    ],
+    [
+      0.262361,
+      " "
+    ],
+    [
+      0.000021,
+      "  *\r\n"
+    ],
+    [
+      0.261439,
+      "  *\r\n"
+    ],
+    [
+      0.262135,
+      " "
+    ],
+    [
+      0.000024,
+      " *\r\n"
+    ],
+    [
+      0.259753,
+      " "
+    ],
+    [
+      0.000024,
+      " *\r\n"
+    ],
+    [
+      0.262516,
+      " "
+    ],
+    [
+      0.000022,
+      "  *\r\n"
+    ],
+    [
+      0.262912,
+      "  *\r\n"
+    ],
+    [
+      0.287512,
+      "   "
+    ],
+    [
+      0.000012,
+      "*\r\n"
+    ],
+    [
+      0.261743,
+      "    "
+    ],
+    [
+      0.000021,
+      "*\r\n"
+    ],
+    [
+      0.262589,
+      " "
+    ],
+    [
+      0.000027,
+      "  *\r\n"
+    ],
+    [
+      0.263966,
+      "    "
+    ],
+    [
+      0.000022,
+      "*\r\n"
+    ],
+    [
+      0.263857,
+      " *\r\n"
+    ],
+    [
+      0.259761,
+      " *\r\n"
+    ],
+    [
+      0.262906,
+      " *\r\n"
+    ],
+    [
+      0.262291,
+      "  *\r\n"
+    ],
+    [
+      0.262676,
+      "  "
+    ],
+    [
+      0.000024,
+      " *\r\n"
+    ],
+    [
+      0.259446,
+      " *"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.263607,
+      "  "
+    ],
+    [
+      0.000023,
+      "*\r\n"
+    ],
+    [
+      0.261421,
+      " *\r\n"
+    ],
+    [
+      0.263466,
+      " "
+    ],
+    [
+      0.000021,
+      "*\r\n"
+    ],
+    [
+      0.259742,
+      " "
+    ],
+    [
+      0.000021,
+      "*\r\n"
+    ],
+    [
+      0.259740,
+      " "
+    ],
+    [
+      0.000025,
+      " *\r\nSICP_in_Clojure"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.003260,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                    \r \r"
+    ],
+    [
+      0.082483,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;243m~/hn\u001b[32m\u001b[39m\r\n\u001b[31m\u001b[38;5;243m$\u001b[0m "
+    ],
+    [
+      0.000013,
+      "\u001b[K\u001b[82C\u001b[33m\u001b[39m\u001b[82D"
+    ],
+    [
+      0.000065,
+      "\u001b[?2004h"
+    ],
+    [
+      3.958382,
+      "fetchpost SICP_in_Clojure"
+    ],
+    [
+      0.851425,
+      "\u001b[25D                         \u001b[25D"
+    ],
+    [
+      0.596978,
+      "\r\r\n"
+    ]
+  ]
+}
