@@ -1,0 +1,198 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 25,
+  "duration": 8.062668,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.010476,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000020,
+      "bash-3.2$ "
+    ],
+    [
+      2.114733,
+      "b"
+    ],
+    [
+      0.063590,
+      "i"
+    ],
+    [
+      0.095838,
+      "t"
+    ],
+    [
+      0.192397,
+      "r"
+    ],
+    [
+      0.087269,
+      "i"
+    ],
+    [
+      0.112386,
+      "s"
+    ],
+    [
+      0.064113,
+      "e"
+    ],
+    [
+      0.055976,
+      " "
+    ],
+    [
+      0.479685,
+      "s"
+    ],
+    [
+      0.080342,
+      "e"
+    ],
+    [
+      0.152057,
+      "t"
+    ],
+    [
+      0.151568,
+      "u"
+    ],
+    [
+      0.208209,
+      "p"
+    ],
+    [
+      0.111849,
+      " "
+    ],
+    [
+      0.264347,
+      "-"
+    ],
+    [
+      0.496025,
+      "-"
+    ],
+    [
+      0.319615,
+      "m"
+    ],
+    [
+      0.128349,
+      "i"
+    ],
+    [
+      0.136094,
+      "n"
+    ],
+    [
+      0.103922,
+      "i"
+    ],
+    [
+      0.167967,
+      "m"
+    ],
+    [
+      0.136052,
+      "a"
+    ],
+    [
+      0.127571,
+      "l"
+    ],
+    [
+      0.200425,
+      "\r\n"
+    ],
+    [
+      0.065277,
+      "\r\n  ██████╗ ██╗████████╗██████╗ ██╗███████╗███████╗\r\n  ██╔══██╗██║╚══██╔══╝██╔══██╗██║██╔════╝██╔════╝\r\n  ██████╔╝██║   ██║   ██████╔╝██║███████╗█████╗\r\n  ██╔══██╗██║   ██║   ██╔══██╗██║╚════██║██╔══╝\r\n  ██████╔╝██║   ██║   ██║  ██║██║███████║███████╗\r\n  ╚═════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝\r\n\r\n\u001b[32;1mVersion: 0.9.11\u001b[0m\r\n\r\n"
+    ],
+    [
+      0.000130,
+      "\u001b[34mINFO\u001b[0m[11:11:43] [BITRISE_CLI] - Setup                        \r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[34mINFO\u001b[0m[11:11:43] Detected OS: darwin                          \r\n\u001b[34mINFO\u001b[0m[11:11:43] Doing OS X specific setup                    \r\n"
+    ],
+    [
+      0.000019,
+      "\u001b[34mINFO\u001b[0m[11:11:43] Checking required tools...                   \r\n"
+    ],
+    [
+      0.208458,
+      "\u001b[34mINFO\u001b[0m[11:11:43]  * \u001b[32;1m[OK]\u001b[0m Homebrew : /usr/local/bin/brew \r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[34mINFO\u001b[0m[11:11:43]         version : 0.9.5                      \r\n"
+    ],
+    [
+      0.202297,
+      "\u001b[34mINFO\u001b[0m[11:11:43]  * \u001b[32;1m[OK]\u001b[0m xcodebuild path : /usr/bin/xcodebuild \r\n"
+    ],
+    [
+      0.000022,
+      "\u001b[34mINFO\u001b[0m[11:11:43]         version (xcodebuild) : Xcode 6.4 | Build version 6E35b \r\n\u001b[34mINFO\u001b[0m[11:11:43]         active Xcode (Command Line Tools) path (xcode-select --print-path) : /Applications/Xcode.app/Contents/Developer \r\n"
+    ],
+    [
+      0.065222,
+      "\u001b[34mINFO\u001b[0m[11:11:43]  * \u001b[32;1m[OK]\u001b[0m envman : /Users/viktorbenei/develop/go/bin/envman \r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[34mINFO\u001b[0m[11:11:43]         version : 0.9.6                      \r\n"
+    ],
+    [
+      0.067182,
+      "\u001b[34mINFO\u001b[0m[11:11:43]  * \u001b[32;1m[OK]\u001b[0m stepman : /Users/viktorbenei/develop/go/bin/stepman \r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[34mINFO\u001b[0m[11:11:43]         version : 0.9.10                     \r\n\u001b[34mINFO\u001b[0m[11:11:43] All the required tools are installed!        \r\n"
+    ],
+    [
+      0.000173,
+      "\u001b[34mINFO\u001b[0m[11:11:43] We're ready to rock!!                        \r\n\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[34mINFO\u001b[0m[11:11:43] To start using bitrise:                      \r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[34mINFO\u001b[0m[11:11:43] * cd into your project's directory (if you're not there already) \r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[34mINFO\u001b[0m[11:11:43] * call: bitrise init                         \r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[34mINFO\u001b[0m[11:11:43] * follow the guide                           \r\n\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[34mINFO\u001b[0m[11:11:43] That's all :)                                \r\n"
+    ],
+    [
+      0.000717,
+      "bash-3.2$ "
+    ],
+    [
+      1.390601,
+      "exit\r\n"
+    ]
+  ]
+}
