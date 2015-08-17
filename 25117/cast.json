@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "width": 86,
+  "height": 26,
+  "duration": 15.685198,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.009858,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000009,
+      "bash-3.2$ "
+    ],
+    [
+      1.418824,
+      "b"
+    ],
+    [
+      0.070510,
+      "i"
+    ],
+    [
+      0.090525,
+      "t"
+    ],
+    [
+      0.151132,
+      "r"
+    ],
+    [
+      0.078258,
+      "i"
+    ],
+    [
+      0.121657,
+      "s"
+    ],
+    [
+      0.070657,
+      "e"
+    ],
+    [
+      0.087479,
+      " "
+    ],
+    [
+      1.090759,
+      "s"
+    ],
+    [
+      0.101977,
+      "e"
+    ],
+    [
+      0.103258,
+      "t"
+    ],
+    [
+      0.072316,
+      "u"
+    ],
+    [
+      0.090003,
+      "p"
+    ],
+    [
+      0.269725,
+      "\r\n"
+    ],
+    [
+      0.007712,
+      "\r\n  ██████╗ ██╗████████╗██████╗ ██╗███████╗███████╗\r\n  ██╔══██╗██║╚══██╔══╝██╔══██╗██║██╔════╝██╔════╝\r\n  ██████╔╝██║   ██║   ██████╔╝██║███████╗█████╗\r\n  ██╔══██╗██║   ██║   ██╔══██╗██║╚════██║██╔══╝\r\n  ██████╔╝██║   ██║   ██║  ██║██║███████║███████╗\r\n  ╚═════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝\r\n"
+    ],
+    [
+      0.000017,
+      "\r\n\u001b[32;1mVersion: 0.9.11\u001b[0m\r\n\r\n"
+    ],
+    [
+      0.000409,
+      "\u001b[34mINFO\u001b[0m[10:30:16] [BITRISE_CLI] - Setup                        \r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[34mINFO\u001b[0m[10:30:16] Detected OS: darwin                          \r\n\u001b[34mINFO\u001b[0m[10:30:16] Doing OS X specific setup                    \r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[34mINFO\u001b[0m[10:30:16] Checking required tools...                   \r\n"
+    ],
+    [
+      9.437496,
+      "\u001b[34mINFO\u001b[0m[10:30:25]  * \u001b[32;1m[OK]\u001b[0m Homebrew : /usr/local/bin/brew \r\n\u001b[34mINFO\u001b[0m[10:30:25]         version : 0.9.5                      \r\n"
+    ],
+    [
+      0.073289,
+      "\u001b[34mINFO\u001b[0m[10:30:26]  * \u001b[32;1m[OK]\u001b[0m xcodebuild path : /usr/bin/xcodebuild \r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[34mINFO\u001b[0m[10:30:26]         version (xcodebuild) : Xcode 6.4 | Build version 6E35b \r\n\u001b[34mINFO\u001b[0m[10:30:26]         active Xcode (Command Line Tools) path (xcode-select --print-path) : /Applications/Xcode.app/Contents/Developer \r\n"
+    ],
+    [
+      0.009300,
+      "\u001b[34mINFO\u001b[0m[10:30:26]  * \u001b[32;1m[OK]\u001b[0m envman : /Users/viktorbenei/develop/go/bin/envman \r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[34mINFO\u001b[0m[10:30:26]         version : 0.9.6                      \r\n"
+    ],
+    [
+      0.080150,
+      "\u001b[34mINFO\u001b[0m[10:30:26]  * \u001b[32;1m[OK]\u001b[0m stepman : /Users/viktorbenei/develop/go/bin/stepman \r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[34mINFO\u001b[0m[10:30:26]         version : 0.9.10                     \r\n\u001b[34mINFO\u001b[0m[10:30:26] All the required tools are installed!        \r\n"
+    ],
+    [
+      0.000461,
+      "\u001b[34mINFO\u001b[0m[10:30:26] We're ready to rock!!                        \r\n\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[34mINFO\u001b[0m[10:30:26] To start using bitrise:                      \r\n\u001b[34mINFO\u001b[0m[10:30:26] * cd into your project's directory (if you're not there already) \r\n"
+    ],
+    [
+      0.000044,
+      "\u001b[34mINFO\u001b[0m[10:30:26] * call: bitrise init                         \r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[34mINFO\u001b[0m[10:30:26] * follow the guide                           \r\n\r\n"
+    ],
+    [
+      0.000036,
+      "\u001b[34mINFO\u001b[0m[10:30:26] That's all :)                                \r\n"
+    ],
+    [
+      0.000738,
+      "bash-3.2$ "
+    ],
+    [
+      2.246891,
+      "exit\r\n"
+    ]
+  ]
+}
