@@ -1,0 +1,306 @@
+{
+  "version": 1,
+  "width": 101,
+  "height": 33,
+  "duration": 15.534395,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.326581,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                    \r \r"
+    ],
+    [
+      0.015202,
+      "\u001b]2;bert@bertwaag: ~/code/histograph/data/foisdjfodsa\u0007"
+    ],
+    [
+      0.000013,
+      "\u001b]1;..a/foisdjfodsa\u0007"
+    ],
+    [
+      0.021084,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mfoisdjfodsa \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000009,
+      "\u001b[K"
+    ],
+    [
+      0.000160,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.941245,
+      "l"
+    ],
+    [
+      0.095319,
+      "\u0008ls"
+    ],
+    [
+      0.226538,
+      " "
+    ],
+    [
+      0.133007,
+      "-"
+    ],
+    [
+      0.193025,
+      "l"
+    ],
+    [
+      0.238836,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000155,
+      "\r\r\n"
+    ],
+    [
+      0.001725,
+      "\u001b]2;ls -G -l\u0007"
+    ],
+    [
+      0.000014,
+      "\u001b]1;ls\u0007"
+    ],
+    [
+      0.007643,
+      "total 32\r\n"
+    ],
+    [
+      0.000229,
+      "-rw-r--r--@ 1 bert  staff   195 Aug 18 12:42 foisdjfodsa.dataset.json\r\n"
+    ],
+    [
+      0.000014,
+      "-rw-r--r--@ 1 bert  staff  4752 Aug 18 12:41 foisdjfodsa.pits.ndjson\r\n-rw-r--r--@ 1 bert  staff   388 Aug 18 12:41 foisdjfodsa.relations.ndjson\r\n"
+    ],
+    [
+      0.000704,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                    \r \r"
+    ],
+    [
+      0.017625,
+      "\u001b]2;bert@bertwaag: ~/code/histograph/data/foisdjfodsa\u0007"
+    ],
+    [
+      0.000010,
+      "\u001b]1;..a/foisdjfodsa\u0007"
+    ],
+    [
+      0.021074,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mfoisdjfodsa \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000021,
+      "\u001b[K"
+    ],
+    [
+      0.000107,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.904636,
+      "\r\r\nbck-i-search: _\u001b[K\u001b[A\u001b[15C"
+    ],
+    [
+      0.305174,
+      "http -a histograph POST https://api.histograph.io/datasets \u003c /Users/bert/code/histogra\u001b[4mp\u001b[24mh/data/foisdjfodsa/foisdjfodsa.dataset.json\r\r\nbck-i-search: p_\u001b[K\u001b[A\u0008"
+    ],
+    [
+      0.195946,
+      "\u001b[A\u001b[15Ccat foisdjfodsa.dataset.json | python -mjson.tool | \u001b[4mp\u001b[4my\u001b[24mgmentize -l js\u001b[K\u001b[1B\rbck-i-search: p\u001b[24my_                                          \u001b[1B\r\u001b[K\u001b[A\u001b[A\u001b[82C"
+    ],
+    [
+      0.177067,
+      "\u001b[21D\u001b[4mp\u001b[4my\u001b[4mt\u001b[24m\u001b[18C\u001b[24mp\u001b[24my\u001b[1B\u001b[68Dt_\u001b[A\u001b[43C"
+    ],
+    [
+      0.127267,
+      "\u001b[2C\u001b[4mt\u001b[4mh\u001b[24m\u001b[1B\u001b[48Dh_\u001b[A\u001b[42C"
+    ],
+    [
+      0.161819,
+      "\u001b[3C\u001b[4mh\u001b[4mo\u001b[24m\u001b[1B\u001b[48Do_\u001b[A\u001b[41C"
+    ],
+    [
+      0.118782,
+      "\u001b[4C\u001b[4mo\u001b[4mn\u001b[24m\u001b[1B\u001b[48Dn_\u001b[A\u001b[40C"
+    ],
+    [
+      0.535348,
+      "\u001b[24mp\u001b[24my\u001b[24mt\u001b[24mh\u001b[24mo\u001b[24mn\u001b[1B\r\u001b[K\u001b[A\u001b[61C"
+    ],
+    [
+      0.000051,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000068,
+      "\u001b[1B\r"
+    ],
+    [
+      0.001050,
+      "\u001b]2;cat foisdjfodsa.dataset.json | python -mjson.tool | pygmentize -l js\u0007"
+    ],
+    [
+      0.000009,
+      "\u001b]1;cat\u0007"
+    ],
+    [
+      0.268275,
+      "{\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000122,
+      "    \u001b[39;49;00m\u001b[33m\"author\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[33m\"Menno den Engelse\"\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000280,
+      "    \u001b[39;49;00m\u001b[33m\"creationDate\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[33m\"2015-01-01\"\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000241,
+      "    \u001b[39;49;00m\u001b[33m\"description\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[33m\"Voorbeeld data\"\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000238,
+      "    \u001b[39;49;00m\u001b[33m\"editor\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[33m\"\"\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000215,
+      "    \u001b[39;49;00m\u001b[33m\"edits\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[33m\"\"\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000216,
+      "    \u001b[39;49;00m\u001b[33m\"id\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[33m\"foisdjfodsa\"\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000185,
+      "    \u001b[39;49;00m\u001b[33m\"license\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[33m\"CC0\"\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000188,
+      "    \u001b[39;49;00m\u001b[33m\"title\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[33m\"Mennos Speciale Gevallen\"\u001b[39;49;00m,\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000181,
+      "    \u001b[39;49;00m\u001b[33m\"website\"\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[33m\"\"\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.000042,
+      "}\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.008754,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                    \r \r"
+    ],
+    [
+      0.012261,
+      "\u001b]2;bert@bertwaag: ~/code/histograph/data/foisdjfodsa\u0007\u001b]1;..a/foisdjfodsa\u0007"
+    ],
+    [
+      0.023803,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mfoisdjfodsa \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000009,
+      "\u001b[K"
+    ],
+    [
+      0.000035,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.584932,
+      "\r\r\nbck-i-search: _\u001b[K\u001b[A\u001b[15C"
+    ],
+    [
+      0.226728,
+      "cat foisdjfodsa.dataset.json | pyt\u001b[4mh\u001b[24mon -mjson.tool | pygmentize -l js\u001b[1B\u001b[84Dh_\u001b[A\u001b[48C"
+    ],
+    [
+      0.105865,
+      "\u001b[34Dhttp -a histograph POST \u001b[4mh\u001b[4mt\u001b[24mtps://ap\u001b[24mi.histograph.io/datasets \u003c /Users/bert/code/histograph/data/foisdjfodsa/foisdjfodsa.dataset.json\r\r\nbck-i-search: ht_\u001b[K\u001b[A\u001b[A\u001b[37C"
+    ],
+    [
+      0.111132,
+      "\u001b[1C\u001b[4mt\u001b[4mt\u001b[24m\u001b[2B\u001b[41Dt_\u001b[A\u001b[A\u001b[36C"
+    ],
+    [
+      0.120883,
+      "\u001b[2C\u001b[4mt\u001b[4mp\u001b[24m\u001b[2B\u001b[41Dp_\u001b[A\u001b[A\u001b[35C"
+    ],
+    [
+      0.431251,
+      "\u001b[24mh\u001b[24mt\u001b[24mt\u001b[24mp\u001b[2B\r\u001b[K\u001b[A\u001b[A\u001b[54C"
+    ],
+    [
+      0.000091,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000170,
+      "\u001b[2B\r"
+    ],
+    [
+      0.001769,
+      "\u001b]2;http -a histograph POST https://api.histograph.io/datasets \u003c \u0007"
+    ],
+    [
+      0.000016,
+      "\u001b]1;http\u0007"
+    ],
+    [
+      0.340192,
+      "http: password for histograph@api.histograph.io: "
+    ],
+    [
+      3.056799,
+      "\r\n"
+    ],
+    [
+      0.109740,
+      "\u001b[38;5;33mHTTP\u001b[39m\u001b[38;5;245m/\u001b[39m\u001b[38;5;37m1.1\u001b[39m\u001b[38;5;245m \u001b[39m\u001b[38;5;37m409\u001b[39m\u001b[38;5;245m \u001b[39m\u001b[38;5;136mConflict\u001b[39m\r\n\u001b[38;5;245mAccess-Control-Allow-Origin\u001b[39m\u001b[38;5;245m:\u001b[39m\u001b[38;5;245m \u001b[39m\u001b[38;5;37m*\u001b[39m\r\n\u001b[38;5;245mConnection\u001b[39m\u001b[38;5;245m:\u001b[39m\u001b[38;5;245m \u001b[39m\u001b[38;5;37mkeep-alive\u001b[39m\r\n\u001b[38;5;245mContent-Length\u001b[39m\u001b[38;5;245m:\u001b[39m\u001b[38;5;245m \u001b[39m\u001b[38;5;37m50\u001b[39m\r\n\u001b[38;5;245mContent-Type\u001b[39m\u001b[38;5;245m:\u001b[39m\u001b[38;5;245m \u001b[39m\u001b[38;5;37mapplication/json; charset=utf-8\u001b[39m\r\n\u001b[38;5;245mDate\u001b[39m\u001b[38;5;245m:\u001b[39m\u001b[38;5;245m \u001b[39m\u001b[38;5;37mTue, 18 Aug 2015 12:36:15 GMT\u001b[39m\r\n\u001b[38;5;245mETag\u001b[39m\u001b[38;5;245m:\u001b[39m\u001b[38;5;245m \u001b[39m\u001b[38;5;37mW/\"32-M7+vsRfXqjWWUOVKPbRVbA\"\u001b[39m\r\n\u001b[38;5;245mServer\u001b[39m\u001b[38;5;245m:\u001b[39m\u001b[38;5;245m \u001b[39m\u001b[38;5;37mnginx/1.2.1\u001b[39m\r\n\u001b[38;5;245mX-Powered-By\u001b[39m\u001b[38;5;245m:\u001b[39m\u001b[38;5;245m \u001b[39m\u001b[38;5;37mExpress\u001b[39m\r\r\n\r\r\n"
+    ],
+    [
+      0.003375,
+      "\u001b[38;5;245m{\u001b[39m\r\n\u001b[38;5;245m    \u001b[39m\u001b[38;5;33m\"message\"\u001b[39m\u001b[38;5;245m:\u001b[39m\u001b[38;5;245m \u001b[39m\u001b[38;5;37m\"Dataset 'foisdjfodsa' already exists\"\u001b[39m\r\n\u001b[38;5;245m}\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.015267,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                    \r \r"
+    ],
+    [
+      0.013313,
+      "\u001b]2;bert@bertwaag: ~/code/histograph/data/foisdjfodsa\u0007"
+    ],
+    [
+      0.000010,
+      "\u001b]1;..a/foisdjfodsa\u0007"
+    ],
+    [
+      0.028523,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mfoisdjfodsa \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000009,
+      "\u001b[K"
+    ],
+    [
+      0.000075,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.254704,
+      "\r\r\n"
+    ]
+  ]
+}
