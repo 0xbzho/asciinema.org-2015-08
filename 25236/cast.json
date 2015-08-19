@@ -1,0 +1,390 @@
+{
+  "version": 1,
+  "width": 159,
+  "height": 39,
+  "duration": 29.017490,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.410630,
+      "\u001b]0;kiwibird@kiwiarch:/tmp/foo\u0007"
+    ],
+    [
+      0.000009,
+      "\u001b]0;kiwibird@kiwiarch:/tmp/foo\u0007"
+    ],
+    [
+      0.000300,
+      "$ "
+    ],
+    [
+      0.493706,
+      "e"
+    ],
+    [
+      0.119113,
+      "m"
+    ],
+    [
+      0.055776,
+      "a"
+    ],
+    [
+      0.120867,
+      "c"
+    ],
+    [
+      0.071565,
+      "s"
+    ],
+    [
+      0.168000,
+      " "
+    ],
+    [
+      0.143553,
+      "b"
+    ],
+    [
+      0.095879,
+      "l"
+    ],
+    [
+      0.168144,
+      "ah.cg3 "
+    ],
+    [
+      0.315268,
+      "\r\n"
+    ],
+    [
+      0.009681,
+      "\u001b[?1049h\u001b[?12;25h\u001b[?1h\u001b="
+    ],
+    [
+      0.006106,
+      "\u001b[H\u001b[2J\u001b[39d\u001b[K"
+    ],
+    [
+      0.000016,
+      "\u001b[?1l\u001b\u003e\u001b[?12l\u001b[?25h\u001b[?1049l\u001b[39;49m\r\u001b[?1049h\u001b[?12;25h\u001b[?1h\u001b="
+    ],
+    [
+      0.095920,
+      "\u001b[\u003e0c"
+    ],
+    [
+      0.000031,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.202780,
+      "\u001b[39d\u001b[?25l\u001b[37m\u001b[40m                                                                                                                                                              \u001b[39;49m\r\u001b[H\u001b[37m\u001b[40m                                                                                                                                                               \u001b[39;49m\r\n\u001b[A"
+    ],
+    [
+      0.000119,
+      "\n\u001b[37m\u001b[40m                                                                                                                                                               \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                                                                                               \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                                                                                               \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                                                                                               \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                                                                                               \u001b[39;49m\r\n\u001b[A"
+    ],
+    [
+      0.000161,
+      "\n\u001b[37m\u001b[40m                                                                                                                                                               \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                                                                                               \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                                                                                               \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                                                                                               \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                                                                                               \u001b[39;49m\r\n\u001b[A"
+    ],
+    [
+      0.000140,
+      "\n\u001b[37m\u001b[40m                                                                                                                                                               \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                                                                                               \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                                                                                               \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                                                                                               \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                                                                                               \u001b[39;49m\r\n\u001b[A"
+    ],
+    [
+      0.000063,
+      "\n\u001b[37m\u001b[40m                                                                                                                                                               \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                                                                                               \u001b[39;49m\r\n\u001b[A"
+    ],
+    [
+      0.000176,
+      "\n\u001b[37m\u001b[40m                                                                                                                                                               \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                                                                                               \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                                                                                               \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                                                                                               \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                                                                                               \u001b[39;49m\r\n\u001b[A"
+    ],
+    [
+      0.000131,
+      "\n\u001b[37m\u001b[40m                                                                                                                                                               \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                                                                                               \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                                                                                               \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                                                                                               \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                                                                                               \u001b[39;49m\r\n\u001b[A"
+    ],
+    [
+      0.000155,
+      "\n\u001b[37m\u001b[40m                                                                                                                                                               \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                                                                                               \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                                                                                               \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                                                                                               \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                                                                                               \u001b[39;49m\r\n\u001b[A"
+    ],
+    [
+      0.000054,
+      "\n\u001b[37m\u001b[40m                                                                                                                                                               \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                                                                                               \u001b[39;49m\r\n\u001b[A"
+    ],
+    [
+      0.000196,
+      "\n\u001b[37m\u001b[40m                                                                                                                                                               \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                                                                                               \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m1\u001b[39;49m\u001b[1m\u001b[33m\u001b[40m  1\u001b[0m\u001b[39;49m\u001b[36m\u001b[40m: 0 UUU\u001b[39;49m\u001b[37m\u001b[40m--\u001b[39;49m\u001b[36m\u001b[40m-\u001b[39;49m\u001b[37m\u001b[40m*BBDB*  0/0/897          \u001b[39;49m\u001b[33m\u001b[40m                    All\u001b[39;49m\u001b[37m\u001b[40m \u003cE\u003e  \u001b[39;49m\u001b[33m\u001b[40mBBDB\u001b[39;49m\u001b[37m\u001b[40m                                                         \u001b[39;49m\u001b[33m\u001b[40m12:59 19.aug. 0.17\u001b[39;49m\u001b[37m\u001b[40m [#N,#a,#h] \u001b[39;49m\r\n\u001b[A\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.576584,
+      "\u001b[39d\u001b[?25l\u001b[37m\u001b[40mWhen done with a buffer, type C-x #                                                                                                                           \u001b[39;49m\r\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.191944,
+      "\u001b[39d\u001b[?25l\u001b[37m\u001b[40mWhen done with a buffer, type C-x #                                                                                                                           \u001b[39;49m\r\u001b[H\u001b[37m\u001b[40m                                                                                                                                                               \u001b[39;49m\r\n\u001b[A"
+    ],
+    [
+      0.000040,
+      "\n\u001b[32m\u001b[40m#\u001b[39;49m\u001b[33m\u001b[40m:6034                                                                                                                                                         \u001b[39;49m\r\n\u001b[A\n\u001b[32m\u001b[40m#\u001b[39;49m\u001b[33m\u001b[40mREMOVE:6034 (vblex pp) IF                                                                                                                                     \u001b[39;49m\r\n\u001b[A\n\u001b[32m\u001b[40m#       \u001b[39;49m\u001b[33m\u001b[40m(0 farlege-part)                                                                                                                                       \u001b[39;49m\r\n\u001b[A\n\u001b[32m\u001b[40m#       \u001b[39;49m\u001b[33m\u001b[40m(NOT 0 %hendt%)                                                                                                                                        \u001b[39;49m\r\n\u001b[A\n\u001b[32m\u001b[40m#       \u001b[39;49m\u001b[33m\u001b[40m(NOT 0 %fare%)                                                                                                                                         \u001b[39;49m\r\n\u001b[A"
+    ],
+    [
+      0.000049,
+      "\n\u001b[32m\u001b[40m#\u001b[39;49m\u001b[33m\u001b[40m;                                                                                                                                                             \u001b[39;49m\r\n\u001b[A\n\u001b[32m\u001b[40m#\u001b[39;49m\u001b[33m\u001b[40mKoster for mye                                                                                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                                                                                               \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                                                                                               \u001b[39;49m\r\n\u001b[A\n\u001b[32m\u001b[40m#\u001b[39;49m\u001b[33m\u001b[40m:6035                                                                                                                                                         \u001b[39;49m\r\n\u001b[A"
+    ],
+    [
+      0.000032,
+      "\n\u001b[1m\u001b[33m\u001b[40mREMOVE\u001b[0m\u001b[39;49m\u001b[33m\u001b[40m:6035\u001b[39;49m\u001b[37m\u001b[40m (vblex pres) \u001b[39;49m\u001b[36m\u001b[40mIF\u001b[39;49m\u001b[37m\u001b[40m                                                                                                                                    \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m        (0 farlege-verb)                                                                                                                                       \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m        (\u001b[39;49m\u001b[36m\u001b[40mNOT\u001b[39;49m\u001b[37m\u001b[40m 0 pret)                                                                                                                                           \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m        (\u001b[39;49m\u001b[36m\u001b[40mNOT\u001b[39;49m\u001b[37m\u001b[40m 0 imp)                                                                                                                                            \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m;                                                                                                                                                              \u001b[39;49m\r\n\u001b[A"
+    ],
+    [
+      0.000039,
+      "\n\u001b[37m\u001b[40m                                                                                                                                                               \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                                                                                               \u001b[39;49m\r\n\u001b[A"
+    ],
+    [
+      0.000058,
+      "\n\u001b[1m\u001b[33m\u001b[40mREMOVE\u001b[0m\u001b[39;49m\u001b[33m\u001b[40m:excetera\u001b[39;49m\u001b[37m\u001b[40m (vblex pret) \u001b[39;49m\u001b[36m\u001b[40mIF\u001b[39;49m\u001b[37m\u001b[40m                                                                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m        (0 perf-part/\u003cperf-part\u003e)                                                                                                                              \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m        (-1 kop/st-form/st-verb)                                                                                                                               \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m        (\u001b[39;49m\u001b[36m\u001b[40mNOT\u001b[39;49m\u001b[37m\u001b[40m 1 pron/subst)                                                                                                                                     \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m        (\u001b[39;49m\u001b[36m\u001b[40mNEGATE\u001b[39;49m\u001b[37m\u001b[40m 1 adv \u001b[39;49m\u001b[36m\u001b[40mLINK\u001b[39;49m\u001b[37m\u001b[40m 1 pron/subst \u001b[39;49m\u001b[36m\u001b[40mLINK\u001b[39;49m\u001b[37m\u001b[40m \u001b[39;49m\u001b[36m\u001b[40mNOT\u001b[39;49m\u001b[37m\u001b[40m 0 infmerke)                                                                                                   \u001b[39;49m\r\n\u001b[A"
+    ],
+    [
+      0.000080,
+      "\n\u001b[37m\u001b[40m;                                                                                                                                                              \u001b[39;49m\r\n\u001b[A\n\u001b[32m\u001b[40m# \u001b[39;49m\u001b[33m\u001b[40m«vere/synest/blei løyste frå otte og naud»                                                                                                                   \u001b[39;49m\r\n\u001b[A\n\u001b[32m\u001b[40m# \u001b[39;49m\u001b[33m\u001b[40m«blir tvinga til\u003cadv/prep\u003e å\u003cinfmerke/subst\u003e finne»                                                                                                          \u001b[39;49m\r\n\u001b[A\n\u001b[32m\u001b[40m# \u001b[39;49m\u001b[33m\u001b[40mIkkje: «Langt uti have eller kor det var lynte det»                                                                                                          \u001b[39;49m\r\n\u001b[A\n\u001b[32m\u001b[40m# \u001b[39;49m\u001b[33m\u001b[40m-KBU                                                                                                                                                         \u001b[39;49m\r\n\u001b[A"
+    ],
+    [
+      0.000031,
+      "\n\u001b[37m\u001b[40m                                                                                                                                                               \u001b[39;49m\r\n\u001b[A\n\u001b[1m\u001b[33m\u001b[40mREMOVE\u001b[0m\u001b[39;49m\u001b[33m\u001b[40m:stuff\u001b[39;49m\u001b[37m\u001b[40m (vblex pret) \u001b[39;49m\u001b[36m\u001b[40mIF\u001b[39;49m\u001b[37m\u001b[40m                                                                                                                                   \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m        (0 farlege-verb)                                                                                                                                       \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m        (\u001b[39;49m\u001b[36m\u001b[40mNOT\u001b[39;49m\u001b[37m\u001b[40m 0 pres)                                                                                                                                           \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m        (\u001b[39;49m\u001b[36m\u001b[40mNOT\u001b[39;49m\u001b[37m\u001b[40m 0 imp)                                                                                                                                            \u001b[39;49m\r\n\u001b[A"
+    ],
+    [
+      0.000022,
+      "\n\u001b[37m\u001b[40m;                                                                                                                                                              \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                                                                                               \u001b[39;49m\r\n\u001b[A"
+    ],
+    [
+      0.000090,
+      "\n\u001b[32m\u001b[40m#\u001b[39;49m\u001b[33m\u001b[40mblah                                                                                                                                                          \u001b[39;49m\r\n\u001b[A\n\u001b[1m\u001b[33m\u001b[40mREMOVE\u001b[0m\u001b[39;49m\u001b[33m\u001b[40m:rulename\u001b[39;49m\u001b[37m\u001b[40m (vblex pret) \u001b[39;49m\u001b[36m\u001b[40mIF\u001b[39;49m\u001b[37m\u001b[40m                                                                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m1\u001b[39;49m\u001b[1m\u001b[33m\u001b[40m 25\u001b[0m\u001b[39;49m\u001b[36m\u001b[40m: 0 UUU\u001b[39;49m\u001b[1m\u001b[31m\u001b[40m×\u001b[0m\u001b[39;49m\u001b[36m\u001b[40m-/tmp/foo/\u001b[39;49m\u001b[1m\u001b[33m\u001b[40mblah.cg3\u001b[0m\u001b[39;49m\u001b[37m\u001b[40m \u001b[39;49m\u001b[33m\u001b[40m                           Top\u001b[39;49m\u001b[37m\u001b[40m \u003cN\u003e  \u001b[39;49m\u001b[33m\u001b[40mCG\u001b[39;49m\u001b[36m\u001b[40m AC () Server\u001b[39;49m\u001b[37m\u001b[40m                                               \u001b[39;49m\u001b[33m\u001b[40m12:59 19.aug. 0.17\u001b[39;49m\u001b[37m\u001b[40m [#N,#a,#h] \u001b[39;49m\r\n\u001b[A\u001b[25d\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.697084,
+      "\u001b[39d\u001b[?25l\u001b[37m\u001b[40m                                   \u001b[39;49m\u001b[25;1H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.105945,
+      "\u001b[39d\u001b[?25l\u001b[33m\u001b[40mDescribe function: \u001b[39;49m"
+    ],
+    [
+      0.000018,
+      "\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.227326,
+      "\u001b[?25l\u001b[37m\u001b[40mcg-comment-or-uncomment-rule\u001b[39;49m\u001b[39;20H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.419817,
+      "\r"
+    ],
+    [
+      0.020842,
+      "\u001b[?25l\u001b[37m\u001b[40m                                               \u001b[39;49m\u001b[25;1H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.007244,
+      "\u001b[H\u001b[?25l\u001b[37m\u001b[40m                                                                               \u001b[39;49m\u001b[37m\u001b[40m|\u001b[39;49m\u001b[37m\u001b[40mcg-comment-or-uncomment-rule is an interactive Lisp function in\u001b[39;49m"
+    ],
+    [
+      0.000059,
+      "\u001b[2;80H\u001b[37m\u001b[40m|\u001b[39;49m\u001b[37m\u001b[40m`\u001b[39;49m\u001b[4m\u001b[37m\u001b[40mcg.el\u001b[0m\u001b[39;49m\u001b[37m\u001b[40m'.                                                                       \u001b[39;49m\r\n\u001b[3;80H\u001b[37m\u001b[40m|\u001b[39;49m\u001b[37m\u001b[40m                                                                               \u001b[39;49m\r\n\u001b[4;80H\u001b[37m\u001b[40m|\u001b[39;49m\u001b[37m\u001b[40mIt is bound to C-;, M-#.                                                       \u001b[39;49m\r\n\u001b[5;80H\u001b[37m\u001b[40m|\u001b[39;49m\u001b[37m\u001b[40m                                                                               \u001b[39;49m\r\n\u001b[6;80H\u001b[37m\u001b[40m|\u001b[39;49m\u001b[37m\u001b[40m(cg-comment-or-uncomment-rule \u0026optional \u001b[39;49m\u001b[4m\u001b[37m\u001b[40mN\u001b[0m\u001b[39;49m\u001b[37m\u001b[40m)                                     \u001b[39;49m\r\n\u001b[7;80H\u001b[37m\u001b[40m|\u001b[39;49m\u001b[37m\u001b[40m                                                                               \u001b[39;49m\r\n\u001b[8;80H\u001b[37m\u001b[40m|\u001b[39;49m\u001b[37m\u001b[40mComment the rule at point; if already inside (or before) a                     \u001b[39;49m\r\n"
+    ],
+    [
+      0.000484,
+      "\u001b[37m\u001b[40m                                                                               \u001b[39;49m\u001b[37m\u001b[40m|\u001b[39;49m\u001b[37m\u001b[40mcomment, uncomment instead. With a prefix argument \u001b[39;49m\u001b[4m\u001b[37m\u001b[40mN\u001b[0m\u001b[39;49m\u001b[37m\u001b[40m, (un)comment\u001b[39;49m\r\n\u001b[37m\u001b[40m                                                                               \u001b[39;49m\u001b[37m\u001b[40m|\u001b[39;49m\u001b[37m\u001b[40mthat many rules.\u001b[39;49m\u001b[11;80H\u001b[37m\u001b[40m|\u001b[39;49m\u001b[37m\u001b[40m                                                                               \u001b[39;49m\r\n\u001b[12;80H\u001b[37m\u001b[40m|\u001b[39;49m\u001b[4m\u001b[37m\u001b[40m[back]\u001b[0m\u001b[39;49m\r\n\u001b[37m\u001b[40m        (0 farlege-verb)                                                       \u001b[39;49m\u001b[37m\u001b[40m|\u001b[39;49m\u001b[37m\u001b[40m                                                                               \u001b[39;49m\r\n\u001b[37m\u001b[40m        (\u001b[39;49m\u001b[36m\u001b[40mNOT\u001b[39;49m\u001b[37m\u001b[40m 0 pret)                                                           \u001b[39;49m\u001b[37m\u001b[40m|\u001b[39;49m\u001b[37m\u001b[40m                                                                               \u001b[39;49m\r\n\u001b[37m\u001b[40m        (\u001b[39;49m\u001b[36m\u001b[40mNOT\u001b[39;49m\u001b[37m\u001b[40m 0 imp)                                                            \u001b[39;49m\u001b[37m\u001b[40m|\u001b[39;49m\u001b[37m\u001b[40m                                                                               \u001b[39;49m\r\n\u001b[16;80H\u001b[37m\u001b[40m|\u001b[39;49m\u001b[37m\u001b[40m                                                                               \u001b[39;49m\r\n\u001b[37m\u001b[40m                                                                               \u001b[39;49m\u001b[37m\u001b[40m|\u001b[39;49m\u001b[37m\u001b[40m                                                                               \u001b[39;49m\r\n\u001b[37m\u001b[40m                                                                               \u001b[39;49m\u001b[37m\u001b[40m|\u001b[39;49m\u001b[37m\u001b[40m                                                                               \u001b[39;49m\r\n\u001b[19;80H\u001b[37m\u001b[40m|\u001b[39;49m\u001b[37m\u001b[40m                                                                               \u001b[39;49m\r\n\u001b[37m\u001b[40m        (0 perf-part/\u003cperf-part\u003e)                                              \u001b[39;49m\u001b[37m\u001b[40m|\u001b[39;49m\u001b[37m\u001b[40m                                                                               \u001b[39;49m\r\n\u001b[37m\u001b[40m        (-1 kop/st-form/st-verb)                                               \u001b[39;49m\u001b[37m\u001b[40m|\u001b[39;49m\u001b[37m\u001b[40m                                                                               \u001b[39;49m\r\n\u001b[37m\u001b[40m        (\u001b[39;49m\u001b[36m\u001b[40mNOT\u001b[39;49m\u001b[37m\u001b[40m 1 pron/subst)                                                     \u001b[39;49m\u001b[37m\u001b[40m|\u001b[39;49m\u001b[37m\u001b[40m                                                                               \u001b[39;49m\r\n\u001b[37m\u001b[40m        (\u001b[39;49m\u001b[36m\u001b[40mNEGATE\u001b[39;49m\u001b[37m\u001b[40m 1 adv \u001b[39;49m\u001b[36m\u001b[40mLINK\u001b[39;49m\u001b[37m\u001b[40m 1 pron/subst \u001b[39;49m\u001b[36m\u001b[40mLINK\u001b[39;49m\u001b[37m\u001b[40m \u001b[39;49m\u001b[36m\u001b[40mNOT\u001b[39;49m\u001b[37m\u001b[40m 0 infmerke)                   \u001b[39;49m\u001b[37m\u001b[40m|\u001b[39;49m\u001b[37m\u001b[40m                                                                               \u001b[39;49m\r\n\u001b[24;80H\u001b[37m\u001b[40m|\u001b[39;49m\u001b[37m\u001b[40m                                                                               \u001b[39;49m\r\n\u001b[25;80H\u001b[37m\u001b[40m|\u001b[39;49m\u001b[37m\u001b[40m                                                                               \u001b[39;49m\r\n\u001b[26;80H\u001b[37m\u001b[40m|\u001b[39;49m\u001b[37m\u001b[40m                                                                               \u001b[39;49m\r\n\u001b[27;80H\u001b[37m\u001b[40m|\u001b[39;49m\u001b[37m\u001b[40m                                                                               \u001b[39;49m\r\n\u001b[28;80H\u001b[37m\u001b[40m|\u001b[39;49m\u001b[37m\u001b[40m                                                                               \u001b[39;49m\r\n\u001b[37m\u001b[40m                                                                               \u001b[39;49m\u001b[37m\u001b[40m|\u001b[39;49m\u001b[37m\u001b[40m                                                                               \u001b[39;49m\r\n\u001b[30;80H\u001b[37m\u001b[40m|\u001b[39;49m\u001b[37m\u001b[40m                                                                               \u001b[39;49m\r\n\u001b[37m\u001b[40m        (0 farlege-verb)                                                       \u001b[39;49m\u001b[37m\u001b"
+    ],
+    [
+      0.000047,
+      "[40m|\u001b[39;49m\u001b[37m\u001b[40m                                                                               \u001b[39;49m\r\n\u001b[37m\u001b[40m        (\u001b[39;49m\u001b[36m\u001b[40mNOT\u001b[39;49m\u001b[37m\u001b[40m 0 pres)                                                           \u001b[39;49m\u001b[37m\u001b[40m|\u001b[39;49m\u001b[37m\u001b[40m                                                                               \u001b[39;49m\r\n\u001b[37m\u001b[40m        (\u001b[39;49m\u001b[36m\u001b[40mNOT\u001b[39;49m\u001b[37m\u001b[40m 0 imp)                                                            \u001b[39;49m\u001b[37m\u001b[40m|\u001b[39;49m\u001b[37m\u001b[40m                                                                               \u001b[39;49m\r\n\u001b[34;80H\u001b[37m\u001b[40m|\u001b[39;49m\u001b[37m\u001b[40m                                                                               \u001b[39;49m\r\n\u001b[37m\u001b[40m                                                                               \u001b[39;49m\u001b[37m\u001b[40m|\u001b[39;49m\u001b[37m\u001b[40m                                                                               \u001b[39;49m\r\n\u001b[36;80H\u001b[37m\u001b[40m|\u001b[39;49m\u001b[37m\u001b[40m                                                                               \u001b[39;49m\r\n\u001b[37;80H\u001b[37m\u001b[40m|\u001b[39;49m\u001b[37m\u001b[40m                                                                               \u001b[39;49m\r\n\u001b[38;77H\u001b[36m\u001b[40m+\u001b[39;49m\u001b[37m\u001b[40m \u001b[39;49m\u001b[33m\u001b[40m1\u001b[39;49m\u001b[37m\u001b[40m|\u001b[39;49m\u001b[32m\u001b[40m2\u001b[39;49m\u001b[1m\u001b[33m\u001b[40m  1\u001b[0m\u001b[39;49m\u001b[36m\u001b[40m: 0 UUU\u001b[39;49m\u001b[36m\u001b[40mR\u001b[39;49m\u001b[36m\u001b[40m-\u001b[39;49m\u001b[1m\u001b[33m\u001b[40m*Help*\u001b[0m\u001b[39;49m\u001b[32m\u001b[40m \u001b[39;49m\u001b[33m\u001b[40m                                      All\u001b[39;49m\u001b[32m\u001b[40m \u003cE\u003e  \u001b[39;49m\u001b[33m\u001b[40mHelp\u001b[39;49m\u001b[32m\u001b[40m \u001b[39;49m\u001b[33m\u001b[40m12:59 1\u001b[39;49m\r\n\u001b[25d\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      3.393473,
+      "\u001b[38;4H\u001b[?25l\u001b[1m\u001b[33m\u001b[40m4\u001b[0m\u001b[39;49m\u001b[24;1H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.158556,
+      "\u001b[38;4H\u001b[?25l\u001b[1m\u001b[33m\u001b[40m3\u001b[0m\u001b[39;49m\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.146647,
+      "\u001b[38;4H\u001b[?25l\u001b[1m\u001b[33m\u001b[40m2\u001b[0m\u001b[39;49m\u001b[22;1H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      1.042095,
+      "\u001b[19d\u001b[?25l\u001b[32m\u001b[40m# \u001b[39;49m\u001b[33m\u001b[40mREMOVE:excetera (vblex pret) IF                                              \u001b[39;49m\r\n\u001b[32m\u001b[40m#       \u001b[39;49m\u001b[33m\u001b[40m(0 perf-part/\u003cperf-part\u003e)                                              \u001b[39;49m\r\n\u001b[32m\u001b[40m#       \u001b[39;49m\u001b[33m\u001b[40m(-1 kop/st-form/st-verb)                                               \u001b[39;49m\r\n\u001b[32m\u001b[40m#       \u001b[39;49m\u001b[33m\u001b[40m(NOT 1 pron/subst)                                                     \u001b[39;49m\r\n\u001b[32m\u001b[40m#       \u001b[39;49m\u001b[33m\u001b[40m(NEGATE 1 adv LINK 1 pron/subst LINK NOT 0 infmerke)                   \u001b[39;49m\r\n\u001b[32m\u001b[40m# \u001b[39;49m\u001b[33m\u001b[40m;                                                                            \u001b[39;49m\u001b[22;1H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.570979,
+      "\u001b[19d\u001b[?25l\u001b[1m\u001b[33m\u001b[40mREMOVE\u001b[0m\u001b[39;49m\u001b[33m\u001b[40m:excetera\u001b[39;49m\u001b[37m\u001b[40m (vblex pret) \u001b[39;49m\u001b[36m\u001b[40mIF\u001b[39;49m\u001b[37m\u001b[40m                                                \u001b[39;49m\r\n\u001b[37m\u001b[40m        (0 perf-part/\u003cperf-part\u003e)                                              \u001b[39;49m\r\n\u001b[37m\u001b[40m        (-1 kop/st-form/st-verb)                                               \u001b[39;49m\r\n\u001b[37m\u001b[40m        (\u001b[39;49m\u001b[36m\u001b[40mNOT\u001b[39;49m\u001b[37m\u001b[40m 1 pron/subst)                                                     \u001b[39;49m\r\n\u001b[37m\u001b[40m        (\u001b[39;49m\u001b[36m\u001b[40mNEGATE\u001b[39;49m\u001b[37m\u001b[40m 1 adv \u001b[39;49m\u001b[36m\u001b[40mLINK\u001b[39;49m\u001b[37m\u001b[40m 1 pron/subst \u001b[39;49m\u001b[36m\u001b[40mLINK\u001b[39;49m\u001b[37m\u001b[40m \u001b[39;49m\u001b[36m\u001b[40mNOT\u001b[39;49m\u001b[37m\u001b[40m 0 infmerke)                   \u001b[39;49m\r\n\u001b[37m\u001b[40m;                                                                              \u001b[39;49m\u001b[22;1H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      1.915821,
+      "\u001b[39d\u001b[?25l\u001b[37m\u001b[40mMark set\u001b[39;49m\u001b[22;1H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.006011,
+      "\u001b[38;3H\u001b[?25l\u001b[1m\u001b[33m\u001b[40m19\u001b[0m\u001b[39;49m\u001b[19;1H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.356847,
+      "\u001b[39d\u001b[?25l\u001b[37m\u001b[40m        \u001b[39;49m\u001b[38;4H\u001b[1m\u001b[33m\u001b[40m2\u001b[0m\u001b[39;49m\u001b[12;1H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.631392,
+      "\u001b[38;4H\u001b[?25l\u001b[1m\u001b[33m\u001b[40m3\u001b[0m\u001b[39;49m\u001b[13;1H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.569165,
+      "\u001b[38;4H\u001b[?25l\u001b[1m\u001b[33m\u001b[40m2\u001b[0m\u001b[39;49m\u001b[12;1H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.840120,
+      "\u001b[39d\u001b[?25l\u001b[37m\u001b[40m2\u001b[39;49m\u001b[12;1H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.000077,
+      "\u001b[39;2H\u001b[?25l\u001b[37m\u001b[40m-\u001b[39;49m\u001b[12;1H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.715335,
+      "\u001b[39;2H\u001b[?25l\u001b[37m\u001b[40m ESC\u001b[39;49m\u001b[12;1H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.000500,
+      "\u001b[39;6H\u001b[?25l\u001b[37m\u001b[40m-\u001b[39;49m\u001b[12;1H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.000482,
+      "\u001b[39;6H\u001b[?25l\u001b[37m\u001b[40m #\u001b[39;49m\u001b[12;1H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.008281,
+      "\u001b[?25l\u001b[32m\u001b[40m# \u001b[39;49m\u001b[33m\u001b[40mREMOVE:6035 (vblex pres) IF                                                  \u001b[39;49m\r\n\u001b[32m\u001b[40m#       \u001b[39;49m\u001b[33m\u001b[40m(0 farlege-verb)                                                       \u001b[39;49m\r\n\u001b[32m\u001b[40m#       \u001b[39;49m\u001b[33m\u001b[40m(NOT 0 pret)                                                           \u001b[39;49m\r\n\u001b[32m\u001b[40m#       \u001b[39;49m\u001b[33m\u001b[40m(NOT 0 imp)                                                            \u001b[39;49m\r\n\u001b[32m\u001b[40m# \u001b[39;49m\u001b[33m\u001b[40m;                                                                            \u001b[39;49m"
+    ],
+    [
+      0.000063,
+      "\r\n\n\n\u001b[32m\u001b[40m# \u001b[39;49m\u001b[33m\u001b[40mREMOVE:excetera (vblex pret) IF                                              \u001b[39;49m\r\n\u001b[32m\u001b[40m#       \u001b[39;49m\u001b[33m\u001b[40m(0 perf-part/\u003cperf-part\u003e)                                              \u001b[39;49m\r\n\u001b[32m\u001b[40m#       \u001b[39;49m\u001b[33m\u001b[40m(-1 kop/st-form/st-verb)                                               \u001b[39;49m\r\n\u001b[32m\u001b[40m#       \u001b[39;49m\u001b[33m\u001b[40m(NOT 1 pron/subst)                                                     \u001b[39;49m\r\n\u001b[32m\u001b[40m#       \u001b[39;49m\u001b[33m\u001b[40m(NEGATE 1 adv LINK 1 pron/subst LINK NOT 0 infmerke)                   \u001b[39;49m\r\n\u001b[32m\u001b[40m# \u001b[39;49m\u001b[33m\u001b[40m;                                                                            \u001b[39;49m\u001b[38;3H\u001b[1m\u001b[33m\u001b[40m25\u001b[0m\u001b[39;49m\u001b[25;1H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.946873,
+      "\u001b[39d\u001b[?25l\u001b[37m\u001b[40m       \u001b[39;49m\u001b[38;3H\u001b[1m\u001b[33m\u001b[40m19\u001b[0m\u001b[39;49m\u001b[19;1H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.158990,
+      "\u001b[38;4H\u001b[?25l\u001b[1m\u001b[33m\u001b[40m1\u001b[0m\u001b[39;49m\u001b[11;1H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.421769,
+      "\u001b[38;4H\u001b[?25l\u001b[1m\u001b[33m\u001b[40m2\u001b[0m\u001b[39;49m\u001b[12;1H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.187700,
+      "\u001b[38;154H\u001b[?25l\u001b[33m\u001b[40m3:00\u001b[39;49m\u001b[12;1H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.709051,
+      "\u001b[39d\u001b[?25l\u001b[37m\u001b[40m2\u001b[39;49m\u001b[12;1H\u001b[?12l\u001b[?25h\u001b[?12;25h\u001b[39;2H\u001b[?25l\u001b[37m\u001b[40m-\u001b[39;49m\u001b[12;1H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      1.342559,
+      "\u001b[39;2H\u001b[?25l\u001b[37m\u001b[40m ESC\u001b[39;49m\u001b[12;1H\u001b[?12l\u001b[?25h\u001b[?12;25h\u001b[39;6H\u001b[?25l\u001b[37m\u001b[40m-\u001b[39;49m\u001b[12;1H\u001b[?12l\u001b[?25h\u001b[?12;25h\u001b[39;6H\u001b[?25l\u001b[37m\u001b[40m #\u001b[39;49m\u001b[12;1H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.003081,
+      "\u001b[?25l\u001b[1m\u001b[33m\u001b[40mREMOVE\u001b[0m\u001b[39;49m\u001b[33m\u001b[40m:6035\u001b[39;49m\u001b[37m\u001b[40m (vblex pres) \u001b[39;49m\u001b[36m\u001b[40mIF\u001b[39;49m\u001b[37m\u001b[40m                                                    \u001b[39;49m\r\n\u001b[37m\u001b[40m        (0 farlege-verb)                                                       \u001b[39;49m\r\n\u001b[37m\u001b[40m        (\u001b[39;49m\u001b[36m\u001b[40mNOT\u001b[39;49m\u001b[37m\u001b[40m 0 pret)                                                           \u001b[39;49m\r\n\u001b[37m\u001b[40m        (\u001b[39;49m\u001b[36m\u001b[40mNOT\u001b[39;49m\u001b[37m\u001b[40m 0 imp)                                                            \u001b[39;49m\r\n\u001b[37m\u001b[40m;                                                                              \u001b[39;49m"
+    ],
+    [
+      0.000083,
+      "\r\n\n\n\u001b[1m\u001b[33m\u001b[40mREMOVE\u001b[0m\u001b[39;49m\u001b[33m\u001b[40m:excetera\u001b[39;49m\u001b[37m\u001b[40m (vblex pret) \u001b[39;49m\u001b[36m\u001b[40mIF\u001b[39;49m\u001b[37m\u001b[40m                                                \u001b[39;49m\r\n\u001b[37m\u001b[40m        (0 perf-part/\u003cperf-part\u003e)                                              \u001b[39;49m\r\n\u001b[37m\u001b[40m        (-1 kop/st-form/st-verb)                                               \u001b[39;49m\r\n\u001b[37m\u001b[40m        (\u001b[39;49m\u001b[36m\u001b[40mNOT\u001b[39;49m\u001b[37m\u001b[40m 1 pron/subst)                                                     \u001b[39;49m\r\n\u001b[37m\u001b[40m        (\u001b[39;49m\u001b[36m\u001b[40mNEGATE\u001b[39;49m\u001b[37m\u001b[40m 1 adv \u001b[39;49m\u001b[36m\u001b[40mLINK\u001b[39;49m\u001b[37m\u001b[40m 1 pron/subst \u001b[39;49m\u001b[36m\u001b[40mLINK\u001b[39;49m\u001b[37m\u001b[40m \u001b[39;49m\u001b[36m\u001b[40mNOT\u001b[39;49m\u001b[37m\u001b[40m 0 infmerke)                   \u001b[39;49m\r\n\u001b[37m\u001b[40m;                                                                              \u001b[39;49m"
+    ],
+    [
+      0.000013,
+      "\u001b[38;3H\u001b[1m\u001b[33m\u001b[40m25\u001b[0m\u001b[39;49m\u001b[25;1H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      1.686213,
+      "\u001b[39d\u001b[?25l\u001b[37m\u001b[40m       \u001b[39;49m\u001b[38;3H\u001b[1m\u001b[33m\u001b[40m19\u001b[0m\u001b[39;49m\u001b[19;1H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.400379,
+      "\u001b[38;4H\u001b[?25l\u001b[1m\u001b[33m\u001b[40m1\u001b[0m\u001b[39;49m\u001b[11;1H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.392719,
+      "\u001b[38;3H\u001b[?25l\u001b[1m\u001b[33m\u001b[40m 2\u001b[0m\u001b[39;49m\u001b[H\n\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      1.409329,
+      "\u001b[?25l\u001b[37m\u001b[40m«»#:6034                                                                       \u001b[39;49m"
+    ],
+    [
+      0.000018,
+      "\u001b[38;7H\u001b[36m\u001b[40m1\u001b[39;49m\u001b[2;2H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      1.274475,
+      "\u0008\u001b[?25l\u001b[32m\u001b[40m#\u001b[39;49m\u001b[33m\u001b[40m:6034                                                                         \u001b[39;49m"
+    ],
+    [
+      0.000019,
+      "\u001b[38;7H\u001b[36m\u001b[40m0\u001b[39;49m\u001b[H\n\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      1.164052,
+      "\n\u001b[?25l\u001b[1m\u001b[33m\u001b[40mREMOVE\u001b[0m\u001b[39;49m\u001b[33m\u001b[40m:6034\u001b[39;49m\u001b[37m\u001b[40m (vblex pp) \u001b[39;49m\u001b[36m\u001b[40mIF\u001b[39;49m\u001b[37m\u001b[40m                                                      \u001b[39;49m\r\n\u001b[37m\u001b[40m        (0 farlege-part)                                                       \u001b[39;49m\r\n\u001b[37m\u001b[40m        (\u001b[39;49m\u001b[36m\u001b[40mNOT\u001b[39;49m\u001b[37m\u001b[40m 0 %hendt%)                                                        \u001b[39;49m\r\n\u001b[37m\u001b[40m        (\u001b[39;49m\u001b[36m\u001b[40mNOT\u001b[39;49m\u001b[37m\u001b[40m 0 %fare%)                                                         \u001b[39;49m\r\n\u001b[37m\u001b[40m;                                                                              \u001b[39;49m"
+    ],
+    [
+      0.000017,
+      "\u001b[H\n\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      2.609961,
+      "\u001b[39d\u001b[?25l\u001b[37m\u001b[40mC-x\u001b[39;49m\u001b[H\n\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.000341,
+      "\u001b[39;4H\u001b[?25l\u001b[37m\u001b[40m-\u001b[39;49m\u001b[H\n\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.025973,
+      "\u001b[39;4H\u001b[?25l\u001b[37m\u001b[40m C-c\u001b[39;49m\u001b[H\n\u001b[?12l\u001b[?25h\u001b[?12;25h\u001b[39d\u001b[?25l\u001b[33m\u001b[40mSave file /tmp/foo/blah.cg3? (y, n, !, ., q, C-r, d or C-h) \u001b[39;49m\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.508260,
+      "\r\u001b[?25l\u001b[37m\u001b[40mSave file /tmp/foo/blah.cg3? (y, n, !, ., q, C-r, d or C-h) n\u001b[39;49m\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.001175,
+      "\r\u001b[?25l\u001b[37m\u001b[40m                                                             \u001b[39;49m\u001b[H\n\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.016601,
+      "\u001b[39d\u001b[K\u001b[?1l\u001b\u003e\u001b[?12l\u001b[?25h\u001b[?1049l\u001b[39;49m\r"
+    ],
+    [
+      0.142485,
+      "\u001b]0;kiwibird@kiwiarch:/tmp/foo\u0007"
+    ],
+    [
+      0.000076,
+      "\u001b]0;kiwibird@kiwiarch:/tmp/foo\u0007"
+    ],
+    [
+      0.000163,
+      "$ "
+    ],
+    [
+      0.531633,
+      "exit\r\n"
+    ]
+  ]
+}
