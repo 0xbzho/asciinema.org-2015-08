@@ -1,0 +1,474 @@
+{
+  "version": 1,
+  "width": 92,
+  "height": 30,
+  "duration": 25.044332,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.082229,
+      "$ "
+    ],
+    [
+      1.293084,
+      "c"
+    ],
+    [
+      0.143590,
+      "a"
+    ],
+    [
+      0.208006,
+      "t"
+    ],
+    [
+      0.105071,
+      " "
+    ],
+    [
+      0.158514,
+      "-"
+    ],
+    [
+      0.576399,
+      "n"
+    ],
+    [
+      0.152502,
+      " "
+    ],
+    [
+      0.472105,
+      "_"
+    ],
+    [
+      0.136120,
+      "_"
+    ],
+    [
+      0.377825,
+      "init__.py "
+    ],
+    [
+      1.095937,
+      "\r\n"
+    ],
+    [
+      0.002153,
+      "     1\u0009# -*- coding: utf-8 -*-\r\n     2\u0009"
+    ],
+    [
+      0.000024,
+      "\"\"\"\r\n     3\u0009    flask"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "     4"
+    ],
+    [
+      0.000017,
+      "\u0009"
+    ],
+    [
+      0.000019,
+      "    ~~~~~"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000060,
+      "     5\u0009\r\n"
+    ],
+    [
+      0.000021,
+      "     6"
+    ],
+    [
+      0.000017,
+      "\u0009"
+    ],
+    [
+      0.000019,
+      "    A microframework based on Werkzeug.  It's extensively documented"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000346,
+      "     7\u0009    and follows best practice patterns.\r\n     8\u0009\r\n     9\u0009"
+    ],
+    [
+      0.000049,
+      "    :copyright: (c) 2015 by Armin Ronacher.\r\n    10\u0009    :license: BSD, see LICENSE for more details."
+    ],
+    [
+      0.000084,
+      "\r\n    11"
+    ],
+    [
+      0.000054,
+      "\u0009\"\"\"\r\n    12"
+    ],
+    [
+      0.000046,
+      "\u0009\r\n"
+    ],
+    [
+      0.000137,
+      "    13\u0009__version__ = '0.11.dev0'"
+    ],
+    [
+      0.000049,
+      "\r\n    14\u0009\r\n    15\u0009"
+    ],
+    [
+      0.000044,
+      "# utilities we import from Werkzeug and Jinja2 that are unused\r\n    16"
+    ],
+    [
+      0.000089,
+      "\u0009# in the module but are exported as public interface."
+    ],
+    [
+      0.000050,
+      "\r\n    17"
+    ],
+    [
+      0.000155,
+      "\u0009from werkzeug.exceptions import abort\r\n"
+    ],
+    [
+      0.000055,
+      "    18\u0009from werkzeug.utils import redirect\r\n    19\u0009from jinja2 import Markup, escape\r\n"
+    ],
+    [
+      0.000044,
+      "    20\u0009\r\n"
+    ],
+    [
+      0.000076,
+      "    21\u0009"
+    ],
+    [
+      0.000054,
+      "from .app import Flask, Request, Response\r\n"
+    ],
+    [
+      0.000045,
+      "    22\u0009from .config import Config"
+    ],
+    [
+      0.000267,
+      "\r\n    23"
+    ],
+    [
+      0.000194,
+      "\u0009from .helpers import url_for, flash, send_file, send_from_directory, \\"
+    ],
+    [
+      0.000045,
+      "\r\n    24\u0009     get_flashed_messages, get_template_attribute, make_response, safe_join, \\\r\n    25\u0009     stream_with_context\r\n    26\u0009from .globals import current_app, g, request, session, _request_ctx_stack, \\\r\n    27\u0009     _app_ctx_stack\r\n    28\u0009from .ctx import has_request_context, has_app_context, \\\r\n    29\u0009     after_this_request, copy_current_request_context\r\n    30\u0009from .blueprints import Blueprint\r\n    31\u0009from .templating import render_template, render_template_string\r\n    32\u0009\r\n    33\u0009# the signals\r\n    34\u0009from .signals import signals_available, template_rendered, request_started, \\\r\n    35\u0009     request_finished, got_request_exception, request_tearing_down, \\\r\n    36\u0009     appcontext_tearing_down, appcontext_pushed, \\\r\n    37\u0009     appcontext_popped, message_flashed, before_render_template\r\n    38\u0009\r\n    39\u0009# We're not exposing the actual json module but a convenient wrapper around\r\n    40\u0009# it.\r\n    41\u0009from . import json\r\n    42\u0009\r\n    43\u0009# This was the only thing that flask used to export at one point and it had\r\n    44\u0009# a more generic name.\r\n    45\u0009jsonify = json.jsonify\r\n    46\u0009\r\n    47\u0009# backwards compat, goes away in 1.0\r\n    48\u0009from .sessions import SecureCookieSession as Session\r\n    49\u0009json_available = True\r\n"
+    ],
+    [
+      0.000771,
+      "$ "
+    ],
+    [
+      2.932055,
+      "\u001b[H\u001b[2J$ "
+    ],
+    [
+      2.041115,
+      "l"
+    ],
+    [
+      0.082939,
+      "e"
+    ],
+    [
+      0.164955,
+      "s"
+    ],
+    [
+      0.111200,
+      "s"
+    ],
+    [
+      0.288280,
+      " "
+    ],
+    [
+      0.320653,
+      "-"
+    ],
+    [
+      0.488084,
+      "S"
+    ],
+    [
+      0.224489,
+      "N"
+    ],
+    [
+      0.888079,
+      " "
+    ],
+    [
+      0.640379,
+      "_"
+    ],
+    [
+      0.447936,
+      "_"
+    ],
+    [
+      0.274339,
+      "init__.py "
+    ],
+    [
+      0.870656,
+      "\r\n"
+    ],
+    [
+      0.004653,
+      "\u001b[?1049h\u001b[?1h\u001b=\r"
+    ],
+    [
+      0.000036,
+      "      1 # -*- coding: utf-8 -*-"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000144,
+      "      2 \"\"\"\r\n      3     flask\r\n"
+    ],
+    [
+      0.000030,
+      "      4     ~~~~~\r\n"
+    ],
+    [
+      0.000016,
+      "      5 "
+    ],
+    [
+      0.000299,
+      "\r\n      6     A microframework based on Werkzeug.  It's extensively documented\r\n"
+    ],
+    [
+      0.000046,
+      "      7     and follows best practice patterns.\r\n      8 \r\n      9     :copyright: (c) 2015 by Armin Ronacher.\r\n     10     :license: BSD, see LICENSE for more details.\r\n"
+    ],
+    [
+      0.000040,
+      "     11 \"\"\""
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "     12 "
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "     13 __version__ = '0.11.dev0'"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "     14 "
+    ],
+    [
+      0.000048,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "     15 # utilities we import from Werkzeug and Jinja2 that are unused"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "     16 # in the module but are exported as public interface."
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "     17 from werkzeug.exceptions import abort"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000046,
+      "     18 from werkzeug.utils import redirect"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000126,
+      "     19 from jinja2 import Markup, escape\r\n"
+    ],
+    [
+      0.000032,
+      "     20 \r\n     21 from .app import Flask, Request, Response"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "     22 from .config import Config"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "     23 from .helpers import url_for, flash, send_file, send_from_directory, \\"
+    ],
+    [
+      0.000508,
+      "\r\n     24      get_flashed_messages, get_template_attribute, make_response, safe_join, \\\r\n     25      stream_with_context\r\n     26 from .globals import current_app, g, request, session, _request_ctx_stack, \\"
+    ],
+    [
+      0.000028,
+      "\r\n"
+    ],
+    [
+      0.000412,
+      "     27      _app_ctx_stack\r\n     28 from .ctx import has_request_context, has_app_context, \\\r\n     29      after_this_request, copy_current_request_context\r\n\u001b[7m__init__.py\u001b[27m\u001b[K"
+    ],
+    [
+      0.914076,
+      "\r\u001b[K     30 from .blueprints import Blueprint\r\n:\u001b[K"
+    ],
+    [
+      0.167119,
+      "\r\u001b[K     31 from .templating import render_template, render_template_string\r\n:\u001b[K"
+    ],
+    [
+      0.167965,
+      "\r\u001b[K     32 \r\n:\u001b[K"
+    ],
+    [
+      0.232851,
+      "\r\u001b[K     33 # the signals\r\n:\u001b[K"
+    ],
+    [
+      0.448737,
+      "\r\u001b[K     34 from .signals import signals_available, template_rendered, request_started, \\\r\n:\u001b[K"
+    ],
+    [
+      0.351266,
+      "\r\u001b[K     35      request_finished, got_request_exception, request_tearing_down, \\\r\n:\u001b[K"
+    ],
+    [
+      0.328368,
+      "\r\u001b[K     36      appcontext_tearing_down, appcontext_pushed, \\\r\n:\u001b[K"
+    ],
+    [
+      0.456187,
+      "\r\u001b[K     37      appcontext_popped, message_flashed, before_render_template\r\n:\u001b[K"
+    ],
+    [
+      0.288415,
+      "\r\u001b[K     38 \r\n:\u001b[K"
+    ],
+    [
+      0.448193,
+      "\r\u001b[K     39 # We're not exposing the actual json module but a convenient wrapper around\r\n:\u001b[K"
+    ],
+    [
+      0.415872,
+      "\r\u001b[K     40 # it.\r\n:\u001b[K"
+    ],
+    [
+      0.256568,
+      "\r\u001b[K     41 from . import json\r\n:\u001b[K"
+    ],
+    [
+      0.471300,
+      "\r\u001b[K     42 \r\n:\u001b[K"
+    ],
+    [
+      0.432068,
+      "\r\u001b[K     43 # This was the only thing that flask used to export at one point and it had\r\n:\u001b[K"
+    ],
+    [
+      0.432305,
+      "\r\u001b[K     44 # a more generic name.\r\n:\u001b[K"
+    ],
+    [
+      0.224692,
+      "\r\u001b[K     45 jsonify = json.jsonify\r\n:\u001b[K"
+    ],
+    [
+      0.248254,
+      "\r\u001b[K     46 \r\n:\u001b[K"
+    ],
+    [
+      0.281084,
+      "\r\u001b[K     47 # backwards compat, goes away in 1.0\r\n:\u001b[K"
+    ],
+    [
+      0.479930,
+      "\r\u001b[K     48 from .sessions import SecureCookieSession as Session\r\n:\u001b[K"
+    ],
+    [
+      0.383511,
+      "\r\u001b[K     49 json_available = True\r\n\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.176557,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.174771,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      1.369763,
+      "\r\u001b[K\u001b[?1l\u001b\u003e\u001b[?1049l$ "
+    ],
+    [
+      1.305520,
+      "exit\r\n"
+    ]
+  ]
+}
