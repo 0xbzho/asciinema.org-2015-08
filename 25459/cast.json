@@ -1,0 +1,3786 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 37.108148,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "rxvt-unicode-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.044144,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[m                                                                               \r \r"
+    ],
+    [
+      0.000070,
+      "\r\u001b[m\u001b[27m\u001b[24m\u001b[J[j4ve1in@localhost]~% "
+    ],
+    [
+      0.000004,
+      "\u001b[K"
+    ],
+    [
+      1.887367,
+      "b"
+    ],
+    [
+      0.102472,
+      "\u0008ba"
+    ],
+    [
+      0.080394,
+      "s"
+    ],
+    [
+      0.151868,
+      "h"
+    ],
+    [
+      0.279521,
+      " "
+    ],
+    [
+      0.527763,
+      "\u003c"
+    ],
+    [
+      0.345062,
+      "("
+    ],
+    [
+      0.415998,
+      "c"
+    ],
+    [
+      0.121991,
+      "u"
+    ],
+    [
+      0.141953,
+      "r"
+    ],
+    [
+      0.187636,
+      "l"
+    ],
+    [
+      0.193093,
+      " "
+    ],
+    [
+      0.254080,
+      "-"
+    ],
+    [
+      0.446288,
+      "L"
+    ],
+    [
+      0.283806,
+      " "
+    ],
+    [
+      0.243498,
+      "d"
+    ],
+    [
+      0.101974,
+      "o"
+    ],
+    [
+      0.162009,
+      "t"
+    ],
+    [
+      0.243560,
+      "."
+    ],
+    [
+      0.238411,
+      "j"
+    ],
+    [
+      0.144353,
+      "4"
+    ],
+    [
+      0.327575,
+      "v"
+    ],
+    [
+      0.101372,
+      "e"
+    ],
+    [
+      0.258944,
+      "1"
+    ],
+    [
+      0.167164,
+      "i"
+    ],
+    [
+      0.081357,
+      "n"
+    ],
+    [
+      0.238478,
+      "."
+    ],
+    [
+      0.152101,
+      "c"
+    ],
+    [
+      0.102363,
+      "o"
+    ],
+    [
+      0.100835,
+      "m"
+    ],
+    [
+      0.283944,
+      ")"
+    ],
+    [
+      2.710988,
+      "\r\r\n"
+    ],
+    [
+      0.003821,
+      " "
+    ],
+    [
+      0.000946,
+      " % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\r\n                                 Dload  Upload   Total   Spent    Left  Speed\r\n\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0"
+    ],
+    [
+      0.423861,
+      "\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r\n"
+    ],
+    [
+      0.220411,
+      "\r  0    "
+    ],
+    [
+      0.000005,
+      " 0    0     0    "
+    ],
+    [
+      0.000003,
+      "0 "
+    ],
+    [
+      0.000002,
+      " "
+    ],
+    [
+      0.000001,
+      " "
+    ],
+    [
+      0.000001,
+      " "
+    ],
+    [
+      0.000002,
+      " "
+    ],
+    [
+      0.000001,
+      "0"
+    ],
+    [
+      0.000001,
+      " "
+    ],
+    [
+      0.000001,
+      " "
+    ],
+    [
+      0.000010,
+      "  "
+    ],
+    [
+      0.000003,
+      "  0  "
+    ],
+    [
+      0.000002,
+      " "
+    ],
+    [
+      0.000002,
+      " "
+    ],
+    [
+      0.000002,
+      " "
+    ],
+    [
+      0.000002,
+      " 0"
+    ],
+    [
+      0.000002,
+      " "
+    ],
+    [
+      0.000002,
+      "-"
+    ],
+    [
+      0.000002,
+      "-"
+    ],
+    [
+      0.000002,
+      ":"
+    ],
+    [
+      0.000002,
+      "--"
+    ],
+    [
+      0.000002,
+      ":"
+    ],
+    [
+      0.000002,
+      "-"
+    ],
+    [
+      0.000002,
+      "-"
+    ],
+    [
+      0.000002,
+      " -"
+    ],
+    [
+      0.000001,
+      "-"
+    ],
+    [
+      0.000001,
+      ":"
+    ],
+    [
+      0.000007,
+      "--:--"
+    ],
+    [
+      0.000001,
+      " "
+    ],
+    [
+      0.000001,
+      "-"
+    ],
+    [
+      0.000004,
+      "-"
+    ],
+    [
+      0.000002,
+      ":--"
+    ],
+    [
+      0.000002,
+      ":"
+    ],
+    [
+      0.000002,
+      "--"
+    ],
+    [
+      0.000002,
+      " "
+    ],
+    [
+      0.000002,
+      " "
+    ],
+    [
+      0.000001,
+      " "
+    ],
+    [
+      0.000001,
+      " "
+    ],
+    [
+      0.000001,
+      " "
+    ],
+    [
+      0.000001,
+      "0"
+    ],
+    [
+      0.257763,
+      "\r100  4929 "
+    ],
+    [
+      0.000006,
+      " 100  4929"
+    ],
+    [
+      0.000012,
+      "  "
+    ],
+    [
+      0.000002,
+      " "
+    ],
+    [
+      0.000002,
+      " "
+    ],
+    [
+      0.000002,
+      "0"
+    ],
+    [
+      0.000002,
+      " "
+    ],
+    [
+      0.000006,
+      " "
+    ],
+    [
+      0.000002,
+      " "
+    ],
+    [
+      0.000002,
+      " "
+    ],
+    [
+      0.000006,
+      " "
+    ],
+    [
+      0.000002,
+      "0"
+    ],
+    [
+      0.000002,
+      " "
+    ],
+    [
+      0.000010,
+      " "
+    ],
+    [
+      0.000003,
+      " 54"
+    ],
+    [
+      0.000011,
+      "57"
+    ],
+    [
+      0.000002,
+      "  "
+    ],
+    [
+      0.000007,
+      " "
+    ],
+    [
+      0.000002,
+      " "
+    ],
+    [
+      0.000002,
+      " "
+    ],
+    [
+      0.000002,
+      " "
+    ],
+    [
+      0.000002,
+      "0"
+    ],
+    [
+      0.000006,
+      " "
+    ],
+    [
+      0.000002,
+      "-"
+    ],
+    [
+      0.000003,
+      "-"
+    ],
+    [
+      0.000002,
+      ":"
+    ],
+    [
+      0.000008,
+      "-"
+    ],
+    [
+      0.000003,
+      "-:"
+    ],
+    [
+      0.000002,
+      "-"
+    ],
+    [
+      0.000010,
+      "- "
+    ],
+    [
+      0.000003,
+      "--"
+    ],
+    [
+      0.000008,
+      ":"
+    ],
+    [
+      0.000002,
+      "--"
+    ],
+    [
+      0.000007,
+      ":"
+    ],
+    [
+      0.000002,
+      "-"
+    ],
+    [
+      0.000002,
+      "-"
+    ],
+    [
+      0.000002,
+      " "
+    ],
+    [
+      0.000010,
+      "-"
+    ],
+    [
+      0.000002,
+      "-:"
+    ],
+    [
+      0.000002,
+      "-"
+    ],
+    [
+      0.000008,
+      "-:"
+    ],
+    [
+      0.000003,
+      "-"
+    ],
+    [
+      0.000002,
+      "-"
+    ],
+    [
+      0.000002,
+      " "
+    ],
+    [
+      0.000002,
+      "1"
+    ],
+    [
+      0.000002,
+      "9"
+    ],
+    [
+      0.000003,
+      "1"
+    ],
+    [
+      0.000002,
+      "7"
+    ],
+    [
+      0.000012,
+      "8"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.003222,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.000082,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[1;38;5;32;49m"
+    ],
+    [
+      0.000020,
+      "          __        __   ____ _  __              \r\n"
+    ],
+    [
+      0.000003,
+      "     ____/ /____   / /_ / __/(_)/ /___   _____   "
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "    / __  // __ \\ / __// /_ / // // _ \\ / ___/   \r\n"
+    ],
+    [
+      0.000007,
+      "   / /_/ // /_/ // /_ / __// // //  __/(__  )    \r\n"
+    ],
+    [
+      0.000008,
+      "   \\__,_/ \\____/ \\__//_/  /_//_/ \\___//____/     \r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[0;39;49m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000076,
+      "\u001b[90m                   github.com/j4ve1in/dotfiles   \u001b[0;39;49m\r\n"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000038,
+      "\u001b[1;38;5;75;49m   Author: \u001b[0;39;49m"
+    ],
+    [
+      0.000007,
+      "j4ve1in"
+    ],
+    [
+      0.000031,
+      "\u001b[1;38;5;75;49m   License: \u001b[0;39;49m"
+    ],
+    [
+      0.000007,
+      "MIT\r\n"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000024,
+      "   If the file exists, it will be ruthlessly clobbered"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "   Are you sure you want to continue (yes/no)? "
+    ],
+    [
+      3.389440,
+      "y"
+    ],
+    [
+      0.098994,
+      "e"
+    ],
+    [
+      0.081215,
+      "s"
+    ],
+    [
+      1.122924,
+      "\r\n\r\n\u001b[4;39;49mStarting install\u001b[0;39;49m\r\n Full Installation: \u001b[1;31;49mdisable\u001b[0;39;49m\r\n Option Assume yes: \u001b[1;31;49mdisable\u001b[0;39;49m\r\n"
+    ],
+    [
+      0.501077,
+      " Checking git command...\u001b[1;36;49mdone\u001b[0;39;49m\r\n"
+    ],
+    [
+      0.500895,
+      " Downloading dotfiles..."
+    ],
+    [
+      0.001530,
+      "\u001b[?1049h\u001b=\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u001b[H\u001b[2J\u001b[H\u001b[H\u001b[2J\u001b[H"
+    ],
+    [
+      1.001386,
+      "Cloning into '/home/j4ve1in/.dotfiles'...\r\n"
+    ],
+    [
+      0.782061,
+      "remote: Counting objects: 4916, done.\u001b[K\r\n"
+    ],
+    [
+      0.000694,
+      "remote: Compressing objects:   0% (1/203)   \u001b[K\rremote: Compressing objects:   1% (3/203)   \u001b[K\rremote: Compressing objects:   2% (5/203)   \u001b[K\rremote: Compressing objects:   3% (7/203)   \u001b[K\rremote: Compressing objects:   4% (9/203)   \u001b[K\rremote: Compressing objects:   5% (11/203)   \u001b[K\r"
+    ],
+    [
+      0.000068,
+      "remote: Compressing objects:   6% (13/203)   \u001b[K\r"
+    ],
+    [
+      0.165098,
+      "remote: Compressing objects:   7% (15/203)   \u001b[K\rremote: Compressing objects:   8% (17/203)   \u001b[K\rremote: Compressing objects:   9% (19/203)   \u001b[K\rremote: Compressing objects:  10% (21/203)   \u001b[K\rremote: Compressing objects:  11% (23/203)   \u001b[K\rremote: Compressing objects:  12% (25/203)   \u001b[K\rremote: Compressing objects:  13% (27/203)   \u001b[K\rremote: Compressing objects:  14% (29/203)   \u001b[K\rremote: Compressing objects:  15% (31/203)   \u001b[K\rremote: Compressing objects:  16% (33/203)   \u001b[K\rremote: Compressing objects:  17% (35/203)   \u001b[K\rremote: Compressing objects:  18% (37/203)   \u001b[K\rremote: Compressing objects:  19% (39/203)   \u001b[K\rremote: Compressing objects:  20% (41/203)   \u001b[K\rremote: Compressing objects:  21% (43/203)   \u001b[K\rremote: Compressing objects:  22% (45/203)   \u001b[K\rremote: Compressing objects:  23% (47/203)   \u001b[K\rremote: Compressing objects:  24% (49/203)   \u001b[K\rremote: Compressing objects:  25% (51/203)   \u001b[K\rremote: Compressing objects:  26% (53/203)   \u001b[K\rremote: Compressing objects:  27% (55/203)   \u001b[K\rremote: Compressing objects:  28% (57/203)   \u001b[K\rremote: Compressing objects:  29% (59/203)   \u001b[K\rremote: Compressing objects:  30% (61/203)   \u001b[K\rremote: Compressing objects:  31% (63/203)   \u001b[K\rremote: Compressing objects:  32% (65/203)   \u001b[K\rremote: Compressing objects:  33% (67/203)   \u001b[K\rremote: Compressing objects:  34% (70/203)   \u001b[K\rremote: Compressing objects:  35% (72/203)   \u001b[K\rremote: Compressing objects:  36% (74/203)   \u001b[K\rremote: Compressing objects:  37% (76/203)   \u001b[K\rremote: Compressing objects:  38% (78/203)   \u001b[K\rremote: Compressing objects:  39% (80/203)   \u001b[K\r"
+    ],
+    [
+      0.000263,
+      "remote: Compressing objects:  40% (82/203)   \u001b[K\rremote: Compressing objects:  41% (84/203)   \u001b[K\rremote: Compressing objects:  42% (86/203)   \u001b[K\rremote: Compressing objects:  43% (88/203)   \u001b[K\rremote: Compressing objects:  44% (90/203)   \u001b[K\rremote: Compressing objects:  45% (92/203)   \u001b[K\rremote: Compressing objects:  46% (94/203)   \u001b[K\rremote: Compressing objects:  47% (96/203)   \u001b[K\rremote: Compressing objects:  48% (98/203)   \u001b[K\rremote: Compressing objects:  49% (100/203)   \u001b[K\rremote: Compressing objects:  50% (102/203)   \u001b[K\rremote: Compressing objects:  51% (104/203)   \u001b[K\rremote: Compressing objects:  52% (106/203)   \u001b[K\rremote: Compressing objects:  53% (108/203)   \u001b[K\rremote: Compressing objects:  54% (110/203)   \u001b[K\rremote: Compressing objects:  55% (112/203)   \u001b[K\rremote: Compressing objects:  56% (114/203)   \u001b[K\rremote: Compressing objects:  57% (116/203)   \u001b[K\rremote: Compressing objects:  58% (118/203)   \u001b[K\rremote: Compressing objects:  59% (120/203)   \u001b[K\rremote: Compressing objects:  60% (122/203)   \u001b[K\rremote: Compressing objects:  61% (124/203)   \u001b[K\rremote: Compressing objects:  62% (126/203)   \u001b[K\rremote: Compressing objects:  63% (128/203)   \u001b[K\rremote: Compressing objects:  64% (130/203)   \u001b[K\rremote: Compressing objects:  65% (132/203)   \u001b[K\rremote: Compressing objects:  66% (134/203)   \u001b[K\rremote: Compressing objects:  67% (137/203)   \u001b[K\rremote: Compressing objects:  68% (139/203)   \u001b[K\rremote: Compressing objects:  69% (141/203)   \u001b[K\rremote: Compressing objects:  70% (143/203)   \u001b[K\rremote: Compressing objects:  71% (145/203)   \u001b[K\rremote: Compressing objects:  72% (147/203)   \u001b[K\rremote: Compressing objects:  73% (149/203)   \u001b[K\rremote: Compressing objects:  74% (151/203)   \u001b[K\rremote: Compressing objects:  75% (153/203)   \u001b[K\rremote: Compressing objects:  76% (155/203)   \u001b[K\rremote: Compressing objects:  77% (157/203)   \u001b[K\rremote: Compressing objects:  78% (159/203)   \u001b[K\rremote: Compressing objects:  79% (161/203)   \u001b[K\rremote: Compressing objects:  80% (163/203)   \u001b[K\rremote: Compressing objects:  81% (165/203)   \u001b[K\rremote: Compressing objects:  82% (167/203)   \u001b[K\rremote: Compressing objects:  83% (169/203)   \u001b[K\rremote: Compressing objects:  84% (171/203)   \u001b[K\rremote: Compressing objects:  85% (173/203)   \u001b[K\rremote: Compressing objects:  86% (175/203)   \u001b[K\rremote: Compressing objects:  87% (177/203)   \u001b[K\rremote: Compressing objects:  88% (179/203)   \u001b[K\rremote: Compressing objects:  89% (181/203)   \u001b[K\rremote: Compressing objects:  90% (183/203)   \u001b[K\rremote: Compressing objects:  91% (185/203)   \u001b[K\rremote: Compressing objects:  92% (187/203)   \u001b[K\rremote: Compressing objects:  93% (189/203)   \u001b[K\rremote: Compressing objects:  94% (191/203)   \u001b[K\rremote: Compressing objects:  95% (193/203)   \u001b[K\rremote: Compressing objects:  96% (195/203)   \u001b[K\rremote: Compressing objects:  97% (197/203)   \u001b[K\rremote: Compressing objects:  98% (199/203)   \u001b[K\rremote: Compressing objects:  99% (201/203)   \u001b[K\rremote: Compressing objects: 100% (203/203)   \u001b[K\rremote: Compressing objects: 100% (203/203), done.\u001b[K\r\n"
+    ],
+    [
+      0.005478,
+      "Receiving objects:   0% (1/4916)   \r"
+    ],
+    [
+      0.000789,
+      "Receiving objects:   1% (50/4916)   \rReceiving objects:   2% (99/4916)   \r"
+    ],
+    [
+      0.166442,
+      "Receiving objects:   3% (148/4916)   \rReceiving objects:   4% (197/4916)   \rReceiving objects:   5% (246/4916)   \r"
+    ],
+    [
+      0.002542,
+      "Receiving objects:   6% (295/4916)   \r"
+    ],
+    [
+      0.001201,
+      "Receiving objects:   7% (345/4916)   \r"
+    ],
+    [
+      0.001154,
+      "Receiving objects:   8% (394/4916)   \r"
+    ],
+    [
+      0.161158,
+      "Receiving objects:   9% (443/4916)   \r"
+    ],
+    [
+      0.001255,
+      "Receiving objects:  10% (492/4916)   \r"
+    ],
+    [
+      0.568632,
+      "Receiving objects:  11% (541/4916), 188.01 KiB | 357.00 KiB/s   \r"
+    ],
+    [
+      0.000906,
+      "Receiving objects:  12% (590/4916), 188.01 KiB | 357.00 KiB/s   \r"
+    ],
+    [
+      0.001666,
+      "Receiving objects:  13% (640/4916), 188.01 KiB | 357.00 KiB/s   \r"
+    ],
+    [
+      0.000300,
+      "Receiving objects:  14% (689/4916), 188.01 KiB | 357.00 KiB/s   \r"
+    ],
+    [
+      0.000931,
+      "Receiving objects:  15% (738/4916), 188.01 KiB | 357.00 KiB/s   \r"
+    ],
+    [
+      0.000207,
+      "Receiving objects:  16% (787/4916), 188.01 KiB | 357.00 KiB/s   \r"
+    ],
+    [
+      0.001283,
+      "Receiving objects:  17% (836/4916), 188.01 KiB | 357.00 KiB/s   \r"
+    ],
+    [
+      0.000181,
+      "Receiving objects:  18% (885/4916), 188.01 KiB | 357.00 KiB/s   \r"
+    ],
+    [
+      0.000233,
+      "Receiving objects:  19% (935/4916), 188.01 KiB | 357.00 KiB/s   \r"
+    ],
+    [
+      0.000154,
+      "Receiving objects:  20% (984/4916), 188.01 KiB | 357.00 KiB/s   \r"
+    ],
+    [
+      0.000821,
+      "Receiving objects:  21% (1033/4916), 188.01 KiB | 357.00 KiB/s   \r"
+    ],
+    [
+      0.000170,
+      "Receiving objects:  22% (1082/4916), 188.01 KiB | 357.00 KiB/s   \r"
+    ],
+    [
+      0.036789,
+      "Receiving objects:  23% (1131/4916), 188.01 KiB | 357.00 KiB/s   \r"
+    ],
+    [
+      0.062041,
+      "Receiving objects:  23% (1164/4916), 1.71 MiB | 1.69 MiB/s   \r"
+    ],
+    [
+      0.018131,
+      "Receiving objects:  24% (1180/4916), 1.71 MiB | 1.69 MiB/s   \r"
+    ],
+    [
+      0.121349,
+      "Receiving objects:  25% (1229/4916), 1.71 MiB | 1.69 MiB/s   \r"
+    ],
+    [
+      0.098036,
+      "Receiving objects:  26% (1279/4916), 1.71 MiB | 1.69 MiB/s   \r"
+    ],
+    [
+      0.239584,
+      "Receiving objects:  27% (1328/4916), 1.71 MiB | 1.69 MiB/s   \r"
+    ],
+    [
+      0.018791,
+      "Receiving objects:  28% (1377/4916), 1.71 MiB | 1.69 MiB/s   \r"
+    ],
+    [
+      0.014823,
+      "Receiving objects:  29% (1426/4916), 3.07 MiB | 2.03 MiB/s   \rReceiving objects:  30% (1475/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.041434,
+      "Receiving objects:  31% (1524/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.000644,
+      "Receiving objects:  32% (1574/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.001242,
+      "Receiving objects:  33% (1623/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.003022,
+      "Receiving objects:  34% (1672/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.001951,
+      "Receiving objects:  35% (1721/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.002220,
+      "Receiving objects:  36% (1770/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.001355,
+      "Receiving objects:  37% (1819/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.000562,
+      "Receiving objects:  38% (1869/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.000500,
+      "Receiving objects:  39% (1918/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.000606,
+      "Receiving objects:  40% (1967/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.000502,
+      "Receiving objects:  41% (2016/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.000611,
+      "Receiving objects:  42% (2065/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.000533,
+      "Receiving objects:  43% (2114/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.000663,
+      "Receiving objects:  44% (2164/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.000445,
+      "Receiving objects:  45% (2213/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.001537,
+      "Receiving objects:  46% (2262/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.000487,
+      "Receiving objects:  47% (2311/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.000532,
+      "Receiving objects:  48% (2360/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.000497,
+      "Receiving objects:  49% (2409/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.000234,
+      "Receiving objects:  50% (2458/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.000662,
+      "Receiving objects:  51% (2508/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.000452,
+      "Receiving objects:  52% (2557/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.000741,
+      "Receiving objects:  53% (2606/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.003598,
+      "Receiving objects:  54% (2655/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.018919,
+      "Receiving objects:  55% (2704/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.008006,
+      "Receiving objects:  56% (2753/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.003154,
+      "Receiving objects:  57% (2803/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.002313,
+      "Receiving objects:  58% (2852/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.007564,
+      "Receiving objects:  59% (2901/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.003870,
+      "Receiving objects:  60% (2950/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.003690,
+      "Receiving objects:  61% (2999/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.001403,
+      "Receiving objects:  62% (3048/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.008576,
+      "Receiving objects:  63% (3098/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.001601,
+      "Receiving objects:  64% (3147/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.024403,
+      "Receiving objects:  65% (3196/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.000461,
+      "Receiving objects:  66% (3245/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.001987,
+      "Receiving objects:  67% (3294/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.001252,
+      "Receiving objects:  68% (3343/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.000849,
+      "Receiving objects:  69% (3393/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.000410,
+      "Receiving objects:  70% (3442/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.000248,
+      "Receiving objects:  71% (3491/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.000201,
+      "Receiving objects:  72% (3540/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.000190,
+      "Receiving objects:  73% (3589/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.000133,
+      "Receiving objects:  74% (3638/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.000172,
+      "Receiving objects:  75% (3687/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.000193,
+      "Receiving objects:  76% (3737/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.000197,
+      "Receiving objects:  77% (3786/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.000256,
+      "Receiving objects:  78% (3835/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.000173,
+      "Receiving objects:  79% (3884/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.000239,
+      "Receiving objects:  80% (3933/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.001156,
+      "Receiving objects:  81% (3982/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.000179,
+      "Receiving objects:  82% (4032/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.000143,
+      "Receiving objects:  83% (4081/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.000161,
+      "Receiving objects:  84% (4130/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.000231,
+      "Receiving objects:  85% (4179/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.000315,
+      "Receiving objects:  86% (4228/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.000441,
+      "Receiving objects:  87% (4277/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.000232,
+      "Receiving objects:  88% (4327/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.000181,
+      "Receiving objects:  89% (4376/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.000314,
+      "Receiving objects:  90% (4425/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.000158,
+      "Receiving objects:  91% (4474/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.093390,
+      "Receiving objects:  92% (4523/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.001354,
+      "Receiving objects:  93% (4572/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.000840,
+      "Receiving objects:  94% (4622/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.000141,
+      "Receiving objects:  95% (4671/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.000459,
+      "Receiving objects:  96% (4720/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.001751,
+      "Receiving objects:  97% (4769/4916), 3.07 MiB | 2.03 MiB/s   \r"
+    ],
+    [
+      0.021334,
+      "remote: Total 4916 (delta 94), reused 0 (delta 0), pack-reused 4712\u001b[K"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.001788,
+      "Receiving objects:  98% (4818/4916), 3.07 MiB | 2.03 MiB/s   \rReceiving objects:  99% (4867/4916), 3.07 MiB | 2.03 MiB/s   \rReceiving objects: 100% (4916/4916), 3.07 MiB | 2.03 MiB/s   \rReceiving objects: 100% (4916/4916), 6.13 MiB | 2.03 MiB/s, done.\r\nResolving deltas:   0% (0/2024)   \r"
+    ],
+    [
+      0.001430,
+      "Resolving deltas:   3% (77/2024)   \r"
+    ],
+    [
+      0.000269,
+      "Resolving deltas:   4% (99/2024)   \r"
+    ],
+    [
+      0.000097,
+      "Resolving deltas:   5% (107/2024)   \r"
+    ],
+    [
+      0.000507,
+      "Resolving deltas:   7% (149/2024)   \r"
+    ],
+    [
+      0.000297,
+      "Resolving deltas:   8% (163/2024)   \r"
+    ],
+    [
+      0.000248,
+      "Resolving deltas:   9% (184/2024)   \r"
+    ],
+    [
+      0.000238,
+      "Resolving deltas:  10% (203/2024)   \r"
+    ],
+    [
+      0.000266,
+      "Resolving deltas:  11% (224/2024)   \r"
+    ],
+    [
+      0.000233,
+      "Resolving deltas:  12% (243/2024)   \r"
+    ],
+    [
+      0.000337,
+      "Resolving deltas:  13% (271/2024)   \r"
+    ],
+    [
+      0.000248,
+      "Resolving deltas:  14% (290/2024)   \r"
+    ],
+    [
+      0.000417,
+      "Resolving deltas:  16% (327/2024)   \r"
+    ],
+    [
+      0.000398,
+      "Resolving deltas:  17% (362/2024)   \r"
+    ],
+    [
+      0.000078,
+      "Resolving deltas:  18% (368/2024)   \r"
+    ],
+    [
+      0.000223,
+      "Resolving deltas:  19% (387/2024)   \r"
+    ],
+    [
+      0.000300,
+      "Resolving deltas:  20% (413/2024)   \r"
+    ],
+    [
+      0.000229,
+      "Resolving deltas:  21% (430/2024)   \r"
+    ],
+    [
+      0.000267,
+      "Resolving deltas:  22% (452/2024)   \r"
+    ],
+    [
+      0.000300,
+      "Resolving deltas:  23% (478/2024)   \r"
+    ],
+    [
+      0.000159,
+      "Resolving deltas:  24% (491/2024)   \r"
+    ],
+    [
+      0.000212,
+      "Resolving deltas:  25% (508/2024)   \r"
+    ],
+    [
+      0.000325,
+      "Resolving deltas:  26% (528/2024)   \r"
+    ],
+    [
+      0.000452,
+      "Resolving deltas:  27% (552/2024)   \r"
+    ],
+    [
+      0.000191,
+      "Resolving deltas:  28% (569/2024)   \r"
+    ],
+    [
+      0.000246,
+      "Resolving deltas:  29% (589/2024)   \r"
+    ],
+    [
+      0.000264,
+      "Resolving deltas:  30% (610/2024)   \r"
+    ],
+    [
+      0.000255,
+      "Resolving deltas:  31% (633/2024)   \r"
+    ],
+    [
+      0.000385,
+      "Resolving deltas:  33% (668/2024)   \r"
+    ],
+    [
+      0.000294,
+      "Resolving deltas:  34% (691/2024)   \r"
+    ],
+    [
+      0.000217,
+      "Resolving deltas:  35% (709/2024)   \r"
+    ],
+    [
+      0.000319,
+      "Resolving deltas:  36% (729/2024)   \r"
+    ],
+    [
+      0.000340,
+      "Resolving deltas:  37% (751/2024)   \r"
+    ],
+    [
+      0.000389,
+      "Resolving deltas:  38% (771/2024)   \r"
+    ],
+    [
+      0.000351,
+      "Resolving deltas:  39% (793/2024)   \r"
+    ],
+    [
+      0.000232,
+      "Resolving deltas:  40% (810/2024)   \r"
+    ],
+    [
+      0.000776,
+      "Resolving deltas:  41% (830/2024)   \r"
+    ],
+    [
+      0.000337,
+      "Resolving deltas:  42% (851/2024)   \r"
+    ],
+    [
+      0.000257,
+      "Resolving deltas:  43% (876/2024)   \r"
+    ],
+    [
+      0.000170,
+      "Resolving deltas:  44% (891/2024)   \r"
+    ],
+    [
+      0.000224,
+      "Resolving deltas:  45% (911/2024)   \r"
+    ],
+    [
+      0.000291,
+      "Resolving deltas:  46% (932/2024)   \r"
+    ],
+    [
+      0.000302,
+      "Resolving deltas:  47% (952/2024)   \r"
+    ],
+    [
+      0.000397,
+      "Resolving deltas:  48% (989/2024)   \r"
+    ],
+    [
+      0.000036,
+      "Resolving deltas:  49% (992/2024)   \r"
+    ],
+    [
+      0.000272,
+      "Resolving deltas:  50% (1015/2024)   \r"
+    ],
+    [
+      0.000207,
+      "Resolving deltas:  51% (1033/2024)   \r"
+    ],
+    [
+      0.000683,
+      "Resolving deltas:  52% (1053/2024)   \r"
+    ],
+    [
+      0.002094,
+      "Resolving deltas:  53% (1073/2024)   \r"
+    ],
+    [
+      0.000976,
+      "Resolving deltas:  54% (1100/2024)   \r"
+    ],
+    [
+      0.000214,
+      "Resolving deltas:  55% (1117/2024)   \r"
+    ],
+    [
+      0.000265,
+      "Resolving deltas:  56% (1140/2024)   \r"
+    ],
+    [
+      0.000225,
+      "Resolving deltas:  57% (1160/2024)   \r"
+    ],
+    [
+      0.000584,
+      "Resolving deltas:  59% (1211/2024)   \r"
+    ],
+    [
+      0.000166,
+      "Resolving deltas:  60% (1226/2024)   \r"
+    ],
+    [
+      0.000371,
+      "Resolving deltas:  62% (1258/2024)   \r"
+    ],
+    [
+      0.000254,
+      "Resolving deltas:  63% (1279/2024)   \r"
+    ],
+    [
+      0.000311,
+      "Resolving deltas:  64% (1306/2024)   \r"
+    ],
+    [
+      0.000115,
+      "Resolving deltas:  65% (1316/2024)   \r"
+    ],
+    [
+      0.000556,
+      "Resolving deltas:  67% (1366/2024)   \r"
+    ],
+    [
+      0.000341,
+      "Resolving deltas:  69% (1397/2024)   \r"
+    ],
+    [
+      0.000286,
+      "Resolving deltas:  70% (1423/2024)   \r"
+    ],
+    [
+      0.000235,
+      "Resolving deltas:  71% (1445/2024)   \r"
+    ],
+    [
+      0.000310,
+      "Resolving deltas:  72% (1469/2024)   \r"
+    ],
+    [
+      0.000099,
+      "Resolving deltas:  73% (1478/2024)   \r"
+    ],
+    [
+      0.000265,
+      "Resolving deltas:  74% (1501/2024)   \r"
+    ],
+    [
+      0.000377,
+      "Resolving deltas:  75% (1536/2024)   \r"
+    ],
+    [
+      0.000043,
+      "Resolving deltas:  76% (1540/2024)   \r"
+    ],
+    [
+      0.000332,
+      "Resolving deltas:  77% (1570/2024)   \r"
+    ],
+    [
+      0.000121,
+      "Resolving deltas:  78% (1580/2024)   \r"
+    ],
+    [
+      0.000225,
+      "Resolving deltas:  79% (1599/2024)   \r"
+    ],
+    [
+      0.000233,
+      "Resolving deltas:  80% (1621/2024)   \r"
+    ],
+    [
+      0.000404,
+      "Resolving deltas:  81% (1655/2024)   \r"
+    ],
+    [
+      0.000248,
+      "Resolving deltas:  82% (1676/2024)   \r"
+    ],
+    [
+      0.000156,
+      "Resolving deltas:  83% (1690/2024)   \r"
+    ],
+    [
+      0.000122,
+      "Resolving deltas:  84% (1701/2024)   \r"
+    ],
+    [
+      0.000254,
+      "Resolving deltas:  85% (1722/2024)   \r"
+    ],
+    [
+      0.000221,
+      "Resolving deltas:  86% (1742/2024)   \r"
+    ],
+    [
+      0.000218,
+      "Resolving deltas:  87% (1761/2024)   \r"
+    ],
+    [
+      0.000287,
+      "Resolving deltas:  88% (1788/2024)   \r"
+    ],
+    [
+      0.000169,
+      "Resolving deltas:  89% (1802/2024)   \r"
+    ],
+    [
+      0.000231,
+      "Resolving deltas:  90% (1824/2024)   \r"
+    ],
+    [
+      0.000224,
+      "Resolving deltas:  91% (1842/2024)   \r"
+    ],
+    [
+      0.000615,
+      "Resolving deltas:  93% (1888/2024)   \r"
+    ],
+    [
+      0.000291,
+      "Resolving deltas:  94% (1904/2024)   \r"
+    ],
+    [
+      0.000209,
+      "Resolving deltas:  95% (1923/2024)   \r"
+    ],
+    [
+      0.000275,
+      "Resolving deltas:  96% (1948/2024)   \r"
+    ],
+    [
+      0.000285,
+      "Resolving deltas:  97% (1969/2024)   \r"
+    ],
+    [
+      0.000163,
+      "Resolving deltas:  98% (1984/2024)   \r"
+    ],
+    [
+      0.000223,
+      "Resolving deltas:  99% (2004/2024)   \r"
+    ],
+    [
+      0.000250,
+      "Resolving deltas: 100% (2024/2024)   \r"
+    ],
+    [
+      0.000032,
+      "Resolving deltas: 100% (2024/2024), done."
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.216271,
+      "Checking connectivity... "
+    ],
+    [
+      0.001128,
+      "done.\r\n"
+    ],
+    [
+      0.042695,
+      "Submodule 'wiki' (https://github.com/j4ve1in/dotfiles.wiki.git) registered for p \u0008ath 'wiki'\r\n"
+    ],
+    [
+      0.017764,
+      "Cloning into 'wiki'..."
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      1.085015,
+      "remote: Counting objects: 9, done.\u001b[K\r\nremote: Total 9 (delta 0), reused 0 (delta 0), pack-reused 9\u001b[K"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.001324,
+      "Unpacking objects:  11% (1/9)   \r"
+    ],
+    [
+      0.000166,
+      "Unpacking objects:  22% (2/9)   \r"
+    ],
+    [
+      0.000140,
+      "Unpacking objects:  33% (3/9)   \r"
+    ],
+    [
+      0.000117,
+      "Unpacking objects:  44% (4/9)   \r"
+    ],
+    [
+      0.000162,
+      "Unpacking objects:  55% (5/9)   \r"
+    ],
+    [
+      0.000159,
+      "Unpacking objects:  66% (6/9)   \r"
+    ],
+    [
+      0.000113,
+      "Unpacking objects:  77% (7/9)   \r"
+    ],
+    [
+      0.000118,
+      "Unpacking objects:  88% (8/9)   \r"
+    ],
+    [
+      0.000156,
+      "Unpacking objects: 100% (9/9)   \r"
+    ],
+    [
+      0.000003,
+      "Unpacking objects: 100% (9/9), done."
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000329,
+      "Checking connectivity... "
+    ],
+    [
+      0.001157,
+      "done."
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.026369,
+      "Submodule path 'wiki': checked out '00351671487b949341b214c4934f3db5e4b8d352'\r\n"
+    ],
+    [
+      0.010788,
+      "\u001b[1m~\u001b[m\r\n\u001b[1m~\u001b[m"
+    ],
+    [
+      0.000009,
+      "\r\n\u001b[1m~\u001b[m\r\n\u001b[1m~\u001b[m\r\n\u001b[1m~\u001b[m\r\n\u001b[1m~\u001b[m\r\n\u001b[1m~\u001b[m\r\n\u001b[1m~\u001b[m\r\n\u001b[1m~\u001b[m\r\n\u001b[1m~\u001b[m"
+    ],
+    [
+      0.000004,
+      "\r\n\u001b[1m~\u001b[m\r\n\u001b[1m~\u001b[m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[1m~\u001b[m\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[1m~\u001b[m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[1m~\u001b[m"
+    ],
+    [
+      0.000003,
+      "\r\n\u001b[1m~\u001b[m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[1m~\u001b[m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[1m~\u001b[m\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[1m~\u001b[m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[1m~\u001b[m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "\r\u001b[K\u001b\u003e\u001b[r\u001b[?1049l"
+    ],
+    [
+      0.000199,
+      "\u001b[1;36;49mdone\u001b[0;39;49m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.703281,
+      "\u001b[4;39;49mChecking backup file\u001b[0;39;49m\r\n"
+    ],
+    [
+      0.204284,
+      "\u001b[1;38;5;75;49m Total:\u001b[0;39;49m"
+    ],
+    [
+      0.000006,
+      " 0 "
+    ],
+    [
+      0.000051,
+      "\u001b[34m(\u001b[0;39;49m0 directories, 0 files"
+    ],
+    [
+      0.000030,
+      "\u001b[34m)\u001b[0;39;49m"
+    ],
+    [
+      0.010851,
+      "\r"
+    ],
+    [
+      0.000087,
+      "\u001b[1;38;5;75;49m Total:\u001b[0;39;49m"
+    ],
+    [
+      0.000018,
+      " 0 "
+    ],
+    [
+      0.000030,
+      "\u001b[34m(\u001b[0;39;49m"
+    ],
+    [
+      0.000015,
+      "0 directories, "
+    ],
+    [
+      0.000003,
+      "0 files"
+    ],
+    [
+      0.000032,
+      "\u001b[34m)\u001b[0;39;49m"
+    ],
+    [
+      0.010843,
+      "\r"
+    ],
+    [
+      0.000088,
+      "\u001b[1;38;5;75;49m Total:\u001b[0;39;49m"
+    ],
+    [
+      0.000017,
+      " 0 "
+    ],
+    [
+      0.000031,
+      "\u001b[34m(\u001b[0;39;49m"
+    ],
+    [
+      0.000015,
+      "0 directories, "
+    ],
+    [
+      0.000002,
+      "0 files"
+    ],
+    [
+      0.000032,
+      "\u001b[34m)\u001b[0;39;49m"
+    ],
+    [
+      0.010794,
+      "\r"
+    ],
+    [
+      0.000074,
+      "\u001b[1;38;5;75;49m Total:\u001b[0;39;49m"
+    ],
+    [
+      0.000017,
+      " 0 "
+    ],
+    [
+      0.000050,
+      "\u001b[34m(\u001b[0;39;49m"
+    ],
+    [
+      0.000021,
+      "0 directories, 0 files"
+    ],
+    [
+      0.000030,
+      "\u001b[34m)\u001b[0;39;49m"
+    ],
+    [
+      0.010846,
+      "\r"
+    ],
+    [
+      0.000125,
+      "\u001b[1;38;5;75;49m Total:\u001b[0;39;49m"
+    ],
+    [
+      0.000021,
+      " 0 "
+    ],
+    [
+      0.000044,
+      "\u001b[34m(\u001b[0;39;49m"
+    ],
+    [
+      0.000022,
+      "0 directories, "
+    ],
+    [
+      0.000012,
+      "0 files"
+    ],
+    [
+      0.000043,
+      "\u001b[34m)\u001b[0;39;49m"
+    ],
+    [
+      0.010844,
+      "\r"
+    ],
+    [
+      0.000112,
+      "\u001b[1;38;5;75;49m Total:\u001b[0;39;49m"
+    ],
+    [
+      0.000023,
+      " 0 "
+    ],
+    [
+      0.000044,
+      "\u001b[34m(\u001b[0;39;49m"
+    ],
+    [
+      0.000022,
+      "0 directories, "
+    ],
+    [
+      0.000013,
+      "0 files"
+    ],
+    [
+      0.000057,
+      "\u001b[34m)\u001b[0;39;49m"
+    ],
+    [
+      0.010897,
+      "\r"
+    ],
+    [
+      0.000130,
+      "\u001b[1;38;5;75;49m Total:\u001b[0;39;49m"
+    ],
+    [
+      0.000023,
+      " 0 "
+    ],
+    [
+      0.000045,
+      "\u001b[34m(\u001b[0;39;49m"
+    ],
+    [
+      0.000021,
+      "0 directories, "
+    ],
+    [
+      0.000014,
+      "0 files"
+    ],
+    [
+      0.000041,
+      "\u001b[34m)\u001b[0;39;49m"
+    ],
+    [
+      0.010933,
+      "\r"
+    ],
+    [
+      0.000114,
+      "\u001b[1;38;5;75;49m Total:\u001b[0;39;49m"
+    ],
+    [
+      0.000022,
+      " 0 "
+    ],
+    [
+      0.000044,
+      "\u001b[34m(\u001b[0;39;49m"
+    ],
+    [
+      0.000021,
+      "0 directories, "
+    ],
+    [
+      0.000013,
+      "0 files"
+    ],
+    [
+      0.000041,
+      "\u001b[34m)\u001b[0;39;49m"
+    ],
+    [
+      0.010926,
+      "\r"
+    ],
+    [
+      0.000087,
+      "\u001b[1;38;5;75;49m Total:\u001b[0;39;49m"
+    ],
+    [
+      0.000023,
+      " 0 "
+    ],
+    [
+      0.000041,
+      "\u001b[34m(\u001b[0;39;49m"
+    ],
+    [
+      0.000018,
+      "0 directories, "
+    ],
+    [
+      0.000015,
+      "0 files"
+    ],
+    [
+      0.000040,
+      "\u001b[34m)\u001b[0;39;49m"
+    ],
+    [
+      0.010789,
+      "\r"
+    ],
+    [
+      0.000077,
+      "\u001b[1;38;5;75;49m Total:\u001b[0;39;49m"
+    ],
+    [
+      0.000020,
+      " 0 "
+    ],
+    [
+      0.000038,
+      "\u001b[34m(\u001b[0;39;49m"
+    ],
+    [
+      0.000021,
+      "0 directories, "
+    ],
+    [
+      0.000025,
+      "0 files"
+    ],
+    [
+      0.000045,
+      "\u001b[34m)\u001b[0;39;49m"
+    ],
+    [
+      0.010718,
+      "\r"
+    ],
+    [
+      0.000112,
+      "\u001b[1;38;5;75;49m Total:\u001b[0;39;49m"
+    ],
+    [
+      0.000022,
+      " 0 "
+    ],
+    [
+      0.000043,
+      "\u001b[34m(\u001b[0;39;49m"
+    ],
+    [
+      0.000022,
+      "0 directories, "
+    ],
+    [
+      0.000013,
+      "0 files"
+    ],
+    [
+      0.000044,
+      "\u001b[34m)\u001b[0;39;49m"
+    ],
+    [
+      0.010902,
+      "\r"
+    ],
+    [
+      0.000114,
+      "\u001b[1;38;5;75;49m Total:\u001b[0;39;49m"
+    ],
+    [
+      0.000022,
+      " 0 "
+    ],
+    [
+      0.000044,
+      "\u001b[34m(\u001b[0;39;49m"
+    ],
+    [
+      0.000021,
+      "0 directories, "
+    ],
+    [
+      0.000013,
+      "0 files"
+    ],
+    [
+      0.000041,
+      "\u001b[34m)\u001b[0;39;49m"
+    ],
+    [
+      0.010839,
+      "\r"
+    ],
+    [
+      0.000126,
+      "\u001b[1;38;5;75;49m Total:\u001b[0;39;49m"
+    ],
+    [
+      0.000020,
+      " 0 "
+    ],
+    [
+      0.000044,
+      "\u001b[34m(\u001b[0;39;49m"
+    ],
+    [
+      0.000022,
+      "0 directories, "
+    ],
+    [
+      0.000013,
+      "0 files"
+    ],
+    [
+      0.000041,
+      "\u001b[34m)\u001b[0;39;49m"
+    ],
+    [
+      0.010931,
+      "\r"
+    ],
+    [
+      0.000115,
+      "\u001b[1;38;5;75;49m Total:\u001b[0;39;49m"
+    ],
+    [
+      0.000023,
+      " 0 "
+    ],
+    [
+      0.000044,
+      "\u001b[34m(\u001b[0;39;49m"
+    ],
+    [
+      0.000021,
+      "0 directories, "
+    ],
+    [
+      0.000015,
+      "0 files"
+    ],
+    [
+      0.000038,
+      "\u001b[34m)\u001b[0;39;49m"
+    ],
+    [
+      0.010911,
+      "\r"
+    ],
+    [
+      0.000129,
+      "\u001b[1;38;5;75;49m Total:\u001b[0;39;49m"
+    ],
+    [
+      0.000023,
+      " 0 "
+    ],
+    [
+      0.000044,
+      "\u001b[34m(\u001b[0;39;49m"
+    ],
+    [
+      0.000021,
+      "0 directories, "
+    ],
+    [
+      0.000013,
+      "0 files"
+    ],
+    [
+      0.000041,
+      "\u001b[34m)\u001b[0;39;49m"
+    ],
+    [
+      0.010932,
+      "\r"
+    ],
+    [
+      0.000112,
+      "\u001b[1;38;5;75;49m Total:\u001b[0;39;49m"
+    ],
+    [
+      0.000002,
+      " 0 "
+    ],
+    [
+      0.000048,
+      "\u001b[34m(\u001b[0;39;49m"
+    ],
+    [
+      0.000002,
+      "0 directories, "
+    ],
+    [
+      0.000014,
+      "0 files"
+    ],
+    [
+      0.000028,
+      "\u001b[34m)\u001b[0;39;49m"
+    ],
+    [
+      0.010969,
+      "\r"
+    ],
+    [
+      0.000088,
+      "\u001b[1;38;5;75;49m Total:\u001b[0;39;49m"
+    ],
+    [
+      0.000018,
+      " 0 "
+    ],
+    [
+      0.000046,
+      "\u001b[34m(\u001b[0;39;49m"
+    ],
+    [
+      0.000016,
+      "0 directories, "
+    ],
+    [
+      0.000016,
+      "0 files"
+    ],
+    [
+      0.000042,
+      "\u001b[34m)\u001b[0;39;49m"
+    ],
+    [
+      0.010862,
+      "\r"
+    ],
+    [
+      0.000098,
+      "\u001b[1;38;5;75;49m Total:\u001b[0;39;49m"
+    ],
+    [
+      0.000018,
+      " 0 "
+    ],
+    [
+      0.000042,
+      "\u001b[34m(\u001b[0;39;49m"
+    ],
+    [
+      0.000016,
+      "0 directories, "
+    ],
+    [
+      0.000015,
+      "0 files"
+    ],
+    [
+      0.000042,
+      "\u001b[34m)\u001b[0;39;49m"
+    ],
+    [
+      0.010827,
+      "\r"
+    ],
+    [
+      0.000092,
+      "\u001b[1;38;5;75;49m Total:\u001b[0;39;49m"
+    ],
+    [
+      0.000020,
+      " 0 "
+    ],
+    [
+      0.000044,
+      "\u001b[34m(\u001b[0;39;49m"
+    ],
+    [
+      0.000018,
+      "0 directories, "
+    ],
+    [
+      0.000014,
+      "0 files"
+    ],
+    [
+      0.000038,
+      "\u001b[34m)\u001b[0;39;49m"
+    ],
+    [
+      0.010898,
+      "\r"
+    ],
+    [
+      0.000106,
+      "\u001b[1;38;5;75;49m Total:\u001b[0;39;49m"
+    ],
+    [
+      0.000020,
+      " 0 "
+    ],
+    [
+      0.000044,
+      "\u001b[34m(\u001b[0;39;49m"
+    ],
+    [
+      0.000017,
+      "0 directories, "
+    ],
+    [
+      0.000016,
+      "0 files"
+    ],
+    [
+      0.000040,
+      "\u001b[34m)\u001b[0;39;49m"
+    ],
+    [
+      0.010877,
+      "\r"
+    ],
+    [
+      0.000116,
+      "\u001b[1;38;5;75;49m Total:\u001b[0;39;49m"
+    ],
+    [
+      0.000003,
+      " 0 "
+    ],
+    [
+      0.000031,
+      "\u001b[34m(\u001b[0;39;49m"
+    ],
+    [
+      0.000013,
+      "0 directories, "
+    ],
+    [
+      0.000010,
+      "0 files"
+    ],
+    [
+      0.000051,
+      "\u001b[34m)\u001b[0;39;49m"
+    ],
+    [
+      0.010905,
+      "\r"
+    ],
+    [
+      0.000097,
+      "\u001b[1;38;5;75;49m Total:\u001b[0;39;49m"
+    ],
+    [
+      0.000019,
+      " 0 "
+    ],
+    [
+      0.000052,
+      "\u001b[34m(\u001b[0;39;49m"
+    ],
+    [
+      0.000441,
+      "0 directories, 0 files\u001b[34m)\u001b[0;39;49m"
+    ],
+    [
+      0.010584,
+      "\r"
+    ],
+    [
+      0.000129,
+      "\u001b[1;38;5;75;49m Total:\u001b[0;39;49m"
+    ],
+    [
+      0.000024,
+      " 0 "
+    ],
+    [
+      0.000044,
+      "\u001b[34m(\u001b[0;39;49m"
+    ],
+    [
+      0.000021,
+      "0 directories, "
+    ],
+    [
+      0.000013,
+      "0 files"
+    ],
+    [
+      0.000042,
+      "\u001b[34m)\u001b[0;39;49m"
+    ],
+    [
+      0.010821,
+      "\r"
+    ],
+    [
+      0.000106,
+      "\u001b[1;38;5;75;49m Total:\u001b[0;39;49m"
+    ],
+    [
+      0.000021,
+      " 0 "
+    ],
+    [
+      0.000043,
+      "\u001b[34m(\u001b[0;39;49m"
+    ],
+    [
+      0.000021,
+      "0 directories, "
+    ],
+    [
+      0.000013,
+      "0 files"
+    ],
+    [
+      0.000040,
+      "\u001b[34m)\u001b[0;39;49m"
+    ],
+    [
+      0.010730,
+      "\r"
+    ],
+    [
+      0.000092,
+      "\u001b[1;38;5;75;49m Total:\u001b[0;39;49m"
+    ],
+    [
+      0.000019,
+      " 0 "
+    ],
+    [
+      0.000052,
+      "\u001b[34m(\u001b[0;39;49m"
+    ],
+    [
+      0.000020,
+      "0 directories, 0 files"
+    ],
+    [
+      0.000032,
+      "\u001b[34m)\u001b[0;39;49m"
+    ],
+    [
+      0.010998,
+      "\r"
+    ],
+    [
+      0.000082,
+      "\u001b[1;38;5;75;49m Total:\u001b[0;39;49m"
+    ],
+    [
+      0.000015,
+      " 0 "
+    ],
+    [
+      0.000031,
+      "\u001b[34m(\u001b[0;39;49m"
+    ],
+    [
+      0.000015,
+      "0 directories, "
+    ],
+    [
+      0.000002,
+      "0 files"
+    ],
+    [
+      0.000032,
+      "\u001b[34m)\u001b[0;39;49m"
+    ],
+    [
+      0.010919,
+      "\r"
+    ],
+    [
+      0.000097,
+      "\u001b[1;38;5;75;49m Total:\u001b[0;39;49m"
+    ],
+    [
+      0.000019,
+      " 0 "
+    ],
+    [
+      0.000045,
+      "\u001b[34m(\u001b[0;39;49m"
+    ],
+    [
+      0.000016,
+      "0 directories, "
+    ],
+    [
+      0.000015,
+      "0 files"
+    ],
+    [
+      0.000041,
+      "\u001b[34m)\u001b[0;39;49m"
+    ],
+    [
+      0.010916,
+      "\r"
+    ],
+    [
+      0.000108,
+      "\u001b[1;38;5;75;49m Total:\u001b[0;39;49m"
+    ],
+    [
+      0.000019,
+      " 0 "
+    ],
+    [
+      0.000050,
+      "\u001b[34m(\u001b[0;39;49m"
+    ],
+    [
+      0.000011,
+      "0 directories, "
+    ],
+    [
+      0.000017,
+      "0 files"
+    ],
+    [
+      0.000048,
+      "\u001b[34m)\u001b[0;39;49m"
+    ],
+    [
+      0.010930,
+      "\r"
+    ],
+    [
+      0.000090,
+      "\u001b[1;38;5;75;49m Total:\u001b[0;39;49m"
+    ],
+    [
+      0.000019,
+      " 0 "
+    ],
+    [
+      0.000045,
+      "\u001b[34m(\u001b[0;39;49m"
+    ],
+    [
+      0.000015,
+      "0 directories, "
+    ],
+    [
+      0.000015,
+      "0 files"
+    ],
+    [
+      0.000041,
+      "\u001b[34m)\u001b[0;39;49m"
+    ],
+    [
+      0.010910,
+      "\r"
+    ],
+    [
+      0.000112,
+      "\u001b[1;38;5;75;49m Total:\u001b[0;39;49m"
+    ],
+    [
+      0.000018,
+      " 0 "
+    ],
+    [
+      0.000055,
+      "\u001b[34m(\u001b[0;39;49m"
+    ],
+    [
+      0.000015,
+      "0 directories, "
+    ],
+    [
+      0.000016,
+      "0 files"
+    ],
+    [
+      0.000040,
+      "\u001b[34m)\u001b[0;39;49m"
+    ],
+    [
+      0.010821,
+      "\r"
+    ],
+    [
+      0.000120,
+      "\u001b[1;38;5;75;49m Total:\u001b[0;39;49m"
+    ],
+    [
+      0.000016,
+      " 0 "
+    ],
+    [
+      0.000042,
+      "\u001b[34m(\u001b[0;39;49m"
+    ],
+    [
+      0.000018,
+      "0 directories, "
+    ],
+    [
+      0.000015,
+      "0 files"
+    ],
+    [
+      0.000041,
+      "\u001b[34m)\u001b[0;39;49m"
+    ],
+    [
+      0.010871,
+      "\r"
+    ],
+    [
+      0.000110,
+      "\u001b[1;38;5;75;49m Total:\u001b[0;39;49m"
+    ],
+    [
+      0.000020,
+      " 0 "
+    ],
+    [
+      0.000044,
+      "\u001b[34m(\u001b[0;39;49m"
+    ],
+    [
+      0.000018,
+      "0 directories, "
+    ],
+    [
+      0.000015,
+      "0 files"
+    ],
+    [
+      0.000041,
+      "\u001b[34m)\u001b[0;39;49m"
+    ],
+    [
+      0.010821,
+      "\r"
+    ],
+    [
+      0.000108,
+      "\u001b[1;38;5;75;49m Total:\u001b[0;39;49m"
+    ],
+    [
+      0.000018,
+      " 0 "
+    ],
+    [
+      0.000044,
+      "\u001b[34m(\u001b[0;39;49m"
+    ],
+    [
+      0.000019,
+      "0 directories, "
+    ],
+    [
+      0.000015,
+      "0 files"
+    ],
+    [
+      0.000040,
+      "\u001b[34m)\u001b[0;39;49m"
+    ],
+    [
+      0.010906,
+      "\r"
+    ],
+    [
+      0.000113,
+      "\u001b[1;38;5;75;49m Total:\u001b[0;39;49m"
+    ],
+    [
+      0.000003,
+      " 0 "
+    ],
+    [
+      0.000278,
+      "\u001b[34m(\u001b[0;39;49m"
+    ],
+    [
+      0.000004,
+      "0 directories, 0 files\u001b[34m)\u001b[0;39;49m"
+    ],
+    [
+      0.010702,
+      "\r"
+    ],
+    [
+      0.000108,
+      "\u001b[1;38;5;75;49m Total:\u001b[0;39;49m"
+    ],
+    [
+      0.000018,
+      " 0 "
+    ],
+    [
+      0.000046,
+      "\u001b[34m(\u001b[0;39;49m"
+    ],
+    [
+      0.000018,
+      "0 directories, "
+    ],
+    [
+      0.000015,
+      "0 files"
+    ],
+    [
+      0.000041,
+      "\u001b[34m)\u001b[0;39;49m"
+    ],
+    [
+      0.010727,
+      "\r"
+    ],
+    [
+      0.000106,
+      "\u001b[1;38;5;75;49m Total:\u001b[0;39;49m"
+    ],
+    [
+      0.000019,
+      " 0 "
+    ],
+    [
+      0.000044,
+      "\u001b[34m(\u001b[0;39;49m"
+    ],
+    [
+      0.000017,
+      "0 directories, "
+    ],
+    [
+      0.000015,
+      "0 files"
+    ],
+    [
+      0.000039,
+      "\u001b[34m)\u001b[0;39;49m"
+    ],
+    [
+      0.010751,
+      "\r"
+    ],
+    [
+      0.000039,
+      "\r\n"
+    ],
+    [
+      0.000195,
+      " Backup file doesn't exist"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.699677,
+      "\u001b[4;39mStart creating symbolic link\u001b[0;39m\r\n"
+    ],
+    [
+      0.000144,
+      "\u001b[34m [\u001b[0;39;49m"
+    ],
+    [
+      0.000021,
+      " 1/36"
+    ],
+    [
+      0.000028,
+      "\u001b[34m] \u001b[0;39;49m"
+    ],
+    [
+      0.000034,
+      "\u001b[1;38;5;75;49mCreating symlink:\u001b[0;39;49m"
+    ],
+    [
+      0.000019,
+      " /home/j4ve1in/.wgetrc"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.006471,
+      "\u001b[34m [\u001b[0;39;49m"
+    ],
+    [
+      0.000005,
+      " 2/36"
+    ],
+    [
+      0.000035,
+      "\u001b[34m] \u001b[0;39;49m"
+    ],
+    [
+      0.000043,
+      "\u001b[1;38;5;75;49mCreating symlink:\u001b[0;39;49m"
+    ],
+    [
+      0.000022,
+      " /home/j4ve1in/.curlrc\r\n"
+    ],
+    [
+      0.006478,
+      "\u001b[34m [\u001b[0;39;49m"
+    ],
+    [
+      0.000034,
+      " 3/36"
+    ],
+    [
+      0.000035,
+      "\u001b[34m] \u001b[0;39;49m"
+    ],
+    [
+      0.000048,
+      "\u001b[1;38;5;75;49mCreating symlink:\u001b[0;39;49m"
+    ],
+    [
+      0.000031,
+      " /home/j4ve1in/.emacs.d\r\n"
+    ],
+    [
+      0.006420,
+      "\u001b[34m [\u001b[0;39;49m"
+    ],
+    [
+      0.000005,
+      " 4/36"
+    ],
+    [
+      0.000058,
+      "\u001b[34m] \u001b[0;39;49m"
+    ],
+    [
+      0.000051,
+      "\u001b[1;38;5;75;49mCreating symlink:\u001b[0;39;49m"
+    ],
+    [
+      0.000003,
+      " /home/j4ve1in/.gvimrc"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.006481,
+      "\u001b[34m [\u001b[0;39;49m"
+    ],
+    [
+      0.000006,
+      " 5/36"
+    ],
+    [
+      0.000035,
+      "\u001b[34m] \u001b[0;39;49m"
+    ],
+    [
+      0.000058,
+      "\u001b[1;38;5;75;49mCreating symlink:\u001b[0;39;49m"
+    ],
+    [
+      0.000012,
+      " /home/j4ve1in/.vimrc.plugin.d"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.006790,
+      "\u001b[34m [\u001b[0;39;49m 6/36"
+    ],
+    [
+      0.000077,
+      "\u001b[34m] \u001b[0;39;49m"
+    ],
+    [
+      0.000003,
+      "\u001b[1;38;5;75;49mCreating symlink:\u001b[0;39;49m"
+    ],
+    [
+      0.000075,
+      " /home/j4ve1in/.atom\r\n"
+    ],
+    [
+      0.006707,
+      "\u001b[34m [\u001b[0;39;49m"
+    ],
+    [
+      0.000006,
+      " 7/36"
+    ],
+    [
+      0.000048,
+      "\u001b[34m] \u001b[0;39;49m"
+    ],
+    [
+      0.000047,
+      "\u001b[1;38;5;75;49mCreating symlink:\u001b[0;39;49m"
+    ],
+    [
+      0.000030,
+      " /home/j4ve1in/.vim"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.006556,
+      "\u001b[34m [\u001b[0;39;49m"
+    ],
+    [
+      0.000014,
+      " 8/36"
+    ],
+    [
+      0.000044,
+      "\u001b[34m] \u001b[0;39;49m"
+    ],
+    [
+      0.000048,
+      "\u001b[1;38;5;75;49mCreating symlink:\u001b[0;39;49m"
+    ],
+    [
+      0.000030,
+      " /home/j4ve1in/.nanorc\r\n"
+    ],
+    [
+      0.006570,
+      "\u001b[34m [\u001b[0;39;49m"
+    ],
+    [
+      0.000014,
+      " 9/36"
+    ],
+    [
+      0.000043,
+      "\u001b[34m] \u001b[0;39;49m"
+    ],
+    [
+      0.000048,
+      "\u001b[1;38;5;75;49mCreating symlink:\u001b[0;39;49m"
+    ],
+    [
+      0.000037,
+      " /home/j4ve1in/.vimrc.d"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.006617,
+      "\u001b[34m [\u001b[0;39;49m"
+    ],
+    [
+      0.000006,
+      "10/36"
+    ],
+    [
+      0.000019,
+      "\u001b[34m] \u001b[0;39;49m"
+    ],
+    [
+      0.000051,
+      "\u001b[1;38;5;75;49mCreating symlink:\u001b[0;39;49m"
+    ],
+    [
+      0.000027,
+      " /home/j4ve1in/.vimrc\r\n"
+    ],
+    [
+      0.006543,
+      "\u001b[34m [\u001b[0;39;49m"
+    ],
+    [
+      0.000006,
+      "11/36"
+    ],
+    [
+      0.000055,
+      "\u001b[34m] \u001b[0;39;49m"
+    ],
+    [
+      0.000062,
+      "\u001b[1;38;5;75;49mCreating symlink:\u001b[0;39;49m"
+    ],
+    [
+      0.000038,
+      " /home/j4ve1in/.vimshrc"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.006721,
+      "\u001b[34m [\u001b[0;39;49m"
+    ],
+    [
+      0.000006,
+      "12/36"
+    ],
+    [
+      0.000016,
+      "\u001b[34m] \u001b[0;39;49m"
+    ],
+    [
+      0.000053,
+      "\u001b[1;38;5;75;49mCreating symlink:\u001b[0;39;49m"
+    ],
+    [
+      0.000027,
+      " /home/j4ve1in/.gitconfig"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.006651,
+      "\u001b[34m [\u001b[0;39;49m"
+    ],
+    [
+      0.000006,
+      "13/36"
+    ],
+    [
+      0.000019,
+      "\u001b[34m] \u001b[0;39;49m"
+    ],
+    [
+      0.000054,
+      "\u001b[1;38;5;75;49mCreating symlink:\u001b[0;39;49m"
+    ],
+    [
+      0.000038,
+      " /home/j4ve1in/.gitattributes.global\r\n"
+    ],
+    [
+      0.006492,
+      "\u001b[34m [\u001b[0;39;49m"
+    ],
+    [
+      0.000006,
+      "14/36"
+    ],
+    [
+      0.000021,
+      "\u001b[34m] \u001b[0;39;49m"
+    ],
+    [
+      0.000051,
+      "\u001b[1;38;5;75;49mCreating symlink:\u001b[0;39;49m"
+    ],
+    [
+      0.000030,
+      " /home/j4ve1in/.gitignore.global"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.006622,
+      "\u001b[34m [\u001b[0;39;49m"
+    ],
+    [
+      0.000006,
+      "15/36"
+    ],
+    [
+      0.000018,
+      "\u001b[34m] \u001b[0;39;49m"
+    ],
+    [
+      0.000054,
+      "\u001b[1;38;5;75;49mCreating symlink:\u001b[0;39;49m"
+    ],
+    [
+      0.000025,
+      " /home/j4ve1in/.gitconfig.aliases"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.006582,
+      "\u001b[34m [\u001b[0;39;49m"
+    ],
+    [
+      0.000006,
+      "16/36"
+    ],
+    [
+      0.000027,
+      "\u001b[34m] \u001b[0;39;49m"
+    ],
+    [
+      0.000063,
+      "\u001b[1;38;5;75;49mCreating symlink:\u001b[0;39;49m"
+    ],
+    [
+      0.000030,
+      " /home/j4ve1in/.tigrc"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.006579,
+      "\u001b[34m [\u001b[0;39;49m"
+    ],
+    [
+      0.000006,
+      "17/36"
+    ],
+    [
+      0.000019,
+      "\u001b[34m] \u001b[0;39;49m"
+    ],
+    [
+      0.000051,
+      "\u001b[1;38;5;75;49mCreating symlink:\u001b[0;39;49m"
+    ],
+    [
+      0.000029,
+      " /home/j4ve1in/.screenrc"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.006605,
+      "\u001b[34m [\u001b[0;39;49m"
+    ],
+    [
+      0.000006,
+      "18/36"
+    ],
+    [
+      0.000026,
+      "\u001b[34m] \u001b[0;39;49m"
+    ],
+    [
+      0.000050,
+      "\u001b[1;38;5;75;49mCreating symlink:\u001b[0;39;49m"
+    ],
+    [
+      0.000029,
+      " /home/j4ve1in/.tmux.conf"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.007155,
+      "\u001b[34m [\u001b[0;39;49m"
+    ],
+    [
+      0.000006,
+      "19/36"
+    ],
+    [
+      0.000044,
+      "\u001b[34m] \u001b[0;39;49m"
+    ],
+    [
+      0.000045,
+      "\u001b[1;38;5;75;49mCreating symlink:\u001b[0;39;49m"
+    ],
+    [
+      0.000031,
+      " /home/j4ve1in/.tmux"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.006588,
+      "\u001b[34m [\u001b[0;39;49m"
+    ],
+    [
+      0.000006,
+      "20/36"
+    ],
+    [
+      0.000014,
+      "\u001b[34m] \u001b[0;39;49m"
+    ],
+    [
+      0.000039,
+      "\u001b[1;38;5;75;49mCreating symlink:\u001b[0;39;49m"
+    ],
+    [
+      0.000024,
+      " /home/j4ve1in/.tmux.powerline.conf\r\n"
+    ],
+    [
+      0.007081,
+      "\u001b[34m [\u001b[0;39;49m"
+    ],
+    [
+      0.000012,
+      "21/36"
+    ],
+    [
+      0.000070,
+      "\u001b[34m] \u001b[0;39;49m"
+    ],
+    [
+      0.000075,
+      "\u001b[1;38;5;75;49mCreating symlink:\u001b[0;39;49m"
+    ],
+    [
+      0.000064,
+      " /home/j4ve1in/.inputrc"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.006716,
+      "\u001b[34m [\u001b[0;39;49m"
+    ],
+    [
+      0.000006,
+      "22/36"
+    ],
+    [
+      0.000015,
+      "\u001b[34m] \u001b[0;39;49m"
+    ],
+    [
+      0.000038,
+      "\u001b[1;38;5;75;49mCreating symlink:\u001b[0;39;49m"
+    ],
+    [
+      0.000024,
+      " /home/j4ve1in/.dir_colors\r\n"
+    ],
+    [
+      0.006569,
+      "\u001b[34m [\u001b[0;39;49m"
+    ],
+    [
+      0.000006,
+      "23/36"
+    ],
+    [
+      0.000055,
+      "\u001b[34m] \u001b[0;39;49m"
+    ],
+    [
+      0.000049,
+      "\u001b[1;38;5;75;49mCreating symlink:\u001b[0;39;49m"
+    ],
+    [
+      0.000031,
+      " /home/j4ve1in/.Xdefaults"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.006724,
+      "\u001b[34m [\u001b[0;39;49m"
+    ],
+    [
+      0.000006,
+      "24/36"
+    ],
+    [
+      0.000055,
+      "\u001b[34m] \u001b[0;39;49m"
+    ],
+    [
+      0.000048,
+      "\u001b[1;38;5;75;49mCreating symlink:\u001b[0;39;49m"
+    ],
+    [
+      0.000033,
+      " /home/j4ve1in/.minttyrc\r\n"
+    ],
+    [
+      0.006480,
+      "\u001b[34m [\u001b[0;39;49m"
+    ],
+    [
+      0.000017,
+      "25/36"
+    ],
+    [
+      0.000044,
+      "\u001b[34m] \u001b[0;39;49m"
+    ],
+    [
+      0.000047,
+      "\u001b[1;38;5;75;49mCreating symlink:\u001b[0;39;49m"
+    ],
+    [
+      0.000032,
+      " /home/j4ve1in/.xmonad\r\n"
+    ],
+    [
+      0.006645,
+      "\u001b[34m [\u001b[0;39;49m"
+    ],
+    [
+      0.000006,
+      "26/36"
+    ],
+    [
+      0.000021,
+      "\u001b[34m] \u001b[0;39;49m"
+    ],
+    [
+      0.000051,
+      "\u001b[1;38;5;75;49mCreating symlink:\u001b[0;39;49m"
+    ],
+    [
+      0.000029,
+      " /home/j4ve1in/.zshenv"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.006438,
+      "\u001b[34m [\u001b[0;39;49m"
+    ],
+    [
+      0.000016,
+      "27/36"
+    ],
+    [
+      0.000041,
+      "\u001b[34m] \u001b[0;39;49m"
+    ],
+    [
+      0.000061,
+      "\u001b[1;38;5;75;49mCreating symlink:\u001b[0;39;49m"
+    ],
+    [
+      0.000034,
+      " /home/j4ve1in/.hushlogin\r\n"
+    ],
+    [
+      0.006467,
+      "\u001b[34m [\u001b[0;39;49m"
+    ],
+    [
+      0.000013,
+      "28/36"
+    ],
+    [
+      0.000044,
+      "\u001b[34m] \u001b[0;39;49m"
+    ],
+    [
+      0.000046,
+      "\u001b[1;38;5;75;49mCreating symlink:\u001b[0;39;49m"
+    ],
+    [
+      0.000032,
+      " /home/j4ve1in/.zsh"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.006713,
+      "\u001b[34m [\u001b[0;39;49m"
+    ],
+    [
+      0.000006,
+      "29/36"
+    ],
+    [
+      0.000032,
+      "\u001b[34m] \u001b[0;39;49m"
+    ],
+    [
+      0.000035,
+      "\u001b[1;38;5;75;49mCreating symlink:\u001b[0;39;49m"
+    ],
+    [
+      0.000022,
+      " /home/j4ve1in/.bashrc.d\r\n"
+    ],
+    [
+      0.006454,
+      "\u001b[34m [\u001b[0;39;49m"
+    ],
+    [
+      0.000005,
+      "30/36"
+    ],
+    [
+      0.000026,
+      "\u001b[34m] \u001b[0;39;49m"
+    ],
+    [
+      0.000076,
+      "\u001b[1;38;5;75;49mCreating symlink:\u001b[0;39;49m"
+    ],
+    [
+      0.000042,
+      " /home/j4ve1in/.shrc"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.006547,
+      "\u001b[34m [\u001b[0;39;49m"
+    ],
+    [
+      0.000015,
+      "31/36"
+    ],
+    [
+      0.000045,
+      "\u001b[34m] \u001b[0;39;49m"
+    ],
+    [
+      0.000048,
+      "\u001b[1;38;5;75;49mCreating symlink:\u001b[0;39;49m"
+    ],
+    [
+      0.000033,
+      " /home/j4ve1in/.bashrc\r\n"
+    ],
+    [
+      0.006627,
+      "\u001b[34m [\u001b[0;39;49m"
+    ],
+    [
+      0.000006,
+      "32/36"
+    ],
+    [
+      0.000012,
+      "\u001b[34m] \u001b[0;39;49m"
+    ],
+    [
+      0.000054,
+      "\u001b[1;38;5;75;49mCreating symlink:\u001b[0;39;49m"
+    ],
+    [
+      0.000031,
+      " /home/j4ve1in/.zshrc.plugin.d"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.006624,
+      "\u001b[34m [\u001b[0;39;49m"
+    ],
+    [
+      0.000006,
+      "33/36"
+    ],
+    [
+      0.000037,
+      "\u001b[34m] \u001b[0;39;49m"
+    ],
+    [
+      0.000054,
+      "\u001b[1;38;5;75;49mCreating symlink:\u001b[0;39;49m"
+    ],
+    [
+      0.000024,
+      " /home/j4ve1in/.bash_profile"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.006984,
+      "\u001b[34m [\u001b[0;39;49m"
+    ],
+    [
+      0.000006,
+      "34/36"
+    ],
+    [
+      0.000016,
+      "\u001b[34m] \u001b[0;39;49m"
+    ],
+    [
+      0.000051,
+      "\u001b[1;38;5;75;49mCreating symlink:\u001b[0;39;49m"
+    ],
+    [
+      0.000028,
+      " /home/j4ve1in/.bash"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.006601,
+      "\u001b[34m [\u001b[0;39;49m"
+    ],
+    [
+      0.000006,
+      "35/36"
+    ],
+    [
+      0.000018,
+      "\u001b[34m] \u001b[0;39;49m"
+    ],
+    [
+      0.000060,
+      "\u001b[1;38;5;75;49mCreating symlink:\u001b[0;39;49m"
+    ],
+    [
+      0.000033,
+      " /home/j4ve1in/.zshrc.d"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.006577,
+      "\u001b[34m [\u001b[0;39;49m"
+    ],
+    [
+      0.000006,
+      "36/36"
+    ],
+    [
+      0.000016,
+      "\u001b[34m] \u001b[0;39;49m"
+    ],
+    [
+      0.000052,
+      "\u001b[1;38;5;75;49mCreating symlink:\u001b[0;39;49m"
+    ],
+    [
+      0.000027,
+      " /home/j4ve1in/.shrc.d"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.006419,
+      "\r\n"
+    ],
+    [
+      0.501985,
+      "Do you want to restart shell (yes/no)? "
+    ],
+    [
+      3.068748,
+      "y"
+    ],
+    [
+      0.040528,
+      "e"
+    ],
+    [
+      0.121924,
+      "s"
+    ],
+    [
+      0.730991,
+      "\r\n"
+    ],
+    [
+      0.000201,
+      "Restarting shell...\r\n"
+    ],
+    [
+      0.503494,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.076240,
+      "\u001b[1;38;05;75mCompile zsh's configuration files\r\n\u001b[0m"
+    ],
+    [
+      0.000040,
+      "\u001b[34m [\u001b[0m"
+    ],
+    [
+      0.000015,
+      "1/12"
+    ],
+    [
+      0.000024,
+      "\u001b[34m] \u001b[0m"
+    ],
+    [
+      0.000011,
+      "Compile .zshenv..."
+    ],
+    [
+      0.000283,
+      "\u001b[34mdone\r\n\u001b[0m"
+    ],
+    [
+      0.000032,
+      "\u001b[34m [\u001b[0m"
+    ],
+    [
+      0.000010,
+      "2/12"
+    ],
+    [
+      0.000028,
+      "\u001b[34m] \u001b[0mCompile .zsh/.zprofile..."
+    ],
+    [
+      0.000192,
+      "\u001b[34mdone\r\n\u001b[0m"
+    ],
+    [
+      0.000048,
+      "\u001b[34m [\u001b[0m3/12"
+    ],
+    [
+      0.000019,
+      "\u001b[34m] \u001b[0m"
+    ],
+    [
+      0.000011,
+      "Compile .zsh/.zshrc..."
+    ],
+    [
+      0.000125,
+      "\u001b[34mdone"
+    ],
+    [
+      0.000002,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000068,
+      "\u001b[34m [\u001b[0m4/12"
+    ],
+    [
+      0.000017,
+      "\u001b[34m] \u001b[0m"
+    ],
+    [
+      0.000003,
+      "Compile .zshrc.d/base.rc.zsh..."
+    ],
+    [
+      0.000147,
+      "\u001b[34mdone\r\n\u001b[0m"
+    ],
+    [
+      0.000052,
+      "\u001b[34m [\u001b[0m5/12"
+    ],
+    [
+      0.000017,
+      "\u001b[34m] \u001b[0m"
+    ],
+    [
+      0.000015,
+      "Compile .zshrc.d/completion.rc.zsh..."
+    ],
+    [
+      0.000217,
+      "\u001b[34mdone\r\n\u001b[0m"
+    ],
+    [
+      0.000054,
+      "\u001b[34m [\u001b[0m"
+    ],
+    [
+      0.000002,
+      "6/12"
+    ],
+    [
+      0.000017,
+      "\u001b[34m] \u001b[0m"
+    ],
+    [
+      0.000014,
+      "Compile .zshrc.d/history.rc.zsh..."
+    ],
+    [
+      0.000116,
+      "\u001b[34mdone"
+    ],
+    [
+      0.000002,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000046,
+      "\u001b[34m [\u001b[0m"
+    ],
+    [
+      0.000013,
+      "7/12"
+    ],
+    [
+      0.000017,
+      "\u001b[34m] \u001b[0m"
+    ],
+    [
+      0.000011,
+      "Compile .zshrc.d/prompt.rc.zsh..."
+    ],
+    [
+      0.000165,
+      "\u001b[34mdone\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[0m"
+    ],
+    [
+      0.000046,
+      "\u001b[34m [\u001b[0m"
+    ],
+    [
+      0.000013,
+      "8/12"
+    ],
+    [
+      0.000017,
+      "\u001b[34m] \u001b[0m"
+    ],
+    [
+      0.000013,
+      "Compile .zshrc.plugin.d/antigen.rc.zsh..."
+    ],
+    [
+      0.000235,
+      "\u001b[34mdone"
+    ],
+    [
+      0.000002,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000056,
+      "\u001b[34m [\u001b[0m"
+    ],
+    [
+      0.000014,
+      "9/12"
+    ],
+    [
+      0.000024,
+      "\u001b[34m] \u001b[0m"
+    ],
+    [
+      0.000012,
+      "Compile .zshrc.plugin.d/cd-bookmark.rc.zsh..."
+    ],
+    [
+      0.000097,
+      "\u001b[34mdone"
+    ],
+    [
+      0.000002,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000047,
+      "\u001b[34m [\u001b[0m"
+    ],
+    [
+      0.000013,
+      "10/12"
+    ],
+    [
+      0.000018,
+      "\u001b[34m] \u001b[0m"
+    ],
+    [
+      0.000012,
+      "Compile .zshrc.plugin.d/cd-gitroot.rc.zsh..."
+    ],
+    [
+      0.000088,
+      "\u001b[34mdone"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[0m"
+    ],
+    [
+      0.000045,
+      "\u001b[34m [\u001b[0m"
+    ],
+    [
+      0.000013,
+      "11/12"
+    ],
+    [
+      0.000018,
+      "\u001b[34m] \u001b[0m"
+    ],
+    [
+      0.000015,
+      "Compile .zshrc.plugin.d/syntax-hilighting.rc.zsh..."
+    ],
+    [
+      0.000165,
+      "\u001b[34mdone\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[0m"
+    ],
+    [
+      0.000040,
+      "\u001b[34m [\u001b[0m"
+    ],
+    [
+      0.000013,
+      "12/12"
+    ],
+    [
+      0.000022,
+      "\u001b[34m] \u001b[0m"
+    ],
+    [
+      0.000011,
+      "Compile .zshrc.plugin.d/zaw.rc.zsh..."
+    ],
+    [
+      0.000144,
+      "\u001b[34mdone\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[0m"
+    ],
+    [
+      0.240544,
+      "\u001b[1;38;05;75mUsername: \u001b[0;39mj4ve1in"
+    ],
+    [
+      0.000006,
+      "    \u001b[1;38;05;75mShell: \u001b[0;39m"
+    ],
+    [
+      0.008813,
+      "zsh\r\n"
+    ],
+    [
+      0.000081,
+      "\u001b[1;38;05;75mLastLogin: \u001b[0;39m"
+    ],
+    [
+      0.010716,
+      "Mon Aug 24 17:25:59 2015 on tty3\r\n"
+    ],
+    [
+      0.070161,
+      "\u001b(B\u001b[m\u001b[?1l\u001b\u003e\u001b[H\u001b[2J\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[?1006l\u001b[?1005l\u001b[c\u001b]112\u0007\u001b[?25l\u001b[1;1H\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[48;5;17m[0] \u001b[48;5;27m0:zsh*\u001b[48;5;17m                                  localhost |  | 2015/08/25(Tue) 03:02\u001b(B\u001b[m\u001b[24;1H\u001b[1;24r\u001b[H\u001b[?12l\u001b[?25h\u001b[?1005h\u001b[?1006h\u001b[?1000h"
+    ],
+    [
+      0.003138,
+      "\u001b[?25l\u001b[24d\u001b[48;5;17m[0] \u001b[48;5;27m0:zsh*\u001b[48;5;17m                        localhost | prefix C-t | 2015/08/25(Tue) 03:02\u001b(B\u001b[m\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.143169,
+      "\u001b[1;23r\u001b[38;5;75m\u001b[1mUsername: \u001b(B\u001b[mj4ve1in\u001b[1;24r\u001b[H\u001b[17C\u001b[1;23r\u001b[H\u001b[17C    \u001b[38;5;75m\u001b[1mShell: \u001b[1;24r\u001b[H\u001b[28C\u001b(B\u001b[m"
+    ],
+    [
+      0.007155,
+      "\u001b[1;23r\u001b[H\u001b[28Czsh\u001b[1;24r\u001b[H\r\n"
+    ],
+    [
+      0.000041,
+      "\u001b[1;23r\u001b[H\r\n\u001b[38;5;75m\u001b[1mLastLogin: \u001b[1;24r\u001b[H\u001b[2;12H\u001b(B\u001b[m"
+    ],
+    [
+      0.009424,
+      "\u001b[1;23r\u001b[H\u001b[2;12HMon Aug 24 17:25:59 2015 on tty3\u001b[1;24r\u001b[H\u001b[2B"
+    ],
+    [
+      0.036798,
+      "\u001b[1;23r\u001b[H\u001b[2B\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                               \u001b[3;1H \u001b[1;24r\u001b[H\u001b[2B"
+    ],
+    [
+      0.001641,
+      "\u001b[1;23r\u001b[H\u001b[2B\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[3d\u001b[34m[\u001b[39mj4ve1in@localhost ~ \u001b[34m][\u001b[39m2015/08/25 3:02\u001b[34m]\r\n\u001b[39m\u001b[1m%\u001b(B\u001b[m \u001b[K\u001b[1;24r\u001b[H\u001b[4;3H"
+    ],
+    [
+      4.733276,
+      "\r\n"
+    ],
+    [
+      0.000771,
+      "\u001b[1;23r\u001b[H\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1;24r\u001b[H"
+    ],
+    [
+      0.000440,
+      "\u001b[1;24r\u001b(B\u001b[m\u001b[?1l\u001b\u003e\u001b[H\u001b[2J\u001b]112\u0007\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[?1006l\u001b[?1005l"
+    ],
+    [
+      0.000926,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.001467,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[22;34m[\u001b[39mj4ve1in@localhost\u001b[22;37m\u001b[39m ~ \u001b[22;37m\u001b[39m\u001b[22;34m][\u001b[39m2015/08/25 3:02\u001b[22;34m]\u001b[39m\r\n\u001b[1m%\u001b[0m \u001b[K"
+    ],
+    [
+      0.300825,
+      "\r\r\n"
+    ],
+    [
+      0.000727,
+      "\u001b[3;J\u001b[H\u001b[2J"
+    ],
+    [
+      0.000455,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[m                                                                               \r \r\r\u001b[m\u001b[27m\u001b[24m\u001b[J[j4ve1in@localhost]~% \u001b[K"
+    ],
+    [
+      1.323174,
+      "\r\r\n"
+    ]
+  ]
+}
