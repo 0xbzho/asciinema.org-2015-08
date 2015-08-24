@@ -1,0 +1,2070 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 25,
+  "duration": 69.934544,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.006338,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000005,
+      "bash-3.2$ "
+    ],
+    [
+      1.671713,
+      "g"
+    ],
+    [
+      0.199402,
+      "i"
+    ],
+    [
+      0.216188,
+      "t"
+    ],
+    [
+      0.280074,
+      " "
+    ],
+    [
+      0.239893,
+      "g"
+    ],
+    [
+      0.183855,
+      "i"
+    ],
+    [
+      0.144086,
+      "t"
+    ],
+    [
+      0.343928,
+      "h"
+    ],
+    [
+      0.168183,
+      "u"
+    ],
+    [
+      0.192029,
+      "b"
+    ],
+    [
+      0.239854,
+      "-"
+    ],
+    [
+      0.352073,
+      "r"
+    ],
+    [
+      0.152028,
+      "e"
+    ],
+    [
+      0.183888,
+      "f"
+    ],
+    [
+      0.047968,
+      "l"
+    ],
+    [
+      0.159970,
+      "o"
+    ],
+    [
+      0.192206,
+      "g"
+    ],
+    [
+      0.175885,
+      " "
+    ],
+    [
+      0.352064,
+      "-"
+    ],
+    [
+      0.240061,
+      "h"
+    ],
+    [
+      0.631804,
+      "\r\n"
+    ],
+    [
+      0.165205,
+      "usage: git-github-reflog [-h] [--naughty] [--events] [--desc]\r\n\r\noptional arguments:\r\n  -h, --help  show this help message and exit\r\n  --naughty   Ignore Github's requested poll-interval (naughty naughty)\r\n  --events    List supported events\r\n  --desc      Display helpful descriptions in the event log\r\n"
+    ],
+    [
+      0.007211,
+      "bash-3.2$ "
+    ],
+    [
+      1.587526,
+      "g"
+    ],
+    [
+      0.192189,
+      "i"
+    ],
+    [
+      0.095906,
+      "t"
+    ],
+    [
+      0.104014,
+      " "
+    ],
+    [
+      0.208019,
+      "c"
+    ],
+    [
+      0.112008,
+      "l"
+    ],
+    [
+      0.127860,
+      "o"
+    ],
+    [
+      0.159941,
+      "n"
+    ],
+    [
+      0.096256,
+      "e"
+    ],
+    [
+      0.095969,
+      " "
+    ],
+    [
+      0.515040,
+      "h"
+    ],
+    [
+      0.000006,
+      "tt"
+    ],
+    [
+      0.000003,
+      "p"
+    ],
+    [
+      0.000008,
+      "s"
+    ],
+    [
+      0.000007,
+      ":"
+    ],
+    [
+      0.000003,
+      "/"
+    ],
+    [
+      0.000009,
+      "/"
+    ],
+    [
+      0.000008,
+      "g"
+    ],
+    [
+      0.000007,
+      "i"
+    ],
+    [
+      0.000018,
+      "t"
+    ],
+    [
+      0.000005,
+      "hu"
+    ],
+    [
+      0.000007,
+      "b"
+    ],
+    [
+      0.000003,
+      "."
+    ],
+    [
+      0.000020,
+      "co"
+    ],
+    [
+      0.000003,
+      "m"
+    ],
+    [
+      0.000011,
+      "/"
+    ],
+    [
+      0.000003,
+      "m"
+    ],
+    [
+      0.000020,
+      "u"
+    ],
+    [
+      0.000004,
+      "an"
+    ],
+    [
+      0.000012,
+      "/"
+    ],
+    [
+      0.000003,
+      "d"
+    ],
+    [
+      0.000013,
+      "a"
+    ],
+    [
+      0.000003,
+      "s"
+    ],
+    [
+      0.000013,
+      "h"
+    ],
+    [
+      0.000009,
+      "b"
+    ],
+    [
+      0.000007,
+      "o"
+    ],
+    [
+      0.000019,
+      "a"
+    ],
+    [
+      0.000004,
+      "r"
+    ],
+    [
+      0.000008,
+      "d"
+    ],
+    [
+      0.000007,
+      "."
+    ],
+    [
+      0.000015,
+      "g"
+    ],
+    [
+      0.000003,
+      "i"
+    ],
+    [
+      0.000016,
+      "t"
+    ],
+    [
+      1.300511,
+      "\r\n"
+    ],
+    [
+      0.004109,
+      "Cloning into 'dashboard'...\r\n"
+    ],
+    [
+      0.258574,
+      "remote: Counting objects: 90, done.\u001b[K\r\n"
+    ],
+    [
+      0.021192,
+      "Unpacking objects:   1% (1/90)   \r"
+    ],
+    [
+      0.000278,
+      "Unpacking objects:   2% (2/90)   \r"
+    ],
+    [
+      0.000313,
+      "Unpacking objects:   3% (3/90)   \r"
+    ],
+    [
+      0.000309,
+      "Unpacking objects:   4% (4/90)   \r"
+    ],
+    [
+      0.000304,
+      "Unpacking objects:   5% (5/90)   \r"
+    ],
+    [
+      0.000264,
+      "Unpacking objects:   6% (6/90)   \r"
+    ],
+    [
+      0.000311,
+      "Unpacking objects:   7% (7/90)   \r"
+    ],
+    [
+      0.000282,
+      "Unpacking objects:   8% (8/90)   \r"
+    ],
+    [
+      0.000278,
+      "Unpacking objects:  10% (9/90)   \r"
+    ],
+    [
+      0.000379,
+      "Unpacking objects:  11% (10/90)   \r"
+    ],
+    [
+      0.000305,
+      "Unpacking objects:  12% (11/90)   \r"
+    ],
+    [
+      0.000262,
+      "Unpacking objects:  13% (12/90)   \r"
+    ],
+    [
+      0.000446,
+      "Unpacking objects:  14% (13/90)   \r"
+    ],
+    [
+      0.000296,
+      "Unpacking objects:  15% (14/90)   \r"
+    ],
+    [
+      0.000307,
+      "Unpacking objects:  16% (15/90)   \r"
+    ],
+    [
+      0.000336,
+      "Unpacking objects:  17% (16/90)   \r"
+    ],
+    [
+      0.000282,
+      "Unpacking objects:  18% (17/90)   \r"
+    ],
+    [
+      0.000289,
+      "Unpacking objects:  20% (18/90)   \r"
+    ],
+    [
+      0.000272,
+      "Unpacking objects:  21% (19/90)   \r"
+    ],
+    [
+      0.000261,
+      "Unpacking objects:  22% (20/90)   \r"
+    ],
+    [
+      0.000268,
+      "Unpacking objects:  23% (21/90)   \r"
+    ],
+    [
+      0.000277,
+      "Unpacking objects:  24% (22/90)   \r"
+    ],
+    [
+      0.000244,
+      "Unpacking objects:  25% (23/90)   \r"
+    ],
+    [
+      0.000244,
+      "Unpacking objects:  26% (24/90)   \r"
+    ],
+    [
+      0.000374,
+      "Unpacking objects:  27% (25/90)   \r"
+    ],
+    [
+      0.000310,
+      "Unpacking objects:  28% (26/90)   \r"
+    ],
+    [
+      0.000266,
+      "Unpacking objects:  30% (27/90)   \r"
+    ],
+    [
+      0.000336,
+      "Unpacking objects:  31% (28/90)   \r"
+    ],
+    [
+      0.000282,
+      "Unpacking objects:  32% (29/90)   \r"
+    ],
+    [
+      0.000334,
+      "Unpacking objects:  33% (30/90)   \r"
+    ],
+    [
+      0.000332,
+      "Unpacking objects:  34% (31/90)   \r"
+    ],
+    [
+      0.000276,
+      "Unpacking objects:  35% (32/90)   \r"
+    ],
+    [
+      0.000339,
+      "Unpacking objects:  36% (33/90)   \r"
+    ],
+    [
+      0.000372,
+      "Unpacking objects:  37% (34/90)   \r"
+    ],
+    [
+      0.000304,
+      "Unpacking objects:  38% (35/90)   \r"
+    ],
+    [
+      0.000336,
+      "Unpacking objects:  40% (36/90)   \r"
+    ],
+    [
+      0.000389,
+      "Unpacking objects:  41% (37/90)   \r"
+    ],
+    [
+      0.000319,
+      "Unpacking objects:  42% (38/90)   \r"
+    ],
+    [
+      0.000380,
+      "Unpacking objects:  43% (39/90)   \r"
+    ],
+    [
+      0.000341,
+      "Unpacking objects:  44% (40/90)   \r"
+    ],
+    [
+      0.000321,
+      "Unpacking objects:  45% (41/90)   \r"
+    ],
+    [
+      0.000295,
+      "Unpacking objects:  46% (42/90)   \r"
+    ],
+    [
+      0.008620,
+      "remote: Total 90 (delta 0), reused 0 (delta 0), pack-reused 90\u001b[K\r\n"
+    ],
+    [
+      0.002258,
+      "Unpacking objects:  47% (43/90)   \r"
+    ],
+    [
+      0.000382,
+      "Unpacking objects:  48% (44/90)   \r"
+    ],
+    [
+      0.000358,
+      "Unpacking objects:  50% (45/90)   \r"
+    ],
+    [
+      0.000407,
+      "Unpacking objects:  51% (46/90)   \r"
+    ],
+    [
+      0.000374,
+      "Unpacking objects:  52% (47/90)   \r"
+    ],
+    [
+      0.000382,
+      "Unpacking objects:  53% (48/90)   \r"
+    ],
+    [
+      0.000373,
+      "Unpacking objects:  54% (49/90)   \r"
+    ],
+    [
+      0.000328,
+      "Unpacking objects:  55% (50/90)   \r"
+    ],
+    [
+      0.000312,
+      "Unpacking objects:  56% (51/90)   \r"
+    ],
+    [
+      0.000458,
+      "Unpacking objects:  57% (52/90)   \r"
+    ],
+    [
+      0.000363,
+      "Unpacking objects:  58% (53/90)   \r"
+    ],
+    [
+      0.000311,
+      "Unpacking objects:  60% (54/90)   \r"
+    ],
+    [
+      0.000566,
+      "Unpacking objects:  61% (55/90)   \r"
+    ],
+    [
+      0.000525,
+      "Unpacking objects:  62% (56/90)   \r"
+    ],
+    [
+      0.000381,
+      "Unpacking objects:  63% (57/90)   \r"
+    ],
+    [
+      0.000455,
+      "Unpacking objects:  64% (58/90)   \r"
+    ],
+    [
+      0.000303,
+      "Unpacking objects:  65% (59/90)   \r"
+    ],
+    [
+      0.000395,
+      "Unpacking objects:  66% (60/90)   \r"
+    ],
+    [
+      0.000490,
+      "Unpacking objects:  67% (61/90)   \r"
+    ],
+    [
+      0.000371,
+      "Unpacking objects:  68% (62/90)   \r"
+    ],
+    [
+      0.000399,
+      "Unpacking objects:  70% (63/90)   \r"
+    ],
+    [
+      0.000403,
+      "Unpacking objects:  71% (64/90)   \r"
+    ],
+    [
+      0.000393,
+      "Unpacking objects:  72% (65/90)   \r"
+    ],
+    [
+      0.000334,
+      "Unpacking objects:  73% (66/90)   \r"
+    ],
+    [
+      0.000402,
+      "Unpacking objects:  74% (67/90)   \r"
+    ],
+    [
+      0.000321,
+      "Unpacking objects:  75% (68/90)   \r"
+    ],
+    [
+      0.000288,
+      "Unpacking objects:  76% (69/90)   \r"
+    ],
+    [
+      0.000315,
+      "Unpacking objects:  77% (70/90)   \r"
+    ],
+    [
+      0.000329,
+      "Unpacking objects:  78% (71/90)   \r"
+    ],
+    [
+      0.000321,
+      "Unpacking objects:  80% (72/90)   \r"
+    ],
+    [
+      0.000383,
+      "Unpacking objects:  81% (73/90)   \r"
+    ],
+    [
+      0.000325,
+      "Unpacking objects:  82% (74/90)   \r"
+    ],
+    [
+      0.000371,
+      "Unpacking objects:  83% (75/90)   \r"
+    ],
+    [
+      0.000548,
+      "Unpacking objects:  84% (76/90)   \r"
+    ],
+    [
+      0.000472,
+      "Unpacking objects:  85% (77/90)   \r"
+    ],
+    [
+      0.000278,
+      "Unpacking objects:  86% (78/90)   \r"
+    ],
+    [
+      0.000356,
+      "Unpacking objects:  87% (79/90)   \r"
+    ],
+    [
+      0.000289,
+      "Unpacking objects:  88% (80/90)   \r"
+    ],
+    [
+      0.000346,
+      "Unpacking objects:  90% (81/90)   \r"
+    ],
+    [
+      0.000311,
+      "Unpacking objects:  91% (82/90)   \r"
+    ],
+    [
+      0.000330,
+      "Unpacking objects:  92% (83/90)   \r"
+    ],
+    [
+      0.000259,
+      "Unpacking objects:  93% (84/90)   \r"
+    ],
+    [
+      0.000311,
+      "Unpacking objects:  94% (85/90)   \r"
+    ],
+    [
+      0.000411,
+      "Unpacking objects:  95% (86/90)   \r"
+    ],
+    [
+      0.000304,
+      "Unpacking objects:  96% (87/90)   \r"
+    ],
+    [
+      0.000368,
+      "Unpacking objects:  97% (88/90)   \r"
+    ],
+    [
+      0.000294,
+      "Unpacking objects:  98% (89/90)   \r"
+    ],
+    [
+      0.000336,
+      "Unpacking objects: 100% (90/90)   \rUnpacking objects: 100% (90/90), done.\r\n"
+    ],
+    [
+      0.000657,
+      "Checking connectivity... "
+    ],
+    [
+      0.004766,
+      "done.\r\n"
+    ],
+    [
+      0.005817,
+      "bash-3.2$ "
+    ],
+    [
+      0.600168,
+      "c"
+    ],
+    [
+      0.183992,
+      "d"
+    ],
+    [
+      0.103909,
+      " "
+    ],
+    [
+      0.391983,
+      "d"
+    ],
+    [
+      0.176118,
+      "a"
+    ],
+    [
+      0.159988,
+      "s"
+    ],
+    [
+      0.103845,
+      "h"
+    ],
+    [
+      0.488264,
+      "board/"
+    ],
+    [
+      0.607827,
+      "\r\n"
+    ],
+    [
+      0.000253,
+      "bash-3.2$ "
+    ],
+    [
+      0.463744,
+      "g"
+    ],
+    [
+      0.175947,
+      "i"
+    ],
+    [
+      0.104062,
+      "t"
+    ],
+    [
+      0.104076,
+      " "
+    ],
+    [
+      0.311865,
+      "c"
+    ],
+    [
+      0.096558,
+      "o"
+    ],
+    [
+      0.167361,
+      "n"
+    ],
+    [
+      0.087955,
+      "f"
+    ],
+    [
+      0.120139,
+      "i"
+    ],
+    [
+      0.104079,
+      "g"
+    ],
+    [
+      0.127884,
+      " "
+    ],
+    [
+      0.271938,
+      "g"
+    ],
+    [
+      0.703964,
+      "i"
+    ],
+    [
+      0.296116,
+      "t"
+    ],
+    [
+      0.112013,
+      "h"
+    ],
+    [
+      0.160068,
+      "u"
+    ],
+    [
+      0.175799,
+      "b"
+    ],
+    [
+      0.568111,
+      "."
+    ],
+    [
+      0.135976,
+      "r"
+    ],
+    [
+      0.168015,
+      "e"
+    ],
+    [
+      0.072056,
+      "p"
+    ],
+    [
+      0.159839,
+      "o"
+    ],
+    [
+      0.248100,
+      "u"
+    ],
+    [
+      0.127898,
+      "s"
+    ],
+    [
+      0.176086,
+      "e"
+    ],
+    [
+      0.152004,
+      "r"
+    ],
+    [
+      0.151910,
+      " "
+    ],
+    [
+      0.424222,
+      "m"
+    ],
+    [
+      0.247661,
+      "u"
+    ],
+    [
+      1.368045,
+      "a"
+    ],
+    [
+      0.112141,
+      "n"
+    ],
+    [
+      0.407952,
+      "\r\n"
+    ],
+    [
+      0.005042,
+      "bash-3.2$ "
+    ],
+    [
+      0.363038,
+      "g"
+    ],
+    [
+      0.167968,
+      "i"
+    ],
+    [
+      0.080083,
+      "t"
+    ],
+    [
+      0.095940,
+      " "
+    ],
+    [
+      0.135679,
+      "c"
+    ],
+    [
+      0.056380,
+      "o"
+    ],
+    [
+      0.159649,
+      "n"
+    ],
+    [
+      0.064276,
+      "f"
+    ],
+    [
+      0.111885,
+      "i"
+    ],
+    [
+      0.072146,
+      "g"
+    ],
+    [
+      0.127834,
+      " "
+    ],
+    [
+      0.792102,
+      "g"
+    ],
+    [
+      0.112068,
+      "i"
+    ],
+    [
+      0.335934,
+      "t"
+    ],
+    [
+      0.103904,
+      "h"
+    ],
+    [
+      0.160142,
+      "u"
+    ],
+    [
+      0.176108,
+      "b"
+    ],
+    [
+      0.263855,
+      "."
+    ],
+    [
+      0.136003,
+      "r"
+    ],
+    [
+      0.167957,
+      "e"
+    ],
+    [
+      0.047964,
+      "p"
+    ],
+    [
+      0.168125,
+      "o"
+    ],
+    [
+      0.264183,
+      "n"
+    ],
+    [
+      0.135718,
+      "a"
+    ],
+    [
+      0.103910,
+      "m"
+    ],
+    [
+      0.136024,
+      "e"
+    ],
+    [
+      0.408184,
+      " "
+    ],
+    [
+      0.487777,
+      "d"
+    ],
+    [
+      0.184185,
+      "a"
+    ],
+    [
+      0.152024,
+      "s"
+    ],
+    [
+      0.080005,
+      "h"
+    ],
+    [
+      0.199909,
+      "v"
+    ],
+    [
+      0.311981,
+      "o"
+    ],
+    [
+      0.127900,
+      "a"
+    ],
+    [
+      0.280415,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.119803,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.127936,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.344015,
+      "b"
+    ],
+    [
+      0.215841,
+      "o"
+    ],
+    [
+      0.136102,
+      "a"
+    ],
+    [
+      0.232126,
+      "r"
+    ],
+    [
+      0.175995,
+      "d"
+    ],
+    [
+      0.399970,
+      "\r\n"
+    ],
+    [
+      0.005009,
+      "bash-3.2$ "
+    ],
+    [
+      0.515027,
+      "g"
+    ],
+    [
+      0.167816,
+      "i"
+    ],
+    [
+      0.088113,
+      "t"
+    ],
+    [
+      0.607996,
+      " "
+    ],
+    [
+      0.335924,
+      "g"
+    ],
+    [
+      0.152070,
+      "i"
+    ],
+    [
+      0.072017,
+      "t"
+    ],
+    [
+      0.119930,
+      "h"
+    ],
+    [
+      0.160065,
+      "u"
+    ],
+    [
+      0.312083,
+      "b"
+    ],
+    [
+      0.455725,
+      "-"
+    ],
+    [
+      0.184177,
+      "r"
+    ],
+    [
+      0.159950,
+      "e"
+    ],
+    [
+      0.167979,
+      "f"
+    ],
+    [
+      0.064066,
+      "l"
+    ],
+    [
+      0.159939,
+      "o"
+    ],
+    [
+      0.192022,
+      "g"
+    ],
+    [
+      0.199930,
+      " "
+    ],
+    [
+      0.191983,
+      "-"
+    ],
+    [
+      0.152054,
+      "-"
+    ],
+    [
+      0.319875,
+      "n"
+    ],
+    [
+      0.144128,
+      "a"
+    ],
+    [
+      0.095630,
+      "u"
+    ],
+    [
+      0.144468,
+      "g"
+    ],
+    [
+      0.143823,
+      "h"
+    ],
+    [
+      0.176073,
+      "t"
+    ],
+    [
+      0.143906,
+      "y"
+    ],
+    [
+      0.808138,
+      "\r\n"
+    ],
+    [
+      0.775841,
+      "\u001b[33m3073603208 WatchEvent\u001b[39m\r\nUser:      salexzee \u003chttps://api.github.com/users/salexzee\u003e\r\nDate:      2015-08-19T23:01:25Z\r\n"
+    ],
+    [
+      0.000009,
+      "Action:    started\r\n\r\n\u001b[33m3044832412 WatchEvent\u001b[39m\r\nUser:      slowkow \u003chttps://api.github.com/users/slowkow\u003e\r\nDate:      2015-08-10T12:17:42Z\r\nAction:    started\r\n"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[33m3041947653 WatchEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000003,
+      "User:      r0adkll \u003chttps://api.github.com/users/r0adkll\u003e\r\n"
+    ],
+    [
+      0.000003,
+      "Date:      2015-08-08T04:23:06Z\r\n"
+    ],
+    [
+      0.000011,
+      "Action:    started\r\n\r\n"
+    ],
+    [
+      0.000020,
+      "\u001b[33m3036076981 WatchEvent\u001b[39m\r\nUser:      shouse \u003chttps://api.github.com/users/shouse\u003e\r\n"
+    ],
+    [
+      0.000007,
+      "Date:      2015-08-06T09:22:52Z\r\nAction:    started\r\n\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[33m3023192165 WatchEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000009,
+      "User:      mcanthony \u003chttps://api.github.com/users/mcanthony\u003e\r\nDate:      2015-08-01T06:44:08Z\r\n"
+    ],
+    [
+      0.000994,
+      "\u001b[1mPress any key to continue, Q to quit...\r\u001b[22m"
+    ],
+    [
+      1.962859,
+      "                                                 \r"
+    ],
+    [
+      0.001321,
+      "Action:    started\r\n\r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[33m3019695260 WatchEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000018,
+      "User:      vyorkin \u003chttps://api.github.com/users/vyorkin\u003e\r\n"
+    ],
+    [
+      0.000003,
+      "Date:      2015-07-30T23:40:30Z\r\n"
+    ],
+    [
+      0.000030,
+      "Action:    started\r\n\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[33m3011640736 WatchEvent\u001b[39m\r\nUser:      Hs-Yeah \u003chttps://api.github.com/users/Hs-Yeah\u003e\r\n"
+    ],
+    [
+      0.000003,
+      "Date:      2015-07-28T18:53:42Z\r\n"
+    ],
+    [
+      0.000009,
+      "Action:    started\r\n\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[33m3005763184 WatchEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000003,
+      "User:      fandymarvin \u003chttps://api.github.com/users/fandymarvin\u003e\r\n"
+    ],
+    [
+      0.000003,
+      "Date:      2015-07-27T04:06:24Z\r\n"
+    ],
+    [
+      0.000011,
+      "Action:    started\r\n\r\n"
+    ],
+    [
+      0.000019,
+      "\u001b[33m2997811355 WatchEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000009,
+      "User:      wesleycoder \u003chttps://api.github.com/users/wesleycoder\u003e\r\nDate:      2015-07-23T10:09:18Z\r\nAction:    started\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000024,
+      "\u001b[33m2994557401 ForkEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000074,
+      "\u001b[1mPress any key to continue, Q to quit...\r\u001b[22m"
+    ],
+    [
+      2.022450,
+      "                                                 \r"
+    ],
+    [
+      0.001338,
+      "User:      vsouza \u003chttps://api.github.com/users/vsouza\u003e\r\nDate:      2015-07-22T12:35:11Z\r\n"
+    ],
+    [
+      0.000043,
+      "Author:    vsouza \u003chttps://github.com/vsouza\u003e\r\n"
+    ],
+    [
+      0.000007,
+      "Fullname:  vsouza/dashboard\t\tPrivate: False\r\n"
+    ],
+    [
+      0.000004,
+      "URL:       https://github.com/vsouza/dashboard\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000039,
+      "\u001b[33m2994550557 WatchEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000007,
+      "User:      vsouza \u003chttps://api.github.com/users/vsouza\u003e\r\nDate:      2015-07-22T12:32:44Z\r\n"
+    ],
+    [
+      0.000003,
+      "Action:    started\r\n\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[33m2993542948 WatchEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000006,
+      "User:      ajmalafif \u003chttps://api.github.com/users/ajmalafif\u003e\r\n"
+    ],
+    [
+      0.000003,
+      "Date:      2015-07-22T04:55:27Z\r\n"
+    ],
+    [
+      0.000004,
+      "Action:    started\r\n"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000024,
+      "\u001b[33m2993414464 PushEvent\u001b[39m\r\nUser:      muan \u003chttps://api.github.com/users/muan\u003e\r\nDate:      2015-07-22T03:17:23Z\r\n"
+    ],
+    [
+      0.000012,
+      "SHA:       db21c11351b484ea7a7e6900e74d4a5e1b1c58b6\r\n"
+    ],
+    [
+      0.000003,
+      "Author:    Mu-An Chiou \u003cme@muanchiou.com\u003e\r\n"
+    ],
+    [
+      0.000004,
+      "Ref:       refs/heads/master\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.001026,
+      "\u001b[1mPress any key to continue, Q to quit...\r\u001b[22m"
+    ],
+    [
+      2.613377,
+      "                                                 \r"
+    ],
+    [
+      0.001360,
+      "   Getting rid if jquery cause ⚡️\r\n\r\n"
+    ],
+    [
+      0.000022,
+      "\u001b[33m2993236846 WatchEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000019,
+      "User:      AgtLucas \u003chttps://api.github.com/users/AgtLucas\u003e\r\nDate:      2015-07-22T01:20:15Z\r\n"
+    ],
+    [
+      0.000021,
+      "Action:    started\r\n\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[33m2992977404 IssueCommentEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000003,
+      "User:      SamTebbs33 \u003chttps://api.github.com/users/SamTebbs33\u003e\r\n"
+    ],
+    [
+      0.000008,
+      "Date:      2015-07-21T23:00:53Z\r\n"
+    ],
+    [
+      0.000015,
+      "Created:   2015-07-21T23:00:53Z\r\n"
+    ],
+    [
+      0.000003,
+      "Updated:   2015-07-21T23:00:53Z\r\n"
+    ],
+    [
+      0.000008,
+      "URL:       https://github.com/muan/dashboard/issues/5#issuecomment-123503514\r\n"
+    ],
+    [
+      0.000016,
+      "Issue:     5 \u003chttps://github.com/muan/dashboard/issues/5\u003e\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000029,
+      " \u001b[1mFiltering commits and repo pushes\u001b[22m\r\n\r\n"
+    ],
+    [
+      0.000275,
+      "   Well, I mean an option in the dashboard to filter out commits to repos\r\n   that you are watching, as there's currently no option for that.\r\n\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[33m2992956132 IssueCommentEvent\u001b[39m\r\nUser:      muan \u003chttps://api.github.com/users/muan\u003e\r\nDate:      2015-07-21T22:51:30Z\r\n"
+    ],
+    [
+      0.000068,
+      "\u001b[1mPress any key to continue, Q to quit...\r\u001b[22m"
+    ],
+    [
+      2.982112,
+      "                                                 \r"
+    ],
+    [
+      0.001365,
+      "Created:   2015-07-21T22:51:30Z\r\n"
+    ],
+    [
+      0.000007,
+      "Updated:   2015-07-21T22:51:30Z\r\nURL:       https://github.com/muan/dashboard/issues/5#issuecomment-123501812\r\n"
+    ],
+    [
+      0.000028,
+      "Issue:     5 \u003chttps://github.com/muan/dashboard/issues/5\u003e\r\n\r\n"
+    ],
+    [
+      0.000010,
+      " \u001b[1mFiltering commits and repo pushes\u001b[22m\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000195,
+      "   Not sure I know what you mean, you can perhaps submit a PR?\r\n\r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[33m2992934984 CreateEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000039,
+      "User:      muan \u003chttps://api.github.com/users/muan\u003e\r\nDate:      2015-07-21T22:42:08Z\r\n"
+    ],
+    [
+      0.000010,
+      "Type:      \u001b[34m\u001b[1mtag\u001b[39m\u001b[22m\r\nRef:       0.0.4\r\n\r\n"
+    ],
+    [
+      0.000110,
+      "   :elephant: [Chrome extension] Filtering the activity feed on\r\n   github.com.\r\n\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[33m2992934825 PushEvent\u001b[39m\r\nUser:      muan \u003chttps://api.github.com/users/muan\u003e\r\n"
+    ],
+    [
+      0.000003,
+      "Date:      2015-07-21T22:42:03Z\r\n"
+    ],
+    [
+      0.000025,
+      "SHA:       074339e1f4779dac5b9966516158ac8c7db0c177\r\nAuthor:    Mu-An Chiou \u003cme@muanchiou.com\u003e\r\n"
+    ],
+    [
+      0.000056,
+      "\u001b[1mPress any key to continue, Q to quit...\r\u001b[22m"
+    ],
+    [
+      2.846189,
+      "                                                 \r"
+    ],
+    [
+      0.001307,
+      "Ref:       refs/heads/master\r\n\r\n"
+    ],
+    [
+      0.000147,
+      "   Update screenshot\r\n"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000026,
+      "\u001b[33m2992883285 PushEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000004,
+      "User:      muan \u003chttps://api.github.com/users/muan\u003e\r\n"
+    ],
+    [
+      0.000019,
+      "Date:      2015-07-21T22:21:14Z\r\n"
+    ],
+    [
+      0.000016,
+      "SHA:       9b11a792d3047a58142aa9025ffb5951f9f54737\r\n"
+    ],
+    [
+      0.000004,
+      "Author:    Mu-An Chiou \u003cme@muanchiou.com\u003e\r\n"
+    ],
+    [
+      0.000003,
+      "Ref:       refs/heads/master\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000045,
+      "   0.0.3\r\n\r\n"
+    ],
+    [
+      0.000025,
+      "\u001b[33m2992883017 CreateEvent\u001b[39m\r\nUser:      muan \u003chttps://api.github.com/users/muan\u003e\r\n"
+    ],
+    [
+      0.000005,
+      "Date:      2015-07-21T22:21:07Z\r\n"
+    ],
+    [
+      0.000019,
+      "Type:      \u001b[34m\u001b[1mtag\u001b[39m\u001b[22m\r\n"
+    ],
+    [
+      0.000011,
+      "Ref:       0.0.3\r\n\r\n"
+    ],
+    [
+      0.000106,
+      "   [Chrome extension] Filtering the activity feed on github.com.\r\n\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[33m2992874085 DeleteEvent\u001b[39m\r\nUser:      muan \u003chttps://api.github.com/users/muan\u003e\r\n"
+    ],
+    [
+      0.000067,
+      "\u001b[1mPress any key to continue, Q to quit...\r\u001b[22m"
+    ],
+    [
+      2.068633,
+      "                                                 \r"
+    ],
+    [
+      0.000951,
+      "Date:      2015-07-21T22:17:59Z\r\n"
+    ],
+    [
+      0.000027,
+      "Type:      \u001b[34m\u001b[1mtag\u001b[39m\u001b[22m\r\n"
+    ],
+    [
+      0.000004,
+      "Ref:       0.0.3\r\n\r\n"
+    ],
+    [
+      0.000026,
+      "\u001b[33m2992872619 CreateEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000003,
+      "User:      muan \u003chttps://api.github.com/users/muan\u003e\r\n"
+    ],
+    [
+      0.000008,
+      "Date:      2015-07-21T22:17:22Z\r\n"
+    ],
+    [
+      0.000018,
+      "Type:      \u001b[34m\u001b[1mtag\u001b[39m\u001b[22m\r\n"
+    ],
+    [
+      0.000005,
+      "Ref:       0.0.3\r\n\r\n"
+    ],
+    [
+      0.000172,
+      "   [Chrome extension] Filtering the activity feed on github.com.\r\n\r\n\u001b[33m2990930641 WatchEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000004,
+      "User:      zcei \u003chttps://api.github.com/users/zcei\u003e\r\nDate:      2015-07-21T12:38:29Z\r\n"
+    ],
+    [
+      0.000010,
+      "Action:    started\r\n\r\n"
+    ],
+    [
+      0.000021,
+      "\u001b[33m2990868902 WatchEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000005,
+      "User:      yannickoo \u003chttps://api.github.com/users/yannickoo\u003e\r\nDate:      2015-07-21T12:14:28Z\r\n"
+    ],
+    [
+      0.000010,
+      "Action:    started\r\n\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[33m2963691220 WatchEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000060,
+      "\u001b[1mPress any key to continue, Q to quit...\r\u001b[22m"
+    ],
+    [
+      1.839467,
+      "                                                 \r"
+    ],
+    [
+      0.001288,
+      "User:      diogoleal \u003chttps://api.github.com/users/diogoleal\u003e\r\nDate:      2015-07-10T12:21:40Z\r\n"
+    ],
+    [
+      0.000023,
+      "Action:    started\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[33m2931440496 WatchEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000018,
+      "User:      nwinkler \u003chttps://api.github.com/users/nwinkler\u003e\r\nDate:      2015-06-29T12:33:48Z\r\n"
+    ],
+    [
+      0.000005,
+      "Action:    started\r\n\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[33m2929818199 WatchEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000006,
+      "User:      Hauwertlhaufn \u003chttps://api.github.com/users/Hauwertlhaufn\u003e\r\n"
+    ],
+    [
+      0.000003,
+      "Date:      2015-06-28T16:27:10Z\r\n"
+    ],
+    [
+      0.000010,
+      "Action:    started\r\n\r\n"
+    ],
+    [
+      0.000021,
+      "\u001b[33m2929652928 IssuesEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000005,
+      "User:      SamTebbs33 \u003chttps://api.github.com/users/SamTebbs33\u003e\r\nDate:      2015-06-28T12:58:14Z\r\n"
+    ],
+    [
+      0.000014,
+      "Created:   2015-06-28T12:58:14Z\r\nUpdated:   2015-06-28T12:58:14Z\r\n"
+    ],
+    [
+      0.000003,
+      "URL:       https://github.com/muan/dashboard/issues/5\r\n"
+    ],
+    [
+      0.000020,
+      "Action:    \u001b[34m\u001b[1mopened\u001b[39m\u001b[22m\t\tState: \u001b[34m\u001b[1mopen\u001b[39m\u001b[22m\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      " \u001b[1mFiltering commits and repo pushes\u001b[22m\r\n"
+    ],
+    [
+      0.000073,
+      "\u001b[1mPress any key to continue, Q to quit...\r\u001b[22m"
+    ],
+    [
+      2.071119,
+      "                                                 \r"
+    ],
+    [
+      0.001331,
+      "\r\n"
+    ],
+    [
+      0.000229,
+      "   Would you add a new filter option that filters out commits and pushes\r\n   to the repo?\r\n\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[33m2927494881 WatchEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000013,
+      "User:      knownasilya \u003chttps://api.github.com/users/knownasilya\u003e\r\n"
+    ],
+    [
+      0.000004,
+      "Date:      2015-06-26T19:09:06Z\r\n"
+    ],
+    [
+      0.000017,
+      "Action:    started\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "\u001b[33m2925281488 WatchEvent\u001b[39m\r\nUser:      Glavin001 \u003chttps://api.github.com/users/Glavin001\u003e\r\n"
+    ],
+    [
+      0.000006,
+      "Date:      2015-06-26T03:40:47Z\r\nAction:    started\r\n\r\n"
+    ],
+    [
+      0.172525,
+      "\u001b[33m2921139476 WatchEvent\u001b[39m\r\nUser:      ChrisHazFun \u003chttps://api.github.com/users/ChrisHazFun\u003e\r\nDate:      2015-06-24T22:46:01Z\r\n"
+    ],
+    [
+      0.000010,
+      "Action:    started\r\n\r\n\u001b[33m2914175030 WatchEvent\u001b[39m\r\nUser:      goofrider \u003chttps://api.github.com/users/goofrider\u003e\r\nDate:      2015-06-23T01:53:49Z\r\nAction:    started\r\n"
+    ],
+    [
+      0.000065,
+      "\u001b[1mPress any key to continue, Q to quit...\r\u001b[22m"
+    ],
+    [
+      1.625778,
+      "                                                 \r"
+    ],
+    [
+      0.001297,
+      "\r\n"
+    ],
+    [
+      0.000027,
+      "\u001b[33m2910036779 WatchEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000013,
+      "User:      420kai \u003chttps://api.github.com/users/420kai\u003e\r\n"
+    ],
+    [
+      0.000004,
+      "Date:      2015-06-21T10:38:17Z\r\n"
+    ],
+    [
+      0.000030,
+      "Action:    started\r\n\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[33m2909464606 WatchEvent\u001b[39m\r\nUser:      honzi \u003chttps://api.github.com/users/honzi\u003e\r\n"
+    ],
+    [
+      0.000003,
+      "Date:      2015-06-20T19:19:29Z\r\n"
+    ],
+    [
+      0.000012,
+      "Action:    started\r\n\r\n"
+    ],
+    [
+      0.000026,
+      "\u001b[33m2908760028 WatchEvent\u001b[39m\r\nUser:      AbhinavMadahar \u003chttps://api.github.com/users/AbhinavMadahar\u003e\r\nDate:      2015-06-20T02:10:09Z\r\n"
+    ],
+    [
+      0.000004,
+      "Action:    started\r\n\r\n"
+    ],
+    [
+      0.000039,
+      "\u001b[33m2906571988 PushEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000004,
+      "User:      muan \u003chttps://api.github.com/users/muan\u003e\r\nDate:      2015-06-19T11:00:04Z\r\n"
+    ],
+    [
+      0.000024,
+      "SHA:       18e220c1e9f53ccadb9733112352be4ca91c113a\r\nAuthor:    Mu-An \u003cmuan@github.com\u003e\r\nRef:       refs/heads/master\r\n"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000295,
+      "\u001b[1mPress any key to continue, Q to quit...\r\u001b[22m"
+    ],
+    [
+      1.709965,
+      "                                                 \r"
+    ],
+    [
+      0.001323,
+      "   Merge pull request #4 from bcho/commit_comment  Show commit comment\r\n   when `filtered-comments` checked.\r\n"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000041,
+      "\u001b[33m2906571980 PullRequestEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000006,
+      "User:      muan \u003chttps://api.github.com/users/muan\u003e\r\n"
+    ],
+    [
+      0.000010,
+      "Date:      2015-06-19T11:00:04Z\r\n"
+    ],
+    [
+      0.000063,
+      "PR:        #4 \u003chttps://github.com/muan/dashboard/pull/4\u003e\r\n"
+    ],
+    [
+      0.000069,
+      "Created:   2015-06-19T04:54:02Z\tUpdated: 2015-06-19T11:00:04Z\r\n"
+    ],
+    [
+      0.000012,
+      "SHA:       f864109f242bcff174c64a2192c86884cc5ada1b\r\nAuthor:    bcho \u003chttps://github.com/bcho\u003e\r\nRef:       commit_comment\r\n"
+    ],
+    [
+      0.000017,
+      "Action:    \u001b[34m\u001b[1mclosed\u001b[39m\u001b[22m\t\t\tState: \u001b[34m\u001b[1mclosed\u001b[39m\u001b[22m\r\n"
+    ],
+    [
+      0.000017,
+      "Merged:    \u001b[32m\u001b[1mTrue\u001b[39m\u001b[22m\r\n\r\n"
+    ],
+    [
+      0.000005,
+      " \u001b[1mShow commit comment when `filtered-comments` checked.\u001b[22m\r\n\r\n"
+    ],
+    [
+      0.000122,
+      "\r\n"
+    ],
+    [
+      0.000028,
+      "\u001b[33m2905896653 WatchEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000019,
+      "User:      shonenada \u003chttps://api.github.com/users/shonenada\u003e\r\n"
+    ],
+    [
+      0.000027,
+      "Date:      2015-06-19T05:27:40Z\r\n"
+    ],
+    [
+      0.000032,
+      "Action:    started\r\n\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[33m2905856515 PullRequestEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000100,
+      "\u001b[1mPress any key to continue, Q to quit...\r\u001b[22m"
+    ],
+    [
+      3.518356,
+      "                                                 \r"
+    ],
+    [
+      0.001271,
+      "User:      bcho \u003chttps://api.github.com/users/bcho\u003e\r\n"
+    ],
+    [
+      0.000006,
+      "Date:      2015-06-19T04:54:02Z\r\n"
+    ],
+    [
+      0.000061,
+      "PR:        #4 \u003chttps://github.com/muan/dashboard/pull/4\u003e\r\n"
+    ],
+    [
+      0.000012,
+      "Created:   2015-06-19T04:54:02Z\tUpdated: 2015-06-19T04:54:02Z\r\nSHA:       f864109f242bcff174c64a2192c86884cc5ada1b\r\nAuthor:    bcho \u003chttps://github.com/bcho\u003e\r\n"
+    ],
+    [
+      0.000003,
+      "Ref:       commit_comment\r\n"
+    ],
+    [
+      0.000020,
+      "Action:    \u001b[34m\u001b[1mopened\u001b[39m\u001b[22m\t\t\tState: \u001b[34m\u001b[1mopen\u001b[39m\u001b[22m\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      " \u001b[1mShow commit comment when `filtered-comments` checked.\u001b[22m\r\n"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000127,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[33m2905793925 ForkEvent\u001b[39m\r\nUser:      bcho \u003chttps://api.github.com/users/bcho\u003e\r\nDate:      2015-06-19T04:02:40Z\r\n"
+    ],
+    [
+      0.000033,
+      "Author:    bcho \u003chttps://github.com/bcho\u003e\r\nFullname:  bcho/dashboard\t\tPrivate: False\r\n"
+    ],
+    [
+      0.000006,
+      "URL:       https://github.com/bcho/dashboard\r\n\r\n\u001b[33m2903808950 WatchEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000019,
+      "User:      DawnPaladin \u003chttps://api.github.com/users/DawnPaladin\u003e\r\nDate:      2015-06-18T15:09:19Z\r\n"
+    ],
+    [
+      0.000006,
+      "Action:    started\r\n"
+    ],
+    [
+      0.000063,
+      "\u001b[1mPress any key to continue, Q to quit...\r\u001b[22m"
+    ],
+    [
+      2.326127,
+      "                                                 \r"
+    ],
+    [
+      0.001289,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "\u001b[33m2898636235 WatchEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000021,
+      "User:      maboiteaspam \u003chttps://api.github.com/users/maboiteaspam\u003e\r\nDate:      2015-06-17T05:27:18Z\r\n"
+    ],
+    [
+      0.000019,
+      "Action:    started\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[33m2891423281 WatchEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000003,
+      "User:      wufeifei \u003chttps://api.github.com/users/wufeifei\u003e\r\n"
+    ],
+    [
+      0.000008,
+      "Date:      2015-06-15T05:06:37Z\r\n"
+    ],
+    [
+      0.000007,
+      "Action:    started\r\n"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[33m2891325528 WatchEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000003,
+      "User:      TomNeyland \u003chttps://api.github.com/users/TomNeyland\u003e\r\n"
+    ],
+    [
+      0.000010,
+      "Date:      2015-06-15T03:35:33Z\r\n"
+    ],
+    [
+      0.000010,
+      "Action:    started\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[33m2890195790 WatchEvent\u001b[39m\r\nUser:      guojing0 \u003chttps://api.github.com/users/guojing0\u003e\r\n"
+    ],
+    [
+      0.000004,
+      "Date:      2015-06-14T05:14:40Z\r\n"
+    ],
+    [
+      0.000008,
+      "Action:    started\r\n\r\n"
+    ],
+    [
+      0.000028,
+      "\u001b[33m2890192098 ForkEvent\u001b[39m\r\nUser:      gabhi \u003chttps://api.github.com/users/gabhi\u003e\r\n"
+    ],
+    [
+      0.000073,
+      "\u001b[1mPress any key to continue, Q to quit...\r\u001b[22m"
+    ],
+    [
+      1.550490,
+      "                                                 \r"
+    ],
+    [
+      0.001367,
+      "Date:      2015-06-14T05:08:14Z\r\n"
+    ],
+    [
+      0.000008,
+      "Author:    gabhi \u003chttps://github.com/gabhi\u003e\r\nFullname:  gabhi/dashboard\t\tPrivate: False\r\nURL:       https://github.com/gabhi/dashboard\r\n\r\n"
+    ],
+    [
+      0.000059,
+      "\u001b[33m2890012485 WatchEvent\u001b[39m\r\nUser:      forgottenleaf \u003chttps://api.github.com/users/forgottenleaf\u003e\r\n"
+    ],
+    [
+      0.000010,
+      "Date:      2015-06-14T00:05:34Z\r\nAction:    started\r\n\r\n\u001b[33m2885635865 WatchEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000003,
+      "User:      derekr \u003chttps://api.github.com/users/derekr\u003e\r\n"
+    ],
+    [
+      0.000003,
+      "Date:      2015-06-11T23:47:31Z\r\n"
+    ],
+    [
+      0.000010,
+      "Action:    started\r\n\r\n"
+    ],
+    [
+      0.009302,
+      "\u001b[0m"
+    ],
+    [
+      0.002309,
+      "bash-3.2$ "
+    ],
+    [
+      2.447111,
+      "exit\r\n"
+    ]
+  ]
+}
