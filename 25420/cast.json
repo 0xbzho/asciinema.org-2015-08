@@ -1,0 +1,5394 @@
+{
+  "version": 1,
+  "width": 94,
+  "height": 22,
+  "duration": 818.897873,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.029067,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000010,
+      "$ "
+    ],
+    [
+      2.202503,
+      "."
+    ],
+    [
+      0.092258,
+      "/"
+    ],
+    [
+      0.359893,
+      "m"
+    ],
+    [
+      0.100274,
+      "e"
+    ],
+    [
+      0.072113,
+      "soscloud.sh "
+    ],
+    [
+      0.421502,
+      "\r\n"
+    ],
+    [
+      0.143858,
+      " _____________________________________________________________\r\n"
+    ],
+    [
+      0.000047,
+      "\u003c We're going to create your droplets (node-1 node-2 node-3)! \u003e\r\n"
+    ],
+    [
+      0.030238,
+      " -------------------------------------------------------------\r\n"
+    ],
+    [
+      0.000071,
+      "\t\\   \u001b[0;36m^\u001b[0m__\u001b[0;36m^\u001b[0m\r\n"
+    ],
+    [
+      0.000023,
+      "\t \\  (oo)\\_______\r\n"
+    ],
+    [
+      0.000027,
+      "\t    (__)\\       )\\/\\\r\n"
+    ],
+    [
+      0.000026,
+      "\t\t||----w |\r\n"
+    ],
+    [
+      0.000020,
+      "\t\t||     ||\r\n"
+    ],
+    [
+      0.004711,
+      "\u001b[1;39mnode-1 droplet exists?\u001b[0m\r\n"
+    ],
+    [
+      4.440300,
+      "\u001b[1;39mnode-1 droplet create\u001b[0m\r\n"
+    ],
+    [
+      2.095735,
+      "\u001b[1;39mnode-2 droplet exists?\u001b[0m\r\n"
+    ],
+    [
+      1.269488,
+      "\u001b[1;39mnode-2 droplet create\u001b[0m\r\n"
+    ],
+    [
+      2.110136,
+      "\u001b[1;39mnode-3 droplet exists?\u001b[0m\r\n"
+    ],
+    [
+      1.884889,
+      "\u001b[1;39mnode-3 droplet create\u001b[0m\r\n"
+    ],
+    [
+      1.188764,
+      "\u001b[1;39mnode-1 droplet locked?\u001b[0m\r\n"
+    ],
+    [
+      3.191288,
+      "\u001b[1;39mnode-1 droplet locked?\u001b[0m\r\n"
+    ],
+    [
+      4.297285,
+      "\u001b[1;39mnode-1 droplet locked?\u001b[0m\r\n"
+    ],
+    [
+      4.926952,
+      "\u001b[1;39mnode-1 droplet locked?\u001b[0m\r\n"
+    ],
+    [
+      3.061058,
+      "\u001b[1;39mnode-1 droplet locked?\u001b[0m\r\n"
+    ],
+    [
+      3.710176,
+      "\u001b[1;39mnode-1 droplet locked?\u001b[0m\r\n"
+    ],
+    [
+      5.138828,
+      "\u001b[1;39mnode-1 droplet locked?\u001b[0m\r\n"
+    ],
+    [
+      4.056109,
+      "\u001b[1;39mnode-1 droplet locked?\u001b[0m\r\n"
+    ],
+    [
+      3.111661,
+      "\u001b[1;39mnode-1 droplet locked?\u001b[0m\r\n"
+    ],
+    [
+      6.102228,
+      "\u001b[1;39mnode-1 droplet locked?\u001b[0m\r\n"
+    ],
+    [
+      4.300918,
+      "\u001b[1;39mnode-1 droplet locked?\u001b[0m\r\n"
+    ],
+    [
+      3.385701,
+      "\u001b[1;39mnode-1 droplet locked?\u001b[0m\r\n"
+    ],
+    [
+      3.380457,
+      "\u001b[1;39mnode-1 droplet locked?\u001b[0m\r\n"
+    ],
+    [
+      3.810374,
+      "\u001b[1;39mnode-1 droplet locked?\u001b[0m\r\n"
+    ],
+    [
+      4.270069,
+      "\u001b[1;39mnode-1 droplet locked?\u001b[0m\r\n"
+    ],
+    [
+      3.391975,
+      "\u001b[1;39mnode-1 droplet locked?\u001b[0m\r\n"
+    ],
+    [
+      4.190354,
+      "\u001b[1;39mnode-1 droplet locked?\u001b[0m\r\n"
+    ],
+    [
+      3.067774,
+      "\u001b[1;39mnode-1 droplet locked?\u001b[0m\r\n"
+    ],
+    [
+      3.382166,
+      "\u001b[1;39mnode-1 droplet locked?\u001b[0m\r\n"
+    ],
+    [
+      3.379701,
+      "\u001b[1;39mnode-1 droplet locked?\u001b[0m\r\n"
+    ],
+    [
+      5.227404,
+      "\u001b[1;39mnode-1 droplet locked?\u001b[0m\r\n"
+    ],
+    [
+      4.320243,
+      "\u001b[1;39mnode-1 droplet locked?\u001b[0m\r\n"
+    ],
+    [
+      3.359504,
+      "\u001b[1;39mnode-1 droplet locked?\u001b[0m\r\n"
+    ],
+    [
+      3.078250,
+      "\u001b[1;39mnode-1 droplet locked?\u001b[0m\r\n"
+    ],
+    [
+      4.387398,
+      "\u001b[1;39mnode-1 droplet locked?\u001b[0m\r\n"
+    ],
+    [
+      3.177898,
+      "\u001b[1;39mnode-1 droplet locked?\u001b[0m\r\n"
+    ],
+    [
+      4.039424,
+      "\u001b[1;39mnode-1 droplet locked?\u001b[0m\r\n"
+    ],
+    [
+      4.254874,
+      "\u001b[1;39mnode-1 droplet locked?\u001b[0m\r\n"
+    ],
+    [
+      3.380629,
+      "\u001b[1;39mnode-1 droplet locked?\u001b[0m\r\n"
+    ],
+    [
+      3.792294,
+      "\u001b[1;39mnode-1 droplet locked?\u001b[0m\r\n"
+    ],
+    [
+      4.122055,
+      "\u001b[1;39mnode-1 droplet locked?\u001b[0m\r\n"
+    ],
+    [
+      4.177230,
+      "\u001b[1;39mnode-1 droplet locked?\u001b[0m\r\n"
+    ],
+    [
+      3.731961,
+      "\u001b[1;39mnode-1 droplet locked?\u001b[0m\r\n"
+    ],
+    [
+      3.220159,
+      "\u001b[1;39mnode-1 droplet locked?\u001b[0m\r\n"
+    ],
+    [
+      4.198165,
+      "\u001b[1;39mnode-1 droplet locked?\u001b[0m\r\n"
+    ],
+    [
+      3.800646,
+      "\u001b[1;39mnode-1 droplet locked?\u001b[0m\r\n"
+    ],
+    [
+      3.802870,
+      "\u001b[1;39mnode-1 droplet locked?\u001b[0m\r\n"
+    ],
+    [
+      4.078322,
+      "\u001b[1;39mnode-1 droplet locked?\u001b[0m\r\n"
+    ],
+    [
+      4.416945,
+      "\u001b[1;39mnode-1 droplet locked?\u001b[0m\r\n"
+    ],
+    [
+      5.000652,
+      "\u001b[1;39mnode-1 droplet locked?\u001b[0m\r\n"
+    ],
+    [
+      4.091807,
+      "\u001b[1;39mnode-1 droplet locked?\u001b[0m\r\n"
+    ],
+    [
+      3.163390,
+      "\u001b[1;39mnode-2 droplet locked?\u001b[0m\r\n"
+    ],
+    [
+      4.316461,
+      "\u001b[1;39mnode-2 droplet locked?\u001b[0m\r\n"
+    ],
+    [
+      3.200495,
+      "\u001b[1;39mnode-2 droplet locked?\u001b[0m\r\n"
+    ],
+    [
+      2.551343,
+      "\u001b[1;39mnode-3 droplet locked?\u001b[0m\r\n"
+    ],
+    [
+      2.184971,
+      " _________________________________\r\n"
+    ],
+    [
+      0.000028,
+      "\u003c Let's make sure we can connect. \u003e\r\n"
+    ],
+    [
+      0.029184,
+      " ---------------------------------\r\n"
+    ],
+    [
+      0.000102,
+      "\t\\   \u001b[0;36m^\u001b[0m__\u001b[0;36m^\u001b[0m\r\n"
+    ],
+    [
+      0.000007,
+      "\t \\  (oo)\\_______\r\n"
+    ],
+    [
+      0.000052,
+      "\t    (__)\\       )\\/\\\r\n"
+    ],
+    [
+      0.000027,
+      "\t\t||----w |\r\n"
+    ],
+    [
+      0.000070,
+      "\t\t||     ||\r\n"
+    ],
+    [
+      0.002874,
+      "\u001b[1;39mnode-1 ssh-keygen -R\u001b[0m\r\n"
+    ],
+    [
+      0.077071,
+      "/Users/pdericson/.ssh/known_hosts updated.\r\nOriginal contents retained as /Users/pdericson/.ssh/known_hosts.old\r\n"
+    ],
+    [
+      0.003821,
+      "\u001b[1;39mnode-2 ssh-keygen -R\u001b[0m\r\n"
+    ],
+    [
+      0.074852,
+      "/Users/pdericson/.ssh/known_hosts updated.\r\nOriginal contents retained as /Users/pdericson/.ssh/known_hosts.old\r\n"
+    ],
+    [
+      0.004948,
+      "\u001b[1;39mnode-3 ssh-keygen -R\u001b[0m\r\n"
+    ],
+    [
+      0.073701,
+      "/Users/pdericson/.ssh/known_hosts updated.\r\nOriginal contents retained as /Users/pdericson/.ssh/known_hosts.old\r\n"
+    ],
+    [
+      0.004851,
+      "\u001b[1;39mnode-1 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      2.006676,
+      "Warning: Permanently added '45.55.54.131' (RSA) to the list of known hosts.\r\r\n"
+    ],
+    [
+      4.363532,
+      "\u001b[1;39mnode-2 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      1.660347,
+      "Warning: Permanently added '45.55.50.130' (RSA) to the list of known hosts.\r\r\n"
+    ],
+    [
+      4.614140,
+      "\u001b[1;39mnode-3 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      1.661716,
+      "Warning: Permanently added '45.55.61.7' (RSA) to the list of known hosts.\r\r\n"
+    ],
+    [
+      3.759977,
+      " ________\r\n"
+    ],
+    [
+      0.000027,
+      "\u003c docker \u003e\r\n"
+    ],
+    [
+      0.025103,
+      " --------\r\n"
+    ],
+    [
+      0.000054,
+      "\t\\   \u001b[0;36m^\u001b[0m__\u001b[0;36m^\u001b[0m\r\n"
+    ],
+    [
+      0.000027,
+      "\t \\  (oo)\\_______\r\n"
+    ],
+    [
+      0.000070,
+      "\t    (__)\\       )\\/\\\r\n"
+    ],
+    [
+      0.000011,
+      "\t\t||----w |\r\n"
+    ],
+    [
+      0.000027,
+      "\t\t||     ||\r\n"
+    ],
+    [
+      0.066555,
+      "\u001b[1;39mnode-1 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000410,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.54.131 'grep -Fq \"'* hard nofile 1048576'\" /etc/security/limits.conf || echo '* hard nofile 1048576' \u003e\u003e /etc/security/limits.conf; grep -Fq \"'* soft nofile 1048576'\" /etc/security/limits.conf || echo '* soft nofile 1048576' \u003e\u003e /etc/security/limits.conf; grep -Fq \"'* hard nproc 1048576'\" /etc/security/limits.conf || echo '* hard nproc 1048576' \u003e\u003e /etc/security/limits.conf; grep -Fq \"'* soft nproc 1048576'\" /etc/security/limits.conf || echo '* soft nproc 1048576' \u003e\u003e /etc/security/limits.conf'\u001b[0m\r\n"
+    ],
+    [
+      0.008557,
+      "\u001b[1;39mnode-2 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000257,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.50.130 'grep -Fq \"'* hard nofile 1048576'\" /etc/security/limits.conf || echo '* hard nofile 1048576' \u003e\u003e /etc/security/limits.conf; grep -Fq \"'* soft nofile 1048576'\" /etc/security/limits.conf || echo '* soft nofile 1048576' \u003e\u003e /etc/security/limits.conf; grep -Fq \"'* hard nproc 1048576'\" /etc/security/limits.conf || echo '* hard nproc 1048576' \u003e\u003e /etc/security/limits.conf; grep -Fq \"'* soft nproc 1048576'\" /etc/security/limits.conf || echo '* soft nproc 1048576' \u003e\u003e /etc/security/limits.conf'\u001b[0m\r\n"
+    ],
+    [
+      0.051579,
+      "\u001b[1;39mnode-3 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000674,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.61.7 'grep -Fq \"'* hard nofile 1048576'\" /etc/security/limits.conf || echo '* hard nofile 1048576' \u003e\u003e /etc/security/limits.conf; grep -Fq \"'* soft nofile 1048576'\" /etc/security/limits.conf || echo '* soft nofile 1048576' \u003e\u003e /etc/security/limits.conf; grep -Fq \"'* hard nproc 1048576'\" /etc/security/limits.conf || echo '* hard nproc 1048576' \u003e\u003e /etc/security/limits.conf; grep -Fq \"'* soft nproc 1048576'\" /etc/security/limits.conf || echo '* soft nproc 1048576' \u003e\u003e /etc/security/limits.conf'\u001b[0m\r\n"
+    ],
+    [
+      5.413337,
+      "\u001b[1;39mnode-1 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000134,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.54.131 'which docker \u003e /dev/null || wget -qO- https://get.docker.com/ | sh'\u001b[0m\r\n"
+    ],
+    [
+      0.061137,
+      "\u001b[1;39mnode-2 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000028,
+      "\u001b[1;39mnode-3 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000134,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.50.130 'which docker \u003e /dev/null || wget -qO- https://get.docker.com/ | sh'\u001b[0m\r\n\u001b[0;36mssh -o BatchMode=yes root@45.55.61.7 'which docker \u003e /dev/null || wget -qO- https://get.docker.com/ | sh'\u001b[0m\r\n"
+    ],
+    [
+      4.991414,
+      "apparmor is enabled in the kernel and apparmor utils were already installed\r\n"
+    ],
+    [
+      0.001428,
+      "+ sh -c apt-key adv --keyserver hkp://p80.pool.sks-keyservers.net:80 --recv-keys 58118E89F3A912897C070ADBF76221572C52609D\r\n"
+    ],
+    [
+      0.000042,
+      "apparmor is enabled in the kernel and apparmor utils were already installed\r\n+ sh"
+    ],
+    [
+      0.000193,
+      " -c apt-key adv --keyserver hkp://p80.pool.sks-keyservers.net:80 --recv-keys 58118E89F3A912897C070ADBF76221572C52609D\r\n"
+    ],
+    [
+      0.000525,
+      "apparmor is enabled in the kernel and apparmor utils were already installed\r\n+ sh"
+    ],
+    [
+      0.000026,
+      " -c apt-key adv --keyserver hkp://p80.pool.sks-keyservers.net:80 --recv-keys 58118E89F3A912897C070ADBF76221572C52609D\r\n"
+    ],
+    [
+      0.000300,
+      "Executing: gpg --ignore-time-conflict --no-options --no-default-keyring --homedir /tmp/tmp.VS0ajE16Mk --no-auto-check-trustdb --trust-model always --keyring /etc/apt/trusted.gpg --primary-keyring /etc/apt/trusted.gpg --keyserver hkp://p80.pool.sks-keyservers.net:80 --recv-keys 58118E89F3A912897C070ADBF76221572C52609D\r\n"
+    ],
+    [
+      0.000011,
+      "Executing: gpg --ignore-time-conflict --no-options --no-default-keyring --homedir /tmp/tmp.XH1ZzuHfM9 --no-auto-check-trustdb --trust-model always --keyring /etc/apt/trusted.gpg --primary-keyring /etc/apt/trusted.gpg --keyserver hkp://p80.pool.sks-keyservers.net:80 --recv-keys 58118E89F3A912897C070ADBF76221572C52609D\r\n"
+    ],
+    [
+      0.000060,
+      "gpg: requesting key 2C52609D from hkp server p80.pool.sks-keyservers.net\r\n"
+    ],
+    [
+      0.004316,
+      "gpg: "
+    ],
+    [
+      0.003002,
+      "requesting key 2C52609D from hkp server p80.pool.sks-keyservers.net\r\n"
+    ],
+    [
+      0.008283,
+      "Executing: gpg --ignore-time-conflict --no-options --no-default-keyring --homedir /tmp/tmp.LsVfgLecYU --no-auto-check-trustdb --trust-model always --keyring /etc/apt/trusted.gpg --primary-keyring /etc/apt/trusted.gpg --keyserver hkp://p80.pool.sks-keyservers.net:80 --recv-keys 58118E89F3A912897C070ADBF76221572C52609D\r\n"
+    ],
+    [
+      0.003720,
+      "gpg: "
+    ],
+    [
+      0.002588,
+      "requesting key 2C52609D from hkp server p80.pool.sks-keyservers.net\r\n"
+    ],
+    [
+      0.387665,
+      "gpg: "
+    ],
+    [
+      0.000012,
+      "gpg: key 2C52609D: public key \"Docker Release Tool (releasedocker) \u003cdocker@docker.com\u003e\" imported\r\ngpg: Total number processed: 1\r\ngpg:               imported: 1"
+    ],
+    [
+      0.000151,
+      "  (RSA: 1)\r\n+ sh -c mkdir -p /etc/apt/sources.list.d\r\n+ sh -c echo deb https://apt.dockerproject.org/repo ubuntu-trusty main \u003e /etc/apt/sources.list.d/docker.list\r\n+ sh -c sleep 3; apt-get update; apt-get install -y -q docker-engine\r\n"
+    ],
+    [
+      0.000091,
+      "key 2C52609D: public key \"Docker Release Tool (releasedocker) \u003cdocker@docker.com\u003e\" imported\r\n"
+    ],
+    [
+      0.000009,
+      "gpg: Total number processed: 1\r\n"
+    ],
+    [
+      0.000296,
+      "gpg:               imported: 1  (RSA: 1)"
+    ],
+    [
+      0.000600,
+      "\r\n+ sh -c mkdir -p /etc/apt/sources.list.d\r\n+ sh -c echo deb https://apt.dockerproject.org/repo ubuntu-trusty main \u003e /etc/apt/sources.list.d/docker.list\r\n+ sh -c sleep 3; apt-get update; apt-get install -y -q docker-engine\r\n"
+    ],
+    [
+      3.170686,
+      "Ign http://security.ubuntu.com trusty-security InRelease\r\n"
+    ],
+    [
+      0.001351,
+      "Get:1 http://security.ubuntu.com trusty-security Release.gpg [933 B]\r\nGet:2 http://security.ubuntu.com trusty-security Release [63.5 kB]\r\nGet:3 http://security.ubuntu.com trusty-security/main Sources [92.2 kB]\r\n"
+    ],
+    [
+      0.000036,
+      "Get:4 http://security.ubuntu.com trusty-security/universe Sources [29.8 kB]\r\nIgn http://security.ubuntu.com trusty-security InRelease\r\n"
+    ],
+    [
+      0.004602,
+      "Get:5 http://security.ubuntu.com trusty-security/main amd64 Packages [333 kB]\r\n"
+    ],
+    [
+      0.008079,
+      "Ign http://mirrors.digitalocean.com trusty InRelease\r\n"
+    ],
+    [
+      0.032236,
+      "Get:1 http://security.ubuntu.com trusty-security Release.gpg [933 B]\r\n"
+    ],
+    [
+      0.002565,
+      "Get:6 http://security.ubuntu.com trusty-security/universe amd64 Packages [114 kB]\r\n"
+    ],
+    [
+      0.015243,
+      "Get:7 http://security.ubuntu.com trusty-security/main i386 Packages [317 kB]\r\n"
+    ],
+    [
+      0.005910,
+      "Ign http://mirrors.digitalocean.com trusty-updates InRelease\r\n"
+    ],
+    [
+      0.032208,
+      "Get:8 http://security.ubuntu.com trusty-security/universe i386 Packages [114 kB]\r\n"
+    ],
+    [
+      0.011867,
+      "Get:9 http://security.ubuntu.com trusty-security/main Translation-en [181 kB]\r\n"
+    ],
+    [
+      0.005727,
+      "Get:2 http://security.ubuntu.com trusty-security Release [63.5 kB]\r\n"
+    ],
+    [
+      0.004081,
+      "Get:3 https://apt.dockerproject.org ubuntu-trusty InRelease\r\n"
+    ],
+    [
+      0.002521,
+      "Ign https://apt.dockerproject.org ubuntu-trusty InRelease\r\n"
+    ],
+    [
+      0.023858,
+      "Hit http://mirrors.digitalocean.com trusty Release.gpg\r\n"
+    ],
+    [
+      0.026523,
+      "Get:4 https://apt.dockerproject.org ubuntu-trusty Release\r\n"
+    ],
+    [
+      0.036463,
+      "Get:5 https://apt.dockerproject.org ubuntu-trusty/main amd64 Packages\r\n"
+    ],
+    [
+      0.117425,
+      "Get:10 http://security.ubuntu.com trusty-security/universe Translation-en [66.9 kB]\r\nGet:11 https://apt.dockerproject.org ubuntu-trusty InRelease\r\nIgn https://apt.dockerproject.org ubuntu-trusty InRelease\r\nGet:12 https://apt.dockerproject.org ubuntu-trusty Release\r\nGet:13 https://apt.dockerproject.org ubuntu-trusty/main amd64 Packages\r\nGet:14 https://apt.dockerproject.org ubuntu-trusty/main i386 Packages\r\nGet:15 https://apt.dockerproject.org ubuntu-trusty/main Translation-en_US\r\nIgn https://apt.dockerproject.org ubuntu-trusty/main Translation-en_US\r\nIgn https://apt.dockerproject.org ubuntu-trusty/main Translation-en\r\n"
+    ],
+    [
+      0.041426,
+      "Get:6 http://mirrors.digitalocean.com trusty-updates Release.gpg [933 B]\r\nGet:7 https://apt.dockerproject.org ubuntu-trusty/main i386 Packages\r\nGet:8 https://apt.dockerproject.org ubuntu-trusty/main Translation-en_US\r\nHit http://mirrors.digitalocean.com trusty Release\r\n"
+    ],
+    [
+      0.016054,
+      "Ign http://mirrors.digitalocean.com trusty InRelease\r\n"
+    ],
+    [
+      0.001604,
+      "Get:9 http://mirrors.digitalocean.com trusty-updates Release [63.5 kB]\r\n"
+    ],
+    [
+      0.026187,
+      "Get:10 http://security.ubuntu.com trusty-security/main Sources [92.2 kB]\r\n"
+    ],
+    [
+      0.066233,
+      "Hit http://mirrors.digitalocean.com trusty/main Sources\r\n"
+    ],
+    [
+      0.019913,
+      "Ign https://apt.dockerproject.org ubuntu-trusty/main Translation-en_US\r\n"
+    ],
+    [
+      0.021829,
+      "Ign https://apt.dockerproject.org ubuntu-trusty/main Translation-en\r\n"
+    ],
+    [
+      0.026198,
+      "Hit http://mirrors.digitalocean.com trusty/universe Sources\r\n"
+    ],
+    [
+      0.064186,
+      "Ign http://mirrors.digitalocean.com trusty-updates InRelease\r\n"
+    ],
+    [
+      0.017890,
+      "Hit http://mirrors.digitalocean.com trusty/main amd64 Packages\r\n"
+    ],
+    [
+      0.015953,
+      "Get:11 http://security.ubuntu.com trusty-security/universe Sources [29.8 kB]\r\n"
+    ],
+    [
+      0.064288,
+      "Get:12 http://security.ubuntu.com trusty-security/main amd64 Packages [333 kB]\r\nHit http://mirrors.digitalocean.com trusty/universe amd64 Packages\r\n"
+    ],
+    [
+      0.106053,
+      "Hit http://mirrors.digitalocean.com trusty/main i386 Packages\r\n"
+    ],
+    [
+      0.043557,
+      "Hit http://mirrors.digitalocean.com trusty Release.gpg\r\n"
+    ],
+    [
+      0.009969,
+      "Hit http://mirrors.digitalocean.com trusty/universe i386 Packages\r\n"
+    ],
+    [
+      0.158207,
+      "Hit http://mirrors.digitalocean.com trusty/main Translation-en\r\n"
+    ],
+    [
+      0.056078,
+      "Get:13 http://security.ubuntu.com trusty-security/universe amd64 Packages [114 kB]\r\n"
+    ],
+    [
+      0.041346,
+      "Get:16 http://mirrors.digitalocean.com trusty-updates Release.gpg [933 B]\r\n"
+    ],
+    [
+      0.062524,
+      "Hit http://mirrors.digitalocean.com trusty/universe Translation-en\r\n"
+    ],
+    [
+      0.056047,
+      "Get:14 http://security.ubuntu.com trusty-security/main i386 Packages [317 kB]\r\n"
+    ],
+    [
+      0.029888,
+      "Get:15 http://mirrors.digitalocean.com trusty-updates/main Sources [230 kB]\r\n"
+    ],
+    [
+      0.083419,
+      "Get:16 http://mirrors.digitalocean.com trusty-updates/universe Sources [134 kB]\r\n"
+    ],
+    [
+      0.000147,
+      "Hit http://mirrors.digitalocean.com trusty Release\r\n"
+    ],
+    [
+      0.098194,
+      "Get:17 http://security.ubuntu.com trusty-security/universe i386 Packages [114 kB]\r\n"
+    ],
+    [
+      0.030380,
+      "Get:18 http://mirrors.digitalocean.com trusty-updates/main amd64 Packages [606 kB]\r\n"
+    ],
+    [
+      0.037694,
+      "Get:19 http://security.ubuntu.com trusty-security/main Translation-en [181 kB]\r\n"
+    ],
+    [
+      0.085215,
+      "Get:17 http://mirrors.digitalocean.com trusty-updates Release [63.5 kB]\r\n"
+    ],
+    [
+      0.020900,
+      "Get:20 http://mirrors.digitalocean.com trusty-updates/universe amd64 Packages [309 kB]\r\n"
+    ],
+    [
+      0.038040,
+      "Get:21 http://security.ubuntu.com trusty-security/universe Translation-en [66.9 kB]\r\n"
+    ],
+    [
+      0.041955,
+      "Get:22 http://mirrors.digitalocean.com trusty-updates/main i386 Packages [586 kB]\r\n"
+    ],
+    [
+      0.030469,
+      "gpg: key 2C52609D: public key \"Docker Release Tool (releasedocker) \u003cdocker@docker.com\u003e\" imported\r\ngpg: Total number processed: 1\r\ngpg: "
+    ],
+    [
+      0.002734,
+      "              imported: 1  (RSA: 1)\r\n+ sh"
+    ],
+    [
+      0.042823,
+      "Get:23 http://mirrors.digitalocean.com trusty-updates/universe i386 Packages [310 kB]\r\n"
+    ],
+    [
+      0.089723,
+      "Get:24 http://mirrors.digitalocean.com trusty-updates/main Translation-en [292 kB]\r\n"
+    ],
+    [
+      0.000012,
+      "Hit http://mirrors.digitalocean.com trusty/main Sources\r\n"
+    ],
+    [
+      0.096373,
+      "Get:25 http://mirrors.digitalocean.com trusty-updates/universe Translation-en [164 kB]\r\n"
+    ],
+    [
+      0.068409,
+      " -c mkdir -p /etc/apt/sources.list.d\r\n+ sh -c echo deb https://apt.dockerproject.org/repo ubuntu-trusty main \u003e /etc/apt/sources.list.d/docker.list\r\n+ sh -c sleep 3; apt-get update; apt-get install -y -q docker-engine\r\n"
+    ],
+    [
+      0.065381,
+      "Hit http://mirrors.digitalocean.com trusty/universe Sources\r\n"
+    ],
+    [
+      0.352138,
+      "Hit http://mirrors.digitalocean.com trusty/main amd64 Packages\r\n"
+    ],
+    [
+      0.065895,
+      "Ign http://mirrors.digitalocean.com trusty/main Translation-en_US\r\n"
+    ],
+    [
+      0.078198,
+      "Hit http://mirrors.digitalocean.com trusty/universe amd64 Packages\r\n"
+    ],
+    [
+      0.002632,
+      "Ign http://mirrors.digitalocean.com trusty/universe Translation-en_US\r\n"
+    ],
+    [
+      0.249679,
+      "Hit http://mirrors.digitalocean.com trusty/main i386 Packages\r\n"
+    ],
+    [
+      0.318848,
+      "Hit http://mirrors.digitalocean.com trusty/universe i386 Packages\r\n"
+    ],
+    [
+      0.536795,
+      "Hit http://mirrors.digitalocean.com trusty/main Translation-en\r\n"
+    ],
+    [
+      0.020353,
+      "Fetched 4,014 kB in 3s (1,036 kB/s)\r\nReading package lists..."
+    ],
+    [
+      0.465734,
+      "Hit http://mirrors.digitalocean.com trusty/universe Translation-en\r\n"
+    ],
+    [
+      0.147991,
+      "Get:18 http://mirrors.digitalocean.com trusty-updates/main Sources [230 kB]\r\n"
+    ],
+    [
+      0.353686,
+      "Get:19 http://mirrors.digitalocean.com trusty-updates/universe Sources [134 kB]\r\n"
+    ],
+    [
+      0.184130,
+      "Get:20 http://mirrors.digitalocean.com trusty-updates/main amd64 Packages [606 kB]\r\n"
+    ],
+    [
+      0.084020,
+      "Ign http://security.ubuntu.com trusty-security InRelease\r\n"
+    ],
+    [
+      0.072113,
+      "Get:1 http://security.ubuntu.com trusty-security Release.gpg [933 B]\r\n"
+    ],
+    [
+      0.072031,
+      "Get:2 http://security.ubuntu.com trusty-security Release [63.5 kB]\r\n"
+    ],
+    [
+      0.013801,
+      "Get:3 https://apt.dockerproject.org ubuntu-trusty InRelease\r\n"
+    ],
+    [
+      0.002863,
+      "Ign https://apt.dockerproject.org ubuntu-trusty InRelease\r\n"
+    ],
+    [
+      0.053338,
+      "Get:4 https://apt.dockerproject.org ubuntu-trusty Release\r\n"
+    ],
+    [
+      0.045843,
+      "Get:5 https://apt.dockerproject.org ubuntu-trusty/main amd64 Packages\r\n"
+    ],
+    [
+      0.035946,
+      "Get:6 https://apt.dockerproject.org ubuntu-trusty/main i386 Packages\r\n"
+    ],
+    [
+      0.030057,
+      "Get:7 https://apt.dockerproject.org ubuntu-trusty/main Translation-en_US\r\n"
+    ],
+    [
+      0.058034,
+      "Ign http://mirrors.digitalocean.com trusty InRelease\r\n"
+    ],
+    [
+      0.030007,
+      "Get:21 http://mirrors.digitalocean.com trusty-updates/universe amd64 Packages [309 kB]\r\n"
+    ],
+    [
+      0.034706,
+      "Get:8 http://security.ubuntu.com trusty-security/main Sources [92.2 kB]\r\n"
+    ],
+    [
+      0.123442,
+      "Ign https://apt.dockerproject.org ubuntu-trusty/main Translation-en_US\r\n"
+    ],
+    [
+      0.041881,
+      "Ign https://apt.dockerproject.org ubuntu-trusty/main Translation-en\r\nIgn http://mirrors.digitalocean.com trusty-updates InRelease\r\n"
+    ],
+    [
+      0.046221,
+      "Get:22 http://mirrors.digitalocean.com trusty-updates/main i386 Packages [586 kB]\r\n"
+    ],
+    [
+      0.007529,
+      "Get:9 http://security.ubuntu.com trusty-security/universe Sources [29.8 kB]\r\n"
+    ],
+    [
+      0.081894,
+      "Get:10 http://security.ubuntu.com trusty-security/main amd64 Packages [333 kB]\r\n"
+    ],
+    [
+      0.112507,
+      "Hit http://mirrors.digitalocean.com trusty Release.gpg\r\n"
+    ],
+    [
+      0.045589,
+      "Get:23 http://mirrors.digitalocean.com trusty-updates/universe i386 Packages [310 kB]\r\n"
+    ],
+    [
+      0.269192,
+      "Get:11 http://mirrors.digitalocean.com trusty-updates Release.gpg [933 B]\r\n"
+    ],
+    [
+      0.001335,
+      "Get:12 http://security.ubuntu.com trusty-security/universe amd64 Packages [114 kB]\r\n"
+    ],
+    [
+      0.000035,
+      "Get:24 http://mirrors.digitalocean.com trusty-updates/main Translation-en [292 kB]\r\n"
+    ],
+    [
+      0.135871,
+      "Get:13 http://security.ubuntu.com trusty-security/main i386 Packages [317 kB]\r\n"
+    ],
+    [
+      0.049606,
+      "Hit http://mirrors.digitalocean.com trusty Release\r\n"
+    ],
+    [
+      0.042490,
+      "Get:25 http://mirrors.digitalocean.com trusty-updates/universe Translation-en [164 kB]\r\n"
+    ],
+    [
+      0.125765,
+      "Get:14 http://security.ubuntu.com trusty-security/universe i386 Packages [114 kB]\r\n"
+    ],
+    [
+      0.023918,
+      "\r\n"
+    ],
+    [
+      0.011759,
+      "Reading package lists..."
+    ],
+    [
+      0.003876,
+      "\r\n"
+    ],
+    [
+      0.006104,
+      "Building dependency tree..."
+    ],
+    [
+      0.030257,
+      "Get:15 http://security.ubuntu.com trusty-security/main Translation-en [181 kB]\r\n"
+    ],
+    [
+      0.008150,
+      "Get:16 http://mirrors.digitalocean.com trusty-updates Release [63.5 kB]\r\n"
+    ],
+    [
+      0.135976,
+      "Get:17 http://security.ubuntu.com trusty-security/universe Translation-en [66.9 kB]\r\n"
+    ],
+    [
+      0.122143,
+      "Hit http://mirrors.digitalocean.com trusty/main Sources\r\n"
+    ],
+    [
+      0.029909,
+      "\r\n"
+    ],
+    [
+      0.002716,
+      "Reading state information...\r\n"
+    ],
+    [
+      0.214531,
+      "The following extra packages will be installed:\r\n"
+    ],
+    [
+      0.007293,
+      "  aufs-tools cgroup-lite git git-man liberror-perl\r\nHit http://mirrors.digitalocean.com trusty/universe Sources\r\nSuggested packages:\r\n  git-daemon-run git-daemon-sysvinit git-doc git-el git-email git-gui gitk\r\n"
+    ],
+    [
+      0.000015,
+      "  gitweb git-arch git-bzr git-cvs git-mediawiki git-svn\r\n"
+    ],
+    [
+      0.000227,
+      "The following NEW packages will be installed:\r\n  aufs-tools cgroup-lite docker-engine git git-man liberror-perl\r\n"
+    ],
+    [
+      0.085311,
+      "0 upgraded, 6 newly installed, 0 to remove and 14 not upgraded.\r\nNeed to get 9,131 kB of archives.\r\nAfter this operation, 50.4 MB of additional disk space will be used.\r\nGet:1 http://mirrors.digitalocean.com/ubuntu/ trusty/universe aufs-tools amd64 1:3.2+20130722-1.1 [92.3 kB]\r\nGet:2 http://mirrors.digitalocean.com/ubuntu/ trusty/main liberror-perl all 0.17-1.1 [21.1 kB]\r\n"
+    ],
+    [
+      0.049757,
+      "Get:3 http://mirrors.digitalocean.com/ubuntu/ trusty-updates/main git-man all 1:1.9.1-1ubuntu0.1 [698 kB]\r\n"
+    ],
+    [
+      0.078081,
+      "Get:4 http://mirrors.digitalocean.com/ubuntu/ trusty-updates/main git amd64 1:1.9.1-1ubuntu0.1 [2,627 kB]\r\n"
+    ],
+    [
+      0.030117,
+      "Hit http://mirrors.digitalocean.com trusty/main amd64 Packages\r\n"
+    ],
+    [
+      0.061798,
+      "Get:5 http://mirrors.digitalocean.com/ubuntu/ trusty/main cgroup-lite all 1.9 [3,918 B]\r\n"
+    ],
+    [
+      0.112092,
+      "Get:6 https://apt.dockerproject.org/repo/ ubuntu-trusty/main docker-engine amd64 1.8.1-0~trusty [5,689 kB]\r\n"
+    ],
+    [
+      0.108707,
+      "Hit http://mirrors.digitalocean.com trusty/universe amd64 Packages\r\n"
+    ],
+    [
+      0.365348,
+      "Hit http://mirrors.digitalocean.com trusty/main i386 Packages\r\n"
+    ],
+    [
+      0.102314,
+      "Hit http://mirrors.digitalocean.com trusty/universe i386 Packages\r\n"
+    ],
+    [
+      0.027493,
+      "Ign http://mirrors.digitalocean.com trusty/main Translation-en_US\r\n"
+    ],
+    [
+      0.484635,
+      "Ign http://mirrors.digitalocean.com trusty/universe Translation-en_US\r\n"
+    ],
+    [
+      0.001060,
+      "Fetched 4,014 kB in 8s (472 kB/s)\r\nReading package lists..."
+    ],
+    [
+      0.001897,
+      "Hit http://mirrors.digitalocean.com trusty/main Translation-en\r\n"
+    ],
+    [
+      0.611427,
+      "Hit http://mirrors.digitalocean.com trusty/universe Translation-en\r\n"
+    ],
+    [
+      0.001152,
+      "Fetched 9,131 kB in 1s (5,143 kB/s)\r\n"
+    ],
+    [
+      0.128102,
+      "Get:18 http://mirrors.digitalocean.com trusty-updates/main Sources [230 kB]\r\n"
+    ],
+    [
+      0.381370,
+      "Get:19 http://mirrors.digitalocean.com trusty-updates/universe Sources [134 kB]\r\n"
+    ],
+    [
+      0.068516,
+      "Selecting previously unselected package aufs-tools.\r\n"
+    ],
+    [
+      0.091814,
+      "Get:20 http://mirrors.digitalocean.com trusty-updates/main amd64 Packages [606 kB]\r\n"
+    ],
+    [
+      0.246016,
+      "(Reading database ... 86793 files and directories currently installed.)\r\n"
+    ],
+    [
+      0.008005,
+      "Preparing to unpack .../aufs-tools_1%3a3.2+20130722-1.1_amd64.deb ...\r\n"
+    ],
+    [
+      0.003855,
+      "Unpacking aufs-tools (1:3.2+20130722-1.1) ...\r\n"
+    ],
+    [
+      0.052144,
+      "Selecting previously unselected package liberror-perl.\r\n"
+    ],
+    [
+      0.009892,
+      "Preparing to unpack .../liberror-perl_0.17-1.1_all.deb ...\r\n"
+    ],
+    [
+      0.002953,
+      "Unpacking liberror-perl (0.17-1.1) ...\r\n"
+    ],
+    [
+      0.028916,
+      "Selecting previously unselected package git-man.\r\n"
+    ],
+    [
+      0.006215,
+      "Preparing to unpack .../git-man_1%3a1.9.1-1ubuntu0.1_all.deb ...\r\n"
+    ],
+    [
+      0.003988,
+      "Unpacking git-man (1:1.9.1-1ubuntu0.1) ...\r\n"
+    ],
+    [
+      0.128105,
+      "Selecting previously unselected package git.\r\n"
+    ],
+    [
+      0.014000,
+      "Get:21 http://mirrors.digitalocean.com trusty-updates/universe amd64 Packages [309 kB]\r\n"
+    ],
+    [
+      0.060197,
+      "Preparing to unpack .../git_1%3a1.9.1-1ubuntu0.1_amd64.deb ...\r\nUnpacking git (1:1.9.1-1ubuntu0.1) ...\r\n"
+    ],
+    [
+      0.187937,
+      "Get:22 http://mirrors.digitalocean.com trusty-updates/main i386 Packages [586 kB]\r\n"
+    ],
+    [
+      0.094123,
+      "\r\n"
+    ],
+    [
+      0.011650,
+      "Reading package lists..."
+    ],
+    [
+      0.005251,
+      "\r\n"
+    ],
+    [
+      0.006766,
+      "Building dependency tree..."
+    ],
+    [
+      0.134381,
+      "Get:23 http://mirrors.digitalocean.com trusty-updates/universe i386 Packages [310 kB]\r\n"
+    ],
+    [
+      0.156288,
+      "\r\nReading state information..."
+    ],
+    [
+      0.000344,
+      "\r\n"
+    ],
+    [
+      0.095344,
+      "Get:24 http://mirrors.digitalocean.com trusty-updates/main Translation-en [292 kB]\r\n"
+    ],
+    [
+      0.054583,
+      "The following extra packages will be installed:\r\n  aufs-tools cgroup-lite git git-man liberror-perl\r\nSuggested packages:\r\n  git-daemon-run git-daemon-sysvinit git-doc git-el git-email git-gui gitk\r\n  gitweb git-arch git-bzr git-cvs git-mediawiki git-svn\r\n"
+    ],
+    [
+      0.000184,
+      "The following NEW packages will be installed:\r\n  aufs-tools cgroup-lite docker-engine git git-man liberror-perl\r\n"
+    ],
+    [
+      0.035070,
+      "0 upgraded, 6 newly installed, 0 to remove and 14 not upgraded.\r\nNeed to get 9,131 kB of archives.\r\nAfter this operation, 50.4 MB of additional disk space will be used.\r\nGet:1 http://mirrors.digitalocean.com/ubuntu/ trusty/universe aufs-tools amd64 1:3.2+20130722-1.1 [92.3 kB]\r\n"
+    ],
+    [
+      0.126336,
+      "Get:2 http://mirrors.digitalocean.com/ubuntu/ trusty/main liberror-perl all 0.17-1.1 [21.1 kB]\r\nGet:3 http://mirrors.digitalocean.com/ubuntu/ trusty-updates/main git-man all 1:1.9.1-1ubuntu0.1 [698 kB]\r\nGet:4 http://mirrors.digitalocean.com/ubuntu/ trusty-updates/main git amd64 1:1.9.1-1ubuntu0.1 [2,627 kB]\r\nGet:5 http://mirrors.digitalocean.com/ubuntu/ trusty/main cgroup-lite all 1.9 [3,918 B]\r\n"
+    ],
+    [
+      0.021538,
+      "Selecting previously unselected package cgroup-lite.\r\n"
+    ],
+    [
+      0.021624,
+      "Get:25 http://mirrors.digitalocean.com trusty-updates/universe Translation-en [164 kB]\r\n"
+    ],
+    [
+      0.000014,
+      "Preparing to unpack .../cgroup-lite_1.9_all.deb ...\r\n"
+    ],
+    [
+      0.000171,
+      "Unpacking cgroup-lite (1.9) ...\r\n"
+    ],
+    [
+      0.045470,
+      "Selecting previously unselected package docker-engine.\r\n"
+    ],
+    [
+      0.032789,
+      "Preparing to unpack .../docker-engine_1.8.1-0~trusty_amd64.deb ...\r\nUnpacking docker-engine (1.8.1-0~trusty) ...\r\n"
+    ],
+    [
+      0.130233,
+      "Get:6 https://apt.dockerproject.org/repo/ ubuntu-trusty/main docker-engine amd64 1.8.1-0~trusty [5,689 kB]\r\n"
+    ],
+    [
+      0.983719,
+      "Fetched 9,131 kB in 1s (8,502 kB/s)\r\n"
+    ],
+    [
+      0.001090,
+      "Selecting previously unselected package aufs-tools.\r\n"
+    ],
+    [
+      0.142964,
+      "(Reading database ... 86793 files and directories currently installed.)\r\nPreparing to unpack .../aufs-tools_1%3a3.2+20130722-1.1_amd64.deb ...\r\n"
+    ],
+    [
+      0.002711,
+      "Unpacking aufs-tools (1:3.2+20130722-1.1) ...\r\n"
+    ],
+    [
+      0.051097,
+      "Selecting previously unselected package liberror-perl.\r\n"
+    ],
+    [
+      0.014076,
+      "Preparing to unpack .../liberror-perl_0.17-1.1_all.deb ...\r\nUnpacking liberror-perl (0.17-1.1) ...\r\n"
+    ],
+    [
+      0.030059,
+      "Selecting previously unselected package git-man.\r\n"
+    ],
+    [
+      0.011759,
+      "Preparing to unpack .../git-man_1%3a1.9.1-1ubuntu0.1_all.deb ...\r\n"
+    ],
+    [
+      0.051597,
+      "Unpacking git-man (1:1.9.1-1ubuntu0.1) ...\r\n"
+    ],
+    [
+      0.084430,
+      "Selecting previously unselected package git.\r\n"
+    ],
+    [
+      0.012033,
+      "Preparing to unpack .../git_1%3a1.9.1-1ubuntu0.1_amd64.deb ...\r\n"
+    ],
+    [
+      0.007928,
+      "Unpacking git (1:1.9.1-1ubuntu0.1) ...\r\n"
+    ],
+    [
+      0.160436,
+      "Ign http://mirrors.digitalocean.com trusty/main Translation-en_US\r\n"
+    ],
+    [
+      0.251781,
+      "Ign http://mirrors.digitalocean.com trusty/universe Translation-en_US\r\n"
+    ],
+    [
+      0.028059,
+      "Fetched 4,014 kB in 8s (467 kB/s)\r\nReading package lists..."
+    ],
+    [
+      0.089882,
+      "Processing triggers for man-db (2.6.7.1-1ubuntu1) ...\r\n"
+    ],
+    [
+      0.055961,
+      "Selecting previously unselected package cgroup-lite.\r\n"
+    ],
+    [
+      0.020224,
+      "Preparing to unpack .../cgroup-lite_1.9_all.deb ...\r\nUnpacking cgroup-lite (1.9) ...\r\n"
+    ],
+    [
+      0.045822,
+      "Selecting previously unselected package docker-engine.\r\n"
+    ],
+    [
+      0.014121,
+      "Preparing to unpack .../docker-engine_1.8.1-0~trusty_amd64.deb ...\r\n"
+    ],
+    [
+      0.003762,
+      "Unpacking docker-engine (1.8.1-0~trusty) ...\r\n"
+    ],
+    [
+      1.002131,
+      "Processing triggers for man-db (2.6.7.1-1ubuntu1) ...\r\n"
+    ],
+    [
+      0.016082,
+      "Processing triggers for ureadahead (0.100.0-16) ...\r\n"
+    ],
+    [
+      0.043901,
+      "Setting up aufs-tools (1:3.2+20130722-1.1) ...\r\n"
+    ],
+    [
+      0.019929,
+      "Setting up liberror-perl (0.17-1.1) ...\r\n"
+    ],
+    [
+      0.007929,
+      "Setting up git-man (1:1.9.1-1ubuntu0.1) ...\r\n"
+    ],
+    [
+      0.008083,
+      "Setting up git (1:1.9.1-1ubuntu0.1) ...\r\n"
+    ],
+    [
+      0.017968,
+      "Setting up cgroup-lite (1.9) ...\r\n"
+    ],
+    [
+      0.150305,
+      "cgroup-lite start/running\r\n"
+    ],
+    [
+      0.009979,
+      "Setting up docker-engine (1.8.1-0~trusty) ...\r\n"
+    ],
+    [
+      0.818212,
+      "docker start/running, process 2902\r\n"
+    ],
+    [
+      0.001247,
+      "Processing triggers for ureadahead (0.100.0-16) ...\r\nSetting up aufs-tools (1:3.2+20130722-1.1) ...\r\n"
+    ],
+    [
+      0.006168,
+      "Setting up liberror-perl (0.17-1.1) ...\r\n"
+    ],
+    [
+      0.004116,
+      "Processing triggers for libc-bin (2.19-0ubuntu6.6) ...\r\nSetting up git-man (1:1.9.1-1ubuntu0.1) ...\r\n"
+    ],
+    [
+      0.010330,
+      "Setting up git (1:1.9.1-1ubuntu0.1) ...\r\n"
+    ],
+    [
+      0.000018,
+      "Processing triggers for ureadahead (0.100.0-16) ...\r\n"
+    ],
+    [
+      0.019781,
+      "Setting up cgroup-lite (1.9) ...\r\n"
+    ],
+    [
+      0.120130,
+      "cgroup-lite start/running\r\n"
+    ],
+    [
+      0.033857,
+      "Setting up docker-engine (1.8.1-0~trusty) ...\r\n"
+    ],
+    [
+      0.104229,
+      "\r\n"
+    ],
+    [
+      0.013933,
+      "Reading package lists...\r\n"
+    ],
+    [
+      0.002813,
+      "Building dependency tree..."
+    ],
+    [
+      0.323220,
+      "\r\nReading state information..."
+    ],
+    [
+      0.002537,
+      "\r\n"
+    ],
+    [
+      0.094075,
+      "+ sh -c docker version\r\n"
+    ],
+    [
+      0.051933,
+      "Client:\r\n Version:      1.8.1\r\n API version:  1.20\r\n Go version:   "
+    ],
+    [
+      0.019773,
+      "The following extra packages will be installed:\r\n  aufs-tools cgroup-lite git git-man liberror-perl\r\nSuggested packages:\r\n"
+    ],
+    [
+      0.000023,
+      "  git-daemon-run git-daemon-sysvinit git-doc git-el git-email git-gui gitk\r\n  gitweb git-arch git-bzr git-cvs git-mediawiki git-svn\r\n"
+    ],
+    [
+      0.000236,
+      "The following NEW packages will be installed:\r\n"
+    ],
+    [
+      0.001023,
+      "  aufs-tools cgroup-lite docker-engine git git-man liberror-perl\r\n"
+    ],
+    [
+      0.018140,
+      "docker start/running, process 2897\r\n"
+    ],
+    [
+      0.022167,
+      "Processing triggers for libc-bin (2.19-0ubuntu6.6) ...\r\n"
+    ],
+    [
+      0.037784,
+      "Processing triggers for ureadahead (0.100.0-16) ...\r\n"
+    ],
+    [
+      0.148455,
+      "0 upgraded, 6 newly installed, 0 to remove and 14 not upgraded.\r\nNeed to get 9,131 kB of archives.\r\nAfter this operation, 50.4 MB of additional disk space will be used.\r\nGet:1 http://mirrors.digitalocean.com/ubuntu/ trusty/universe aufs-tools amd64 1:3.2+20130722-1.1 [92.3 kB]\r\n"
+    ],
+    [
+      0.008199,
+      "go1.4.2\r\n Git commit:   d12ea79\r\n Built:        Thu Aug 13 02:35:49 UTC 2015\r\n OS/Arch:      linux/amd64\r\n\r\nServer:\r\n Version:      1.8.1\r\n API version:  1.20\r\n Go version:   go1.4.2\r\n Git commit:   d12ea79\r\n Built:        Thu Aug 13 02:35:49 UTC 2015\r\n OS/Arch:      linux/amd64\r\n\r\nIf you would like to use Docker as a non-root user, you should now consider\r\nadding your user to the \"docker\" group with something like:\r\n\r\n  sudo usermod -aG docker your-user\r\n\r\nRemember that you will have to log out and back in for this to take effect!\r\n\r\n"
+    ],
+    [
+      0.059448,
+      "Get:2 http://mirrors.digitalocean.com/ubuntu/ trusty/main liberror-perl all 0.17-1.1 [21.1 kB]\r\n"
+    ],
+    [
+      0.016408,
+      "+ sh"
+    ],
+    [
+      0.000153,
+      " -c docker version"
+    ],
+    [
+      0.002432,
+      "\r\n"
+    ],
+    [
+      0.023503,
+      "Client:\r\n Version:      1.8.1\r\n API version:  1.20\r\n Go version:   go1.4.2\r\n Git commit:   d12ea79\r\n Built:        Thu Aug 13 02:35:49 UTC 2015\r\n OS/Arch:      linux/amd64\r\n\r\nServer:\r\n Version:      1.8.1\r\n API version:  "
+    ],
+    [
+      0.000026,
+      "1.20\r\n Go version:   go1.4.2\r\n Git commit:   d12ea79\r\n Built:        Thu Aug 13 02:35:49 UTC 2015\r\n OS/Arch:      linux/amd64\r\n"
+    ],
+    [
+      0.002214,
+      "\r\nIf you would like to use Docker as a non-root user, you should now consider\r\nadding your user to the \"docker\" group with something like:\r\n\r\n  sudo usermod -aG docker your-user\r\n\r\nRemember that you will have to log out and back in for this to take effect!\r\n\r\n"
+    ],
+    [
+      0.025112,
+      "Get:3 http://mirrors.digitalocean.com/ubuntu/ trusty-updates/main git-man all 1:1.9.1-1ubuntu0.1 [698 kB]\r\n"
+    ],
+    [
+      0.080468,
+      "Get:4 http://mirrors.digitalocean.com/ubuntu/ trusty-updates/main git amd64 1:1.9.1-1ubuntu0.1 [2,627 kB]\r\n"
+    ],
+    [
+      0.005580,
+      "Get:5 https://apt.dockerproject.org/repo/ ubuntu-trusty/main docker-engine amd64 1.8.1-0~trusty [5,689 kB]\r\n"
+    ],
+    [
+      0.088294,
+      "Get:6 http://mirrors.digitalocean.com/ubuntu/ trusty/main cgroup-lite all 1.9 [3,918 B]\r\n"
+    ],
+    [
+      0.515959,
+      "Fetched 9,131 kB in 0s (11.5 MB/s)\r\n"
+    ],
+    [
+      0.041663,
+      "Selecting previously unselected package aufs-tools.\r\n"
+    ],
+    [
+      0.169089,
+      "(Reading database ... 86793 files and directories currently installed.)\r\n"
+    ],
+    [
+      0.010867,
+      "Preparing to unpack .../aufs-tools_1%3a3.2+20130722-1.1_amd64.deb ...\r\n"
+    ],
+    [
+      0.006670,
+      "Unpacking aufs-tools (1:3.2+20130722-1.1) ...\r\n"
+    ],
+    [
+      0.063935,
+      "Selecting previously unselected package liberror-perl.\r\nPreparing to unpack .../liberror-perl_0.17-1.1_all.deb ...\r\n"
+    ],
+    [
+      0.001667,
+      "Unpacking liberror-perl (0.17-1.1) ...\r\n"
+    ],
+    [
+      0.034103,
+      "Selecting previously unselected package git-man.\r\n"
+    ],
+    [
+      0.009747,
+      "Preparing to unpack .../git-man_1%3a1.9.1-1ubuntu0.1_all.deb ...\r\n"
+    ],
+    [
+      0.014048,
+      "Unpacking git-man (1:1.9.1-1ubuntu0.1) ...\r\n"
+    ],
+    [
+      0.140528,
+      "Selecting previously unselected package git.\r\nPreparing to unpack .../git_1%3a1.9.1-1ubuntu0.1_amd64.deb ...\r\n"
+    ],
+    [
+      0.007374,
+      "Unpacking git (1:1.9.1-1ubuntu0.1) ...\r\n"
+    ],
+    [
+      0.708487,
+      "Selecting previously unselected package cgroup-lite.\r\n"
+    ],
+    [
+      0.001388,
+      "Preparing to unpack .../cgroup-lite_1.9_all.deb ...\r\nUnpacking cgroup-lite (1.9) ...\r\nSelecting previously unselected package docker-engine.\r\nPreparing to unpack .../docker-engine_1.8.1-0~trusty_amd64.deb ...\r\nUnpacking docker-engine (1.8.1-0~trusty) ...\r\n"
+    ],
+    [
+      1.123994,
+      "Processing triggers for man-db (2.6.7.1-1ubuntu1) ...\r\n"
+    ],
+    [
+      1.229048,
+      "Processing triggers for ureadahead (0.100.0-16) ...\r\n"
+    ],
+    [
+      0.001105,
+      "Setting up aufs-tools (1:3.2+20130722-1.1) ...\r\nSetting up liberror-perl (0.17-1.1) ...\r\nSetting up git-man (1:1.9.1-1ubuntu0.1) ...\r\n"
+    ],
+    [
+      0.000026,
+      "Setting up git (1:1.9.1-1ubuntu0.1) ...\r\nSetting up cgroup-lite (1.9) ...\r\n"
+    ],
+    [
+      0.133335,
+      "cgroup-lite start/running\r\n"
+    ],
+    [
+      0.012894,
+      "Setting up docker-engine (1.8.1-0~trusty) ...\r\n"
+    ],
+    [
+      0.775057,
+      "docker start/running, process 2894\r\n"
+    ],
+    [
+      0.001288,
+      "Processing triggers for libc-bin (2.19-0ubuntu6.6) ...\r\nProcessing triggers for ureadahead (0.100.0-16) ...\r\n"
+    ],
+    [
+      0.306202,
+      "+ "
+    ],
+    [
+      0.009491,
+      "Client:\r\n Version:      1.8.1\r\n API version:  1.20\r\n Go version:   go1.4.2sh -c docker version\r\n"
+    ],
+    [
+      0.005011,
+      "\r\n Git commit:   d12ea79\r\n Built:        Thu Aug 13 02:35:49 UTC 2015\r\n OS/Arch:      linux/"
+    ],
+    [
+      0.002368,
+      "amd64\r\n\r\nServer:\r\n Version:      1.8.1\r\n API version:  1.20\r\n Go version:   go1.4.2\r\n Git commit:   d12ea79\r\n Built:        Thu Aug 13 02:35:49 UTC 2015\r\n OS/Arch:      linux/amd64\r\n\r\nIf you would like to use Docker as a non-root user, you should now consider\r\nadding your user to the \"docker\" group with something like:\r\n\r\n  sudo usermod -aG docker your-user\r\n\r\nRemember that you will have to log out and back in for this to take effect!\r\n\r\n"
+    ],
+    [
+      0.070559,
+      "\u001b[1;39mnode-1 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000163,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.54.131 'which docker \u003e /dev/null'\u001b[0m\r\n"
+    ],
+    [
+      0.001312,
+      "\u001b[1;39mnode-3 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000134,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.61.7 'which docker \u003e /dev/null'\u001b[0m\r\n"
+    ],
+    [
+      0.058377,
+      "\u001b[1;39mnode-2 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000114,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.50.130 'which docker \u003e /dev/null'\u001b[0m\r\n"
+    ],
+    [
+      5.931265,
+      " ________\r\n"
+    ],
+    [
+      0.000021,
+      "\u003c events \u003e\r\n"
+    ],
+    [
+      0.025211,
+      " --------\r\n"
+    ],
+    [
+      0.000061,
+      "\t\\   \u001b[0;36m^\u001b[0m__\u001b[0;36m^\u001b[0m\r\n"
+    ],
+    [
+      0.000024,
+      "\t \\  (oo)\\_______\r\n"
+    ],
+    [
+      0.000046,
+      "\t    (__)\\       )\\/\\\r\n"
+    ],
+    [
+      0.000007,
+      "\t\t||----w |\r\n"
+    ],
+    [
+      0.000041,
+      "\t\t||     ||\r\n"
+    ],
+    [
+      0.063287,
+      "\u001b[1;39mnode-2 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000163,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.50.130 'docker pull mesoscloud/events:0.1.0'\u001b[0m\r\n"
+    ],
+    [
+      0.006699,
+      "\u001b[1;39mnode-3 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000061,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.61.7 'docker pull mesoscloud/events:0.1.0'\u001b[0m\r\n"
+    ],
+    [
+      0.000360,
+      "\u001b[1;39mnode-1 droplet ssh\u001b[0m\r\n\u001b[0;36mssh -o BatchMode=yes root@45.55.54.131 'docker pull mesoscloud/events:0.1.0'\u001b[0m\r\n"
+    ],
+    [
+      5.708663,
+      "0.1.0: Pulling from mesoscloud/events\r\n"
+    ],
+    [
+      0.002715,
+      "2c49f83e0b13: Pulling fs layer\r\n"
+    ],
+    [
+      0.000923,
+      "4a5e6db8c069: Pulling fs layer\r\n"
+    ],
+    [
+      0.014995,
+      "f972ade4c9d5: Pulling fs layer\r\na0b6d62d8b49: Pulling fs layer\r\n632ab7f4c419: Pulling fs layer\r\n1c04d6fe21b4: Pulling fs layer\r\n47fcf413db9e: Pulling fs layer\r\n"
+    ],
+    [
+      0.001575,
+      "0755cc4f5fef: Pulling fs layer\r\n1a7733a5d67f: Pulling fs layer\r\n"
+    ],
+    [
+      0.016441,
+      "0.1.0: Pulling from mesoscloud/events\r\n2c49f83e0b13: Pulling fs layer\r\n4a5e6db8c069: "
+    ],
+    [
+      0.000197,
+      "Pulling fs layer\r\nf972ade4c9d5: "
+    ],
+    [
+      0.000787,
+      "Pulling fs layer\r\na0b6d62d8b49: "
+    ],
+    [
+      0.000279,
+      "Pulling fs layer\r\n"
+    ],
+    [
+      0.078779,
+      "0.1.0: Pulling from mesoscloud/events\r\n2c49f83e0b13: Pulling fs layer\r\n4a5e6db8c069: Pulling fs layer\r\nf972ade4c9d5: Pulling fs layer\r\n"
+    ],
+    [
+      0.000040,
+      "a0b6d62d8b49: Pulling fs layer\r\n632ab7f4c419: Pulling fs layer\r\n"
+    ],
+    [
+      0.000163,
+      "1c04d6fe21b4: Pulling fs layer\r\n"
+    ],
+    [
+      0.000941,
+      "47fcf413db9e: Pulling fs layer\r\n0755cc4f5fef: Pulling fs layer\r\n"
+    ],
+    [
+      0.000679,
+      "1a7733a5d67f: Pulling fs layer\r\n0ef819edf22c: Pulling fs layer\r\n"
+    ],
+    [
+      0.286123,
+      "0ef819edf22c: Pulling fs layer\r\n22ed2e1339d3: Pulling fs layer\r\nb324322c68fa: Pulling fs layer\r\nbe6d50826889: Pulling fs layer\r\nf2301886432b: Pulling fs layer\r\n20b48ad163c9: Pulling fs layer\r\nd4609f7b3c41: Pulling fs layer\r\na86ad711ad4c: Pulling fs layer\r\nebe3b69dba50: Pulling fs layer\r\nceb45d4d9f4c: Pulling fs layer\r\ne96aad604378: Pulling fs layer\r\na35bba6c3187: Pulling fs layer\r\n119d2b97b1c7: Pulling fs layer\r\n119d2b97b1c7: Pulling fs layer\r\n119d2b97b1c7: Layer already being pulled by another client. Waiting.\r\n"
+    ],
+    [
+      0.013716,
+      "632ab7f4c419: Pulling fs layer\r\n1c04d6fe21b4: Pulling fs layer\r\n47fcf413db9e: Pulling fs layer\r\n0755cc4f5fef: Pulling fs layer\r\n1a7733a5d67f: Pulling fs layer\r\n0ef819edf22c: Pulling fs layer\r\n22ed2e1339d3: Pulling fs layer\r\nb324322c68fa: Pulling fs layer\r\nbe6d50826889: Pulling fs layer\r\nf2301886432b: Pulling fs layer\r\n20b48ad163c9: Pulling fs layer\r\nd4609f7b3c41: Pulling fs layer\r\na86ad711ad4c: Pulling fs layer\r\n"
+    ],
+    [
+      0.001804,
+      "ebe3b69dba50: Pulling fs layer\r\nceb45d4d9f4c: Pulling fs layer\r\ne96aad604378: Pulling fs layer\r\na35bba6c3187: Pulling fs layer\r\n119d2b97b1c7: Pulling fs layer\r\n119d2b97b1c7: Pulling fs layer\r\n119d2b97b1c7: Layer already being pulled by another client. Waiting.\r\n"
+    ],
+    [
+      0.021976,
+      "22ed2e1339d3: Pulling fs layer\r\nb324322c68fa: Pulling fs layer\r\nbe6d50826889: Pulling fs layer\r\nf2301886432b: Pulling fs layer\r\n20b48ad163c9: Pulling fs layer\r\nd4609f7b3c41: Pulling fs layer\r\na86ad711ad4c: Pulling fs layer\r\nebe3b69dba50: Pulling fs layer\r\nceb45d4d9f4c: Pulling fs layer\r\ne96aad604378: Pulling fs layer\r\na35bba6c3187: Pulling fs layer\r\n119d2b97b1c7: Pulling fs layer\r\n119d2b97b1c7: Pulling fs layer\r\n119d2b97b1c7: Layer already being pulled by another client. Waiting.\r\n"
+    ],
+    [
+      0.575417,
+      "47fcf413db9e: Verifying Checksum\r\n47fcf413db9e: Download complete\r\n"
+    ],
+    [
+      0.001626,
+      "4a5e6db8c069: Verifying Checksum\r\n4a5e6db8c069: Download complete\r\na86ad711ad4c: Verifying Checksum\r\na86ad711ad4c: Download complete\r\nbe6d50826889: Verifying Checksum\r\nbe6d50826889: Download complete\r\nd4609f7b3c41: Verifying Checksum\r\n"
+    ],
+    [
+      0.000021,
+      "b324322c68fa: Verifying Checksum\r\nb324322c68fa: Download complete\r\n"
+    ],
+    [
+      0.000373,
+      "d4609f7b3c41: Download complete\r\nebe3b69dba50: Verifying Checksum\r\nebe3b69dba50: Download complete\r\n4a5e6db8c069: Verifying Checksum\r\n"
+    ],
+    [
+      0.000768,
+      "4a5e6db8c069: Download complete\r\nbe6d50826889: Verifying Checksum\r\nbe6d50826889: Download complete\r\n"
+    ],
+    [
+      0.002660,
+      "d4609f7b3c41: Verifying Checksum\r\n"
+    ],
+    [
+      0.000867,
+      "d4609f7b3c41: Download complete\r\n"
+    ],
+    [
+      0.003825,
+      "0ef819edf22c: Verifying Checksum\r\n"
+    ],
+    [
+      0.002642,
+      "0ef819edf22c: Download complete\r\n"
+    ],
+    [
+      0.041684,
+      "0755cc4f5fef: Verifying Checksum\r\n0755cc4f5fef: Download complete\r\n"
+    ],
+    [
+      0.010020,
+      "b324322c68fa: Verifying Checksum\r\nb324322c68fa: Download complete\r\n"
+    ],
+    [
+      0.022545,
+      "ceb45d4d9f4c: Verifying Checksum\r\nceb45d4d9f4c: Download complete\r\n"
+    ],
+    [
+      0.323905,
+      "119d2b97b1c7: Verifying Checksum\r\n119d2b97b1c7: Download complete\r\n0ef819edf22c: Verifying Checksum\r\n0ef819edf22c: Download complete\r\n20b48ad163c9: Verifying Checksum\r\n20b48ad163c9: Download complete\r\n0755cc4f5fef: Verifying Checksum\r\n0755cc4f5fef: Download complete\r\na86ad711ad4c: Verifying Checksum\r\na86ad711ad4c: Download complete\r\n1a7733a5d67f: Verifying Checksum\r\n1a7733a5d67f: Download complete\r\nf2301886432b: Verifying Checksum\r\nf2301886432b: Download complete\r\n"
+    ],
+    [
+      0.001044,
+      "a35bba6c3187: Verifying Checksum\r\na35bba6c3187: Download complete\r\n20b48ad163c9: Verifying Checksum\r\n20b48ad163c9: Download complete\r\nceb45d4d9f4c: Verifying Checksum\r\nceb45d4d9f4c: Download complete\r\n47fcf413db9e: Verifying Checksum\r\n47fcf413db9e: Download complete\r\n"
+    ],
+    [
+      0.000012,
+      "f2301886432b: Verifying Checksum\r\nf2301886432b: Download complete\r\nd4609f7b3c41: Verifying Checksum\r\nd4609f7b3c41: Download complete\r\n"
+    ],
+    [
+      0.000285,
+      "119d2b97b1c7: Verifying Checksum\r\n119d2b97b1c7: Download complete\r\n"
+    ],
+    [
+      0.000043,
+      "b324322c68fa: Verifying Checksum\r\nb324322c68fa: Download complete\r\n47fcf413db9e: Verifying Checksum\r\n47fcf413db9e: Download complete\r\na35bba6c3187: Verifying Checksum\r\na35bba6c3187: Download complete\r\n0ef819edf22c: Verifying Checksum\r\n0ef819edf22c: Download complete\r\n"
+    ],
+    [
+      0.032570,
+      "e96aad604378: Verifying Checksum\r\n"
+    ],
+    [
+      0.000015,
+      "e96aad604378: Download complete\r\n"
+    ],
+    [
+      0.019590,
+      "1c04d6fe21b4: Verifying Checksum\r\n"
+    ],
+    [
+      0.005664,
+      "1c04d6fe21b4: Download complete\r\n"
+    ],
+    [
+      0.066999,
+      "ebe3b69dba50: Verifying Checksum\r\nebe3b69dba50: Download complete\r\n119d2b97b1c7: "
+    ],
+    [
+      0.000289,
+      "Verifying Checksum\r\n"
+    ],
+    [
+      0.000093,
+      "119d2b97b1c7: "
+    ],
+    [
+      0.000777,
+      "Download complete\r\n"
+    ],
+    [
+      0.036453,
+      "e96aad604378: Verifying Checksum\r\ne96aad604378: "
+    ],
+    [
+      0.010577,
+      "Download complete\r\n"
+    ],
+    [
+      0.058987,
+      "1a7733a5d67f: "
+    ],
+    [
+      0.002676,
+      "Verifying Checksum\r\n"
+    ],
+    [
+      0.070116,
+      "1a7733a5d67f: Download complete\r\n"
+    ],
+    [
+      0.000068,
+      "20b48ad163c9: Verifying Checksum\r\n20b48ad163c9: Download complete\r\nbe6d50826889: Verifying Checksum\r\nbe6d50826889: Download complete\r\nebe3b69dba50: Verifying Checksum\r\nebe3b69dba50: Download complete\r\n1c04d6fe21b4: Verifying Checksum\r\n1c04d6fe21b4: Download complete\r\n0755cc4f5fef: Verifying Checksum\r\n0755cc4f5fef: Download complete\r\nceb45d4d9f4c: Verifying Checksum\r\nceb45d4d9f4c: Download complete\r\n"
+    ],
+    [
+      0.021358,
+      "f2301886432b: "
+    ],
+    [
+      0.025764,
+      "Verifying Checksum\r\nf2301886432b: Download complete\r\n"
+    ],
+    [
+      0.122922,
+      "4a5e6db8c069: Verifying Checksum\r\n"
+    ],
+    [
+      0.000018,
+      "4a5e6db8c069: Download complete\r\n"
+    ],
+    [
+      0.117335,
+      "1a7733a5d67f: Verifying Checksum\r\n"
+    ],
+    [
+      0.000126,
+      "1a7733a5d67f: "
+    ],
+    [
+      0.003409,
+      "Download complete\r\n"
+    ],
+    [
+      0.102638,
+      "e96aad604378: Verifying Checksum\r\ne96aad604378: Download complete\r\n"
+    ],
+    [
+      0.000024,
+      "22ed2e1339d3: Verifying Checksum\r\n22ed2e1339d3: Download complete\r\n"
+    ],
+    [
+      0.077669,
+      "a86ad711ad4c: Verifying Checksum\r\n"
+    ],
+    [
+      0.002643,
+      "a86ad711ad4c: "
+    ],
+    [
+      0.000938,
+      "Download complete\r\n"
+    ],
+    [
+      0.551413,
+      "f972ade4c9d5: Verifying Checksum\r\nf972ade4c9d5: Download complete\r\n"
+    ],
+    [
+      0.000073,
+      "a35bba6c3187: Verifying Checksum\r\na35bba6c3187: Download complete\r\n1c04d6fe21b4: Verifying Checksum\r\n"
+    ],
+    [
+      0.015742,
+      "f972ade4c9d5: Verifying Checksum\r\n"
+    ],
+    [
+      0.002856,
+      "f972ade4c9d5: Download complete\r\n"
+    ],
+    [
+      0.389689,
+      "1c04d6fe21b4: Download complete\r\n"
+    ],
+    [
+      0.102653,
+      "f972ade4c9d5: Verifying Checksum\r\n"
+    ],
+    [
+      0.002644,
+      "f972ade4c9d5: Download complete\r\n"
+    ],
+    [
+      0.613607,
+      "22ed2e1339d3: "
+    ],
+    [
+      0.001515,
+      "Verifying Checksum\r\n22ed2e1339d3: Download complete\r\n"
+    ],
+    [
+      0.712913,
+      "2c49f83e0b13: Verifying Checksum\r\n"
+    ],
+    [
+      0.001435,
+      "2c49f83e0b13: Download complete\r\n"
+    ],
+    [
+      0.817871,
+      "22ed2e1339d3: Verifying Checksum\r\n"
+    ],
+    [
+      0.001249,
+      "22ed2e1339d3: Download complete\r\n"
+    ],
+    [
+      0.305788,
+      "a0b6d62d8b49: "
+    ],
+    [
+      0.009499,
+      "Verifying Checksum\r\na0b6d62d8b49: "
+    ],
+    [
+      0.005193,
+      "Download complete\r\n"
+    ],
+    [
+      0.291855,
+      "2c49f83e0b13: Verifying Checksum\r\n2c49f83e0b13: Download complete\r\n"
+    ],
+    [
+      2.058700,
+      "2c49f83e0b13: Verifying Checksum\r\n"
+    ],
+    [
+      0.000146,
+      "2c49f83e0b13: Download complete\r\n"
+    ],
+    [
+      0.365777,
+      "a0b6d62d8b49: Verifying Checksum\r\n"
+    ],
+    [
+      0.002739,
+      "a0b6d62d8b49: Download complete\r\n"
+    ],
+    [
+      1.670659,
+      "2c49f83e0b13: Pull complete\r\n4a5e6db8c069: Pull complete\r\n"
+    ],
+    [
+      0.714383,
+      "632ab7f4c419: Verifying Checksum\r\n632ab7f4c419: Download complete\r\n"
+    ],
+    [
+      1.229943,
+      "f972ade4c9d5: Pull complete\r\n"
+    ],
+    [
+      0.011847,
+      "a0b6d62d8b49: Verifying Checksum\r\n"
+    ],
+    [
+      0.002648,
+      "a0b6d62d8b49: Download complete\r\n"
+    ],
+    [
+      0.703697,
+      "2c49f83e0b13: Pull complete\r\n"
+    ],
+    [
+      0.003786,
+      "4a5e6db8c069: Pull complete\r\n"
+    ],
+    [
+      2.349153,
+      "f972ade4c9d5: Pull complete\r\n"
+    ],
+    [
+      2.150079,
+      "2c49f83e0b13: Pull complete\r\n"
+    ],
+    [
+      0.003160,
+      "4a5e6db8c069: Pull complete\r\n"
+    ],
+    [
+      0.059798,
+      "a0b6d62d8b49: Pull complete\r\n"
+    ],
+    [
+      1.781573,
+      "f972ade4c9d5: Pull complete\r\n"
+    ],
+    [
+      1.740883,
+      "632ab7f4c419: Verifying Checksum\r\n"
+    ],
+    [
+      0.001070,
+      "632ab7f4c419: Download complete\r\n"
+    ],
+    [
+      0.680761,
+      "a0b6d62d8b49: Pull complete\r\n"
+    ],
+    [
+      0.342039,
+      "632ab7f4c419: Verifying Checksum\r\n"
+    ],
+    [
+      0.001299,
+      "632ab7f4c419: Download complete\r\n"
+    ],
+    [
+      3.483697,
+      "a0b6d62d8b49: Pull complete\r\n"
+    ],
+    [
+      6.038159,
+      "632ab7f4c419: Pull complete\r\n"
+    ],
+    [
+      0.056003,
+      "1c04d6fe21b4: Pull complete\r\n"
+    ],
+    [
+      0.050769,
+      "47fcf413db9e: Pull complete\r\n"
+    ],
+    [
+      0.049333,
+      "0755cc4f5fef: Pull complete\r\n"
+    ],
+    [
+      0.059813,
+      "1a7733a5d67f: Pull complete\r\n"
+    ],
+    [
+      0.050075,
+      "0ef819edf22c: Pull complete\r\n"
+    ],
+    [
+      1.474925,
+      "632ab7f4c419: Pull complete\r\n"
+    ],
+    [
+      0.001156,
+      "1c04d6fe21b4: Pull complete\r\n"
+    ],
+    [
+      0.044076,
+      "47fcf413db9e: Pull complete\r\n"
+    ],
+    [
+      0.059662,
+      "0755cc4f5fef: Pull complete\r\n"
+    ],
+    [
+      0.030166,
+      "1a7733a5d67f: Pull complete\r\n"
+    ],
+    [
+      0.050078,
+      "0ef819edf22c: Pull complete\r\n"
+    ],
+    [
+      0.771762,
+      "22ed2e1339d3: Pull complete\r\nb324322c68fa: Pull complete\r\nbe6d50826889: Pull complete\r\nf2301886432b: Pull complete\r\n20b48ad163c9: Pull complete\r\n"
+    ],
+    [
+      0.032672,
+      "d4609f7b3c41: Pull complete\r\n"
+    ],
+    [
+      0.048120,
+      "a86ad711ad4c: Pull complete\r\n"
+    ],
+    [
+      0.043700,
+      "ebe3b69dba50: Pull complete\r\n"
+    ],
+    [
+      0.024034,
+      "ceb45d4d9f4c: Pull complete\r\n"
+    ],
+    [
+      0.326877,
+      "e96aad604378: Pull complete\r\n"
+    ],
+    [
+      0.001425,
+      "a35bba6c3187: Pull complete\r\n119d2b97b1c7: Download complete\r\n"
+    ],
+    [
+      0.011784,
+      "119d2b97b1c7: Pull complete\r\n119d2b97b1c7: Already exists\r\n"
+    ],
+    [
+      0.012053,
+      "Digest: sha256:a1ab6506ac21dd0f799bcbb1621f5656d5268323ebba5ac3ceee73d6217e49d4\r\n"
+    ],
+    [
+      0.056152,
+      "Status: Downloaded newer image for mesoscloud/events:0.1.0\r\n"
+    ],
+    [
+      2.002739,
+      "22ed2e1339d3: Pull complete\r\nb324322c68fa: Pull complete\r\n"
+    ],
+    [
+      0.000107,
+      "be6d50826889: Pull complete\r\nf2301886432b: Pull complete\r\n"
+    ],
+    [
+      0.008857,
+      "20b48ad163c9: Pull complete\r\n"
+    ],
+    [
+      0.019998,
+      "d4609f7b3c41: Pull complete\r\n"
+    ],
+    [
+      0.052189,
+      "a86ad711ad4c: Pull complete\r\n"
+    ],
+    [
+      0.050112,
+      "ebe3b69dba50: Pull complete\r\n"
+    ],
+    [
+      0.054804,
+      "ceb45d4d9f4c: Pull complete\r\n"
+    ],
+    [
+      0.315698,
+      "e96aad604378: Pull complete\r\n"
+    ],
+    [
+      0.001306,
+      "a35bba6c3187: Pull complete\r\n119d2b97b1c7: Download complete\r\n"
+    ],
+    [
+      0.021896,
+      "119d2b97b1c7: Pull complete\r\n119d2b97b1c7: Already exists\r\n"
+    ],
+    [
+      0.009985,
+      "Digest: sha256:a1ab6506ac21dd0f799bcbb1621f5656d5268323ebba5ac3ceee73d6217e49d4\r\n"
+    ],
+    [
+      0.058060,
+      "Status: Downloaded newer image for mesoscloud/events:0.1.0\r\n"
+    ],
+    [
+      3.262246,
+      "632ab7f4c419: Pull complete\r\n"
+    ],
+    [
+      0.110023,
+      "1c04d6fe21b4: Pull complete\r\n"
+    ],
+    [
+      0.051878,
+      "47fcf413db9e: Pull complete\r\n"
+    ],
+    [
+      0.044017,
+      "0755cc4f5fef: Pull complete\r\n"
+    ],
+    [
+      0.036066,
+      "1a7733a5d67f: Pull complete\r\n"
+    ],
+    [
+      0.057886,
+      "0ef819edf22c: Pull complete\r\n"
+    ],
+    [
+      3.797031,
+      "22ed2e1339d3: Pull complete\r\n"
+    ],
+    [
+      0.001396,
+      "b324322c68fa: Pull complete\r\nbe6d50826889: Pull complete\r\nf2301886432b: Pull complete\r\n"
+    ],
+    [
+      0.043575,
+      "20b48ad163c9: Pull complete\r\n"
+    ],
+    [
+      0.027774,
+      "d4609f7b3c41: Pull complete\r\n"
+    ],
+    [
+      0.052145,
+      "a86ad711ad4c: Pull complete\r\n"
+    ],
+    [
+      0.054141,
+      "ebe3b69dba50: Pull complete\r\n"
+    ],
+    [
+      0.053875,
+      "ceb45d4d9f4c: Pull complete\r\n"
+    ],
+    [
+      0.380172,
+      "e96aad604378: Pull complete\r\n"
+    ],
+    [
+      0.001529,
+      "a35bba6c3187: Pull complete\r\n119d2b97b1c7: Download complete\r\n119d2b97b1c7: Pull complete\r\n119d2b97b1c7: Already exists\r\nDigest: sha256:a1ab6506ac21dd0f799bcbb1621f5656d5268323ebba5ac3ceee73d6217e49d4\r\n"
+    ],
+    [
+      0.032761,
+      "Status: Downloaded newer image for mesoscloud/events:0.1.0\r\n"
+    ],
+    [
+      0.072635,
+      "\u001b[1;39mnode-2 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000027,
+      "\u001b[1;39mnode-3 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000142,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.50.130 'docker run -d -v /var/run/docker.sock:/var/run/docker.sock -v /srv/events:/srv/events --name=events --restart=always mesoscloud/events:0.1.0'\u001b[0m\r\n"
+    ],
+    [
+      0.000182,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.61.7 'docker run -d -v /var/run/docker.sock:/var/run/docker.sock -v /srv/events:/srv/events --name=events --restart=always mesoscloud/events:0.1.0'\u001b[0m\r\n"
+    ],
+    [
+      0.001469,
+      "\u001b[1;39mnode-1 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000345,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.54.131 'docker run -d -v /var/run/docker.sock:/var/run/docker.sock -v /srv/events:/srv/events --name=events --restart=always mesoscloud/events:0.1.0'\u001b[0m\r\n"
+    ],
+    [
+      5.040689,
+      "2a768e09fc36001f6b66fd07a826a85d5fd53ee7dd2f5aac005eb66b586a882b\r\n"
+    ],
+    [
+      0.004050,
+      "c76fb2f44b5d4bb1c806325176cfd7267513fc0a93e77608798f3dd74ecfc109\r\n"
+    ],
+    [
+      0.002668,
+      "0ba996a64e74bf630908224a5b6e28c5bbe1a9629b9d4df156304feed5984564\r\n"
+    ],
+    [
+      0.192416,
+      " _______________\r\n"
+    ],
+    [
+      0.000023,
+      "\u003c elasticsearch \u003e\r\n"
+    ],
+    [
+      0.026109,
+      " ---------------\r\n"
+    ],
+    [
+      0.000043,
+      "\t\\   \u001b[0;36m^\u001b[0m__\u001b[0;36m^\u001b[0m\r\n"
+    ],
+    [
+      0.000025,
+      "\t \\  (oo)\\_______\r\n"
+    ],
+    [
+      0.000029,
+      "\t    (__)\\       )\\/\\\r\n"
+    ],
+    [
+      0.000033,
+      "\t\t||----w |\r\n"
+    ],
+    [
+      0.000017,
+      "\t\t||     ||\r\n"
+    ],
+    [
+      0.064922,
+      "\u001b[1;39mnode-1 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000330,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.54.131 'docker pull mesoscloud/elasticsearch:1.7.1-ubuntu-14.04'\u001b[0m\r\n"
+    ],
+    [
+      0.009076,
+      "\u001b[1;39mnode-3 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000076,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.61.7 'docker pull mesoscloud/elasticsearch:1.7.1-ubuntu-14.04'\u001b[0m\r\n"
+    ],
+    [
+      0.054768,
+      "\u001b[1;39mnode-2 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000053,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.50.130 'docker pull mesoscloud/elasticsearch:1.7.1-ubuntu-14.04'\u001b[0m\r\n"
+    ],
+    [
+      4.765885,
+      "1.7.1-ubuntu-14.04: Pulling from mesoscloud/elasticsearch\r\nd3a1f33e8a5a: Pulling fs layer\r\nc22013c84729: Pulling fs layer\r\n"
+    ],
+    [
+      0.011941,
+      "d74508fb6632: Pulling fs layer\r\n91e54dfb1179: Pulling fs layer\r\n"
+    ],
+    [
+      0.001349,
+      "ad983f16a756: Pulling fs layer\r\nf376a465e18c: Pulling fs layer\r\n9ee17ac00367: Pulling fs layer\r\n7d33219ec914: Pulling fs layer\r\nb15fc58a3344: Pulling fs layer\r\n"
+    ],
+    [
+      0.000145,
+      "1dc9f7ea8435: Pulling fs layer\r\n"
+    ],
+    [
+      0.079048,
+      "1.7.1-ubuntu-14.04: Pulling from mesoscloud/elasticsearch\r\nd3a1f33e8a5a: Pulling fs layer\r\nc22013c84729: Pulling fs layer\r\nd74508fb6632: Pulling fs layer\r\n91e54dfb1179: Pulling fs layer\r\nad983f16a756: Pulling fs layer\r\n"
+    ],
+    [
+      0.002302,
+      "f376a465e18c: Pulling fs layer\r\n9ee17ac00367: Pulling fs layer\r\n7d33219ec914: Pulling fs layer\r\nb15fc58a3344: Pulling fs layer\r\n1dc9f7ea8435: Pulling fs layer\r\n"
+    ],
+    [
+      0.001580,
+      "1.7.1-ubuntu-14.04: Pulling from mesoscloud/elasticsearch\r\nd3a1f33e8a5a: Pulling fs layer\r\nc22013c84729: Pulling fs layer\r\nd74508fb6632: Pulling fs layer\r\n91e54dfb1179: Pulling fs layer\r\nad983f16a756: Pulling fs layer\r\n"
+    ],
+    [
+      0.000138,
+      "f376a465e18c: Pulling fs layer\r\n9ee17ac00367: Pulling fs layer\r\n"
+    ],
+    [
+      0.001993,
+      "7d33219ec914: Pulling fs layer\r\nb15fc58a3344: Pulling fs layer\r\n1dc9f7ea8435: Pulling fs layer\r\n1dc9f7ea8435: Pulling fs layer\r\n1dc9f7ea8435: Layer already being pulled by another client. Waiting.\r\n"
+    ],
+    [
+      0.185310,
+      "1dc9f7ea8435: Pulling fs layer\r\n1dc9f7ea8435: Layer already being pulled by another client. Waiting.\r\n"
+    ],
+    [
+      0.114051,
+      "1dc9f7ea8435: Pulling fs layer\r\n1dc9f7ea8435: Layer already being pulled by another client. Waiting.\r\n"
+    ],
+    [
+      0.392283,
+      "c22013c84729: Verifying Checksum\r\nc22013c84729: Download complete\r\n"
+    ],
+    [
+      0.004902,
+      "c22013c84729: Verifying Checksum\r\nc22013c84729: Download complete\r\n91e54dfb1179: Verifying Checksum\r\n91e54dfb1179: Download complete\r\nc22013c84729: Verifying Checksum\r\nc22013c84729: Download complete\r\n91e54dfb1179: Verifying Checksum\r\n91e54dfb1179: Download complete\r\nb15fc58a3344: Verifying Checksum\r\n"
+    ],
+    [
+      0.000230,
+      "b15fc58a3344: Download complete\r\nd74508fb6632: Verifying Checksum\r\nd74508fb6632: Download complete\r\n"
+    ],
+    [
+      0.000049,
+      "1dc9f7ea8435: Verifying Checksum\r\n1dc9f7ea8435: Download complete\r\n7d33219ec914: Verifying Checksum\r\n7d33219ec914: Download complete\r\nd74508fb6632: Verifying Checksum\r\n"
+    ],
+    [
+      0.001625,
+      "d74508fb6632: Download complete\r\nb15fc58a3344: Verifying Checksum\r\n"
+    ],
+    [
+      0.001665,
+      "b15fc58a3344: Download complete\r\n"
+    ],
+    [
+      0.000183,
+      "b15fc58a3344: Verifying Checksum\r\n"
+    ],
+    [
+      0.000900,
+      "b15fc58a3344: Download complete\r\n"
+    ],
+    [
+      0.019638,
+      "1dc9f7ea8435: Verifying Checksum\r\n"
+    ],
+    [
+      0.002674,
+      "1dc9f7ea8435: Download complete\r\n"
+    ],
+    [
+      0.071584,
+      "9ee17ac00367: Verifying Checksum\r\n"
+    ],
+    [
+      0.002660,
+      "9ee17ac00367: Download complete\r\n"
+    ],
+    [
+      0.000019,
+      "9ee17ac00367: Verifying Checksum\r\n9ee17ac00367: Download complete\r\n"
+    ],
+    [
+      0.031254,
+      "7d33219ec914: Verifying Checksum\r\n7d33219ec914: "
+    ],
+    [
+      0.002598,
+      "Download complete\r\n"
+    ],
+    [
+      0.055416,
+      "91e54dfb1179: Verifying Checksum\r\n"
+    ],
+    [
+      0.003906,
+      "91e54dfb1179: Download complete\r\n"
+    ],
+    [
+      0.038375,
+      "d74508fb6632: Verifying Checksum\r\nd74508fb6632: Download complete\r\n"
+    ],
+    [
+      0.023889,
+      "1dc9f7ea8435: Verifying Checksum\r\n1dc9f7ea8435: Download complete\r\n"
+    ],
+    [
+      0.013596,
+      "9ee17ac00367: Verifying Checksum\r\n"
+    ],
+    [
+      0.002557,
+      "9ee17ac00367: Download complete\r\n"
+    ],
+    [
+      0.007529,
+      "7d33219ec914: Verifying Checksum\r\n7d33219ec914: Download complete\r\n"
+    ],
+    [
+      1.147300,
+      "f376a465e18c: "
+    ],
+    [
+      0.001446,
+      "Verifying Checksum\r\nf376a465e18c: Download complete\r\n"
+    ],
+    [
+      1.740367,
+      "d3a1f33e8a5a: Verifying Checksum\r\nd3a1f33e8a5a: Download complete\r\n"
+    ],
+    [
+      1.127401,
+      "f376a465e18c: Verifying Checksum\r\n"
+    ],
+    [
+      0.001476,
+      "f376a465e18c: Download complete\r\n"
+    ],
+    [
+      0.714598,
+      "d3a1f33e8a5a: Verifying Checksum\r\nd3a1f33e8a5a: Download complete\r\n"
+    ],
+    [
+      0.613197,
+      "f376a465e18c: Verifying Checksum\r\nf376a465e18c: Download complete\r\n"
+    ],
+    [
+      2.663487,
+      "ad983f16a756: Verifying Checksum\r\n"
+    ],
+    [
+      0.000993,
+      "ad983f16a756: Download complete\r\n"
+    ],
+    [
+      0.000011,
+      "ad983f16a756: Verifying Checksum\r\nad983f16a756: Download complete\r\n"
+    ],
+    [
+      2.584137,
+      "d3a1f33e8a5a: Verifying Checksum\r\nd3a1f33e8a5a: Download complete\r\n"
+    ],
+    [
+      1.298065,
+      "d3a1f33e8a5a: Pull complete\r\n"
+    ],
+    [
+      0.041426,
+      "c22013c84729: Pull complete\r\n"
+    ],
+    [
+      0.040218,
+      "d74508fb6632: Pull complete\r\n"
+    ],
+    [
+      0.043938,
+      "91e54dfb1179: Pull complete\r\n"
+    ],
+    [
+      4.436069,
+      "d3a1f33e8a5a: Pull complete\r\n"
+    ],
+    [
+      0.056094,
+      "c22013c84729: Pull complete\r\n"
+    ],
+    [
+      0.037795,
+      "d74508fb6632: Pull complete\r\n"
+    ],
+    [
+      0.044057,
+      "91e54dfb1179: Pull complete\r\n"
+    ],
+    [
+      1.452282,
+      "d3a1f33e8a5a: Pull complete\r\n"
+    ],
+    [
+      0.003753,
+      "c22013c84729: Pull complete\r\n"
+    ],
+    [
+      0.036050,
+      "d74508fb6632: Pull complete\r\n"
+    ],
+    [
+      0.033971,
+      "91e54dfb1179: Pull complete\r\n"
+    ],
+    [
+      5.367512,
+      "ad983f16a756: Verifying Checksum\r\nad983f16a756: Download complete\r\n"
+    ],
+    [
+      4.499855,
+      "ad983f16a756: Pull complete\r\n"
+    ],
+    [
+      1.344211,
+      "f376a465e18c: Pull complete\r\n"
+    ],
+    [
+      0.146639,
+      "9ee17ac00367: Pull complete\r\n"
+    ],
+    [
+      0.043599,
+      "7d33219ec914: Pull complete\r\n"
+    ],
+    [
+      0.048784,
+      "b15fc58a3344: Pull complete\r\n1dc9f7ea8435: Download complete\r\n"
+    ],
+    [
+      0.025637,
+      "1dc9f7ea8435: Pull complete\r\n1dc9f7ea8435: Already exists\r\nDigest: sha256:61b712584b9ce7cb5b8c4b60d88af3b3d86a31e1cdd1da27821a63817f82a2b3\r\n"
+    ],
+    [
+      0.063876,
+      "Status: Downloaded newer image for mesoscloud/elasticsearch:1.7.1-ubuntu-14.04\r\n"
+    ],
+    [
+      2.282217,
+      "ad983f16a756: Pull complete\r\n"
+    ],
+    [
+      1.667663,
+      "f376a465e18c: Pull complete\r\n"
+    ],
+    [
+      0.118137,
+      "9ee17ac00367: Pull complete\r\n"
+    ],
+    [
+      0.029891,
+      "7d33219ec914: Pull complete\r\n"
+    ],
+    [
+      0.060663,
+      "b15fc58a3344: Pull complete\r\n"
+    ],
+    [
+      0.003533,
+      "1dc9f7ea8435: Download complete\r\n"
+    ],
+    [
+      0.031496,
+      "1dc9f7ea8435: Pull complete\r\n1dc9f7ea8435: Already exists\r\n"
+    ],
+    [
+      0.002608,
+      "Digest: sha256:61b712584b9ce7cb5b8c4b60d88af3b3d86a31e1cdd1da27821a63817f82a2b3\r\n"
+    ],
+    [
+      0.057870,
+      "Status: Downloaded newer image for mesoscloud/elasticsearch:1.7.1-ubuntu-14.04\r\n"
+    ],
+    [
+      0.838010,
+      "ad983f16a756: Pull complete\r\n"
+    ],
+    [
+      1.724729,
+      "f376a465e18c: Pull complete\r\n"
+    ],
+    [
+      0.001596,
+      "9ee17ac00367: Pull complete\r\n"
+    ],
+    [
+      0.007431,
+      "7d33219ec914: Pull complete\r\n"
+    ],
+    [
+      0.038748,
+      "b15fc58a3344: Pull complete\r\n"
+    ],
+    [
+      0.002836,
+      "1dc9f7ea8435: Download complete\r\n"
+    ],
+    [
+      0.046969,
+      "1dc9f7ea8435: Pull complete\r\n1dc9f7ea8435: Already exists\r\n"
+    ],
+    [
+      0.313466,
+      "Digest: sha256:61b712584b9ce7cb5b8c4b60d88af3b3d86a31e1cdd1da27821a63817f82a2b3\r\nStatus: Downloaded newer image for mesoscloud/elasticsearch:1.7.1-ubuntu-14.04\r\n"
+    ],
+    [
+      0.165934,
+      "\u001b[1;39mnode-1 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000386,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.54.131 'docker run -d -v /srv/elasticsearch/data:/opt/elasticsearch/data -v /srv/elasticsearch/logs:/opt/elasticsearch/logs --name=elasticsearch --net=host --restart=always mesoscloud/elasticsearch:1.7.1-ubuntu-14.04 elasticsearch -Des.discovery.zen.ping.multicast.enabled=false -Des.discovery.zen.ping.unicast.hosts=10.132.63.163,10.132.63.159,10.132.63.162'\u001b[0m\r\n"
+    ],
+    [
+      0.126374,
+      "\u001b[1;39mnode-2 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000389,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.50.130 'docker run -d -v /srv/elasticsearch/data:/opt/elasticsearch/data -v /srv/elasticsearch/logs:/opt/elasticsearch/logs --name=elasticsearch --net=host --restart=always mesoscloud/elasticsearch:1.7.1-ubuntu-14.04 elasticsearch -Des.discovery.zen.ping.multicast.enabled=false -Des.discovery.zen.ping.unicast.hosts=10.132.63.163,10.132.63.159,10.132.63.162'\u001b[0m\r\n"
+    ],
+    [
+      0.116763,
+      "\u001b[1;39mnode-3 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000154,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.61.7 'docker run -d -v /srv/elasticsearch/data:/opt/elasticsearch/data -v /srv/elasticsearch/logs:/opt/elasticsearch/logs --name=elasticsearch --net=host --restart=always mesoscloud/elasticsearch:1.7.1-ubuntu-14.04 elasticsearch -Des.discovery.zen.ping.multicast.enabled=false -Des.discovery.zen.ping.unicast.hosts=10.132.63.163,10.132.63.159,10.132.63.162'\u001b[0m\r\n"
+    ],
+    [
+      3.944155,
+      "a748be2914682c6810c11532f0072afdc325b443636d9948fd50c483e9bcad0f\r\n"
+    ],
+    [
+      1.482329,
+      "86524bfbc22ee5670c22d3cdd86233a385c4994c460fdfae68b58cc5837a690f\r\n"
+    ],
+    [
+      0.089701,
+      "fef8830b89cf5e16ff074e670386c4b04f6729758553ace7abed195de2a366b2\r\n"
+    ],
+    [
+      0.149142,
+      " __________\r\n"
+    ],
+    [
+      0.000025,
+      "\u003c logstash \u003e\r\n"
+    ],
+    [
+      0.025092,
+      " ----------\r\n"
+    ],
+    [
+      0.000048,
+      "\t\\   \u001b[0;36m^\u001b[0m__\u001b[0;36m^\u001b[0m\r\n"
+    ],
+    [
+      0.000027,
+      "\t \\  (oo)\\_______\r\n"
+    ],
+    [
+      0.000039,
+      "\t    (__)\\       )\\/\\\r\n"
+    ],
+    [
+      0.000015,
+      "\t\t||----w |\r\n"
+    ],
+    [
+      0.000029,
+      "\t\t||     ||\r\n"
+    ],
+    [
+      0.070304,
+      "\u001b[1;39mnode-1 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000299,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.54.131 'docker pull mesoscloud/logstash:1.5.4-ubuntu-14.04'\u001b[0m\r\n"
+    ],
+    [
+      0.000369,
+      "\u001b[1;39mnode-3 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000192,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.61.7 'docker pull mesoscloud/logstash:1.5.4-ubuntu-14.04'\u001b[0m\r\n\u001b[1;39mnode-2 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000108,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.50.130 'docker pull mesoscloud/logstash:1.5.4-ubuntu-14.04'\u001b[0m\r\n"
+    ],
+    [
+      5.061132,
+      "1.5.4-ubuntu-14.04: Pulling from mesoscloud/logstash\r\n"
+    ],
+    [
+      0.000012,
+      "a0a359779569: Pulling fs layer\r\n"
+    ],
+    [
+      0.000036,
+      "1.5.4-ubuntu-14.04: Pulling from mesoscloud/logstash\r\n"
+    ],
+    [
+      0.001767,
+      "a0a359779569: Pulling fs layer\r\ne4066386e482: Pulling fs layer\r\n"
+    ],
+    [
+      0.000019,
+      "7dd5874171ac: Pulling fs layer\r\nf9a43abfd6d3: Pulling fs layer\r\nf9a43abfd6d3: Pulling fs layer\r\nd3a1f33e8a5a: Already exists\r\nc22013c84729: Already exists\r\nd74508fb6632: Already exists\r\n91e54dfb1179: Already exists\r\n"
+    ],
+    [
+      0.000014,
+      "e4066386e482: Pulling fs layer\r\n7dd5874171ac: Pulling fs layer\r\nf9a43abfd6d3: Pulling fs layer\r\nf9a43abfd6d3: Pulling fs layer\r\nd3a1f33e8a5a: Already exists\r\nc22013c84729: Already exists\r\nd74508fb6632: Already exists\r\n91e54dfb1179: Already exists\r\nf9a43abfd6d3: Layer already being pulled by another client. Waiting.\r\n"
+    ],
+    [
+      0.000230,
+      "f9a43abfd6d3: Layer already being pulled by another client. Waiting.\r\n"
+    ],
+    [
+      0.045008,
+      "1.5.4-ubuntu-14.04: Pulling from mesoscloud/logstash\r\n"
+    ],
+    [
+      0.002600,
+      "a0a359779569: Pulling fs layer\r\ne4066386e482: Pulling fs layer\r\n"
+    ],
+    [
+      0.000188,
+      "7dd5874171ac: Pulling fs layer\r\n"
+    ],
+    [
+      0.003134,
+      "f9a43abfd6d3: Pulling fs layer\r\n"
+    ],
+    [
+      0.017963,
+      "f9a43abfd6d3: Pulling fs layer\r\nd3a1f33e8a5a: Already exists\r\nc22013c84729: Already exists\r\nd74508fb6632: Already exists\r\n91e54dfb1179: Already exists\r\n"
+    ],
+    [
+      0.004025,
+      "f9a43abfd6d3: Layer already being pulled by another client. Waiting.\r\n"
+    ],
+    [
+      0.570171,
+      "7dd5874171ac: Verifying Checksum\r\n"
+    ],
+    [
+      0.001312,
+      "7dd5874171ac: Download complete\r\n"
+    ],
+    [
+      0.000013,
+      "f9a43abfd6d3: Verifying Checksum\r\nf9a43abfd6d3: Download complete\r\nf9a43abfd6d3: Verifying Checksum\r\nf9a43abfd6d3: Download complete\r\n"
+    ],
+    [
+      0.004527,
+      "f9a43abfd6d3: Verifying Checksum\r\n"
+    ],
+    [
+      0.003982,
+      "f9a43abfd6d3: Download complete\r\n"
+    ],
+    [
+      0.002737,
+      "7dd5874171ac: Verifying Checksum\r\n"
+    ],
+    [
+      0.001061,
+      "7dd5874171ac: Download complete\r\n"
+    ],
+    [
+      0.119060,
+      "7dd5874171ac: Verifying Checksum\r\n7dd5874171ac: Download complete\r\n"
+    ],
+    [
+      4.986501,
+      "a0a359779569: "
+    ],
+    [
+      0.001017,
+      "Verifying Checksum\r\na0a359779569: Download complete\r\n"
+    ],
+    [
+      0.041707,
+      "e4066386e482: Verifying Checksum\r\ne4066386e482: Download complete\r\n"
+    ],
+    [
+      0.469227,
+      "a0a359779569: Verifying Checksum\r\na0a359779569: Download complete\r\n"
+    ],
+    [
+      0.126819,
+      "a0a359779569: Verifying Checksum\r\na0a359779569: Download complete\r\n"
+    ],
+    [
+      4.482199,
+      "e4066386e482: Verifying Checksum\r\ne4066386e482: Download complete\r\n"
+    ],
+    [
+      0.001052,
+      "e4066386e482: Verifying Checksum\r\n"
+    ],
+    [
+      0.002188,
+      "e4066386e482: Download complete\r\n"
+    ],
+    [
+      1.531613,
+      "a0a359779569: Pull complete\r\n"
+    ],
+    [
+      0.336364,
+      "a0a359779569: Pull complete\r\n"
+    ],
+    [
+      1.310233,
+      "a0a359779569: Pull complete\r\n"
+    ],
+    [
+      5.510137,
+      "e4066386e482: Pull complete\r\n"
+    ],
+    [
+      0.028230,
+      "7dd5874171ac: Pull complete\r\n"
+    ],
+    [
+      0.003807,
+      "f9a43abfd6d3: Download complete\r\n"
+    ],
+    [
+      0.032232,
+      "f9a43abfd6d3: Pull complete\r\nf9a43abfd6d3: Already exists\r\n"
+    ],
+    [
+      0.002560,
+      "Digest: sha256:1fa4588672b910048231f56eaa3e7b8aeceb7db13e7c579d64e84b1d7665480f\r\n"
+    ],
+    [
+      0.031352,
+      "Status: Downloaded newer image for mesoscloud/logstash:1.5.4-ubuntu-14.04\r\n"
+    ],
+    [
+      1.107313,
+      "e4066386e482: Pull complete\r\n"
+    ],
+    [
+      0.018735,
+      "7dd5874171ac: Pull complete\r\n"
+    ],
+    [
+      0.006331,
+      "f9a43abfd6d3: Download complete\r\n"
+    ],
+    [
+      0.041636,
+      "f9a43abfd6d3: Pull complete\r\nf9a43abfd6d3: Already exists\r\n"
+    ],
+    [
+      0.002293,
+      "Digest: sha256:1fa4588672b910048231f56eaa3e7b8aeceb7db13e7c579d64e84b1d7665480f\r\n"
+    ],
+    [
+      0.035543,
+      "Status: Downloaded newer image for mesoscloud/logstash:1.5.4-ubuntu-14.04\r\n"
+    ],
+    [
+      2.253843,
+      "e4066386e482: Pull complete\r\n"
+    ],
+    [
+      0.040172,
+      "7dd5874171ac: Pull complete\r\n"
+    ],
+    [
+      0.004058,
+      "f9a43abfd6d3: Download complete\r\n"
+    ],
+    [
+      0.038393,
+      "f9a43abfd6d3: Pull complete\r\n"
+    ],
+    [
+      0.002565,
+      "f9a43abfd6d3: Already exists\r\n"
+    ],
+    [
+      0.000768,
+      "Digest: sha256:1fa4588672b910048231f56eaa3e7b8aeceb7db13e7c579d64e84b1d7665480f\r\n"
+    ],
+    [
+      0.062463,
+      "Status: Downloaded newer image for mesoscloud/logstash:1.5.4-ubuntu-14.04\r\n"
+    ],
+    [
+      0.082719,
+      "\u001b[1;39mnode-3 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000393,
+      "\u001b[1;39mnode-2 droplet ssh\u001b[0m\r\n\u001b[1;39mnode-1 droplet ssh\u001b[0m\r\n\u001b[0;36mssh -o BatchMode=yes root@45.55.61.7 'docker run -d -v /srv/events:/srv/events -v /srv/logstash:/srv/logstash --name=logstash --net=host --restart=always mesoscloud/logstash:1.5.4-ubuntu-14.04 logstash -e \"input { file { path =\u003e \\\"/srv/events/containers.log-*\\\" codec =\u003e json sincedb_path =\u003e \\\"/srv/logstash/sincedb\\\" } } output { elasticsearch { protocol =\u003e \\\"transport\\\" } }\"'\u001b[0m\r\n\u001b[0;36mssh -o BatchMode=yes root@45.55.50.130 'docker run -d -v /srv/events:/srv/events -v /srv/logstash:/srv/logstash --name=logstash --net=host --restart=always mesoscloud/logstash:1.5.4-ubuntu-14.04 logstash -e \"input { file { path =\u003e \\\"/srv/events/containers.log-*\\\" codec =\u003e json sincedb_path =\u003e \\\"/srv/logstash/sincedb\\\" } } output { elasticsearch { protocol =\u003e \\\"transport\\\" } }\"'\u001b[0m\r\n"
+    ],
+    [
+      0.000086,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.54.131 'docker run -d -v /srv/events:/srv/events -v /srv/logstash:/srv/logstash --name=logstash --net=host --restart=always mesoscloud/logstash:1.5.4-ubuntu-14.04 logstash -e \"input { file { path =\u003e \\\"/srv/events/containers.log-*\\\" codec =\u003e json sincedb_path =\u003e \\\"/srv/logstash/sincedb\\\" } } output { elasticsearch { protocol =\u003e \\\"transport\\\" } }\"'\u001b[0m\r\n"
+    ],
+    [
+      5.010941,
+      "ac5744648eb8597a38d9b8ba1cc1986a1e38d477f094dc77b1e739d4dfa41b14\r\n814beaaa43a0e9fa34839750bd37bfeddab915e3acdda52e2cce24cd9f11fe19\r\n"
+    ],
+    [
+      0.000436,
+      "9baaad6d125aaa93ddf733b5112c2e53bc056e23512fcecf431521b3a903fcb7\r\n"
+    ],
+    [
+      0.048513,
+      " ___________\r\n\u003c zookeeper \u003e\r\n"
+    ],
+    [
+      0.044080,
+      " -----------\r\n\t\\   \u001b[0;36m^\u001b[0m__\u001b[0;36m^\u001b[0m\r\n\t \\  (oo)\\_______\r\n\t    (__)\\       )\\/\\\r\n\t\t||----w |\r\n\t\t||     ||\r\n"
+    ],
+    [
+      0.101638,
+      "\u001b[1;39mnode-2 droplet ssh\u001b[0m\r\n\u001b[0;36mssh -o BatchMode=yes root@45.55.50.130 'docker pull mesoscloud/zookeeper:3.4.6-ubuntu-14.04'\u001b[0m\r\n"
+    ],
+    [
+      0.001187,
+      "\u001b[1;39mnode-1 droplet ssh\u001b[0m\r\n\u001b[0;36mssh -o BatchMode=yes root@45.55.54.131 'docker pull mesoscloud/zookeeper:3.4.6-ubuntu-14.04'\u001b[0m\r\n"
+    ],
+    [
+      0.058196,
+      "\u001b[1;39mnode-3 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000277,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.61.7 'docker pull mesoscloud/zookeeper:3.4.6-ubuntu-14.04'\u001b[0m\r\n"
+    ],
+    [
+      4.980709,
+      "3.4.6-ubuntu-14.04: Pulling from mesoscloud/zookeeper\r\n5107ce84eb6d: Pulling fs layer\r\ncd4bcb5afc72: Pulling fs layer\r\nc285a9e69c3a: Pulling fs layer\r\nf39f5da1e03a: Pulling fs layer\r\n72114a5cb95f: Pulling fs layer\r\n"
+    ],
+    [
+      0.000018,
+      "827003142e6f: Pulling fs layer\r\nce030ca1821d: Pulling fs layer\r\n"
+    ],
+    [
+      0.000320,
+      "ce030ca1821d: Pulling fs layer\r\nd3a1f33e8a5a: Already exists\r\nc22013c84729: Already exists\r\nd74508fb6632: Already exists\r\n91e54dfb1179: Already exists\r\n"
+    ],
+    [
+      0.000017,
+      "ce030ca1821d: Layer already being pulled by another client. Waiting.\r\n"
+    ],
+    [
+      0.306355,
+      "3.4.6-ubuntu-14.04: Pulling from mesoscloud/zookeeper\r\n"
+    ],
+    [
+      0.001409,
+      "5107ce84eb6d: Pulling fs layer\r\ncd4bcb5afc72: Pulling fs layer\r\nc285a9e69c3a: Pulling fs layer\r\nf39f5da1e03a: Pulling fs layer\r\n"
+    ],
+    [
+      0.000013,
+      "72114a5cb95f: Pulling fs layer\r\n827003142e6f: Pulling fs layer\r\nce030ca1821d: Pulling fs layer\r\nce030ca1821d: Pulling fs layer\r\nd3a1f33e8a5a: Already exists\r\nc22013c84729: Already exists\r\nd74508fb6632: Already exists\r\n91e54dfb1179: Already exists\r\n"
+    ],
+    [
+      0.000395,
+      "ce030ca1821d: Layer already being pulled by another client. Waiting.\r\n"
+    ],
+    [
+      0.000059,
+      "72114a5cb95f: Verifying Checksum\r\n72114a5cb95f: Download complete\r\n"
+    ],
+    [
+      0.020089,
+      "ce030ca1821d: Verifying Checksum\r\nce030ca1821d: Download complete\r\n"
+    ],
+    [
+      0.007003,
+      "c285a9e69c3a: Verifying Checksum\r\nc285a9e69c3a: Download complete\r\n"
+    ],
+    [
+      0.155122,
+      "827003142e6f: Verifying Checksum\r\n827003142e6f: Download complete\r\n"
+    ],
+    [
+      0.168136,
+      "72114a5cb95f: Verifying Checksum\r\n72114a5cb95f: Download complete\r\n"
+    ],
+    [
+      0.007651,
+      "c285a9e69c3a: Verifying Checksum\r\nc285a9e69c3a: Download complete\r\n"
+    ],
+    [
+      0.007747,
+      "827003142e6f: Verifying Checksum\r\n827003142e6f: Download complete\r\n"
+    ],
+    [
+      0.006035,
+      "3.4.6-ubuntu-14.04: Pulling from mesoscloud/zookeeper\r\n"
+    ],
+    [
+      0.006937,
+      "5107ce84eb6d: Pulling fs layer\r\ncd4bcb5afc72: Pulling fs layer\r\n"
+    ],
+    [
+      0.000099,
+      "c285a9e69c3a: Pulling fs layer\r\nf39f5da1e03a: Pulling fs layer\r\n72114a5cb95f: Pulling fs layer\r\n827003142e6f: Pulling fs layer\r\nce030ca1821d: Pulling fs layer\r\nce030ca1821d: Pulling fs layer\r\nd3a1f33e8a5a: Already exists\r\nc22013c84729: Already exists\r\nd74508fb6632: Already exists\r\n91e54dfb1179: Already exists\r\n"
+    ],
+    [
+      0.012988,
+      "ce030ca1821d: Layer already being pulled by another client. Waiting.\r\n"
+    ],
+    [
+      0.050172,
+      "ce030ca1821d: Verifying Checksum\r\nce030ca1821d: Download complete\r\n"
+    ],
+    [
+      0.005963,
+      "f39f5da1e03a: Verifying Checksum\r\n"
+    ],
+    [
+      0.002623,
+      "f39f5da1e03a: Download complete\r\n"
+    ],
+    [
+      0.372512,
+      "c285a9e69c3a: Verifying Checksum\r\nc285a9e69c3a: Download complete\r\n"
+    ],
+    [
+      0.001476,
+      "f39f5da1e03a: Verifying Checksum\r\nf39f5da1e03a: Download complete\r\n"
+    ],
+    [
+      0.000020,
+      "827003142e6f: Verifying Checksum\r\n827003142e6f: Download complete\r\nce030ca1821d: Verifying Checksum\r\nce030ca1821d: Download complete\r\n72114a5cb95f: Verifying Checksum\r\n72114a5cb95f: Download complete\r\n"
+    ],
+    [
+      0.622157,
+      "f39f5da1e03a: Verifying Checksum\r\nf39f5da1e03a: Download complete\r\n"
+    ],
+    [
+      0.001495,
+      "cd4bcb5afc72: Verifying Checksum\r\ncd4bcb5afc72: Download complete\r\n"
+    ],
+    [
+      0.051730,
+      "cd4bcb5afc72: Verifying Checksum\r\n"
+    ],
+    [
+      0.006562,
+      "cd4bcb5afc72: Download complete\r\n"
+    ],
+    [
+      0.744610,
+      "cd4bcb5afc72: Verifying Checksum\r\n"
+    ],
+    [
+      0.000946,
+      "cd4bcb5afc72: Download complete\r\n"
+    ],
+    [
+      2.559012,
+      "5107ce84eb6d: Verifying Checksum\r\n5107ce84eb6d: Download complete\r\n"
+    ],
+    [
+      0.307014,
+      "5107ce84eb6d: Verifying Checksum\r\n"
+    ],
+    [
+      0.001282,
+      "5107ce84eb6d: Download complete\r\n"
+    ],
+    [
+      3.275823,
+      "5107ce84eb6d: Verifying Checksum\r\n5107ce84eb6d: Download complete\r\n"
+    ],
+    [
+      2.662353,
+      "5107ce84eb6d: Pull complete\r\n"
+    ],
+    [
+      1.433656,
+      "5107ce84eb6d: Pull complete\r\n"
+    ],
+    [
+      0.001276,
+      "cd4bcb5afc72: Pull complete\r\n"
+    ],
+    [
+      0.035693,
+      "c285a9e69c3a: Pull complete\r\n"
+    ],
+    [
+      0.057898,
+      "f39f5da1e03a: Pull complete\r\n"
+    ],
+    [
+      0.056100,
+      "72114a5cb95f: Pull complete\r\n"
+    ],
+    [
+      0.070093,
+      "827003142e6f: Pull complete\r\n"
+    ],
+    [
+      0.002746,
+      "ce030ca1821d: Download complete\r\n"
+    ],
+    [
+      0.035148,
+      "ce030ca1821d: Pull complete\r\nce030ca1821d: Already exists\r\n"
+    ],
+    [
+      0.003654,
+      "Digest: sha256:8fc2984ca7e81b56b9da57ce54fbd77b50787b4c2b66f17eb6227f419d33fb42\r\n"
+    ],
+    [
+      0.024712,
+      "Status: Downloaded newer image for mesoscloud/zookeeper:3.4.6-ubuntu-14.04\r\n"
+    ],
+    [
+      1.965404,
+      "5107ce84eb6d: Pull complete\r\n"
+    ],
+    [
+      0.511946,
+      "cd4bcb5afc72: Pull complete\r\n"
+    ],
+    [
+      0.001269,
+      "c285a9e69c3a: Pull complete\r\n"
+    ],
+    [
+      0.038975,
+      "f39f5da1e03a: Pull complete\r\n"
+    ],
+    [
+      0.025929,
+      "72114a5cb95f: Pull complete\r\n"
+    ],
+    [
+      0.034476,
+      "827003142e6f: Pull complete\r\n"
+    ],
+    [
+      0.004498,
+      "ce030ca1821d: Download complete\r\n"
+    ],
+    [
+      0.030367,
+      "ce030ca1821d: Pull complete\r\nce030ca1821d: Already exists\r\nDigest: sha256:8fc2984ca7e81b56b9da57ce54fbd77b50787b4c2b66f17eb6227f419d33fb42\r\n"
+    ],
+    [
+      0.016832,
+      "Status: Downloaded newer image for mesoscloud/zookeeper:3.4.6-ubuntu-14.04\r\n"
+    ],
+    [
+      1.076272,
+      "cd4bcb5afc72: "
+    ],
+    [
+      0.001292,
+      "Pull complete\r\nc285a9e69c3a: Pull complete\r\nf39f5da1e03a: Pull complete\r\n"
+    ],
+    [
+      0.008181,
+      "72114a5cb95f: Pull complete\r\n"
+    ],
+    [
+      0.046139,
+      "827003142e6f: Pull complete\r\n"
+    ],
+    [
+      0.013326,
+      "ce030ca1821d: Download complete\r\n"
+    ],
+    [
+      0.038744,
+      "ce030ca1821d: Pull complete\r\nce030ca1821d: Already exists\r\n"
+    ],
+    [
+      0.002650,
+      "Digest: sha256:8fc2984ca7e81b56b9da57ce54fbd77b50787b4c2b66f17eb6227f419d33fb42\r\n"
+    ],
+    [
+      0.025274,
+      "Status: Downloaded newer image for mesoscloud/zookeeper:3.4.6-ubuntu-14.04\r\n"
+    ],
+    [
+      0.353844,
+      "\u001b[1;39mnode-1 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000156,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.54.131 'docker run -d -e MYID=1 -e SERVERS=10.132.63.163,10.132.63.159,10.132.63.162 --name=zookeeper --net=host --restart=always mesoscloud/zookeeper:3.4.6-ubuntu-14.04'\u001b[0m\r\n"
+    ],
+    [
+      0.137327,
+      "\u001b[1;39mnode-2 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000187,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.50.130 'docker run -d -e MYID=2 -e SERVERS=10.132.63.163,10.132.63.159,10.132.63.162 --name=zookeeper --net=host --restart=always mesoscloud/zookeeper:3.4.6-ubuntu-14.04'\u001b[0m\r\n"
+    ],
+    [
+      0.120584,
+      "\u001b[1;39mnode-3 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000081,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.61.7 'docker run -d -e MYID=3 -e SERVERS=10.132.63.163,10.132.63.159,10.132.63.162 --name=zookeeper --net=host --restart=always mesoscloud/zookeeper:3.4.6-ubuntu-14.04'\u001b[0m\r\n"
+    ],
+    [
+      3.662323,
+      "d7a0b5a71ffbb979e1883295f085a9b9eb1adaf317027c21bd8530c7dc59e0a8\r\n"
+    ],
+    [
+      0.047409,
+      "41f2be31c60951746df4be5ede463d1b493245452a744c86aa2b6db8717dedcb\r\n"
+    ],
+    [
+      0.088092,
+      "58015acde4b2f7aaf43bcf4f23837b80f0604aead2fa0a0a7f3beac418cf4863\r\n"
+    ],
+    [
+      0.144287,
+      "\u001b[1;39mnode-1 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000040,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.54.131 'nc -vz 10.132.63.163 2181'\u001b[0m\r\n"
+    ],
+    [
+      4.628848,
+      "Connection to 10.132.63.163 2181 port [tcp/*] succeeded!\r\n"
+    ],
+    [
+      0.083852,
+      "\u001b[1;39mnode-2 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000034,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.50.130 'nc -vz 10.132.63.159 2181'\u001b[0m\r\n"
+    ],
+    [
+      4.761004,
+      "Connection to 10.132.63.159 2181 port [tcp/*] succeeded!\r\n"
+    ],
+    [
+      0.084604,
+      "\u001b[1;39mnode-3 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000028,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.61.7 'nc -vz 10.132.63.162 2181'\u001b[0m\r\n"
+    ],
+    [
+      4.633377,
+      "Connection to 10.132.63.162 2181 port [tcp/*] succeeded!\r\n"
+    ],
+    [
+      0.046272,
+      "\u001b[1;39mnode-1 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000049,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.54.131 'echo delete /foo | docker run -i --net host --rm mesoscloud/zookeeper:3.4.6-ubuntu-14.04 zkCli.sh'\u001b[0m\r\n"
+    ],
+    [
+      5.119737,
+      "Connecting to localhost:2181\r\n"
+    ],
+    [
+      0.021967,
+      "2015-08-24 00:05:00,076 [myid:] - INFO  [main:Environment@100] - Client environment:zookeeper.version=3.4.6-1569965, built on 02/20/2014 09:09 GMT\r\n"
+    ],
+    [
+      0.002542,
+      "2015-08-24 00:05:00,081 [myid:] - INFO  [main:Environment@100] - Client environment:host.name=node-1\r\n"
+    ],
+    [
+      0.015423,
+      "2015-08-24 00:05:00,081 [myid:] - INFO  [main:Environment@100] - Client environment:java.version=1.7.0_79\r\n2015-08-24 00:05:00,086 [myid:] - INFO  [main:Environment@100] - Client environment:java.vendor=Oracle Corporation\r\n2015-08-24 00:05:00,086 [myid:] - INFO  [main:Environment@100] - Client environment:java.home=/usr/lib/jvm/java-7-openjdk-amd64/jre\r\n"
+    ],
+    [
+      0.002695,
+      "2015-08-24 00:05:00,086 [myid:] - INFO  [main:Environment@100] - Client environment:java.class.path=/opt/zookeeper/bin/../build/classes:/opt/zookeeper/bin/../build/lib/*.jar:/opt/zookeeper/bin/../lib/slf4j-log4j12-1.6.1.jar:/opt/zookeeper/bin/../lib/slf4j-api-1.6.1.jar:/opt/zookeeper/bin/../lib/netty-3.7.0.Final.jar:/opt/zookeeper/bin/../lib/log4j-1.2.16.jar:/opt/zookeeper/bin/../lib/jline-0.9.94.jar:/opt/zookeeper/bin/../zookeeper-3.4.6.jar:/opt/zookeeper/bin/../src/java/lib/*.jar:/opt/zookeeper/bin/../conf:\r\n2015-08-24 00:05:00,089 [myid:] - INFO  [main:Environment@100] - Client environment:java.library.path=/usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib\r\n2015-08-24 00:05:00,089 [myid:] - INFO  [main:Environment@100] - Client environment:java.io.tmpdir=/tmp\r\n"
+    ],
+    [
+      0.071448,
+      "2015-08-24 00:05:00,090 [myid:] - INFO  [main:Environment@100] - Client environment:java.compiler=\u003cNA\u003e\r\n2015-08-24 00:05:00,091 [myid:] - INFO  [main:Environment@100] - Client environment:os.name=Linux\r\n"
+    ],
+    [
+      0.196605,
+      "2015-08-24 00:05:00,091 [myid:] - INFO  [main:Environment@100] - Client environment:os.arch=amd64\r\n2015-08-24 00:05:00,092 [myid:] - INFO  [main:Environment@100] - Client environment:os.version=3.13.0-57-generic\r\n2015-08-24 00:05:00,092 [myid:] - INFO  [main:Environment@100] - Client environment:user.name=root\r\n2015-08-24 00:05:00,092 [myid:] - INFO  [main:Environment@100] - Client environment:user.home=/root\r\n2015-08-24 00:05:00,093 [myid:] - INFO  [main:Environment@100] - Client environment:user.dir=/\r\n2015-08-24 00:05:00,095 [myid:] - INFO  [main:ZooKeeper@438] - Initiating client connection, connectString=localhost:2181 sessionTimeout=30000 watcher=org.apache.zookeeper.ZooKeeperMain$MyWatcher@40fb2f19\r\nWelcome to ZooKeeper!\r\n2015-08-24 00:05:00,143 [myid:] - INFO  [main-SendThread(localhost:2181):ClientCnxn$SendThread@975] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)\r\nJLine support is enabled\r\n"
+    ],
+    [
+      0.006271,
+      "2015-08-24 00:05:00,161 [myid:] - INFO  [main-SendThread(localhost:2181):ClientCnxn$SendThread@852] - Socket connection established to localhost/127.0.0.1:2181, initiating session\r\n2015-08-24 00:05:00,202 [myid:] - INFO  [main-SendThread(localhost:2181):ClientCnxn$SendThread@1235] - Session establishment complete on server localhost/127.0.0.1:2181, sessionid = 0x14f5d056fec0000, negotiated timeout = 30000\r\n[zk: localhost:2181(CONNECTED) 0] delete /foo\r\n\r\nWATCHER::\r\n\r\nWatchedEvent state:SyncConnected type:None path:null\r\n[zk: localhost:2181(CONNECTED) 1] Node does not exist: /foo\r\n"
+    ],
+    [
+      0.461154,
+      "\u001b[1;39mnode-2 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000049,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.50.130 'echo delete /foo | docker run -i --net host --rm mesoscloud/zookeeper:3.4.6-ubuntu-14.04 zkCli.sh'\u001b[0m\r\n"
+    ],
+    [
+      5.586860,
+      "Connecting to localhost:2181\r\n"
+    ],
+    [
+      0.001433,
+      "2015-08-24 00:05:06,342 [myid:] - INFO  [main:Environment@100] - Client environment:zookeeper.version=3.4.6-1569965, built on 02/20/2014 09:09 GMT\r\n2015-08-24 00:05:06,349 [myid:] - INFO  [main:Environment@100] - Client environment:host.name=node-2\r\n2015-08-24 00:05:06,352 [myid:] - INFO  [main:Environment@100] - Client environment:java.version=1.7.0_79\r\n2015-08-24 00:05:06,355 [myid:] - INFO  [main:Environment@100] - Client environment:java.vendor=Oracle Corporation\r\n"
+    ],
+    [
+      0.000230,
+      "2015-08-24 00:05:06,357 [myid:] - INFO  [main:Environment@100] - Client environment:java.home=/usr/lib/jvm/java-7-openjdk-amd64/jre\r\n2015-08-24 00:05:06,357 [myid:] - INFO  [main:Environment@100] - Client environment:java.class.path=/opt/zookeeper/bin/../build/classes:/opt/zookeeper/bin/../build/lib/*.jar:/opt/zookeeper/bin/../lib/slf4j-log4j12-1.6.1.jar:/opt/zookeeper/bin/../lib/slf4j-api-1.6.1.jar:/opt/zookeeper/bin/../lib/netty-3.7.0.Final.jar:/opt/zookeeper/bin/../lib/log4j-1.2.16.jar:/opt/zookeeper/bin/../lib/jline-0.9.94.jar:/opt/zookeeper/bin/../zookeeper-3.4.6.jar:/opt/zookeeper/bin/../src/java/lib/*.jar:/opt/zookeeper/bin/../conf:\r\n2015-08-24 00:05:06,358 [myid:] - INFO  [main:Environment@100] - Client environment:java.library.path=/usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib\r\n2015-08-24 00:05:06,358 [myid:] - INFO  [main:Environment@100] - Client environment:java.io.tmpdir=/tmp\r\n2015-08-24 00:05:06,358 [myid:] -"
+    ],
+    [
+      0.000201,
+      " INFO  [main:Environment@100] - Client environment:java.compiler=\u003cNA\u003e\r\n2015-08-24 00:05:06,358 [myid:] - INFO  [main:Environment@100] - Client environment:os.name=Linux\r\n2015-08-24 00:05:06,358 [myid:] - INFO  [main:Environment@100] - Client environment:os.arch=amd64\r\n2015-08-24 00:05:06,359 [myid:] - INFO  [main:Environment@100] - Client environment:os.version=3.13.0-57-generic\r\n2015-08-24 00:05:06,359 [myid:] - INFO  [main:Environment@100] - Client environment:user.name=root\r\n2015-08-24 00:05:06,359 [myid:] - INFO  [main:Environment@100] - Client environment:user.home=/root\r\n2015-08-24 00:05:06,359 [myid:] - INFO  [main:Environment@100] - Client environment:user.dir=/\r\n2015-08-24 00:05:06,362 [myid:] - INFO  [main:ZooKeeper@438] - Initiating client connection, connectString=localhost:2181 sessionTimeout=30000 watcher=org.apache.zookeeper.ZooKeeperMain$MyWatcher@66c5c0e5\r\n"
+    ],
+    [
+      0.000029,
+      "Welcome to ZooKeeper!\r\n"
+    ],
+    [
+      0.007000,
+      "2015-08-24 00:05:06,431 [myid:] - INFO  [main-SendThread(localhost:2181):ClientCnxn$SendThread@975] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)\r\n"
+    ],
+    [
+      0.399881,
+      "2015-08-24 00:05:06,443 [myid:] - INFO  [main-SendThread(localhost:2181):ClientCnxn$SendThread@852] - Socket connection established to localhost/127.0.0.1:2181, initiating session\r\nJLine support is enabled\r\n2015-08-24 00:05:06,471 [myid:] - INFO  [main-SendThread(localhost:2181):ClientCnxn$SendThread@1235] - Session establishment complete on server localhost/127.0.0.1:2181, sessionid = 0x24f5d056fea0000, negotiated timeout = 30000\r\n\r\nWATCHER::\r\n\r\nWatchedEvent state:SyncConnected type:None path:null\r\n[zk: localhost:2181(CONNECTED) 0] delete /foo\r\n[zk: localhost:2181(CONNECTED) 1] Node does not exist: /foo\r\n"
+    ],
+    [
+      0.156289,
+      "\u001b[1;39mnode-3 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000048,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.61.7 'echo delete /foo | docker run -i --net host --rm mesoscloud/zookeeper:3.4.6-ubuntu-14.04 zkCli.sh'\u001b[0m\r\n"
+    ],
+    [
+      4.665795,
+      "Connecting to localhost:2181\r\n"
+    ],
+    [
+      0.031835,
+      "2015-08-24 00:05:11,682 [myid:] - INFO  [main:Environment@100] - Client environment:zookeeper.version=3.4.6-1569965, built on 02/20/2014 09:09 GMT\r\n2015-08-24 00:05:11,688 [myid:] - INFO  [main:Environment@100] - Client environment:host.name=node-3\r\n"
+    ],
+    [
+      0.017213,
+      "2015-08-24 00:05:11,688 [myid:] - INFO  [main:Environment@100] - Client environment:java.version=1.7.0_79\r\n2015-08-24 00:05:11,693 [myid:] - INFO  [main:Environment@100] - Client environment:java.vendor=Oracle Corporation\r\n2015-08-24 00:05:11,694 [myid:] - INFO  [main:Environment@100] - Client environment:java.home=/usr/lib/jvm/java-7-openjdk-amd64/jre\r\n2015-08-24 00:05:11,694 [myid:] - INFO  [main:Environment@100] - Client environment:java.class.path=/opt/zookeeper/bin/../build/classes:/opt/zookeeper/bin/../build/lib/*.jar:/opt/zookeeper/bin/../lib/slf4j-log4j12-1.6.1.jar:/opt/zookeeper/bin/../lib/slf4j-api-1.6.1.jar:/opt/zookeeper/bin/../lib/netty-3.7.0.Final.jar:/opt/zookeeper/bin/../lib/log4j-1.2.16.jar:/opt/zookeeper/bin/../lib/jline-0.9.94.jar:/opt/zookeeper/bin/../zookeeper-3.4.6.jar:/opt/zookeeper/bin/../src/java/lib/*.jar:/opt/zookeeper/bin/../conf:\r\n2015-08-24 00:05:11,694 [myid:] - INFO  [main:Environment@100] - Client environment:java.library.path=/usr/java/packages/lib/amd64:/usr/lib/x86_64-linux"
+    ],
+    [
+      0.000183,
+      "-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib\r\n2015-08-24 00:05:11,694 [myid:] - INFO  [main:Environment@100] - Client environment:java.io.tmpdir=/tmp\r\n2015-08-24 00:05:11,694 [myid:] - INFO  [main:Environment@100] - Client environment:java.compiler=\u003cNA\u003e\r\n2015-08-24 00:05:11,695 [myid:] - INFO  [main:Environment@100] - Client environment:os.name=Linux\r\n"
+    ],
+    [
+      0.000012,
+      "2015-08-24 00:05:11,695 [myid:] - INFO  [main:Environment@100] - Client environment:os.arch=amd64\r\n"
+    ],
+    [
+      0.000716,
+      "2015-08-24 00:05:11,695 [myid:] - INFO  [main:Environment@100] - Client environment:os.version=3.13.0-57-generic\r\n2015-08-24 00:05:11,695 [myid:] - INFO  [main:Environment@100] - Client environment:user.name=root\r\n"
+    ],
+    [
+      0.290076,
+      "2015-08-24 00:05:11,696 [myid:] - INFO  [main:Environment@100] - Client environment:user.home=/root\r\n2015-08-24 00:05:11,696 [myid:] - INFO  [main:Environment@100] - Client environment:user.dir=/\r\n2015-08-24 00:05:11,698 [myid:] - INFO  [main:ZooKeeper@438] - Initiating client connection, connectString=localhost:2181 sessionTimeout=30000 watcher=org.apache.zookeeper.ZooKeeperMain$MyWatcher@40fb2f19\r\nWelcome to ZooKeeper!\r\n2015-08-24 00:05:11,735 [myid:] - INFO  [main-SendThread(localhost:2181):ClientCnxn$SendThread@975] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)\r\n2015-08-24 00:05:11,748 [myid:] - INFO  [main-SendThread(localhost:2181):ClientCnxn$SendThread@852] - Socket connection established to localhost/127.0.0.1:2181, initiating session\r\nJLine support is enabled\r\n2015-08-24 00:05:11,779 [myid:] - INFO  [main-SendThread(localhost:2181):ClientCnxn$SendThread@1235] - Session establishment complete on server localhost/127.0.0.1:21"
+    ],
+    [
+      0.000091,
+      "81, sessionid = 0x34f5d056ffa0000, negotiated timeout = 30000\r\n\r\nWATCHER::\r\n\r\nWatchedEvent state:SyncConnected type:None path:null\r\n[zk: localhost:2181(CONNECTED) 0] delete /foo\r\n[zk: localhost:2181(CONNECTED) 1] Node does not exist: /foo\r\n"
+    ],
+    [
+      0.428132,
+      "\u001b[1;39mnode-3 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000092,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.54.131 'echo create /foo bar | docker run -i --net host --rm mesoscloud/zookeeper:3.4.6-ubuntu-14.04 zkCli.sh'\u001b[0m\r\n"
+    ],
+    [
+      4.571833,
+      "Connecting to localhost:2181"
+    ],
+    [
+      0.002263,
+      "\r\n"
+    ],
+    [
+      0.015342,
+      "2015-08-24 00:05:17,012 [myid:] - INFO  [main:Environment@100] - Client environment:zookeeper.version=3.4.6-1569965, built on 02/20/2014 09:09 GMT\r\n"
+    ],
+    [
+      0.011434,
+      "2015-08-24 00:05:17,016 [myid:] - INFO  [main:Environment@100] - Client environment:host.name=node-1\r\n2015-08-24 00:05:17,019 [myid:] - INFO  [main:Environment@100] - Client environment:java.version=1.7.0_79\r\n"
+    ],
+    [
+      0.000139,
+      "2015-08-24 00:05:17,021 [myid:] - INFO  [main:Environment@100] - Client environment:java.vendor=Oracle Corporation\r\n"
+    ],
+    [
+      0.000014,
+      "2015-08-24 00:05:17,023 [myid:] - INFO  [main:Environment@100] - Client environment:java.home=/usr/lib/jvm/java-7-openjdk-amd64/jre\r\n"
+    ],
+    [
+      0.017050,
+      "2015-08-24 00:05:17,024 [myid:] - INFO  [main:Environment@100] - Client environment:java.class.path=/opt/zookeeper/bin/../build/classes:/opt/zookeeper/bin/../build/lib/*.jar:/opt/zookeeper/bin/../lib/slf4j-log4j12-1.6.1.jar:/opt/zookeeper/bin/../lib/slf4j-api-1.6.1.jar:/opt/zookeeper/bin/../lib/netty-3.7.0.Final.jar:/opt/zookeeper/bin/../lib/log4j-1.2.16.jar:/opt/zookeeper/bin/../lib/jline-0.9.94.jar:/opt/zookeeper/bin/../zookeeper-3.4.6.jar:/opt/zookeeper/bin/../src/java/lib/*.jar:/opt/zookeeper/bin/../conf:\r\n2015-08-24 00:05:17,026 [myid:] - INFO  [main:Environment@100] - Client environment:java.library.path=/usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib\r\n"
+    ],
+    [
+      0.000129,
+      "2015-08-24 00:05:17,029 [myid:] - INFO  [main:Environment@100] - Client environment:java.io.tmpdir=/tmp\r\n"
+    ],
+    [
+      0.254289,
+      "2015-08-24 00:05:17,030 [myid:] - INFO  [main:Environment@100] - Client environment:java.compiler=\u003cNA\u003e\r\n2015-08-24 00:05:17,032 [myid:] - INFO  [main:Environment@100] - Client environment:os.name=Linux\r\n2015-08-24 00:05:17,033 [myid:] - INFO  [main:Environment@100] - Client environment:os.arch=amd64\r\n2015-08-24 00:05:17,033 [myid:] - INFO  [main:Environment@100] - Client environment:os.version=3.13.0-57-generic\r\n2015-08-24 00:05:17,033 [myid:] - INFO  [main:Environment@100] - Client environment:user.name=root\r\n2015-08-24 00:05:17,034 [myid:] - INFO  [main:Environment@100] - Client environment:user.home=/root\r\n2015-08-24 00:05:17,034 [myid:] - INFO  [main:Environment@100] - Client environment:user.dir=/\r\n2015-08-24 00:05:17,036 [myid:] - INFO  [main:ZooKeeper@438] - Initiating client connection, connectString=localhost:2181 sessionTimeout=30000 watcher=org.apache.zookeeper.ZooKeeperMain$MyWatcher@66c5c0e5\r\nWelcome to ZooKeeper!\r\n"
+    ],
+    [
+      0.001234,
+      "2015-08-24 00:05:17,087 [myid:] - INFO  [main-SendThread(localhost:2181):ClientCnxn$SendThread@975] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)\r\nJLine support is enabled\r\n2015-08-24 00:05:17,105 [myid:] - INFO  [main-SendThread(localhost:2181):ClientCnxn$SendThread@852] - Socket connection established to localhost/127.0.0.1:2181, initiating session\r\n2015-08-24 00:05:17,120 [myid:] - INFO  [main-SendThread(localhost:2181):ClientCnxn$SendThread@1235] - Session establishment complete on server localhost/127.0.0.1:2181, sessionid = 0x14f5d056fec0001, negotiated timeout = 30000\r\n\r\nWATCHER::\r\n\r\nWatchedEvent state:SyncConnected type:None path:null\r\n[zk: localhost:2181(CONNECTED) 0] create /foo "
+    ],
+    [
+      0.013982,
+      "bar\r\n[zk: localhost:2181(CONNECTED) 1] Created /foo\r\n"
+    ],
+    [
+      0.312828,
+      "\u001b[1;39mnode-3 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000074,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.50.130 'echo get /foo | docker run -i --net host --rm mesoscloud/zookeeper:3.4.6-ubuntu-14.04 zkCli.sh 2\u003e /dev/null | grep ^bar'\u001b[0m\r\n"
+    ],
+    [
+      5.492886,
+      "bar\r\n"
+    ],
+    [
+      0.063356,
+      "\u001b[1;39mnode-3 droplet ssh\u001b[0m\r\n\u001b[0;36mssh -o BatchMode=yes root@45.55.61.7 'echo delete /foo | docker run -i --net host --rm mesoscloud/zookeeper:3.4.6-ubuntu-14.04 zkCli.sh'\u001b[0m\r\n"
+    ],
+    [
+      5.327103,
+      "Connecting to localhost:2181\r\n"
+    ],
+    [
+      0.000999,
+      "2015-08-24 00:05:28,455 [myid:] - INFO  [main:Environment@100] - Client environment:zookeeper.version=3.4.6-1569965, built on 02/20/2014 09:09 GMT\r\n2015-08-24 00:05:28,460 [myid:] - INFO  [main:Environment@100] - Client environment:host.name=node-3\r\n2015-08-24 00:05:28,460 [myid:] - INFO  [main:Environment@100] - Client environment:java.version=1.7.0_79\r\n2015-08-24 00:05:28,463 [myid:] - INFO  [main:Environment@100] - Client environment:java.vendor=Oracle Corporation\r\n2015-08-24 00:05:28,463 [myid:] - INFO  [main:Environment@100] - Client environment:java.home=/usr/lib/jvm/java-7-openjdk-amd64/jre\r\n2015-08-24 00:05:28,464 [myid:] - INFO  [main:Environment@100] - Client environment:java.class.path=/opt/zookeeper/bin/../build/classes:/opt/zookeeper/bin/../build/lib/*.jar:/opt/zookeeper/bin/../lib/slf4j-log4j12-1.6.1.jar:/opt/zookeeper/bin/../lib/slf4j-api-1.6.1.jar:/opt/zookeeper/bin/../lib/netty-3.7.0.Final.jar:/opt/zookeeper/bin/../lib/log4j-1.2.16.jar:/opt/zookeeper/bin/../lib/jline-0.9.94.jar:/opt/zookeeper"
+    ],
+    [
+      0.000050,
+      "/bin/../zookeeper-3.4.6.jar:/opt/zookeeper/bin/../src/java/lib/*.jar:/opt/zookeeper/bin/../conf:\r\n2015-08-24 00:05:28,464 [myid:] - INFO  [main:Environment@100] - Client environment:java.library.path=/usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib\r\n2015-08-24 00:05:28,464 [myid:] - INFO  [main:Environment@100] - Client environment:java.io.tmpdir=/tmp\r\n2015-08-24 00:05:28,464 [myid:] - INFO  [main:Environment@100] - Client environment:java.compiler=\u003cNA\u003e\r\n2015-08-24 00:05:28,464 [myid:] - INFO  [main:Environment@100] - Client environment:os.name=Linux\r\n"
+    ],
+    [
+      0.000230,
+      "2015-08-24 00:05:28,464 [myid:] - INFO  [main:Environment@100] - Client environment:os.arch=amd64\r\n"
+    ],
+    [
+      0.000017,
+      "2015-08-24 00:05:28,465 [myid:] - INFO  [main:Environment@100] - Client environment:os.version=3.13.0-57-generic\r\n2015-08-24 00:05:28,465 [myid:] - INFO  [main:Environment@100] - Client environment:user.name=root\r\n"
+    ],
+    [
+      0.000422,
+      "2015-08-24 00:05:28,465 [myid:] - INFO  [main:Environment@100] - Client environment:user.home=/root\r\n"
+    ],
+    [
+      0.442454,
+      "2015-08-24 00:05:28,465 [myid:] - INFO  [main:Environment@100] - Client environment:user.dir=/\r\n2015-08-24 00:05:28,468 [myid:] - INFO  [main:ZooKeeper@438] - Initiating client connection, connectString=localhost:2181 sessionTimeout=30000 watcher=org.apache.zookeeper.ZooKeeperMain$MyWatcher@2ad133a3\r\nWelcome to ZooKeeper!\r\nJLine support is enabled\r\n2015-08-24 00:05:28,526 [myid:] - INFO  [main-SendThread(localhost:2181):ClientCnxn$SendThread@975] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)\r\n2015-08-24 00:05:28,536 [myid:] - INFO  [main-SendThread(localhost:2181):ClientCnxn$SendThread@852] - Socket connection established to localhost/127.0.0.1:2181, initiating session\r\n2015-08-24 00:05:28,551 [myid:] - INFO  [main-SendThread(localhost:2181):ClientCnxn$SendThread@1235] - Session establishment complete on server localhost/127.0.0.1:2181, sessionid = 0x34f5d056ffa0001, negotiated timeout = 30000\r\n[zk: localhost:2181(CONNECTED) 0] d"
+    ],
+    [
+      0.000866,
+      "elete /foo\r\n\r\nWATCHER::\r\n\r\nWatchedEvent state:SyncConnected type:None path:null\r\n[zk: localhost:2181(CONNECTED) 1] "
+    ],
+    [
+      0.039783,
+      " ______________\r\n"
+    ],
+    [
+      0.000026,
+      "\u003c mesos-master \u003e\r\n"
+    ],
+    [
+      0.025421,
+      " --------------\r\n"
+    ],
+    [
+      0.000054,
+      "\t\\   \u001b[0;36m^\u001b[0m__\u001b[0;36m^\u001b[0m\r\n"
+    ],
+    [
+      0.000036,
+      "\t \\  (oo)\\_______\r\n"
+    ],
+    [
+      0.000011,
+      "\t    (__)\\       )\\/\\\r\n"
+    ],
+    [
+      0.000019,
+      "\t\t||----w |\r\n"
+    ],
+    [
+      0.000022,
+      "\t\t||     ||\r\n"
+    ],
+    [
+      0.068591,
+      "\u001b[1;39mnode-3 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000153,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.61.7 'docker pull mesoscloud/mesos-master:0.23.0-ubuntu-14.04'\u001b[0m\r\n"
+    ],
+    [
+      0.000442,
+      "\u001b[1;39mnode-2 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000091,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.50.130 'docker pull mesoscloud/mesos-master:0.23.0-ubuntu-14.04'\u001b[0m\r\n"
+    ],
+    [
+      0.057274,
+      "\u001b[1;39mnode-1 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000053,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.54.131 'docker pull mesoscloud/mesos-master:0.23.0-ubuntu-14.04'\u001b[0m\r\n"
+    ],
+    [
+      4.947614,
+      "0.23.0-ubuntu-14.04: Pulling from mesoscloud/mesos-master\r\nd619868e16f5: Pulling fs layer\r\n190dc1596336: Pulling fs layer\r\n29e57d0ed8bf: Pulling fs layer\r\n"
+    ],
+    [
+      0.000060,
+      "b86a6a3c975e: Pulling fs layer\r\n"
+    ],
+    [
+      0.000272,
+      "b86a6a3c975e: Pulling fs layer\r\nd3a1f33e8a5a: Already exists\r\nc22013c84729: Already exists\r\nd74508fb6632: Already exists\r\n91e54dfb1179: Already exists\r\nb86a6a3c975e: Layer already being pulled by another client. Waiting.\r\n"
+    ],
+    [
+      0.011346,
+      "0.23.0-ubuntu-14.04: Pulling from mesoscloud/mesos-master\r\nd619868e16f5: Pulling fs layer\r\n190dc1596336: Pulling fs layer\r\n29e57d0ed8bf: Pulling fs layer\r\nb86a6a3c975e: Pulling fs layer\r\n"
+    ],
+    [
+      0.007266,
+      "b86a6a3c975e: Pulling fs layer\r\nd3a1f33e8a5a: Already exists\r\nc22013c84729: Already exists\r\nd74508fb6632: Already exists\r\n91e54dfb1179: Already exists\r\n"
+    ],
+    [
+      0.002733,
+      "b86a6a3c975e: Layer already being pulled by another client. Waiting.\r\n"
+    ],
+    [
+      0.003072,
+      "0.23.0-ubuntu-14.04: Pulling from mesoscloud/mesos-master\r\nd619868e16f5: Pulling fs layer\r\n190dc1596336: Pulling fs layer\r\n29e57d0ed8bf: Pulling fs layer\r\nb86a6a3c975e: Pulling fs layer\r\n"
+    ],
+    [
+      0.000270,
+      "b86a6a3c975e: Pulling fs layer\r\nd3a1f33e8a5a: Already exists\r\nc22013c84729: Already exists\r\nd74508fb6632: Already exists\r\n91e54dfb1179: Already exists\r\nb86a6a3c975e: Layer already being pulled by another client. Waiting.\r\n"
+    ],
+    [
+      0.466001,
+      "29e57d0ed8bf: Verifying Checksum\r\n29e57d0ed8bf: Download complete\r\n"
+    ],
+    [
+      0.001331,
+      "190dc1596336: Verifying Checksum\r\n190dc1596336: Download complete\r\n29e57d0ed8bf: Verifying Checksum\r\n29e57d0ed8bf: Download complete\r\n"
+    ],
+    [
+      0.000011,
+      "b86a6a3c975e: Verifying Checksum\r\nb86a6a3c975e: Download complete\r\n"
+    ],
+    [
+      0.000218,
+      "b86a6a3c975e: Verifying Checksum\r\nb86a6a3c975e: Download complete\r\n29e57d0ed8bf: Verifying Checksum\r\n"
+    ],
+    [
+      0.000065,
+      "29e57d0ed8bf: Download complete\r\n190dc1596336: Verifying Checksum\r\n190dc1596336: Download complete\r\nb86a6a3c975e: Verifying Checksum\r\nb86a6a3c975e: Download complete\r\n"
+    ],
+    [
+      0.016403,
+      "190dc1596336: Verifying Checksum\r\n"
+    ],
+    [
+      0.002705,
+      "190dc1596336: Download complete\r\n"
+    ],
+    [
+      6.943831,
+      "d619868e16f5: Verifying Checksum\r\nd619868e16f5: "
+    ],
+    [
+      0.031273,
+      "Download complete\r\n"
+    ],
+    [
+      1.106172,
+      "d619868e16f5: Verifying Checksum\r\n"
+    ],
+    [
+      0.002692,
+      "d619868e16f5: Download complete\r\n"
+    ],
+    [
+      9.610682,
+      "d619868e16f5: Pull complete\r\n"
+    ],
+    [
+      0.001336,
+      "190dc1596336: Pull complete\r\n29e57d0ed8bf: Pull complete\r\nb86a6a3c975e: Download complete\r\nb86a6a3c975e: Pull complete\r\nb86a6a3c975e: Already exists\r\n"
+    ],
+    [
+      0.160794,
+      "Digest: sha256:46a1e0449870076b751f57d6b46945106ed716fa07d7c5a0f23bb13270b9828f\r\nStatus: Downloaded newer image for mesoscloud/mesos-master:0.23.0-ubuntu-14.04\r\n"
+    ],
+    [
+      3.421323,
+      "d619868e16f5: Pull complete\r\n"
+    ],
+    [
+      0.000188,
+      "190dc1596336: Pull complete\r\n29e57d0ed8bf: Pull complete\r\nb86a6a3c975e: Download complete\r\n"
+    ],
+    [
+      0.000097,
+      "b86a6a3c975e: Pull complete\r\nb86a6a3c975e: Already exists\r\nDigest: sha256:46a1e0449870076b751f57d6b46945106ed716fa07d7c5a0f23bb13270b9828f\r\nStatus: Downloaded newer image for mesoscloud/mesos-master:0.23.0-ubuntu-14.04\r\n"
+    ],
+    [
+      14.848905,
+      "d619868e16f5: Verifying Checksum\r\nd619868e16f5: Download complete\r\n"
+    ],
+    [
+      12.594677,
+      "d619868e16f5: Pull complete\r\n"
+    ],
+    [
+      0.004579,
+      "190dc1596336: Pull complete\r\n29e57d0ed8bf: Pull complete\r\n"
+    ],
+    [
+      0.000022,
+      "b86a6a3c975e: Download complete\r\n"
+    ],
+    [
+      0.302544,
+      "b86a6a3c975e: Pull complete\r\nb86a6a3c975e: Already exists\r\n"
+    ],
+    [
+      0.001514,
+      "Digest: sha256:46a1e0449870076b751f57d6b46945106ed716fa07d7c5a0f23bb13270b9828f\r\nStatus: Downloaded newer image for mesoscloud/mesos-master:0.23.0-ubuntu-14.04\r\n"
+    ],
+    [
+      0.257859,
+      "\u001b[1;39mnode-1 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000335,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.54.131 'docker run -d -e MESOS_HOSTNAME=10.132.63.163 -e MESOS_IP=10.132.63.163 -e MESOS_QUORUM=2 -e MESOS_ZK=zk://10.132.63.163:2181,10.132.63.159:2181,10.132.63.162:2181/mesos --name master --net host --restart always mesoscloud/mesos-master:0.23.0-ubuntu-14.04'\u001b[0m\r\n"
+    ],
+    [
+      0.216656,
+      "\u001b[1;39mnode-2 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000209,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.50.130 'docker run -d -e MESOS_HOSTNAME=10.132.63.159 -e MESOS_IP=10.132.63.159 -e MESOS_QUORUM=2 -e MESOS_ZK=zk://10.132.63.163:2181,10.132.63.159:2181,10.132.63.162:2181/mesos --name master --net host --restart always mesoscloud/mesos-master:0.23.0-ubuntu-14.04'\u001b[0m\r\n"
+    ],
+    [
+      0.207444,
+      "\u001b[1;39mnode-3 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000176,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.61.7 'docker run -d -e MESOS_HOSTNAME=10.132.63.162 -e MESOS_IP=10.132.63.162 -e MESOS_QUORUM=2 -e MESOS_ZK=zk://10.132.63.163:2181,10.132.63.159:2181,10.132.63.162:2181/mesos --name master --net host --restart always mesoscloud/mesos-master:0.23.0-ubuntu-14.04'\u001b[0m\r\n"
+    ],
+    [
+      3.388231,
+      "131142469c19bd697f2e8f8d8d9fd4d70c7b6e0ccf4698283f8629a66d061de6\r\n"
+    ],
+    [
+      0.293896,
+      "562e914634b4f2e5774af5f259c237e245b4d6eec3eb6bf3c894edd915148a92\r\n"
+    ],
+    [
+      0.136017,
+      "34b8ddef3220f9a154bf41c40f841374439c9faf555eeb3e89fd377298c8f2e3\r\n"
+    ],
+    [
+      0.144973,
+      "\u001b[1;39mnode-1 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000024,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.54.131 'nc -vz 10.132.63.163 5050'\u001b[0m\r\n"
+    ],
+    [
+      6.106875,
+      "Connection to 10.132.63.163 5050 port [tcp/mmcc] succeeded!\r\n"
+    ],
+    [
+      0.083926,
+      "\u001b[1;39mnode-2 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000065,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.50.130 'nc -vz 10.132.63.159 5050'\u001b[0m\r\n"
+    ],
+    [
+      7.595316,
+      "Connection to 10.132.63.159 5050 port [tcp/mmcc] succeeded!\r\n"
+    ],
+    [
+      0.087172,
+      "\u001b[1;39mnode-3 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000064,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.61.7 'nc -vz 10.132.63.162 5050'\u001b[0m\r\n"
+    ],
+    [
+      5.750348,
+      "Connection to 10.132.63.162 5050 port [tcp/mmcc] succeeded!\r\n"
+    ],
+    [
+      0.026829,
+      " __________\r\n"
+    ],
+    [
+      0.000022,
+      "\u003c marathon \u003e\r\n"
+    ],
+    [
+      0.031834,
+      " ----------\r\n"
+    ],
+    [
+      0.000040,
+      "\t\\   \u001b[0;36m^\u001b[0m__\u001b[0;36m^\u001b[0m\r\n"
+    ],
+    [
+      0.000054,
+      "\t \\  (oo)\\_______\r\n"
+    ],
+    [
+      0.000048,
+      "\t    (__)\\       )\\/\\\r\n"
+    ],
+    [
+      0.000021,
+      "\t\t||----w |\r\n"
+    ],
+    [
+      0.000034,
+      "\t\t||     ||\r\n"
+    ],
+    [
+      0.067987,
+      "\u001b[1;39mnode-3 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000272,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.61.7 'docker pull mesoscloud/marathon:0.10.0-ubuntu-14.04'\u001b[0m\r\n\u001b[1;39mnode-2 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000057,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.50.130 'docker pull mesoscloud/marathon:0.10.0-ubuntu-14.04'\u001b[0m\r\n"
+    ],
+    [
+      0.063016,
+      "\u001b[1;39mnode-1 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000032,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.54.131 'docker pull mesoscloud/marathon:0.10.0-ubuntu-14.04'\u001b[0m\r\n"
+    ],
+    [
+      6.566702,
+      "0.10.0-ubuntu-14.04: Pulling from mesoscloud/marathon\r\n"
+    ],
+    [
+      0.001393,
+      "6f2a981294f2: "
+    ],
+    [
+      0.000048,
+      "Pulling fs layer\r\n7430c5d5164a: Pulling fs layer\r\nef4bfbe8c7bb: Pulling fs layer\r\nef4bfbe8c7bb: Pulling fs layer\r\n"
+    ],
+    [
+      0.000373,
+      "d3a1f33e8a5a: Already exists\r\nc22013c84729: Already exists\r\nd74508fb6632: Already exists\r\n91e54dfb1179: Already exists\r\nef4bfbe8c7bb: Layer already being pulled by another client. Waiting.\r\n"
+    ],
+    [
+      0.000028,
+      "0.10.0-ubuntu-14.04: Pulling from mesoscloud/marathon\r\n"
+    ],
+    [
+      0.000530,
+      "6f2a981294f2: Pulling fs layer\r\n"
+    ],
+    [
+      0.000077,
+      "7430c5d5164a: Pulling fs layer\r\nef4bfbe8c7bb: Pulling fs layer\r\nef4bfbe8c7bb: Pulling fs layer\r\nd3a1f33e8a5a: Already exists\r\nc22013c84729: Already exists\r\nd74508fb6632: Already exists\r\n"
+    ],
+    [
+      0.000250,
+      "91e54dfb1179: Already exists\r\nef4bfbe8c7bb: Layer already being pulled by another client. Waiting.\r\n"
+    ],
+    [
+      0.000007,
+      "0.10.0-ubuntu-14.04: Pulling from mesoscloud/marathon\r\n"
+    ],
+    [
+      0.001370,
+      "6f2a981294f2: Pulling fs layer\r\n7430c5d5164a: Pulling fs layer\r\nef4bfbe8c7bb: Pulling fs layer\r\n"
+    ],
+    [
+      0.000051,
+      "ef4bfbe8c7bb: Pulling fs layer\r\nd3a1f33e8a5a: Already exists\r\nc22013c84729: Already exists\r\nd74508fb6632: Already exists\r\n91e54dfb1179: Already exists\r\nef4bfbe8c7bb: Layer already being pulled by another client. Waiting.\r\n"
+    ],
+    [
+      0.186556,
+      "ef4bfbe8c7bb: Verifying Checksum\r\nef4bfbe8c7bb: Download complete\r\n"
+    ],
+    [
+      0.141701,
+      "ef4bfbe8c7bb: Verifying Checksum\r\nef4bfbe8c7bb: Download complete\r\n"
+    ],
+    [
+      0.049704,
+      "ef4bfbe8c7bb: Verifying Checksum\r\nef4bfbe8c7bb: Download complete\r\n"
+    ],
+    [
+      0.080526,
+      "6f2a981294f2: Verifying Checksum\r\n6f2a981294f2: Download complete\r\n"
+    ],
+    [
+      0.151696,
+      "6f2a981294f2: Verifying Checksum\r\n6f2a981294f2: Download complete\r\n"
+    ],
+    [
+      0.007984,
+      "6f2a981294f2: "
+    ],
+    [
+      0.000980,
+      "Verifying Checksum\r\n6f2a981294f2: "
+    ],
+    [
+      0.001685,
+      "Download complete\r\n"
+    ],
+    [
+      0.121574,
+      "6f2a981294f2: Pull complete\r\n"
+    ],
+    [
+      0.065734,
+      "6f2a981294f2: Pull complete\r\n"
+    ],
+    [
+      0.005806,
+      "6f2a981294f2: Pull complete\r\n"
+    ],
+    [
+      5.019039,
+      "7430c5d5164a: Verifying Checksum\r\n"
+    ],
+    [
+      0.001091,
+      "7430c5d5164a: Download complete\r\n"
+    ],
+    [
+      1.866603,
+      "7430c5d5164a: Verifying Checksum\r\n"
+    ],
+    [
+      0.001422,
+      "7430c5d5164a: Download complete\r\n"
+    ],
+    [
+      0.602542,
+      "7430c5d5164a: Verifying Checksum\r\n"
+    ],
+    [
+      0.001422,
+      "7430c5d5164a: Download complete\r\n"
+    ],
+    [
+      8.892009,
+      "7430c5d5164a: Pull complete\r\n"
+    ],
+    [
+      0.001324,
+      "ef4bfbe8c7bb: Download complete\r\nef4bfbe8c7bb: Pull complete\r\nef4bfbe8c7bb: Already exists\r\nDigest: sha256:ed1bc96dd7203c765250b7a5d636fc2c18f5d8c4df8aa2bbd64c98b4ac014cb7\r\n"
+    ],
+    [
+      0.000218,
+      "Status: Downloaded newer image for mesoscloud/marathon:0.10.0-ubuntu-14.04\r\n"
+    ],
+    [
+      0.615042,
+      "7430c5d5164a: Pull complete\r\n"
+    ],
+    [
+      0.004174,
+      "ef4bfbe8c7bb: Download complete\r\nef4bfbe8c7bb: Pull complete\r\nef4bfbe8c7bb: Already exists\r\nDigest: sha256:ed1bc96dd7203c765250b7a5d636fc2c18f5d8c4df8aa2bbd64c98b4ac014cb7\r\n"
+    ],
+    [
+      0.005613,
+      "Status: Downloaded newer image for mesoscloud/marathon:0.10.0-ubuntu-14.04\r\n"
+    ],
+    [
+      1.526623,
+      "7430c5d5164a: Pull complete\r\nef4bfbe8c7bb: Download complete\r\n"
+    ],
+    [
+      0.000022,
+      "ef4bfbe8c7bb: Pull complete\r\nef4bfbe8c7bb: Already exists\r\n"
+    ],
+    [
+      0.000010,
+      "Digest: sha256:ed1bc96dd7203c765250b7a5d636fc2c18f5d8c4df8aa2bbd64c98b4ac014cb7\r\n"
+    ],
+    [
+      0.000043,
+      "Status: Downloaded newer image for mesoscloud/marathon:0.10.0-ubuntu-14.04\r\n"
+    ],
+    [
+      0.425360,
+      "\u001b[1;39mnode-1 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000243,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.54.131 'docker run -d -e MARATHON_HOSTNAME=10.132.63.163 -e MARATHON_HTTPS_ADDRESS=10.132.63.163 -e MARATHON_HTTP_ADDRESS=10.132.63.163 -e MARATHON_MASTER=zk://10.132.63.163:2181,10.132.63.159:2181,10.132.63.162:2181/mesos -e MARATHON_ZK=zk://10.132.63.163:2181,10.132.63.159:2181,10.132.63.162:2181/marathon --name marathon --net host --restart always mesoscloud/marathon:0.10.0-ubuntu-14.04'\u001b[0m\r\n"
+    ],
+    [
+      0.358732,
+      "\u001b[1;39mnode-2 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000394,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.50.130 'docker run -d -e MARATHON_HOSTNAME=10.132.63.159 -e MARATHON_HTTPS_ADDRESS=10.132.63.159 -e MARATHON_HTTP_ADDRESS=10.132.63.159 -e MARATHON_MASTER=zk://10.132.63.163:2181,10.132.63.159:2181,10.132.63.162:2181/mesos -e MARATHON_ZK=zk://10.132.63.163:2181,10.132.63.159:2181,10.132.63.162:2181/marathon --name marathon --net host --restart always mesoscloud/marathon:0.10.0-ubuntu-14.04'\u001b[0m\r\n"
+    ],
+    [
+      0.340963,
+      "\u001b[1;39mnode-3 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000167,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.61.7 'docker run -d -e MARATHON_HOSTNAME=10.132.63.162 -e MARATHON_HTTPS_ADDRESS=10.132.63.162 -e MARATHON_HTTP_ADDRESS=10.132.63.162 -e MARATHON_MASTER=zk://10.132.63.163:2181,10.132.63.159:2181,10.132.63.162:2181/mesos -e MARATHON_ZK=zk://10.132.63.163:2181,10.132.63.159:2181,10.132.63.162:2181/marathon --name marathon --net host --restart always mesoscloud/marathon:0.10.0-ubuntu-14.04'\u001b[0m\r\n"
+    ],
+    [
+      5.341043,
+      "024433954af9bc9ff31e2a8838485238f87344f52511f0d0c69b6cfb0fe7091d\r\n"
+    ],
+    [
+      0.598330,
+      "df61c7944b793ca1807c16bef3e1451224da3a7d7b9d476c0f76e1965f17ecff\r\n"
+    ],
+    [
+      0.423498,
+      "83897da9a540141c3e8cae2d3abe3f6d1ee3059f664110676beee28add4db9a8\r\n"
+    ],
+    [
+      0.164521,
+      "\u001b[1;39mnode-1 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000082,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.54.131 'nc -vz 10.132.63.163 8080'\u001b[0m\r\n"
+    ],
+    [
+      4.019913,
+      "nc: "
+    ],
+    [
+      0.002507,
+      "connect to 10.132.63.163 port 8080 (tcp) failed: "
+    ],
+    [
+      0.000311,
+      "Connection refused\r\n"
+    ],
+    [
+      1.103523,
+      "\u001b[1;39mnode-1 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000128,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.54.131 'nc -vz 10.132.63.163 8080'\u001b[0m\r\n"
+    ],
+    [
+      3.776214,
+      "Connection to 10.132.63.163 8080 port [tcp/http-alt] succeeded!\r\n"
+    ],
+    [
+      0.143263,
+      "\u001b[1;39mnode-2 droplet ssh\u001b[0m\r\n\u001b[0;36mssh -o BatchMode=yes root@45.55.50.130 'nc -vz 10.132.63.159 8080'\u001b[0m\r\n"
+    ],
+    [
+      4.539434,
+      "Connection to 10.132.63.159 8080 port [tcp/http-alt] succeeded!\r\n"
+    ],
+    [
+      0.098921,
+      "\u001b[1;39mnode-3 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000044,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.61.7 'nc -vz 10.132.63.162 8080'\u001b[0m\r\n"
+    ],
+    [
+      6.008202,
+      "Connection to 10.132.63.162 8080 port [tcp/http-alt] succeeded!\r\n"
+    ],
+    [
+      0.029195,
+      " _________\r\n"
+    ],
+    [
+      0.000022,
+      "\u003c chronos \u003e\r\n"
+    ],
+    [
+      0.029453,
+      " ---------\r\n"
+    ],
+    [
+      0.000199,
+      "\t\\   \u001b[0;36m^\u001b[0m__\u001b[0;36m^\u001b[0m\r\n\t \\  (oo)\\_______\r\n\t    (__)\\       )\\/\\\r\n"
+    ],
+    [
+      0.000016,
+      "\t\t||----w |\r\n"
+    ],
+    [
+      0.000152,
+      "\t\t||     ||\r\n"
+    ],
+    [
+      0.074488,
+      "\u001b[1;39mnode-1 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000401,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.54.131 'docker pull mesoscloud/chronos:2.3.4-ubuntu-14.04'\u001b[0m\r\n"
+    ],
+    [
+      0.000478,
+      "\u001b[1;39mnode-3 droplet ssh\u001b[0m\r\n\u001b[0;36mssh -o BatchMode=yes root@45.55.61.7 'docker pull mesoscloud/chronos:2.3.4-ubuntu-14.04'\u001b[0m\r\n"
+    ],
+    [
+      0.060304,
+      "\u001b[1;39mnode-2 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000226,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.50.130 'docker pull mesoscloud/chronos:2.3.4-ubuntu-14.04'\u001b[0m\r\n"
+    ],
+    [
+      7.012882,
+      "2.3.4-ubuntu-14.04: Pulling from mesoscloud/chronos\r\n"
+    ],
+    [
+      0.000184,
+      "2.3.4-ubuntu-14.04: Pulling from mesoscloud/chronos\r\n"
+    ],
+    [
+      0.000012,
+      "2ad12773c725: Pulling fs layer\r\n264515c81b8b: Pulling fs layer\r\n"
+    ],
+    [
+      0.000237,
+      "3af6e852d0a1: Pulling fs layer\r\n3af6e852d0a1: Pulling fs layer\r\nd3a1f33e8a5a: Already exists\r\n"
+    ],
+    [
+      0.000370,
+      "c22013c84729: Already exists\r\nd74508fb6632: Already exists\r\n"
+    ],
+    [
+      0.000011,
+      "2ad12773c725: Pulling fs layer\r\n"
+    ],
+    [
+      0.000189,
+      "91e54dfb1179: Already exists\r\n"
+    ],
+    [
+      0.000052,
+      "264515c81b8b: Pulling fs layer\r\n3af6e852d0a1: Pulling fs layer\r\n"
+    ],
+    [
+      0.000108,
+      "3af6e852d0a1: Layer already being pulled by another client. Waiting.\r\n"
+    ],
+    [
+      0.000127,
+      "3af6e852d0a1: Pulling fs layer\r\nd3a1f33e8a5a: Already exists\r\nc22013c84729: Already exists\r\nd74508fb6632: Already exists\r\n91e54dfb1179: Already exists\r\n3af6e852d0a1: Layer already being pulled by another client. Waiting.\r\n"
+    ],
+    [
+      0.000024,
+      "2.3.4-ubuntu-14.04: Pulling from mesoscloud/chronos\r\n"
+    ],
+    [
+      0.000103,
+      "2ad12773c725: Pulling fs layer\r\n264515c81b8b: Pulling fs layer\r\n"
+    ],
+    [
+      0.000330,
+      "3af6e852d0a1: Pulling fs layer\r\n3af6e852d0a1: Pulling fs layer\r\nd3a1f33e8a5a: Already exists\r\n"
+    ],
+    [
+      0.000158,
+      "c22013c84729: Already exists\r\nd74508fb6632: Already exists\r\n91e54dfb1179: Already exists\r\n"
+    ],
+    [
+      0.000306,
+      "3af6e852d0a1: Layer already being pulled by another client. Waiting.\r\n"
+    ],
+    [
+      0.000044,
+      "3af6e852d0a1: Verifying Checksum\r\n3af6e852d0a1: Download complete\r\n"
+    ],
+    [
+      0.039053,
+      "264515c81b8b: Verifying Checksum\r\n264515c81b8b: Download complete\r\n"
+    ],
+    [
+      0.156325,
+      "3af6e852d0a1: Verifying Checksum\r\n3af6e852d0a1: Download complete\r\n264515c81b8b: Verifying Checksum\r\n264515c81b8b: Download complete\r\n"
+    ],
+    [
+      0.131678,
+      "3af6e852d0a1: Verifying Checksum\r\n3af6e852d0a1: Download complete\r\n"
+    ],
+    [
+      0.751790,
+      "264515c81b8b: Verifying Checksum\r\n264515c81b8b: Download complete\r\n"
+    ],
+    [
+      4.607408,
+      "2ad12773c725: "
+    ],
+    [
+      0.001342,
+      "Verifying Checksum\r\n2ad12773c725: Download complete\r\n"
+    ],
+    [
+      0.000266,
+      "2ad12773c725: Verifying Checksum\r\n2ad12773c725: Download complete\r\n"
+    ],
+    [
+      0.919261,
+      "2ad12773c725: Verifying Checksum\r\n"
+    ],
+    [
+      0.001300,
+      "2ad12773c725: Download complete\r\n"
+    ],
+    [
+      7.988060,
+      "2ad12773c725: Pull complete\r\n"
+    ],
+    [
+      0.001346,
+      "264515c81b8b: Pull complete\r\n3af6e852d0a1: Download complete\r\n"
+    ],
+    [
+      0.005328,
+      "3af6e852d0a1: Pull complete\r\n3af6e852d0a1: Already exists\r\n"
+    ],
+    [
+      0.009837,
+      "Digest: sha256:6b91615124a640fc1064b875e9416d37e1a9183176d0b19c9452ae37c389ba0e\r\n"
+    ],
+    [
+      0.030355,
+      "Status: Downloaded newer image for mesoscloud/chronos:2.3.4-ubuntu-14.04\r\n"
+    ],
+    [
+      1.181378,
+      "2ad12773c725: Pull complete\r\n"
+    ],
+    [
+      0.001474,
+      "2ad12773c725: Pull complete\r\n264515c81b8b: Pull complete\r\n3af6e852d0a1: Download complete\r\n3af6e852d0a1: Pull complete\r\n"
+    ],
+    [
+      0.000035,
+      "264515c81b8b: Pull complete\r\n3af6e852d0a1: Download complete\r\n3af6e852d0a1: Pull complete\r\n3af6e852d0a1: Already exists\r\nDigest: sha256:6b91615124a640fc1064b875e9416d37e1a9183176d0b19c9452ae37c389ba0e\r\n"
+    ],
+    [
+      0.000285,
+      "3af6e852d0a1: Already exists\r\n"
+    ],
+    [
+      0.000055,
+      "Digest: sha256:6b91615124a640fc1064b875e9416d37e1a9183176d0b19c9452ae37c389ba0e\r\n"
+    ],
+    [
+      0.001626,
+      "Status: Downloaded newer image for mesoscloud/chronos:2.3.4-ubuntu-14.04\r\n"
+    ],
+    [
+      0.000017,
+      "Status: Downloaded newer image for mesoscloud/chronos:2.3.4-ubuntu-14.04\r\n"
+    ],
+    [
+      0.489212,
+      "\u001b[1;39mnode-1 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000374,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.54.131 'docker run -d -e CHRONOS_HOSTNAME=10.132.63.163 -e CHRONOS_HTTP_ADDRESS=10.132.63.163 -e CHRONOS_HTTP_PORT=4400 -e CHRONOS_MASTER=zk://10.132.63.163:2181,10.132.63.159:2181,10.132.63.162:2181/mesos -e CHRONOS_ZK_HOSTS=10.132.63.163:2181,10.132.63.159:2181,10.132.63.162:2181 --name chronos --net host --restart always mesoscloud/chronos:2.3.4-ubuntu-14.04'\u001b[0m\r\n"
+    ],
+    [
+      0.443010,
+      "\u001b[1;39mnode-2 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000601,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.50.130 'docker run -d -e CHRONOS_HOSTNAME=10.132.63.159 -e CHRONOS_HTTP_ADDRESS=10.132.63.159 -e CHRONOS_HTTP_PORT=4400 -e CHRONOS_MASTER=zk://10.132.63.163:2181,10.132.63.159:2181,10.132.63.162:2181/mesos -e CHRONOS_ZK_HOSTS=10.132.63.163:2181,10.132.63.159:2181,10.132.63.162:2181 --name chronos --net host --restart always mesoscloud/chronos:2.3.4-ubuntu-14.04'\u001b[0m\r\n"
+    ],
+    [
+      0.431641,
+      "\u001b[1;39mnode-3 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000158,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.61.7 'docker run -d -e CHRONOS_HOSTNAME=10.132.63.162 -e CHRONOS_HTTP_ADDRESS=10.132.63.162 -e CHRONOS_HTTP_PORT=4400 -e CHRONOS_MASTER=zk://10.132.63.163:2181,10.132.63.159:2181,10.132.63.162:2181/mesos -e CHRONOS_ZK_HOSTS=10.132.63.163:2181,10.132.63.159:2181,10.132.63.162:2181 --name chronos --net host --restart always mesoscloud/chronos:2.3.4-ubuntu-14.04'\u001b[0m\r\n"
+    ],
+    [
+      4.427769,
+      "96929e5b46f48c6137cfe12df753962c716c867c5088dacff26706fe4137b706\r\n"
+    ],
+    [
+      0.448453,
+      "9dc1fb9e9dcc19b29dca2892651d7022d234ba6324692324a2aec2d95d2ddd25\r\n"
+    ],
+    [
+      0.151549,
+      "00729e34b17f7b949e834279dbf680df7640911d094d03c35ba599125c8a42d7\r\n"
+    ],
+    [
+      0.142975,
+      "\u001b[1;39mnode-1 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000043,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.54.131 'nc -vz 10.132.63.163 4400'\u001b[0m\r\n"
+    ],
+    [
+      4.764173,
+      "nc: connect to 10.132.63.163 port 4400 (tcp) failed: Connection refused\r\n"
+    ],
+    [
+      1.089181,
+      "\u001b[1;39mnode-1 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000030,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.54.131 'nc -vz 10.132.63.163 4400'\u001b[0m\r\n"
+    ],
+    [
+      5.127392,
+      "Connection to 10.132.63.163 4400 port [tcp/*] succeeded!\r\n"
+    ],
+    [
+      0.123208,
+      "\u001b[1;39mnode-2 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000037,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.50.130 'nc -vz 10.132.63.159 4400'\u001b[0m\r\n"
+    ],
+    [
+      7.007708,
+      "Connection to 10.132.63.159 4400 port [tcp/*] succeeded!\r\n"
+    ],
+    [
+      0.084750,
+      "\u001b[1;39mnode-3 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000047,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.61.7 'nc -vz 10.132.63.162 4400'\u001b[0m\r\n"
+    ],
+    [
+      6.640423,
+      "Connection to 10.132.63.162 4400 port [tcp/*] succeeded!\r\n"
+    ],
+    [
+      0.037516,
+      " _____________\r\n"
+    ],
+    [
+      0.000273,
+      "\u003c mesos-slave \u003e\r\n"
+    ],
+    [
+      0.033605,
+      " -------------\r\n"
+    ],
+    [
+      0.000042,
+      "\t\\   \u001b[0;36m^\u001b[0m__\u001b[0;36m^\u001b[0m\r\n"
+    ],
+    [
+      0.000026,
+      "\t \\  (oo)\\_______\r\n"
+    ],
+    [
+      0.000026,
+      "\t    (__)\\       )\\/\\\r\n"
+    ],
+    [
+      0.000032,
+      "\t\t||----w |\r\n"
+    ],
+    [
+      0.000008,
+      "\t\t||     ||\r\n"
+    ],
+    [
+      0.074049,
+      "\u001b[1;39mnode-1 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000290,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.54.131 'docker pull mesoscloud/mesos-slave:0.23.0-ubuntu-14.04'\u001b[0m\r\n"
+    ],
+    [
+      0.002914,
+      "\u001b[1;39mnode-3 droplet ssh\u001b[0m\r\n\u001b[0;36mssh -o BatchMode=yes root@45.55.61.7 'docker pull mesoscloud/mesos-slave:0.23.0-ubuntu-14.04'\u001b[0m\r\n"
+    ],
+    [
+      0.004250,
+      "\u001b[1;39mnode-2 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000334,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.50.130 'docker pull mesoscloud/mesos-slave:0.23.0-ubuntu-14.04'\u001b[0m\r\n"
+    ],
+    [
+      6.006378,
+      "0.23.0-ubuntu-14.04: Pulling from mesoscloud/mesos-slave\r\n1814ca050eae: Pulling fs layer\r\n039b8883d419: Pulling fs layer\r\nbf268b1e7300: Pulling fs layer\r\nc584e09851a0: Pulling fs layer\r\n64526482cb6a: Pulling fs layer\r\n20c5affbeb9b: Pulling fs layer\r\ne4000a6fcf6b: Pulling fs layer\r\nc138dacaa4f6: Pulling fs layer\r\nc138dacaa4f6: Pulling fs layer\r\nd3a1f33e8a5a: Already exists\r\n0.23.0-ubuntu-14.04: Pulling from mesoscloud/mesos-slave\r\n"
+    ],
+    [
+      0.000673,
+      "1814ca050eae: Pulling fs layer\r\n039b8883d419: Pulling fs layer\r\nbf268b1e7300: Pulling fs layer\r\nc584e09851a0: Pulling fs layer\r\n"
+    ],
+    [
+      0.000324,
+      "64526482cb6a: Pulling fs layer\r\n20c5affbeb9b: Pulling fs layer\r\ne4000a6fcf6b: Pulling fs layer\r\n"
+    ],
+    [
+      0.000145,
+      "c138dacaa4f6: Pulling fs layer\r\nc138dacaa4f6: Pulling fs layer\r\nd3a1f33e8a5a: Already exists\r\nc22013c84729: Already exists\r\nd74508fb6632: Already exists\r\n91e54dfb1179: Already exists\r\nc138dacaa4f6: Layer already being pulled by another client. Waiting.\r\n"
+    ],
+    [
+      0.555154,
+      "0.23.0-ubuntu-14.04: Pulling from mesoscloud/mesos-slave\r\n"
+    ],
+    [
+      0.001586,
+      "1814ca050eae: Pulling fs layer\r\n039b8883d419: Pulling fs layer\r\nbf268b1e7300: Pulling fs layer\r\nc584e09851a0: Pulling fs layer\r\n64526482cb6a: Pulling fs layer\r\n"
+    ],
+    [
+      0.000202,
+      "20c5affbeb9b: Pulling fs layer\r\ne4000a6fcf6b: Pulling fs layer\r\nc138dacaa4f6: Pulling fs layer\r\nc138dacaa4f6: Pulling fs layer\r\n"
+    ],
+    [
+      0.000010,
+      "c22013c84729: Already exists\r\nd74508fb6632: Already exists\r\n91e54dfb1179: Already exists\r\nc138dacaa4f6: Layer already being pulled by another client. Waiting.\r\nc584e09851a0: Verifying Checksum\r\nc584e09851a0: Download complete\r\n"
+    ],
+    [
+      0.001097,
+      "64526482cb6a: Verifying Checksum\r\n64526482cb6a: Download complete\r\nc584e09851a0: Verifying Checksum\r\nc584e09851a0: Download complete\r\nc138dacaa4f6: Verifying Checksum\r\nc138dacaa4f6: Download complete\r\ne4000a6fcf6b: Verifying Checksum\r\ne4000a6fcf6b: Download complete\r\n64526482cb6a: Verifying Checksum\r\n64526482cb6a: Download complete\r\nc138dacaa4f6: Verifying Checksum\r\nc138dacaa4f6: Download complete\r\n"
+    ],
+    [
+      0.000037,
+      "20c5affbeb9b: Verifying Checksum\r\n"
+    ],
+    [
+      0.000476,
+      "20c5affbeb9b: Download complete\r\ne4000a6fcf6b: Verifying Checksum\r\ne4000a6fcf6b: Download complete\r\n"
+    ],
+    [
+      0.006556,
+      "20c5affbeb9b: Verifying Checksum\r\n"
+    ],
+    [
+      0.002429,
+      "20c5affbeb9b: Download complete\r\n"
+    ],
+    [
+      0.603606,
+      "d3a1f33e8a5a: Already exists\r\nc22013c84729: Already exists\r\nd74508fb6632: Already exists\r\n91e54dfb1179: Already exists\r\nc138dacaa4f6: Layer already being pulled by another client. Waiting.\r\ne4000a6fcf6b: Verifying Checksum\r\ne4000a6fcf6b: Download complete\r\n20c5affbeb9b: Verifying Checksum\r\n20c5affbeb9b: Download complete\r\n64526482cb6a: Verifying Checksum\r\n64526482cb6a: Download complete\r\nc584e09851a0: Verifying Checksum\r\nc584e09851a0: Download complete\r\nc138dacaa4f6: Verifying Checksum\r\nc138dacaa4f6: Download complete\r\n"
+    ],
+    [
+      0.613048,
+      "bf268b1e7300: Verifying Checksum\r\nbf268b1e7300: Download complete\r\n"
+    ],
+    [
+      0.941054,
+      "1814ca050eae: "
+    ],
+    [
+      0.001411,
+      "Verifying Checksum\r\n1814ca050eae: Download complete\r\n"
+    ],
+    [
+      0.598922,
+      "1814ca050eae: "
+    ],
+    [
+      0.001015,
+      "Verifying Checksum\r\n1814ca050eae: Download complete\r\n"
+    ],
+    [
+      0.609319,
+      "1814ca050eae: Verifying Checksum\r\n"
+    ],
+    [
+      0.001094,
+      "1814ca050eae: Download complete\r\n"
+    ],
+    [
+      0.613068,
+      "1814ca050eae: Pull complete\r\n"
+    ],
+    [
+      0.155284,
+      "bf268b1e7300: Verifying Checksum\r\nbf268b1e7300: Download complete\r\n"
+    ],
+    [
+      0.178034,
+      "1814ca050eae: Pull complete\r\n"
+    ],
+    [
+      0.081914,
+      "bf268b1e7300: Verifying Checksum\r\n"
+    ],
+    [
+      0.003794,
+      "bf268b1e7300: Download complete\r\n"
+    ],
+    [
+      2.345740,
+      "039b8883d419: Verifying Checksum\r\n039b8883d419: Download complete\r\n"
+    ],
+    [
+      0.000154,
+      "039b8883d419: Verifying Checksum\r\n039b8883d419: Download complete\r\n"
+    ],
+    [
+      0.040223,
+      "1814ca050eae: Pull complete\r\n"
+    ],
+    [
+      1.494916,
+      "039b8883d419: Verifying Checksum\r\n"
+    ],
+    [
+      0.011096,
+      "039b8883d419: Download complete\r\n"
+    ],
+    [
+      8.448134,
+      "039b8883d419: Pull complete\r\n"
+    ],
+    [
+      1.417979,
+      "039b8883d419: Pull complete\r\n"
+    ],
+    [
+      0.117991,
+      "039b8883d419: Pull complete\r\n"
+    ],
+    [
+      1.046134,
+      "bf268b1e7300: Pull complete\r\n"
+    ],
+    [
+      0.027759,
+      "c584e09851a0: Pull complete\r\n"
+    ],
+    [
+      0.043968,
+      "64526482cb6a: Pull complete\r\n"
+    ],
+    [
+      0.029978,
+      "20c5affbeb9b: Pull complete\r\n"
+    ],
+    [
+      0.044025,
+      "e4000a6fcf6b: Pull complete\r\n"
+    ],
+    [
+      0.002622,
+      "c138dacaa4f6: Download complete\r\n"
+    ],
+    [
+      0.023616,
+      "c138dacaa4f6: Pull complete\r\nc138dacaa4f6: Already exists\r\n"
+    ],
+    [
+      0.003777,
+      "Digest: sha256:13685805edfb6cf8ce1ba10cedc62478b40ff2e24b2f4dbc7b5706bd776a63c4\r\n"
+    ],
+    [
+      0.038138,
+      "Status: Downloaded newer image for mesoscloud/mesos-slave:0.23.0-ubuntu-14.04\r\n"
+    ],
+    [
+      1.278227,
+      "bf268b1e7300: Pull complete\r\n"
+    ],
+    [
+      0.059149,
+      "c584e09851a0: Pull complete\r\n"
+    ],
+    [
+      0.020547,
+      "64526482cb6a: Pull complete\r\n"
+    ],
+    [
+      0.029872,
+      "20c5affbeb9b: Pull complete\r\n"
+    ],
+    [
+      0.028313,
+      "e4000a6fcf6b: Pull complete\r\n"
+    ],
+    [
+      0.003691,
+      "c138dacaa4f6: Download complete\r\n"
+    ],
+    [
+      0.025870,
+      "c138dacaa4f6: Pull complete\r\nc138dacaa4f6: Already exists\r\n"
+    ],
+    [
+      0.004014,
+      "Digest: sha256:13685805edfb6cf8ce1ba10cedc62478b40ff2e24b2f4dbc7b5706bd776a63c4\r\n"
+    ],
+    [
+      0.036318,
+      "Status: Downloaded newer image for mesoscloud/mesos-slave:0.23.0-ubuntu-14.04\r\n"
+    ],
+    [
+      0.524031,
+      "bf268b1e7300: Pull complete\r\n"
+    ],
+    [
+      0.035790,
+      "c584e09851a0: Pull complete\r\n"
+    ],
+    [
+      0.047285,
+      "64526482cb6a: Pull complete\r\n"
+    ],
+    [
+      0.065399,
+      "20c5affbeb9b: Pull complete\r\n"
+    ],
+    [
+      0.045590,
+      "e4000a6fcf6b: Pull complete\r\n"
+    ],
+    [
+      0.002551,
+      "c138dacaa4f6: Download complete\r\n"
+    ],
+    [
+      0.061282,
+      "c138dacaa4f6: Pull complete\r\nc138dacaa4f6: Already exists\r\n"
+    ],
+    [
+      0.005867,
+      "Digest: sha256:13685805edfb6cf8ce1ba10cedc62478b40ff2e24b2f4dbc7b5706bd776a63c4\r\n"
+    ],
+    [
+      0.048439,
+      "Status: Downloaded newer image for mesoscloud/mesos-slave:0.23.0-ubuntu-14.04\r\n"
+    ],
+    [
+      0.270671,
+      "\u001b[1;39mnode-1 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000398,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.54.131 'docker run -d -e MESOS_HOSTNAME=10.132.63.163 -e MESOS_IP=10.132.63.163 -e MESOS_MASTER=zk://10.132.63.163:2181,10.132.63.159:2181,10.132.63.162:2181/mesos -v /sys/fs/cgroup:/sys/fs/cgroup -v /var/run/docker.sock:/var/run/docker.sock --name slave --net host --privileged --restart always mesoscloud/mesos-slave:0.23.0-ubuntu-14.04'\u001b[0m\r\n"
+    ],
+    [
+      0.239300,
+      "\u001b[1;39mnode-2 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000301,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.50.130 'docker run -d -e MESOS_HOSTNAME=10.132.63.159 -e MESOS_IP=10.132.63.159 -e MESOS_MASTER=zk://10.132.63.163:2181,10.132.63.159:2181,10.132.63.162:2181/mesos -v /sys/fs/cgroup:/sys/fs/cgroup -v /var/run/docker.sock:/var/run/docker.sock --name slave --net host --privileged --restart always mesoscloud/mesos-slave:0.23.0-ubuntu-14.04'\u001b[0m\r\n"
+    ],
+    [
+      0.264687,
+      "\u001b[1;39mnode-3 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000137,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.61.7 'docker run -d -e MESOS_HOSTNAME=10.132.63.162 -e MESOS_IP=10.132.63.162 -e MESOS_MASTER=zk://10.132.63.163:2181,10.132.63.159:2181,10.132.63.162:2181/mesos -v /sys/fs/cgroup:/sys/fs/cgroup -v /var/run/docker.sock:/var/run/docker.sock --name slave --net host --privileged --restart always mesoscloud/mesos-slave:0.23.0-ubuntu-14.04'\u001b[0m\r\n"
+    ],
+    [
+      5.952605,
+      "d2163fe43caa28c7168f567bfebf2be496e9250658583d56b2d401d3f4037278\r\na34c5f15da5a1032c0c8882841a9afc7edb83f5a044490f84d838cb56223c29f\r\n"
+    ],
+    [
+      0.584170,
+      "746f36d6cc6cbd54a710ec92684f5fa40540c834dd5e03c84e041dd879821e1c\r\n"
+    ],
+    [
+      0.094657,
+      "\u001b[1;39mnode-1 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000071,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.54.131 'nc -vz 10.132.63.163 5051'\u001b[0m\r\n"
+    ],
+    [
+      6.048960,
+      "Connection to 10.132.63.163 5051 port [tcp/enbd-cstatd] succeeded!\r\n"
+    ],
+    [
+      0.090765,
+      "\u001b[1;39mnode-2 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000098,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.50.130 'nc -vz 10.132.63.159 5051'\u001b[0m\r\n"
+    ],
+    [
+      7.281890,
+      "Connection to 10.132.63.159 5051 port [tcp/enbd-cstatd] succeeded!\r\n"
+    ],
+    [
+      0.084778,
+      "\u001b[1;39mnode-3 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000032,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.61.7 'nc -vz 10.132.63.162 5051'\u001b[0m\r\n"
+    ],
+    [
+      7.185812,
+      "Connection to 10.132.63.162 5051 port [tcp/enbd-cstatd] succeeded!\r\n"
+    ],
+    [
+      0.032703,
+      " _________\r\n"
+    ],
+    [
+      0.000010,
+      "\u003c haproxy \u003e\r\n"
+    ],
+    [
+      0.037222,
+      " ---------\r\n"
+    ],
+    [
+      0.000156,
+      "\t\\   \u001b[0;36m^\u001b[0m__\u001b[0;36m^\u001b[0m\r\n\t \\  (oo)\\_______\r\n\t    (__)\\       )\\/\\\r\n"
+    ],
+    [
+      0.000007,
+      "\t\t||----w |\r\n"
+    ],
+    [
+      0.000015,
+      "\t\t||     ||\r\n"
+    ],
+    [
+      0.085337,
+      "\u001b[1;39mnode-2 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000089,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.50.130 'docker pull mesoscloud/haproxy:1.5.14-ubuntu-14.04'\u001b[0m\r\n"
+    ],
+    [
+      0.007369,
+      "\u001b[1;39mnode-1 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000290,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.54.131 'docker pull mesoscloud/haproxy:1.5.14-ubuntu-14.04'\u001b[0m\r\n"
+    ],
+    [
+      0.007979,
+      "\u001b[1;39mnode-3 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000126,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.61.7 'docker pull mesoscloud/haproxy:1.5.14-ubuntu-14.04'\u001b[0m\r\n"
+    ],
+    [
+      7.313466,
+      "1.5.14-ubuntu-14.04: Pulling from mesoscloud/haproxy\r\n"
+    ],
+    [
+      0.002653,
+      "f27a8a6fc7d0: Pulling fs layer\r\n"
+    ],
+    [
+      0.024789,
+      "1.5.14-ubuntu-14.04: Pulling from mesoscloud/haproxy\r\n"
+    ],
+    [
+      0.000015,
+      "ba4451160622: Pulling fs layer\r\ne96566124a13: Pulling fs layer\r\n1cdd40093d86: Pulling fs layer\r\nf6352ee0a567: Pulling fs layer\r\nf6352ee0a567: Pulling fs layer\r\nd3a1f33e8a5a: Already exists\r\nc22013c84729: Already exists\r\nd74508fb6632: Already exists\r\n91e54dfb1179: Already exists\r\n"
+    ],
+    [
+      0.000216,
+      "f27a8a6fc7d0: Pulling fs layer\r\nba4451160622: Pulling fs layer\r\ne96566124a13: Pulling fs layer\r\n"
+    ],
+    [
+      0.000011,
+      "1cdd40093d86: Pulling fs layer\r\nf6352ee0a567: Pulling fs layer\r\n"
+    ],
+    [
+      0.000961,
+      "f6352ee0a567: Pulling fs layer\r\n"
+    ],
+    [
+      0.030796,
+      "1.5.14-ubuntu-14.04: Pulling from mesoscloud/haproxy\r\n"
+    ],
+    [
+      0.006276,
+      "f27a8a6fc7d0: Pulling fs layer\r\nba4451160622: Pulling fs layer\r\n"
+    ],
+    [
+      0.000267,
+      "e96566124a13: Pulling fs layer\r\n"
+    ],
+    [
+      0.005316,
+      "1cdd40093d86: Pulling fs layer\r\nf6352ee0a567: Pulling fs layer\r\nf6352ee0a567: Pulling fs layer\r\n"
+    ],
+    [
+      0.531562,
+      "f6352ee0a567: Layer already being pulled by another client. Waiting.\r\n"
+    ],
+    [
+      0.001456,
+      "d3a1f33e8a5a: Already exists\r\nc22013c84729: Already exists\r\nd74508fb6632: Already exists\r\n91e54dfb1179: Already exists\r\nf6352ee0a567: Layer already being pulled by another client. Waiting.\r\nd3a1f33e8a5a: Already exists\r\nc22013c84729: Already exists\r\nd74508fb6632: Already exists\r\n91e54dfb1179: Already exists\r\nf6352ee0a567: Layer already being pulled by another client. Waiting.\r\n"
+    ],
+    [
+      0.036601,
+      "f6352ee0a567: Verifying Checksum\r\nf6352ee0a567: Download complete\r\n"
+    ],
+    [
+      0.029097,
+      "1cdd40093d86: Verifying Checksum\r\n"
+    ],
+    [
+      0.002866,
+      "1cdd40093d86: Download complete\r\n"
+    ],
+    [
+      0.045580,
+      "f6352ee0a567: Verifying Checksum\r\nf6352ee0a567: Download complete\r\n"
+    ],
+    [
+      0.025168,
+      "f6352ee0a567: Verifying Checksum\r\n"
+    ],
+    [
+      0.002427,
+      "f6352ee0a567: Download complete\r\n"
+    ],
+    [
+      0.013745,
+      "1cdd40093d86: Verifying Checksum\r\n1cdd40093d86: Download complete\r\n"
+    ],
+    [
+      0.094365,
+      "e96566124a13: "
+    ],
+    [
+      0.000027,
+      "Verifying Checksum\r\ne96566124a13: "
+    ],
+    [
+      0.001073,
+      "Download complete\r\n"
+    ],
+    [
+      0.002280,
+      "e96566124a13: Verifying Checksum\r\ne96566124a13: Download complete\r\n"
+    ],
+    [
+      0.016165,
+      "e96566124a13: Verifying Checksum\r\ne96566124a13: Download complete\r\n"
+    ],
+    [
+      0.070366,
+      "ba4451160622: Verifying Checksum\r\nba4451160622: Download complete\r\n"
+    ],
+    [
+      0.008030,
+      "1cdd40093d86: Verifying Checksum\r\n"
+    ],
+    [
+      0.002403,
+      "1cdd40093d86: Download complete\r\n"
+    ],
+    [
+      0.672431,
+      "ba4451160622: Verifying Checksum\r\n"
+    ],
+    [
+      0.001494,
+      "ba4451160622: Download complete\r\n"
+    ],
+    [
+      0.193419,
+      "ba4451160622: Verifying Checksum\r\n"
+    ],
+    [
+      0.002578,
+      "ba4451160622: Download complete\r\n"
+    ],
+    [
+      2.758951,
+      "f27a8a6fc7d0: "
+    ],
+    [
+      0.004352,
+      "Verifying Checksum\r\nf27a8a6fc7d0: "
+    ],
+    [
+      0.000166,
+      "Download complete\r\n"
+    ],
+    [
+      1.492562,
+      "f27a8a6fc7d0: Verifying Checksum\r\nf27a8a6fc7d0: Download complete\r\n"
+    ],
+    [
+      4.353117,
+      "f27a8a6fc7d0: Verifying Checksum\r\nf27a8a6fc7d0: "
+    ],
+    [
+      0.001299,
+      "Download complete\r\n"
+    ],
+    [
+      2.456309,
+      "f27a8a6fc7d0: Pull complete\r\n"
+    ],
+    [
+      0.001798,
+      "ba4451160622: Pull complete\r\n"
+    ],
+    [
+      0.305501,
+      "e96566124a13: Pull complete\r\n"
+    ],
+    [
+      0.001631,
+      "1cdd40093d86: Pull complete\r\nf6352ee0a567: Download complete\r\nf6352ee0a567: Pull complete\r\nf6352ee0a567: Already exists\r\nDigest: sha256:efd43f0ba0c3f540cb6fdbd2f8f8bb7c8203bd11ec3f9481189bfa3f170fb93e\r\nStatus: Downloaded newer image for mesoscloud/haproxy:1.5.14-ubuntu-14.04\r\n"
+    ],
+    [
+      0.017570,
+      "f27a8a6fc7d0: Pull complete\r\n"
+    ],
+    [
+      0.596750,
+      "ba4451160622: Pull complete\r\ne96566124a13: Pull complete\r\n"
+    ],
+    [
+      0.053303,
+      "1cdd40093d86: Pull complete\r\n"
+    ],
+    [
+      0.003808,
+      "f6352ee0a567: Download complete\r\n"
+    ],
+    [
+      0.032218,
+      "f6352ee0a567: Pull complete\r\n"
+    ],
+    [
+      0.002440,
+      "f6352ee0a567: Already exists\r\n"
+    ],
+    [
+      0.001066,
+      "Digest: sha256:efd43f0ba0c3f540cb6fdbd2f8f8bb7c8203bd11ec3f9481189bfa3f170fb93e\r\n"
+    ],
+    [
+      0.016404,
+      "Status: Downloaded newer image for mesoscloud/haproxy:1.5.14-ubuntu-14.04\r\n"
+    ],
+    [
+      4.190480,
+      "f27a8a6fc7d0: Pull complete\r\n"
+    ],
+    [
+      0.071514,
+      "ba4451160622: Pull complete\r\n"
+    ],
+    [
+      0.173925,
+      "e96566124a13: Pull complete\r\n"
+    ],
+    [
+      0.054339,
+      "1cdd40093d86: Pull complete\r\nf6352ee0a567: Download complete\r\n"
+    ],
+    [
+      0.023845,
+      "f6352ee0a567: Pull complete\r\nf6352ee0a567: Already exists\r\n"
+    ],
+    [
+      0.002537,
+      "Digest: sha256:efd43f0ba0c3f540cb6fdbd2f8f8bb7c8203bd11ec3f9481189bfa3f170fb93e\r\n"
+    ],
+    [
+      0.072437,
+      "Status: Downloaded newer image for mesoscloud/haproxy:1.5.14-ubuntu-14.04\r\n"
+    ],
+    [
+      0.118032,
+      "\u001b[1;39mnode-1 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000224,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.54.131 'docker run -d -e ZK=10.132.63.163:2181 --name haproxy --net host --privileged --restart always mesoscloud/haproxy:1.5.14-ubuntu-14.04'\u001b[0m\r\n"
+    ],
+    [
+      0.057720,
+      "\u001b[1;39mnode-2 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000151,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.50.130 'docker run -d -e ZK=10.132.63.159:2181 --name haproxy --net host --privileged --restart always mesoscloud/haproxy:1.5.14-ubuntu-14.04'\u001b[0m\r\n"
+    ],
+    [
+      0.038149,
+      "\u001b[1;39mnode-3 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000122,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.61.7 'docker run -d -e ZK=10.132.63.162:2181 --name haproxy --net host --privileged --restart always mesoscloud/haproxy:1.5.14-ubuntu-14.04'\u001b[0m\r\n"
+    ],
+    [
+      7.069420,
+      "6716b90896e6aabd65b9ef9344245a82c999f336760375a7742416e326c100d7\r\n1fee01aeca92e6b44eeed207188ded9ef872d745870a723001c2cd492393c149\r\n92e8e648172a9323a0f8a6c6d91402a95fdb3ddc74141445c06d6bcf245f81a8\r\n"
+    ],
+    [
+      0.036531,
+      " __________________\r\n"
+    ],
+    [
+      0.000030,
+      "\u003c haproxy-marathon \u003e\r\n"
+    ],
+    [
+      0.040525,
+      " ------------------\r\n"
+    ],
+    [
+      0.000095,
+      "\t\\   \u001b[0;36m^\u001b[0m__\u001b[0;36m^\u001b[0m\r\n"
+    ],
+    [
+      0.000024,
+      "\t \\  (oo)\\_______\r\n"
+    ],
+    [
+      0.000066,
+      "\t    (__)\\       )\\/\\\r\n"
+    ],
+    [
+      0.000017,
+      "\t\t||----w |\r\n"
+    ],
+    [
+      0.000034,
+      "\t\t||     ||\r\n"
+    ],
+    [
+      0.083067,
+      "\u001b[1;39mnode-2 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000176,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.50.130 'docker pull mesoscloud/haproxy-marathon:0.1.0'\u001b[0m\r\n"
+    ],
+    [
+      0.061693,
+      "\u001b[1;39mnode-1 droplet ssh\u001b[0m\r\n\u001b[1;39mnode-3 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000140,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.54.131 'docker pull mesoscloud/haproxy-marathon:0.1.0'\u001b[0m\r\n\u001b[0;36mssh -o BatchMode=yes root@45.55.61.7 'docker pull mesoscloud/haproxy-marathon:0.1.0'\u001b[0m\r\n"
+    ],
+    [
+      6.840839,
+      "0.1.0: Pulling from mesoscloud/haproxy-marathon\r\n"
+    ],
+    [
+      0.001349,
+      "32e7360bd4d2: Pulling fs layer\r\n4ba23167c24a: Pulling fs layer\r\nf7dc70ccc076: Pulling fs layer\r\ndc970d12fe59: Pulling fs layer\r\ndc970d12fe59: Pulling fs layer\r\n2c49f83e0b13: Already exists\r\n4a5e6db8c069: Already exists\r\nf972ade4c9d5: Already exists\r\na0b6d62d8b49: Already exists\r\n632ab7f4c419: Already exists\r\n1c04d6fe21b4: Already exists\r\n47fcf413db9e: Already exists\r\n0755cc4f5fef: Already exists\r\n1a7733a5d67f: Already exists\r\n0ef819edf22c: Already exists\r\n22ed2e1339d3: Already exists\r\nb324322c68fa: Already exists\r\nbe6d50826889: Already exists\r\nf2301886432b: Already exists\r\n20b48ad163c9: Already exists\r\nd4609f7b3c41: Already exists\r\na86ad711ad4c: Already exists\r\nebe3b69dba50: Already exists\r\n"
+    ],
+    [
+      0.000312,
+      "dc970d12fe59: Layer already being pulled by another client. Waiting.\r\n"
+    ],
+    [
+      0.000013,
+      "0.1.0: Pulling from mesoscloud/haproxy-marathon\r\n32e7360bd4d2: Pulling fs layer\r\n4ba23167c24a: Pulling fs layer\r\nf7dc70ccc076: Pulling fs layer\r\n"
+    ],
+    [
+      0.000101,
+      "dc970d12fe59: Pulling fs layer\r\ndc970d12fe59: Pulling fs layer\r\n2c49f83e0b13: Already exists\r\n4a5e6db8c069: Already exists\r\nf972ade4c9d5: Already exists\r\na0b6d62d8b49: Already exists\r\n632ab7f4c419: Already exists\r\n1c04d6fe21b4: Already exists\r\n47fcf413db9e: Already exists\r\n0755cc4f5fef: Already exists\r\n1a7733a5d67f: Already exists\r\n0ef819edf22c: Already exists\r\n22ed2e1339d3: Already exists\r\nb324322c68fa: Already exists\r\nbe6d50826889: Already exists\r\nf2301886432b: Already exists\r\n20b48ad163c9: Already exists\r\nd4609f7b3c41: Already exists\r\na86ad711ad4c: Already exists\r\nebe3b69dba50: Already exists\r\n"
+    ],
+    [
+      0.000798,
+      "dc970d12fe59: Layer already being pulled by another client. Waiting.\r\n"
+    ],
+    [
+      0.000016,
+      "0.1.0: Pulling from mesoscloud/haproxy-marathon\r\n32e7360bd4d2: Pulling fs layer\r\n4ba23167c24a: Pulling fs layer\r\nf7dc70ccc076: Pulling fs layer\r\ndc970d12fe59: Pulling fs layer\r\n"
+    ],
+    [
+      0.000221,
+      "dc970d12fe59: Pulling fs layer\r\n2c49f83e0b13: Already exists\r\n4a5e6db8c069: Already exists\r\nf972ade4c9d5: "
+    ],
+    [
+      0.000579,
+      "Already exists\r\na0b6d62d8b49: Already exists\r\n632ab7f4c419: Already exists\r\n"
+    ],
+    [
+      0.148682,
+      "dc970d12fe59: Verifying Checksum\r\ndc970d12fe59: Download complete\r\n"
+    ],
+    [
+      0.057788,
+      "dc970d12fe59: Verifying Checksum\r\ndc970d12fe59: Download complete\r\n"
+    ],
+    [
+      0.133966,
+      "1c04d6fe21b4: Already exists\r\n47fcf413db9e: Already exists\r\n0755cc4f5fef: Already exists\r\n1a7733a5d67f: Already exists\r\n0ef819edf22c: Already exists\r\n22ed2e1339d3: Already exists\r\nb324322c68fa: Already exists\r\nbe6d50826889: Already exists\r\nf2301886432b: Already exists\r\n20b48ad163c9: Already exists\r\nd4609f7b3c41: Already exists\r\na86ad711ad4c: Already exists\r\nebe3b69dba50: Already exists\r\ndc970d12fe59: Layer already being pulled by another client. Waiting.\r\n"
+    ],
+    [
+      0.007411,
+      "32e7360bd4d2: Verifying Checksum\r\n32e7360bd4d2: Download complete\r\n"
+    ],
+    [
+      0.016954,
+      "32e7360bd4d2: Verifying Checksum\r\n32e7360bd4d2: Download complete\r\n"
+    ],
+    [
+      0.009533,
+      "f7dc70ccc076: Verifying Checksum\r\nf7dc70ccc076: Download complete\r\n"
+    ],
+    [
+      0.024109,
+      "32e7360bd4d2: Pull complete\r\n"
+    ],
+    [
+      0.007866,
+      "32e7360bd4d2: Pull complete\r\n"
+    ],
+    [
+      0.062107,
+      "f7dc70ccc076: Verifying Checksum\r\nf7dc70ccc076: Download complete\r\n"
+    ],
+    [
+      0.034194,
+      "32e7360bd4d2: Verifying Checksum\r\n"
+    ],
+    [
+      0.000015,
+      "32e7360bd4d2: Download complete\r\n"
+    ],
+    [
+      0.045762,
+      "32e7360bd4d2: Pull complete\r\n"
+    ],
+    [
+      0.039953,
+      "dc970d12fe59: Verifying Checksum\r\ndc970d12fe59: Download complete\r\n"
+    ],
+    [
+      0.080832,
+      "f7dc70ccc076: Verifying Checksum\r\n"
+    ],
+    [
+      0.000040,
+      "f7dc70ccc076: Download complete\r\n"
+    ],
+    [
+      0.083643,
+      "4ba23167c24a: Verifying Checksum\r\n"
+    ],
+    [
+      0.000056,
+      "4ba23167c24a: "
+    ],
+    [
+      0.000007,
+      "Download complete\r\n"
+    ],
+    [
+      0.000715,
+      "4ba23167c24a: "
+    ],
+    [
+      0.002031,
+      "Verifying Checksum\r\n"
+    ],
+    [
+      0.031206,
+      "4ba23167c24a: Download complete\r\n"
+    ],
+    [
+      0.005569,
+      "4ba23167c24a: Verifying Checksum\r\n4ba23167c24a: Download complete\r\n"
+    ],
+    [
+      0.476647,
+      "4ba23167c24a: Pull complete\r\n"
+    ],
+    [
+      0.002345,
+      "f7dc70ccc076: Pull complete\r\n4ba23167c24a: Pull complete\r\ndc970d12fe59: Download complete\r\nf7dc70ccc076: Pull complete\r\n4ba23167c24a: Pull complete\r\ndc970d12fe59: Download complete\r\n"
+    ],
+    [
+      0.000022,
+      "dc970d12fe59: Pull complete\r\ndc970d12fe59: Already exists\r\n"
+    ],
+    [
+      0.000147,
+      "Digest: sha256:c7a029acc8e1aeca8426c996d5035e0e797ff54f8d8390c5ed72184ff42dbf9f\r\nStatus: Downloaded newer image for mesoscloud/haproxy-marathon:0.1.0\r\n"
+    ],
+    [
+      0.000928,
+      "f7dc70ccc076: Pull complete\r\n"
+    ],
+    [
+      0.002484,
+      "dc970d12fe59: Download complete\r\n"
+    ],
+    [
+      0.021401,
+      "dc970d12fe59: Pull complete\r\ndc970d12fe59: Already exists\r\n"
+    ],
+    [
+      0.005996,
+      "Digest: sha256:c7a029acc8e1aeca8426c996d5035e0e797ff54f8d8390c5ed72184ff42dbf9f\r\nStatus: Downloaded newer image for mesoscloud/haproxy-marathon:0.1.0\r\n"
+    ],
+    [
+      0.006560,
+      "dc970d12fe59: Pull complete\r\n"
+    ],
+    [
+      0.002565,
+      "dc970d12fe59: Already exists\r\n"
+    ],
+    [
+      0.005083,
+      "Digest: sha256:c7a029acc8e1aeca8426c996d5035e0e797ff54f8d8390c5ed72184ff42dbf9f\r\nStatus: Downloaded newer image for mesoscloud/haproxy-marathon:0.1.0\r\n"
+    ],
+    [
+      0.213716,
+      "\u001b[1;39mnode-1 droplet ssh\u001b[0m\r\n\u001b[0;36mssh -o BatchMode=yes root@45.55.54.131 'docker run -d -e MARATHON=10.132.63.163:8080 -e ZK=10.132.63.163:2181 --name haproxy-marathon --net host --restart always mesoscloud/haproxy-marathon:0.1.0'\u001b[0m\r\n"
+    ],
+    [
+      0.127347,
+      "\u001b[1;39mnode-2 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000239,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.50.130 'docker run -d -e MARATHON=10.132.63.159:8080 -e ZK=10.132.63.159:2181 --name haproxy-marathon --net host --restart always mesoscloud/haproxy-marathon:0.1.0'\u001b[0m\r\n"
+    ],
+    [
+      0.118100,
+      "\u001b[1;39mnode-3 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000153,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.61.7 'docker run -d -e MARATHON=10.132.63.162:8080 -e ZK=10.132.63.162:2181 --name haproxy-marathon --net host --restart always mesoscloud/haproxy-marathon:0.1.0'\u001b[0m\r\n"
+    ],
+    [
+      3.578567,
+      "050ee70cf15017bb415e13b14000031e6be80de11b967bab02bc6c74c39e31b8\r\n"
+    ],
+    [
+      0.119856,
+      "1bcbe926f91ad140f8e85483008e8a985a51bbaad2652940be0a19cc90723dc1\r\n"
+    ],
+    [
+      0.176194,
+      "7944c8e654928cb750b56ec8e443b1afdcd68672d317f27052085bd336bf75ca\r\n"
+    ],
+    [
+      0.105330,
+      " _______________________\r\n"
+    ],
+    [
+      0.000104,
+      "\u003c elasticsearch-curator \u003e\r\n"
+    ],
+    [
+      0.036965,
+      " -----------------------\r\n\t\\   \u001b[0;36m^\u001b[0m__\u001b[0;36m^\u001b[0m\r\n"
+    ],
+    [
+      0.000031,
+      "\t \\  (oo)\\_______\r\n\t    (__)\\       )\\/\\\r\n\t\t||----w |\r\n\t\t||     ||\r\n"
+    ],
+    [
+      6.525907,
+      "\rjob.json                                                      0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000025,
+      "\rjob.json                                                    100%  311     0.3KB/s   00:00    \r\n"
+    ],
+    [
+      1.318470,
+      "\u001b[1;39mnode-3 droplet ssh\u001b[0m\r\n"
+    ],
+    [
+      0.000417,
+      "\u001b[0;36mssh -o BatchMode=yes root@45.55.54.131 'curl -L -H \"Content-Type: application/json\" -X POST -d @job.json 10.132.63.163:4400/scheduler/iso8601'\u001b[0m\r\n"
+    ],
+    [
+      5.714076,
+      "  % "
+    ],
+    [
+      0.000021,
+      "Tota"
+    ],
+    [
+      0.000245,
+      "l"
+    ],
+    [
+      0.612845,
+      "    % Received % Xferd  Av"
+    ],
+    [
+      0.001277,
+      "erage Speed   Time    Time     Time  Current\r\n         "
+    ],
+    [
+      0.000339,
+      "                        Dload  Upload   Total   Spent"
+    ],
+    [
+      0.000147,
+      "    Left  Speed\r\n\r  0     0 "
+    ],
+    [
+      0.000323,
+      "   0     0    0     0     "
+    ],
+    [
+      0.000230,
+      " 0      0 --:--:-- --:--:-- --:--:--     0\r100   300    0     0  100   300      0    537 --:--:-- --:--:-- --:--:--   538\r\n"
+    ],
+    [
+      0.004804,
+      "\u001b[1;39mnode-1 droplet summary\u001b[0m\r\n"
+    ],
+    [
+      0.692413,
+      "name            node-1\r\nid              6786652\r\nstatus          active\r\nsize            4096 MB, 2 CPU, 60 GB\r\nregion          New York 3\r\nimage           Ubuntu 14.04 x64\r\nkernel          3.13.0-57-generic\r\naddress public  45.55.54.131\r\naddress private 10.132.63.163\r\n"
+    ],
+    [
+      0.002745,
+      "\u001b[1;39mnode-2 droplet summary\u001b[0m\r\n"
+    ],
+    [
+      0.716092,
+      "name            node-2\r\nid              6786653\r\nstatus          active\r\nsize            4096 MB, 2 CPU, 60 GB\r\nregion          New York 3\r\nimage           Ubuntu 14.04 x64\r\nkernel          3.13.0-57-generic\r\naddress public  45.55.50.130\r\naddress private 10.132.63.159\r\n"
+    ],
+    [
+      0.002763,
+      "\u001b[1;39mnode-3 droplet summary\u001b[0m\r\n"
+    ],
+    [
+      0.703676,
+      "name            node-3\r\nid              6786654\r\nstatus          active\r\nsize            4096 MB, 2 CPU, 60 GB\r\nregion          New York 3\r\nimage           Ubuntu 14.04 x64\r\nkernel          3.13.0-57-generic\r\naddress public  45.55.61.7\r\naddress private 10.132.63.162\r\n"
+    ],
+    [
+      0.000731,
+      "\r\n"
+    ],
+    [
+      0.029737,
+      " __________________________________________\r\n"
+    ],
+    [
+      0.000042,
+      "\u003c It's time to connect to your mesoscloud! \u003e\r\n"
+    ],
+    [
+      0.042110,
+      " ------------------------------------------\r\n"
+    ],
+    [
+      0.000304,
+      "\t\\   \u001b[0;36m^\u001b[0m__\u001b[0;36m^\u001b[0m\r\n\t \\  (oo)\\_______\r\n\t    (__)\\       )\\/\\\r\n\t\t||----w |\r\n\t\t||     ||\r\n"
+    ],
+    [
+      0.000356,
+      "\r\n"
+    ],
+    [
+      0.002906,
+      "\u001b[1;39mSSH example:\u001b[0m\r\n"
+    ],
+    [
+      0.002315,
+      "\r\n"
+    ],
+    [
+      0.249146,
+      "ssh -L 5050:10.132.63.163:5050 -L 8080:10.132.63.163:8080 -L 4400:10.132.63.163:4400 -L 9200:10.132.63.163:9200 root@45.55.54.131\r\n"
+    ],
+    [
+      0.000033,
+      "\r\n"
+    ],
+    [
+      0.000126,
+      "Note, you may need to substitute private addresses depending on which node is the current mesos master / leader.\r\n"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000061,
+      "open http://localhost:5050  # Mesos\r\n"
+    ],
+    [
+      0.000052,
+      "open http://localhost:8080  # Marathon\r\n"
+    ],
+    [
+      0.000049,
+      "open http://localhost:4400  # Chronos\r\n"
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.001009,
+      "$ "
+    ],
+    [
+      47.930802,
+      "exit\r\n"
+    ]
+  ]
+}
