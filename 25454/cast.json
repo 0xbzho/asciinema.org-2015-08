@@ -1,0 +1,3714 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 25,
+  "duration": 141.782583,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.006504,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000006,
+      "bash-3.2$ "
+    ],
+    [
+      0.687839,
+      "g"
+    ],
+    [
+      0.191376,
+      "i"
+    ],
+    [
+      0.119804,
+      "t"
+    ],
+    [
+      0.304551,
+      " "
+    ],
+    [
+      0.200012,
+      "g"
+    ],
+    [
+      0.159891,
+      "i"
+    ],
+    [
+      0.119987,
+      "t"
+    ],
+    [
+      0.112033,
+      "h"
+    ],
+    [
+      0.160188,
+      "u"
+    ],
+    [
+      0.183838,
+      "b"
+    ],
+    [
+      0.391923,
+      "-"
+    ],
+    [
+      0.160164,
+      "r"
+    ],
+    [
+      0.168087,
+      "e"
+    ],
+    [
+      0.223692,
+      "f"
+    ],
+    [
+      0.240013,
+      "l"
+    ],
+    [
+      0.192094,
+      "o"
+    ],
+    [
+      0.215935,
+      "g"
+    ],
+    [
+      0.200042,
+      " "
+    ],
+    [
+      0.296046,
+      "-"
+    ],
+    [
+      0.239999,
+      "h"
+    ],
+    [
+      0.384049,
+      "\r\n"
+    ],
+    [
+      0.164111,
+      "usage: git-github-reflog [-h] [--naughty] [--events] [--desc]\r\n\r\noptional arguments:\r\n  -h, --help  show this help message and exit\r\n  --naughty   Ignore Github's requested poll-interval (naughty naughty)\r\n  --events    List supported events\r\n  --desc      Display helpful descriptions in the event log\r\n"
+    ],
+    [
+      0.006737,
+      "bash-3.2$ "
+    ],
+    [
+      1.220902,
+      "g"
+    ],
+    [
+      0.168336,
+      "i"
+    ],
+    [
+      0.111862,
+      "t"
+    ],
+    [
+      0.119858,
+      " "
+    ],
+    [
+      0.279829,
+      "c"
+    ],
+    [
+      0.080306,
+      "l"
+    ],
+    [
+      0.151943,
+      "o"
+    ],
+    [
+      0.175916,
+      "n"
+    ],
+    [
+      0.119916,
+      "e"
+    ],
+    [
+      0.144057,
+      " "
+    ],
+    [
+      0.836462,
+      "h"
+    ],
+    [
+      0.000006,
+      "t"
+    ],
+    [
+      0.000003,
+      "t"
+    ],
+    [
+      0.000022,
+      "ps"
+    ],
+    [
+      0.000006,
+      ":/"
+    ],
+    [
+      0.000025,
+      "/g"
+    ],
+    [
+      0.000005,
+      "i"
+    ],
+    [
+      0.000003,
+      "t"
+    ],
+    [
+      0.000021,
+      "hu"
+    ],
+    [
+      0.000004,
+      "b"
+    ],
+    [
+      0.000011,
+      "."
+    ],
+    [
+      0.000003,
+      "c"
+    ],
+    [
+      0.000017,
+      "o"
+    ],
+    [
+      0.000004,
+      "m"
+    ],
+    [
+      0.000011,
+      "/"
+    ],
+    [
+      0.000003,
+      "t"
+    ],
+    [
+      0.000017,
+      "w"
+    ],
+    [
+      0.000004,
+      "b"
+    ],
+    [
+      0.000021,
+      "s/"
+    ],
+    [
+      0.000008,
+      "b"
+    ],
+    [
+      0.000022,
+      "oo"
+    ],
+    [
+      0.000007,
+      "t"
+    ],
+    [
+      0.000022,
+      "st"
+    ],
+    [
+      0.000014,
+      "r"
+    ],
+    [
+      0.000004,
+      "a"
+    ],
+    [
+      0.000014,
+      "p"
+    ],
+    [
+      0.000012,
+      "."
+    ],
+    [
+      0.000010,
+      "g"
+    ],
+    [
+      0.000012,
+      "i"
+    ],
+    [
+      0.000011,
+      "t"
+    ],
+    [
+      1.795403,
+      "\r\n"
+    ],
+    [
+      0.004858,
+      "Cloning into 'bootstrap'...\r\n"
+    ],
+    [
+      1.081768,
+      "remote: Counting objects: 84029, done.\u001b[K\r\nremote: Compressing objects:  25% (1/4)   \u001b[K\rremote: Compressing objects:  50% (2/4)   \u001b[K\rremote: Compressing objects:  75% (3/4)   \u001b[K\rremote: Compressing objects: 100% (4/4)   \u001b[K\rremote: Compressing objects: 100% (4/4), done.\u001b[K\r\n"
+    ],
+    [
+      0.005880,
+      "Receiving objects:   0% (1/84029)   \r"
+    ],
+    [
+      0.081603,
+      "Receiving objects:   1% (841/84029)   \r"
+    ],
+    [
+      0.068024,
+      "Receiving objects:   2% (1681/84029)   \r"
+    ],
+    [
+      0.065165,
+      "Receiving objects:   3% (2521/84029)   \r"
+    ],
+    [
+      0.133032,
+      "Receiving objects:   4% (3362/84029)   \r"
+    ],
+    [
+      0.061358,
+      "Receiving objects:   5% (4202/84029)   \r"
+    ],
+    [
+      0.043964,
+      "Receiving objects:   6% (5042/84029)   \r"
+    ],
+    [
+      0.042093,
+      "Receiving objects:   7% (5883/84029)   \r"
+    ],
+    [
+      0.039733,
+      "Receiving objects:   8% (6723/84029), 1.16 MiB | 2.30 MiB/s   \r"
+    ],
+    [
+      0.033245,
+      "Receiving objects:   9% (7563/84029), 1.16 MiB | 2.30 MiB/s   \r"
+    ],
+    [
+      0.035995,
+      "Receiving objects:  10% (8403/84029), 1.16 MiB | 2.30 MiB/s   \r"
+    ],
+    [
+      0.028607,
+      "Receiving objects:  11% (9244/84029), 1.16 MiB | 2.30 MiB/s   \r"
+    ],
+    [
+      0.027277,
+      "Receiving objects:  12% (10084/84029), 1.16 MiB | 2.30 MiB/s   \r"
+    ],
+    [
+      0.029588,
+      "Receiving objects:  13% (10924/84029), 1.16 MiB | 2.30 MiB/s   \r"
+    ],
+    [
+      0.027168,
+      "Receiving objects:  14% (11765/84029), 1.16 MiB | 2.30 MiB/s   \r"
+    ],
+    [
+      0.024770,
+      "Receiving objects:  15% (12605/84029), 1.16 MiB | 2.30 MiB/s   \r"
+    ],
+    [
+      0.229436,
+      "Receiving objects:  16% (13445/84029), 1.16 MiB | 2.30 MiB/s   \r"
+    ],
+    [
+      0.029631,
+      "Receiving objects:  16% (13484/84029), 4.47 MiB | 4.47 MiB/s   \r"
+    ],
+    [
+      0.180263,
+      "Receiving objects:  17% (14285/84029), 4.47 MiB | 4.47 MiB/s   \r"
+    ],
+    [
+      0.332013,
+      "Receiving objects:  18% (15126/84029), 9.89 MiB | 6.59 MiB/s   \r"
+    ],
+    [
+      0.258614,
+      "Receiving objects:  19% (15966/84029), 9.89 MiB | 6.59 MiB/s   \r"
+    ],
+    [
+      0.084174,
+      "Receiving objects:  20% (16806/84029), 9.89 MiB | 6.59 MiB/s   \r"
+    ],
+    [
+      0.145786,
+      "Receiving objects:  20% (17187/84029), 15.33 MiB | 7.67 MiB/s   \r"
+    ],
+    [
+      0.423552,
+      "Receiving objects:  21% (17647/84029), 15.33 MiB | 7.67 MiB/s   \r"
+    ],
+    [
+      0.045976,
+      "Receiving objects:  22% (18487/84029), 15.33 MiB | 7.67 MiB/s   \r"
+    ],
+    [
+      0.075283,
+      "Receiving objects:  23% (19327/84029), 19.50 MiB | 7.80 MiB/s   \r"
+    ],
+    [
+      0.073440,
+      "Receiving objects:  24% (20167/84029), 19.50 MiB | 7.80 MiB/s   \r"
+    ],
+    [
+      0.072165,
+      "Receiving objects:  25% (21008/84029), 19.50 MiB | 7.80 MiB/s   \r"
+    ],
+    [
+      0.127312,
+      "Receiving objects:  26% (21848/84029), 19.50 MiB | 7.80 MiB/s   \r"
+    ],
+    [
+      0.164182,
+      "Receiving objects:  27% (22688/84029), 19.50 MiB | 7.80 MiB/s   \r"
+    ],
+    [
+      0.018585,
+      "Receiving objects:  27% (22793/84029), 21.30 MiB | 7.10 MiB/s   \r"
+    ],
+    [
+      0.630039,
+      "Receiving objects:  28% (23529/84029), 22.11 MiB | 6.23 MiB/s   \r"
+    ],
+    [
+      0.395494,
+      "Receiving objects:  28% (23604/84029), 22.11 MiB | 6.23 MiB/s   \r"
+    ],
+    [
+      0.269663,
+      "Receiving objects:  29% (24369/84029), 22.49 MiB | 5.54 MiB/s   \r"
+    ],
+    [
+      0.555892,
+      "Receiving objects:  30% (25209/84029), 22.96 MiB | 5.03 MiB/s   \r"
+    ],
+    [
+      0.147645,
+      "Receiving objects:  30% (25431/84029), 22.96 MiB | 5.03 MiB/s   \r"
+    ],
+    [
+      0.421743,
+      "Receiving objects:  31% (26049/84029), 23.44 MiB | 4.88 MiB/s   \r"
+    ],
+    [
+      0.582323,
+      "Receiving objects:  31% (26439/84029), 23.94 MiB | 4.25 MiB/s   \r"
+    ],
+    [
+      1.010483,
+      "Receiving objects:  31% (26680/84029), 25.14 MiB | 2.13 MiB/s   \r"
+    ],
+    [
+      0.910529,
+      "Receiving objects:  32% (26890/84029), 26.55 MiB | 1.14 MiB/s   \r"
+    ],
+    [
+      0.078931,
+      "Receiving objects:  32% (26962/84029), 26.55 MiB | 1.14 MiB/s   \r"
+    ],
+    [
+      1.028820,
+      "Receiving objects:  32% (27595/84029), 27.95 MiB | 1.20 MiB/s   \r"
+    ],
+    [
+      0.324395,
+      "Receiving objects:  33% (27730/84029), 28.91 MiB | 1.30 MiB/s   \r"
+    ],
+    [
+      0.643467,
+      "Receiving objects:  33% (28413/84029), 30.05 MiB | 1.45 MiB/s   \r"
+    ],
+    [
+      0.110030,
+      "Receiving objects:  34% (28570/84029), 30.05 MiB | 1.45 MiB/s   \r"
+    ],
+    [
+      0.434180,
+      "Receiving objects:  35% (29411/84029), 31.58 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.455641,
+      "Receiving objects:  35% (29945/84029), 33.56 MiB | 1.99 MiB/s   \r"
+    ],
+    [
+      0.191794,
+      "Receiving objects:  36% (30251/84029), 35.62 MiB | 2.30 MiB/s   \r"
+    ],
+    [
+      0.818011,
+      "Receiving objects:  36% (31082/84029), 36.58 MiB | 2.36 MiB/s   \r"
+    ],
+    [
+      0.002366,
+      "Receiving objects:  37% (31091/84029), 36.58 MiB | 2.36 MiB/s   \r"
+    ],
+    [
+      1.155898,
+      "Receiving objects:  37% (31756/84029), 39.36 MiB | 2.51 MiB/s   \r"
+    ],
+    [
+      0.668728,
+      "Receiving objects:  38% (31932/84029), 40.35 MiB | 2.52 MiB/s   \r"
+    ],
+    [
+      0.193837,
+      "Receiving objects:  38% (32126/84029), 40.35 MiB | 2.52 MiB/s   \r"
+    ],
+    [
+      0.782162,
+      "Receiving objects:  39% (32772/84029), 42.42 MiB | 2.39 MiB/s   \r"
+    ],
+    [
+      0.193113,
+      "Receiving objects:  39% (33248/84029), 42.42 MiB | 2.39 MiB/s   \r"
+    ],
+    [
+      0.070366,
+      "Receiving objects:  40% (33612/84029), 42.42 MiB | 2.39 MiB/s   \r"
+    ],
+    [
+      0.383330,
+      "Receiving objects:  41% (34452/84029), 43.46 MiB | 2.18 MiB/s   \r"
+    ],
+    [
+      0.543335,
+      "Receiving objects:  41% (35256/84029), 44.61 MiB | 1.99 MiB/s   \r"
+    ],
+    [
+      0.000590,
+      "Receiving objects:  42% (35293/84029), 44.61 MiB | 1.99 MiB/s   \r"
+    ],
+    [
+      0.734308,
+      "Receiving objects:  43% (36133/84029), 47.04 MiB | 2.13 MiB/s   \r"
+    ],
+    [
+      0.264328,
+      "Receiving objects:  43% (36435/84029), 47.04 MiB | 2.13 MiB/s   \r"
+    ],
+    [
+      0.467145,
+      "Receiving objects:  44% (36973/84029), 48.42 MiB | 2.22 MiB/s   \r"
+    ],
+    [
+      0.490875,
+      "Receiving objects:  45% (37814/84029), 49.40 MiB | 2.22 MiB/s   \r"
+    ],
+    [
+      0.045082,
+      "Receiving objects:  45% (37839/84029), 49.40 MiB | 2.22 MiB/s   \r"
+    ],
+    [
+      0.524030,
+      "Receiving objects:  46% (38654/84029), 50.29 MiB | 2.19 MiB/s   \r"
+    ],
+    [
+      0.438126,
+      "Receiving objects:  47% (39494/84029), 51.20 MiB | 2.15 MiB/s   \r"
+    ],
+    [
+      0.039797,
+      "Receiving objects:  47% (39588/84029), 51.20 MiB | 2.15 MiB/s   \r"
+    ],
+    [
+      0.156879,
+      "Receiving objects:  48% (40334/84029), 51.20 MiB | 2.15 MiB/s   \r"
+    ],
+    [
+      0.754398,
+      "Receiving objects:  49% (41175/84029), 52.71 MiB | 2.01 MiB/s   \r"
+    ],
+    [
+      0.082054,
+      "Receiving objects:  49% (41259/84029), 52.71 MiB | 2.01 MiB/s   \r"
+    ],
+    [
+      0.543609,
+      "Receiving objects:  50% (42015/84029), 53.43 MiB | 1.92 MiB/s   \r"
+    ],
+    [
+      0.500469,
+      "Receiving objects:  50% (42525/84029), 54.23 MiB | 1.83 MiB/s   \r"
+    ],
+    [
+      0.331511,
+      "Receiving objects:  51% (42855/84029), 55.12 MiB | 1.76 MiB/s   \r"
+    ],
+    [
+      0.483657,
+      "Receiving objects:  52% (43696/84029), 56.09 MiB | 1.67 MiB/s   \r"
+    ],
+    [
+      0.154769,
+      "Receiving objects:  52% (44177/84029), 56.09 MiB | 1.67 MiB/s   \r"
+    ],
+    [
+      0.109020,
+      "Receiving objects:  53% (44536/84029), 56.09 MiB | 1.67 MiB/s   \r"
+    ],
+    [
+      0.350153,
+      "Receiving objects:  54% (45376/84029), 57.05 MiB | 1.67 MiB/s   \r"
+    ],
+    [
+      0.352569,
+      "Receiving objects:  55% (46216/84029), 57.96 MiB | 1.67 MiB/s   \r"
+    ],
+    [
+      0.190357,
+      "Receiving objects:  55% (46639/84029), 57.96 MiB | 1.67 MiB/s   \r"
+    ],
+    [
+      0.303214,
+      "Receiving objects:  56% (47057/84029), 58.84 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.255682,
+      "Receiving objects:  57% (47897/84029), 58.84 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.161838,
+      "Receiving objects:  58% (48737/84029), 58.84 MiB | 1.68 MiB/s   \r"
+    ],
+    [
+      0.316315,
+      "Receiving objects:  58% (49449/84029), 59.79 MiB | 1.71 MiB/s   \r"
+    ],
+    [
+      0.026788,
+      "Receiving objects:  59% (49578/84029), 59.79 MiB | 1.71 MiB/s   \r"
+    ],
+    [
+      0.238814,
+      "Receiving objects:  60% (50418/84029), 60.75 MiB | 1.77 MiB/s   \r"
+    ],
+    [
+      0.394907,
+      "Receiving objects:  61% (51258/84029), 60.75 MiB | 1.77 MiB/s   \r"
+    ],
+    [
+      0.143157,
+      "Receiving objects:  62% (52098/84029), 61.68 MiB | 1.81 MiB/s   \r"
+    ],
+    [
+      0.108533,
+      "Receiving objects:  63% (52939/84029), 61.68 MiB | 1.81 MiB/s   \r"
+    ],
+    [
+      0.043983,
+      "Receiving objects:  63% (53225/84029), 61.68 MiB | 1.81 MiB/s   \r"
+    ],
+    [
+      0.107221,
+      "Receiving objects:  64% (53779/84029), 61.68 MiB | 1.81 MiB/s   \r"
+    ],
+    [
+      0.221176,
+      "Receiving objects:  65% (54619/84029), 62.60 MiB | 1.84 MiB/s   \r"
+    ],
+    [
+      0.413056,
+      "Receiving objects:  66% (55460/84029), 62.60 MiB | 1.84 MiB/s   \r"
+    ],
+    [
+      0.178497,
+      "Receiving objects:  67% (56300/84029), 63.56 MiB | 1.85 MiB/s   \r"
+    ],
+    [
+      0.083600,
+      "Receiving objects:  67% (56509/84029), 63.56 MiB | 1.85 MiB/s   \r"
+    ],
+    [
+      0.134424,
+      "Receiving objects:  68% (57140/84029), 63.56 MiB | 1.85 MiB/s   \r"
+    ],
+    [
+      0.132245,
+      "Receiving objects:  69% (57981/84029), 63.56 MiB | 1.85 MiB/s   \r"
+    ],
+    [
+      0.735845,
+      "Receiving objects:  69% (58251/84029), 65.54 MiB | 1.87 MiB/s   \r"
+    ],
+    [
+      0.903378,
+      "Receiving objects:  70% (58821/84029), 67.71 MiB | 1.96 MiB/s   \r"
+    ],
+    [
+      0.133720,
+      "Receiving objects:  70% (58933/84029), 67.71 MiB | 1.96 MiB/s   \r"
+    ],
+    [
+      0.664105,
+      "Receiving objects:  71% (59661/84029), 68.89 MiB | 2.01 MiB/s   \r"
+    ],
+    [
+      0.343923,
+      "Receiving objects:  71% (59821/84029), 70.11 MiB | 2.06 MiB/s   \r"
+    ],
+    [
+      0.678306,
+      "Receiving objects:  72% (60501/84029), 71.33 MiB | 2.13 MiB/s   \r"
+    ],
+    [
+      0.057763,
+      "Receiving objects:  73% (61342/84029), 71.33 MiB | 2.13 MiB/s   \r"
+    ],
+    [
+      0.142226,
+      "Receiving objects:  74% (62182/84029), 72.63 MiB | 2.22 MiB/s   \r"
+    ],
+    [
+      0.061371,
+      "Receiving objects:  74% (62660/84029), 72.63 MiB | 2.22 MiB/s   \r"
+    ],
+    [
+      0.024910,
+      "Receiving objects:  75% (63022/84029), 72.63 MiB | 2.22 MiB/s   \r"
+    ],
+    [
+      0.100579,
+      "Receiving objects:  76% (63863/84029), 72.63 MiB | 2.22 MiB/s   \r"
+    ],
+    [
+      0.072282,
+      "Receiving objects:  77% (64703/84029), 72.63 MiB | 2.22 MiB/s   \r"
+    ],
+    [
+      0.131174,
+      "Receiving objects:  78% (65543/84029), 72.63 MiB | 2.22 MiB/s   \r"
+    ],
+    [
+      0.112179,
+      "Receiving objects:  79% (66383/84029), 74.06 MiB | 2.32 MiB/s   \r"
+    ],
+    [
+      0.129005,
+      "Receiving objects:  80% (67224/84029), 74.06 MiB | 2.32 MiB/s   \r"
+    ],
+    [
+      0.129155,
+      "Receiving objects:  81% (68064/84029), 74.06 MiB | 2.32 MiB/s   \r"
+    ],
+    [
+      0.097831,
+      "Receiving objects:  82% (68904/84029), 74.06 MiB | 2.32 MiB/s   \r"
+    ],
+    [
+      0.110078,
+      "Receiving objects:  83% (69745/84029), 75.47 MiB | 2.42 MiB/s   \r"
+    ],
+    [
+      0.101515,
+      "Receiving objects:  83% (70216/84029), 75.47 MiB | 2.42 MiB/s   \r"
+    ],
+    [
+      0.242977,
+      "Receiving objects:  84% (70585/84029), 75.47 MiB | 2.42 MiB/s   \r"
+    ],
+    [
+      0.514433,
+      "Receiving objects:  85% (71425/84029), 77.04 MiB | 2.53 MiB/s   \r"
+    ],
+    [
+      0.243408,
+      "Receiving objects:  85% (71964/84029), 78.84 MiB | 2.70 MiB/s   \r"
+    ],
+    [
+      0.161283,
+      "Receiving objects:  86% (72265/84029), 78.84 MiB | 2.70 MiB/s   \r"
+    ],
+    [
+      0.373868,
+      "Receiving objects:  87% (73106/84029), 80.91 MiB | 2.91 MiB/s   \r"
+    ],
+    [
+      0.324429,
+      "Receiving objects:  88% (73946/84029), 80.91 MiB | 2.91 MiB/s   \r"
+    ],
+    [
+      0.128570,
+      "Receiving objects:  88% (74612/84029), 83.41 MiB | 3.21 MiB/s   \r"
+    ],
+    [
+      0.004815,
+      "Receiving objects:  89% (74786/84029), 83.41 MiB | 3.21 MiB/s   \r"
+    ],
+    [
+      0.135041,
+      "Receiving objects:  90% (75627/84029), 83.41 MiB | 3.21 MiB/s   \r"
+    ],
+    [
+      0.045425,
+      "Receiving objects:  91% (76467/84029), 83.41 MiB | 3.21 MiB/s   \r"
+    ],
+    [
+      0.050041,
+      "Receiving objects:  92% (77307/84029), 83.41 MiB | 3.21 MiB/s   \r"
+    ],
+    [
+      0.079518,
+      "Receiving objects:  93% (78147/84029), 83.41 MiB | 3.21 MiB/s   \r"
+    ],
+    [
+      0.029766,
+      "Receiving objects:  94% (78988/84029), 83.41 MiB | 3.21 MiB/s   \r"
+    ],
+    [
+      0.048524,
+      "Receiving objects:  95% (79828/84029), 86.35 MiB | 3.59 MiB/s   \r"
+    ],
+    [
+      0.035669,
+      "Receiving objects:  96% (80668/84029), 86.35 MiB | 3.59 MiB/s   \r"
+    ],
+    [
+      0.016605,
+      "Receiving objects:  97% (81509/84029), 86.35 MiB | 3.59 MiB/s   \r"
+    ],
+    [
+      0.021128,
+      "Receiving objects:  98% (82349/84029), 86.35 MiB | 3.59 MiB/s   \r"
+    ],
+    [
+      0.065829,
+      "Receiving objects:  99% (83189/84029), 86.35 MiB | 3.59 MiB/s   \r"
+    ],
+    [
+      0.473532,
+      "Receiving objects:  99% (83656/84029), 89.08 MiB | 3.92 MiB/s   \r"
+    ],
+    [
+      0.590042,
+      "remote: Total 84029 (delta 1), reused 0 (delta 0), pack-reused 84025\u001b[K\r\n"
+    ],
+    [
+      0.000743,
+      "Receiving objects: 100% (84029/84029), 90.93 MiB | 4.04 MiB/s   \rReceiving objects: 100% (84029/84029), 91.73 MiB | 4.19 MiB/s, done.\r\n"
+    ],
+    [
+      0.013481,
+      "Resolving deltas:   0% (0/52404)   \r"
+    ],
+    [
+      0.062392,
+      "Resolving deltas:   1% (532/52404)   \r"
+    ],
+    [
+      0.014412,
+      "Resolving deltas:   2% (1051/52404)   \r"
+    ],
+    [
+      0.015005,
+      "Resolving deltas:   3% (1575/52404)   \r"
+    ],
+    [
+      0.015211,
+      "Resolving deltas:   4% (2099/52404)   \r"
+    ],
+    [
+      0.014243,
+      "Resolving deltas:   5% (2632/52404)   \r"
+    ],
+    [
+      0.015659,
+      "Resolving deltas:   6% (3153/52404)   \r"
+    ],
+    [
+      0.019826,
+      "Resolving deltas:   7% (3670/52404)   \r"
+    ],
+    [
+      0.020019,
+      "Resolving deltas:   8% (4195/52404)   \r"
+    ],
+    [
+      0.020302,
+      "Resolving deltas:   9% (4740/52404)   \r"
+    ],
+    [
+      0.042813,
+      "Resolving deltas:  10% (5241/52404)   \r"
+    ],
+    [
+      0.044183,
+      "Resolving deltas:  11% (5789/52404)   \r"
+    ],
+    [
+      0.025515,
+      "Resolving deltas:  12% (6497/52404)   \r"
+    ],
+    [
+      0.012936,
+      "Resolving deltas:  13% (6851/52404)   \r"
+    ],
+    [
+      0.034466,
+      "Resolving deltas:  14% (7341/52404)   \r"
+    ],
+    [
+      0.020997,
+      "Resolving deltas:  15% (7863/52404)   \r"
+    ],
+    [
+      0.090145,
+      "Resolving deltas:  16% (8585/52404)   \r"
+    ],
+    [
+      0.015845,
+      "Resolving deltas:  17% (8985/52404)   \r"
+    ],
+    [
+      0.037554,
+      "Resolving deltas:  18% (9443/52404)   \r"
+    ],
+    [
+      0.022749,
+      "Resolving deltas:  19% (9971/52404)   \r"
+    ],
+    [
+      0.020638,
+      "Resolving deltas:  20% (10568/52404)   \r"
+    ],
+    [
+      0.014866,
+      "Resolving deltas:  21% (11019/52404)   \r"
+    ],
+    [
+      0.017465,
+      "Resolving deltas:  22% (11575/52404)   \r"
+    ],
+    [
+      0.015327,
+      "Resolving deltas:  23% (12055/52404)   \r"
+    ],
+    [
+      0.028522,
+      "Resolving deltas:  24% (12581/52404)   \r"
+    ],
+    [
+      0.020842,
+      "Resolving deltas:  25% (13101/52404)   \r"
+    ],
+    [
+      0.016726,
+      "Resolving deltas:  26% (13628/52404)   \r"
+    ],
+    [
+      0.014869,
+      "Resolving deltas:  27% (14156/52404)   \r"
+    ],
+    [
+      0.015765,
+      "Resolving deltas:  28% (14713/52404)   \r"
+    ],
+    [
+      0.013414,
+      "Resolving deltas:  29% (15211/52404)   \r"
+    ],
+    [
+      0.014307,
+      "Resolving deltas:  30% (15747/52404)   \r"
+    ],
+    [
+      0.016388,
+      "Resolving deltas:  31% (16262/52404)   \r"
+    ],
+    [
+      0.015610,
+      "Resolving deltas:  32% (16806/52404)   \r"
+    ],
+    [
+      0.015982,
+      "Resolving deltas:  33% (17297/52404)   \r"
+    ],
+    [
+      0.026098,
+      "Resolving deltas:  34% (17895/52404)   \r"
+    ],
+    [
+      0.017401,
+      "Resolving deltas:  35% (18347/52404)   \r"
+    ],
+    [
+      0.034074,
+      "Resolving deltas:  36% (18873/52404)   \r"
+    ],
+    [
+      0.020156,
+      "Resolving deltas:  37% (19440/52404)   \r"
+    ],
+    [
+      0.033374,
+      "Resolving deltas:  38% (19917/52404)   \r"
+    ],
+    [
+      0.035702,
+      "Resolving deltas:  39% (20518/52404)   \r"
+    ],
+    [
+      0.015998,
+      "Resolving deltas:  40% (20964/52404)   \r"
+    ],
+    [
+      0.023921,
+      "Resolving deltas:  41% (21488/52404)   \r"
+    ],
+    [
+      0.010758,
+      "Resolving deltas:  41% (21720/52404)   \r"
+    ],
+    [
+      0.019085,
+      "Resolving deltas:  42% (22024/52404)   \r"
+    ],
+    [
+      0.025705,
+      "Resolving deltas:  43% (22625/52404)   \r"
+    ],
+    [
+      0.019790,
+      "Resolving deltas:  44% (23058/52404)   \r"
+    ],
+    [
+      0.018851,
+      "Resolving deltas:  45% (23591/52404)   \r"
+    ],
+    [
+      0.023058,
+      "Resolving deltas:  46% (24136/52404)   \r"
+    ],
+    [
+      0.017091,
+      "Resolving deltas:  47% (24657/52404)   \r"
+    ],
+    [
+      0.019182,
+      "Resolving deltas:  48% (25182/52404)   \r"
+    ],
+    [
+      0.012908,
+      "Resolving deltas:  49% (25678/52404)   \r"
+    ],
+    [
+      0.016539,
+      "Resolving deltas:  50% (26202/52404)   \r"
+    ],
+    [
+      0.014776,
+      "Resolving deltas:  51% (26727/52404)   \r"
+    ],
+    [
+      0.029049,
+      "Resolving deltas:  52% (27253/52404)   \r"
+    ],
+    [
+      0.016080,
+      "Resolving deltas:  53% (27775/52404)   \r"
+    ],
+    [
+      0.027413,
+      "Resolving deltas:  54% (28301/52404)   \r"
+    ],
+    [
+      0.025264,
+      "Resolving deltas:  55% (28836/52404)   \r"
+    ],
+    [
+      0.017506,
+      "Resolving deltas:  56% (29352/52404)   \r"
+    ],
+    [
+      0.013863,
+      "Resolving deltas:  57% (29871/52404)   \r"
+    ],
+    [
+      0.014338,
+      "Resolving deltas:  58% (30400/52404)   \r"
+    ],
+    [
+      0.014105,
+      "Resolving deltas:  59% (30920/52404)   \r"
+    ],
+    [
+      0.014940,
+      "Resolving deltas:  60% (31476/52404)   \r"
+    ],
+    [
+      0.013999,
+      "Resolving deltas:  61% (31985/52404)   \r"
+    ],
+    [
+      0.014898,
+      "Resolving deltas:  62% (32513/52404)   \r"
+    ],
+    [
+      0.015956,
+      "Resolving deltas:  63% (33020/52404)   \r"
+    ],
+    [
+      0.015566,
+      "Resolving deltas:  64% (33550/52404)   \r"
+    ],
+    [
+      0.015083,
+      "Resolving deltas:  65% (34083/52404)   \r"
+    ],
+    [
+      0.014976,
+      "Resolving deltas:  66% (34587/52404)   \r"
+    ],
+    [
+      0.014359,
+      "Resolving deltas:  67% (35112/52404)   \r"
+    ],
+    [
+      0.015081,
+      "Resolving deltas:  68% (35658/52404)   \r"
+    ],
+    [
+      0.013637,
+      "Resolving deltas:  69% (36161/52404)   \r"
+    ],
+    [
+      0.014473,
+      "Resolving deltas:  70% (36686/52404)   \r"
+    ],
+    [
+      0.014821,
+      "Resolving deltas:  71% (37224/52404)   \r"
+    ],
+    [
+      0.014152,
+      "Resolving deltas:  72% (37733/52404)   \r"
+    ],
+    [
+      0.021174,
+      "Resolving deltas:  73% (38322/52404)   \r"
+    ],
+    [
+      0.018025,
+      "Resolving deltas:  74% (38782/52404)   \r"
+    ],
+    [
+      0.013592,
+      "Resolving deltas:  75% (39304/52404)   \r"
+    ],
+    [
+      0.015174,
+      "Resolving deltas:  76% (39836/52404)   \r"
+    ],
+    [
+      0.013805,
+      "Resolving deltas:  77% (40354/52404)   \r"
+    ],
+    [
+      0.014055,
+      "Resolving deltas:  78% (40880/52404)   \r"
+    ],
+    [
+      0.013927,
+      "Resolving deltas:  79% (41408/52404)   \r"
+    ],
+    [
+      0.014275,
+      "Resolving deltas:  80% (41924/52404)   \r"
+    ],
+    [
+      0.014504,
+      "Resolving deltas:  81% (42462/52404)   \r"
+    ],
+    [
+      0.015414,
+      "Resolving deltas:  82% (43032/52404)   \r"
+    ],
+    [
+      0.016531,
+      "Resolving deltas:  83% (43533/52404)   \r"
+    ],
+    [
+      0.013954,
+      "Resolving deltas:  84% (44021/52404)   \r"
+    ],
+    [
+      0.014519,
+      "Resolving deltas:  85% (44545/52404)   \r"
+    ],
+    [
+      0.015780,
+      "Resolving deltas:  86% (45106/52404)   \r"
+    ],
+    [
+      0.020190,
+      "Resolving deltas:  87% (45598/52404)   \r"
+    ],
+    [
+      0.014105,
+      "Resolving deltas:  88% (46134/52404)   \r"
+    ],
+    [
+      0.016343,
+      "Resolving deltas:  89% (46684/52404)   \r"
+    ],
+    [
+      0.014545,
+      "Resolving deltas:  90% (47164/52404)   \r"
+    ],
+    [
+      0.014666,
+      "Resolving deltas:  91% (47698/52404)   \r"
+    ],
+    [
+      0.017564,
+      "Resolving deltas:  92% (48222/52404)   \r"
+    ],
+    [
+      0.015944,
+      "Resolving deltas:  93% (48736/52404)   \r"
+    ],
+    [
+      0.014800,
+      "Resolving deltas:  94% (49263/52404)   \r"
+    ],
+    [
+      0.014119,
+      "Resolving deltas:  95% (49794/52404)   \r"
+    ],
+    [
+      0.013743,
+      "Resolving deltas:  96% (50309/52404)   \r"
+    ],
+    [
+      0.014558,
+      "Resolving deltas:  97% (50838/52404)   \r"
+    ],
+    [
+      0.014670,
+      "Resolving deltas:  98% (51363/52404)   \r"
+    ],
+    [
+      0.014044,
+      "Resolving deltas:  99% (51897/52404)   \r"
+    ],
+    [
+      0.015835,
+      "Resolving deltas: 100% (52404/52404)   \r"
+    ],
+    [
+      0.000030,
+      "Resolving deltas: 100% (52404/52404), done.\r\n"
+    ],
+    [
+      0.050217,
+      "Checking connectivity... "
+    ],
+    [
+      0.003544,
+      "done.\r\n"
+    ],
+    [
+      0.112306,
+      "bash-3.2$ "
+    ],
+    [
+      0.666220,
+      "c"
+    ],
+    [
+      0.144063,
+      "d"
+    ],
+    [
+      0.111994,
+      " "
+    ],
+    [
+      0.136018,
+      "b"
+    ],
+    [
+      0.207967,
+      "o"
+    ],
+    [
+      0.127847,
+      "o"
+    ],
+    [
+      0.080167,
+      "t"
+    ],
+    [
+      0.288211,
+      "strap/"
+    ],
+    [
+      0.895768,
+      "\r\n"
+    ],
+    [
+      0.000263,
+      "bash-3.2$ "
+    ],
+    [
+      0.519625,
+      "g"
+    ],
+    [
+      0.192078,
+      "i"
+    ],
+    [
+      0.112038,
+      "t"
+    ],
+    [
+      0.327993,
+      " "
+    ],
+    [
+      0.167809,
+      "c"
+    ],
+    [
+      0.088118,
+      "o"
+    ],
+    [
+      0.167527,
+      "n"
+    ],
+    [
+      0.088114,
+      "f"
+    ],
+    [
+      0.111914,
+      "i"
+    ],
+    [
+      0.096577,
+      "g"
+    ],
+    [
+      0.599864,
+      " "
+    ],
+    [
+      0.432127,
+      "g"
+    ],
+    [
+      0.183886,
+      "i"
+    ],
+    [
+      0.239965,
+      "t"
+    ],
+    [
+      0.208143,
+      "h"
+    ],
+    [
+      0.175957,
+      "u"
+    ],
+    [
+      0.192092,
+      "b"
+    ],
+    [
+      0.855825,
+      "."
+    ],
+    [
+      0.199886,
+      "r"
+    ],
+    [
+      0.184183,
+      "e"
+    ],
+    [
+      0.135940,
+      "p"
+    ],
+    [
+      0.719996,
+      "o"
+    ],
+    [
+      0.240053,
+      "u"
+    ],
+    [
+      0.128005,
+      "s"
+    ],
+    [
+      0.199815,
+      "e"
+    ],
+    [
+      0.168213,
+      "r"
+    ],
+    [
+      1.647769,
+      " "
+    ],
+    [
+      1.872038,
+      "t"
+    ],
+    [
+      0.144056,
+      "w"
+    ],
+    [
+      0.288065,
+      "b"
+    ],
+    [
+      0.383825,
+      "s"
+    ],
+    [
+      0.768148,
+      "\r\n"
+    ],
+    [
+      0.005154,
+      "bash-3.2$ "
+    ],
+    [
+      0.578717,
+      "g"
+    ],
+    [
+      0.224170,
+      "i"
+    ],
+    [
+      0.135930,
+      "t"
+    ],
+    [
+      0.087572,
+      " "
+    ],
+    [
+      0.168383,
+      "c"
+    ],
+    [
+      0.064367,
+      "o"
+    ],
+    [
+      0.167523,
+      "n"
+    ],
+    [
+      0.088027,
+      "f"
+    ],
+    [
+      0.104006,
+      "i"
+    ],
+    [
+      0.088168,
+      "g"
+    ],
+    [
+      0.143959,
+      " "
+    ],
+    [
+      0.191978,
+      "g"
+    ],
+    [
+      0.175983,
+      "i"
+    ],
+    [
+      0.088055,
+      "t"
+    ],
+    [
+      0.119803,
+      "h"
+    ],
+    [
+      0.159903,
+      "u"
+    ],
+    [
+      0.168290,
+      "b"
+    ],
+    [
+      0.367992,
+      "."
+    ],
+    [
+      0.176013,
+      "r"
+    ],
+    [
+      0.199989,
+      "e"
+    ],
+    [
+      0.104005,
+      "p"
+    ],
+    [
+      0.152014,
+      "o"
+    ],
+    [
+      0.399912,
+      "n"
+    ],
+    [
+      0.184067,
+      "a"
+    ],
+    [
+      0.135833,
+      "m"
+    ],
+    [
+      0.120168,
+      "e"
+    ],
+    [
+      0.231838,
+      " "
+    ],
+    [
+      0.200054,
+      "b"
+    ],
+    [
+      0.199888,
+      "o"
+    ],
+    [
+      0.136208,
+      "o"
+    ],
+    [
+      0.287940,
+      "t"
+    ],
+    [
+      0.264065,
+      "s"
+    ],
+    [
+      0.183725,
+      "t"
+    ],
+    [
+      0.112176,
+      "r"
+    ],
+    [
+      0.239914,
+      "a"
+    ],
+    [
+      0.216203,
+      "p"
+    ],
+    [
+      0.463851,
+      "\r\n"
+    ],
+    [
+      0.005712,
+      "bash-3.2$ "
+    ],
+    [
+      0.650451,
+      "g"
+    ],
+    [
+      0.167857,
+      "i"
+    ],
+    [
+      0.080141,
+      "t"
+    ],
+    [
+      0.159874,
+      " "
+    ],
+    [
+      0.408014,
+      "g"
+    ],
+    [
+      0.096032,
+      "i"
+    ],
+    [
+      0.095854,
+      "t"
+    ],
+    [
+      1.000180,
+      "h"
+    ],
+    [
+      0.151999,
+      "u"
+    ],
+    [
+      0.167997,
+      "b"
+    ],
+    [
+      0.231525,
+      "-"
+    ],
+    [
+      0.168100,
+      "r"
+    ],
+    [
+      0.192307,
+      "e"
+    ],
+    [
+      0.192114,
+      "f"
+    ],
+    [
+      0.095926,
+      "l"
+    ],
+    [
+      0.191950,
+      "o"
+    ],
+    [
+      0.895991,
+      "g"
+    ],
+    [
+      0.160076,
+      " "
+    ],
+    [
+      0.191916,
+      "-"
+    ],
+    [
+      0.168021,
+      "-"
+    ],
+    [
+      0.263971,
+      "n"
+    ],
+    [
+      0.168012,
+      "a"
+    ],
+    [
+      0.112067,
+      "u"
+    ],
+    [
+      0.159811,
+      "g"
+    ],
+    [
+      0.152154,
+      "h"
+    ],
+    [
+      0.207983,
+      "t"
+    ],
+    [
+      0.128058,
+      "y"
+    ],
+    [
+      1.216039,
+      "\r\n"
+    ],
+    [
+      1.177538,
+      "\u001b[33m3084850594 ForkEvent\u001b[39m\r\nUser:      davisdole \u003chttps://api.github.com/users/davisdole\u003e\r\nDate:      2015-08-24T16:55:44Z\r\n"
+    ],
+    [
+      0.000009,
+      "Author:    davisdole \u003chttps://github.com/davisdole\u003e\r\nFullname:  davisdole/bootstrap-1\t\tPrivate: False\r\nURL:       https://github.com/davisdole/bootstrap-1\r\n\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[33m3084841279 PullRequestEvent\u001b[39m\r\nUser:      chrisnicotera \u003chttps://api.github.com/users/chrisnicotera\u003e\r\n"
+    ],
+    [
+      0.000003,
+      "Date:      2015-08-24T16:52:45Z\r\n"
+    ],
+    [
+      0.000028,
+      "PR:        #17283 \u003chttps://github.com/twbs/bootstrap/pull/17283\u003e\r\n"
+    ],
+    [
+      0.000007,
+      "Created:   2015-08-24T16:52:42Z\tUpdated: 2015-08-24T16:52:42Z\r\nSHA:       f4689f2393a549fcaf33a36c81028d1607047dfc\r\nAuthor:    chrisnicotera \u003chttps://github.com/chrisnicotera\u003e\r\n"
+    ],
+    [
+      0.000014,
+      "Ref:       v4-dev\r\nAction:    \u001b[34m\u001b[1mopened\u001b[39m\u001b[22m\t\t\tState: \u001b[34m\u001b[1mopen\u001b[39m\u001b[22m\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      " \u001b[1mUse higher precision when calculating breakpoint-max values\u001b[22m\r\n"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000648,
+      "\r\n\u001b[33m3084839486 IssuesEvent\u001b[39m\r\nUser:      chrisnicotera \u003chttps://api.github.com/users/chrisnicotera\u003e\r\n"
+    ],
+    [
+      0.000005,
+      "Date:      2015-08-24T16:52:13Z\r\n"
+    ],
+    [
+      0.001069,
+      "\u001b[1mPress any key to continue, Q to quit...\r\u001b[22m"
+    ],
+    [
+      3.224292,
+      "                                                 \r"
+    ],
+    [
+      0.001313,
+      "Created:   2015-08-24T16:52:10Z\r\n"
+    ],
+    [
+      0.000039,
+      "Updated:   2015-08-24T16:52:10Z\r\n"
+    ],
+    [
+      0.000004,
+      "URL:       https://github.com/twbs/bootstrap/issues/17282\r\n"
+    ],
+    [
+      0.000046,
+      "Action:    \u001b[34m\u001b[1mopened\u001b[39m\u001b[22m\t\tState: \u001b[34m\u001b[1mopen\u001b[39m\u001b[22m\r\n"
+    ],
+    [
+      0.000006,
+      "\r\n \u001b[1mUse higher precision when calculating breakpoint-max values\u001b[22m\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000707,
+      "   Bootstrap is currently using `0.1` as the value for calculating\r\n   `breakpoint-max`. This causes an issue when using the `hidden-*-down`\r\n   classes.    For example (assume font-size: 16px):  md: 48em, // 48 *\r\n   16 = 768px  breakpoint-max(md, (xs: 0, sm: 34rem, md: 48rem)): 47.9 //\r\n"
+    ],
+    [
+      0.000011,
+      "   47.9 * 16 = 766.4    This leaves a ~2px window where elements with\r\n   `hidden-md-down` will show up unexpectedly.    I'm proposing changing\r\n   the precision value to 0.00001. I'm not sure that 5 places are needed\r\n   (too much?), but since that seems to be the default precision for\r\n   SASS, I went with that.\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000033,
+      "\u001b[33m3084833403 IssueCommentEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000020,
+      "User:      mdo \u003chttps://api.github.com/users/mdo\u003e\r\nDate:      2015-08-24T16:50:23Z\r\n"
+    ],
+    [
+      0.000016,
+      "Created:   2015-08-24T16:50:20Z\r\n"
+    ],
+    [
+      0.000006,
+      "Updated:   2015-08-24T16:50:20Z\r\nURL:       https://github.com/twbs/bootstrap/pull/17280#issuecomment-134297270\r\n"
+    ],
+    [
+      0.000080,
+      "\u001b[1mPress any key to continue, Q to quit...\r\u001b[22m"
+    ],
+    [
+      3.157974,
+      "                                                 \r"
+    ],
+    [
+      0.001263,
+      "Issue:     17280 \u003chttps://github.com/twbs/bootstrap/pull/17280\u003e\r\n\r\n"
+    ],
+    [
+      0.000007,
+      " \u001b[1mDynamic layout direction\u001b[22m\r\n\r\n"
+    ],
+    [
+      0.000319,
+      "   I understand the intent and the usefulness, though it's not as easy as\r\n   flipping floats. Text alignment, margin, and more all come into play\r\n   as well.\r\n\r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[33m3084830824 IssueCommentEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000010,
+      "User:      mdo \u003chttps://api.github.com/users/mdo\u003e\r\n"
+    ],
+    [
+      0.000003,
+      "Date:      2015-08-24T16:49:33Z\r\n"
+    ],
+    [
+      0.000026,
+      "Created:   2015-08-24T16:49:30Z\r\nUpdated:   2015-08-24T16:49:30Z\r\n"
+    ],
+    [
+      0.000006,
+      "URL:       https://github.com/twbs/bootstrap/pull/17277#issuecomment-134297075\r\n"
+    ],
+    [
+      0.000011,
+      "Issue:     17277 \u003chttps://github.com/twbs/bootstrap/pull/17277\u003e\r\n\r\n"
+    ],
+    [
+      0.000008,
+      " \u001b[1mUse the body color for dropdown menu text in navbars\u001b[22m\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000145,
+      "   We should be able to apply this to the `.dropdown-menu` itself,\r\n   without scoping it to the navbar, no?\r\n\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[33m3084828033 IssueCommentEvent\u001b[39m\r\nUser:      mdo \u003chttps://api.github.com/users/mdo\u003e\r\n"
+    ],
+    [
+      0.000078,
+      "\u001b[1mPress any key to continue, Q to quit...\r\u001b[22m"
+    ],
+    [
+      2.837656,
+      "                                                 \r"
+    ],
+    [
+      0.001317,
+      "Date:      2015-08-24T16:48:42Z\r\n"
+    ],
+    [
+      0.000021,
+      "Created:   2015-08-24T16:48:39Z\r\n"
+    ],
+    [
+      0.000004,
+      "Updated:   2015-08-24T16:48:39Z\r\n"
+    ],
+    [
+      0.000011,
+      "URL:       https://github.com/twbs/bootstrap/issues/17052#issuecomment-134296886\r\n"
+    ],
+    [
+      0.000046,
+      "Issue:     17052 \u003chttps://github.com/twbs/bootstrap/issues/17052\u003e\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      " \u001b[1mv4 CSS switch from :before/:after to ::before/::after\u001b[22m\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000209,
+      "   Ugh fine I guess we'll be responsible then :grin:.\r\n\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[33m3084822406 IssueCommentEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000004,
+      "User:      TheZoker \u003chttps://api.github.com/users/TheZoker\u003e\r\n"
+    ],
+    [
+      0.000011,
+      "Date:      2015-08-24T16:47:40Z\r\n"
+    ],
+    [
+      0.000029,
+      "Created:   2015-08-24T16:47:37Z\r\nUpdated:   2015-08-24T16:47:37Z\r\n"
+    ],
+    [
+      0.000009,
+      "URL:       https://github.com/twbs/bootstrap/issues/17281#issuecomment-134296606\r\nIssue:     17281 \u003chttps://github.com/twbs/bootstrap/issues/17281\u003e\r\n\r\n \u001b[1mv4 - btn-group-xs still exists in docs\u001b[22m\r\n"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000165,
+      "   @zacechola Yes I know, that they where removed, but there is still a\r\n   entry in the docs, that should be removed.\r\n\r\n"
+    ],
+    [
+      0.000067,
+      "\u001b[1mPress any key to continue, Q to quit...\r\u001b[22m"
+    ],
+    [
+      2.470230,
+      "                                                 \r"
+    ],
+    [
+      0.001354,
+      "\u001b[33m3084810079 IssueCommentEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000006,
+      "User:      zacechola \u003chttps://api.github.com/users/zacechola\u003e\r\nDate:      2015-08-24T16:43:52Z\r\n"
+    ],
+    [
+      0.000037,
+      "Created:   2015-08-24T16:43:49Z\r\n"
+    ],
+    [
+      0.000007,
+      "Updated:   2015-08-24T16:43:49Z\r\nURL:       https://github.com/twbs/bootstrap/issues/17281#issuecomment-134295131\r\n"
+    ],
+    [
+      0.000057,
+      "Issue:     17281 \u003chttps://github.com/twbs/bootstrap/issues/17281\u003e\r\n\r\n"
+    ],
+    [
+      0.000006,
+      " \u001b[1mv4 - btn-group-xs still exists in docs\u001b[22m\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000237,
+      "   Those were removed in 2965adfea0071e05c92ca07450f473ea62714403\r\n\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[33m3084779232 ForkEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000003,
+      "User:      graficoiulian \u003chttps://api.github.com/users/graficoiulian\u003e\r\n"
+    ],
+    [
+      0.000003,
+      "Date:      2015-08-24T16:34:10Z\r\n"
+    ],
+    [
+      0.000032,
+      "Author:    graficoiulian \u003chttps://github.com/graficoiulian\u003e\r\n"
+    ],
+    [
+      0.000007,
+      "Fullname:  graficoiulian/bootstrap\t\tPrivate: False\r\nURL:       https://github.com/graficoiulian/bootstrap\r\n\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[33m3084773273 WatchEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000009,
+      "User:      rdesbonnet \u003chttps://api.github.com/users/rdesbonnet\u003e\r\nDate:      2015-08-24T16:32:18Z\r\n"
+    ],
+    [
+      0.000024,
+      "Action:    started\r\n"
+    ],
+    [
+      0.000095,
+      "\u001b[1mPress any key to continue, Q to quit...\r\u001b[22m"
+    ],
+    [
+      2.518203,
+      "                                                 \r"
+    ],
+    [
+      0.001428,
+      "\r\n"
+    ],
+    [
+      0.000068,
+      "\u001b[33m3084771257 IssuesEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000007,
+      "User:      TheZoker \u003chttps://api.github.com/users/TheZoker\u003e\r\nDate:      2015-08-24T16:31:41Z\r\n"
+    ],
+    [
+      0.000028,
+      "Created:   2015-08-24T16:31:38Z\r\nUpdated:   2015-08-24T16:31:38Z\r\nURL:       https://github.com/twbs/bootstrap/issues/17281\r\n"
+    ],
+    [
+      0.000019,
+      "Action:    \u001b[34m\u001b[1mopened\u001b[39m\u001b[22m\t\tState: \u001b[34m\u001b[1mopen\u001b[39m\u001b[22m\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      " \u001b[1mv4 - btn-group-xs still exists in docs\u001b[22m\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000256,
+      "   The `btn-group-xs` does still exists here:\r\n   http://v4-alpha.getbootstrap.com/components/button-group/#sizing\r\n\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[33m3084763164 ForkEvent\u001b[39m\r\nUser:      jrbenny35 \u003chttps://api.github.com/users/jrbenny35\u003e\r\nDate:      2015-08-24T16:29:13Z\r\n"
+    ],
+    [
+      0.000025,
+      "Author:    jrbenny35 \u003chttps://github.com/jrbenny35\u003e\r\n"
+    ],
+    [
+      0.000010,
+      "Fullname:  jrbenny35/bootstrap\t\tPrivate: False\r\nURL:       https://github.com/jrbenny35/bootstrap\r\n\r\n"
+    ],
+    [
+      0.000041,
+      "\u001b[33m3084758946 WatchEvent\u001b[39m\r\nUser:      stephenjia \u003chttps://api.github.com/users/stephenjia\u003e\r\n"
+    ],
+    [
+      0.000057,
+      "\u001b[1mPress any key to continue, Q to quit...\r\u001b[22m"
+    ],
+    [
+      3.021639,
+      "                                                 \r"
+    ],
+    [
+      0.001203,
+      "Date:      2015-08-24T16:27:56Z\r\n"
+    ],
+    [
+      0.000014,
+      "Action:    started\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000025,
+      "\u001b[33m3084747766 WatchEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000023,
+      "User:      drewreese \u003chttps://api.github.com/users/drewreese\u003e\r\nDate:      2015-08-24T16:24:31Z\r\n"
+    ],
+    [
+      0.000005,
+      "Action:    started\r\n\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[33m3084745215 ForkEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000004,
+      "User:      chrisnicotera \u003chttps://api.github.com/users/chrisnicotera\u003e\r\nDate:      2015-08-24T16:23:46Z\r\n"
+    ],
+    [
+      0.000026,
+      "Author:    chrisnicotera \u003chttps://github.com/chrisnicotera\u003e\r\n"
+    ],
+    [
+      0.000014,
+      "Fullname:  chrisnicotera/bootstrap\t\tPrivate: False\r\n"
+    ],
+    [
+      0.000006,
+      "URL:       https://github.com/chrisnicotera/bootstrap\r\n\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[33m3084743791 PullRequestEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000002,
+      "User:      m-ekramy \u003chttps://api.github.com/users/m-ekramy\u003e\r\n"
+    ],
+    [
+      0.000003,
+      "Date:      2015-08-24T16:23:20Z\r\n"
+    ],
+    [
+      0.000032,
+      "PR:        #17280 \u003chttps://github.com/twbs/bootstrap/pull/17280\u003e\r\n"
+    ],
+    [
+      0.000003,
+      "Created:   2015-08-24T16:23:16Z\tUpdated: 2015-08-24T16:23:16Z\r\n"
+    ],
+    [
+      0.000007,
+      "SHA:       108173369d29f77645a12038ee3b2ccbfe5bea1c\r\n"
+    ],
+    [
+      0.000003,
+      "Author:    m-ekramy \u003chttps://github.com/m-ekramy\u003e\r\n"
+    ],
+    [
+      0.000002,
+      "Ref:       master\r\n"
+    ],
+    [
+      0.000085,
+      "\u001b[1mPress any key to continue, Q to quit...\r\u001b[22m"
+    ],
+    [
+      2.086837,
+      "                                                 \r"
+    ],
+    [
+      0.001353,
+      "Action:    \u001b[34m\u001b[1mopened\u001b[39m\u001b[22m\t\t\tState: \u001b[34m\u001b[1mopen\u001b[39m\u001b[22m\r\n"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000025,
+      " \u001b[1mDynamic layout direction\u001b[22m\r\n\r\n"
+    ],
+    [
+      0.000515,
+      "   can you add a ``$Direction`` variable in ``_variable.scss`` file to\r\n   better supporting RTL layouting and text formating in bootstrap 4. i\r\n   mean the layout of bootstrap template (**RTL** or **LTR**) can change\r\n   simplify by changing the ``$Direction``. somthing like this:  #####\r\n   _anyfile.scss (like dropdown, forms, grid)  ```sass  @if($Direction ==\r\n"
+    ],
+    [
+      0.000293,
+      "   'ltr'){        float:left;  }  @else{       float:right;  }  ```\r\n\r\n\u001b[33m3084739866 IssuesEvent\u001b[39m\r\nUser:      abinthomas \u003chttps://api.github.com/users/abinthomas\u003e\r\nDate:      2015-08-24T16:22:10Z\r\nCreated:   2015-08-24T10:56:10Z\r\nUpdated:   2015-08-24T16:22:07Z\r\nURL:       https://github.com/twbs/bootstrap/issues/17268\r\nAction:    \u001b[34m\u001b[1mclosed\u001b[39m\u001b[22m\t\tState: \u001b[34m\u001b[1mclosed\u001b[39m\u001b[22m\r\n\r\n \u001b[1mPadding issue for input-group large size\u001b[22m\r\n\r\n   ![padding-issue](https://cloud.githubusercontent.com/assets/9411539/94\r\n   38587/a6fde1c6-4a7c-11e5-84cb-14353d4985d4.png)    The issue in\r\n"
+    ],
+    [
+      0.000040,
+      "\u001b[1mPress any key to continue, Q to quit...\r\u001b[22m"
+    ],
+    [
+      2.637471,
+      "                                                 \r"
+    ],
+    [
+      0.001362,
+      "   v4-alpha\r\n"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000037,
+      "\u001b[33m3084739594 IssueCommentEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000018,
+      "User:      abinthomas \u003chttps://api.github.com/users/abinthomas\u003e\r\n"
+    ],
+    [
+      0.000004,
+      "Date:      2015-08-24T16:22:06Z\r\n"
+    ],
+    [
+      0.000042,
+      "Created:   2015-08-24T16:22:03Z\r\nUpdated:   2015-08-24T16:22:03Z\r\nURL:       https://github.com/twbs/bootstrap/issues/17268#issuecomment-134284452\r\n"
+    ],
+    [
+      0.000007,
+      "Issue:     17268 \u003chttps://github.com/twbs/bootstrap/issues/17268\u003e\r\n\r\n"
+    ],
+    [
+      0.000024,
+      " \u001b[1mPadding issue for input-group large size\u001b[22m\r\n\r\n"
+    ],
+    [
+      0.000152,
+      "   Thank you @zacechola\r\n\r\n\u001b[33m3084737633 WatchEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000006,
+      "User:      fostertheweb \u003chttps://api.github.com/users/fostertheweb\u003e\r\nDate:      2015-08-24T16:21:32Z\r\n"
+    ],
+    [
+      0.000004,
+      "Action:    started\r\n\r\n"
+    ],
+    [
+      0.000026,
+      "\u001b[33m3084721879 ForkEvent\u001b[39m\r\nUser:      timowentink \u003chttps://api.github.com/users/timowentink\u003e\r\nDate:      2015-08-24T16:16:44Z\r\n"
+    ],
+    [
+      0.000026,
+      "Author:    timowentink \u003chttps://github.com/timowentink\u003e\r\n"
+    ],
+    [
+      0.000064,
+      "\u001b[1mPress any key to continue, Q to quit...\r\u001b[22m"
+    ],
+    [
+      2.374343,
+      "                                                 \r"
+    ],
+    [
+      0.001307,
+      "Fullname:  timowentink/bootstrap\t\tPrivate: False\r\n"
+    ],
+    [
+      0.000007,
+      "URL:       https://github.com/timowentink/bootstrap\r\n\r\n"
+    ],
+    [
+      0.000037,
+      "\u001b[33m3084715679 WatchEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000006,
+      "User:      kesuiket \u003chttps://api.github.com/users/kesuiket\u003e\r\nDate:      2015-08-24T16:14:53Z\r\n"
+    ],
+    [
+      0.000081,
+      "Action:    started\r\n\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[33m3084713311 IssueCommentEvent\u001b[39m\r\nUser:      Alanaktion \u003chttps://api.github.com/users/Alanaktion\u003e\r\nDate:      2015-08-24T16:14:11Z\r\n"
+    ],
+    [
+      0.000017,
+      "Created:   2015-08-24T16:14:08Z\r\nUpdated:   2015-08-24T16:14:08Z\r\n"
+    ],
+    [
+      0.000006,
+      "URL:       https://github.com/twbs/bootstrap/issues/17210#issuecomment-134274036\r\n"
+    ],
+    [
+      0.000016,
+      "Issue:     17210 \u003chttps://github.com/twbs/bootstrap/issues/17210\u003e\r\n\r\n"
+    ],
+    [
+      0.000011,
+      " \u001b[1mborder-width is invisible with $font-size-root set to 12/13px (v4)\u001b[22m\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000398,
+      "   Using `.1rem` would be a bit more flexible and easier to implement,\r\n   since `$border-width` is used in the `$input-height` calculations,\r\n   which rely on the other variables being in `rem`. `.1rem` renders\r\n   borders as `1px` for me for all fonts between `10px` and `19px`.\r\n"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000063,
+      "\u001b[1mPress any key to continue, Q to quit...\r\u001b[22m"
+    ],
+    [
+      2.142139,
+      "                                                 \r"
+    ],
+    [
+      0.001234,
+      "\u001b[33m3084700056 WatchEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000007,
+      "User:      flymouse \u003chttps://api.github.com/users/flymouse\u003e\r\nDate:      2015-08-24T16:10:17Z\r\n"
+    ],
+    [
+      0.000026,
+      "Action:    started\r\n\r\n"
+    ],
+    [
+      0.000025,
+      "\u001b[33m3084687260 IssueCommentEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000004,
+      "User:      TheZoker \u003chttps://api.github.com/users/TheZoker\u003e\r\nDate:      2015-08-24T16:06:33Z\r\n"
+    ],
+    [
+      0.000031,
+      "Created:   2015-08-24T16:06:30Z\r\nUpdated:   2015-08-24T16:06:30Z\r\nURL:       https://github.com/twbs/bootstrap/issues/17068#issuecomment-134267368\r\n"
+    ],
+    [
+      0.000010,
+      "Issue:     17068 \u003chttps://github.com/twbs/bootstrap/issues/17068\u003e\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      " \u001b[1mv4 - Missing space between nav-item and navbar-form\u001b[22m\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000354,
+      "   Here you go: https://jsbin.com/kiroze/edit?html,output  Second example\r\n   with 2 menus (e.g. for multiple mobile collapse):\r\n   https://jsbin.com/xohokuk/edit?html,output  And a `nav-text` is also\r\n   missing: https://jsbin.com/zovami/edit?html,output\r\n\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[33m3084682407 ForkEvent\u001b[39m\r\nUser:      Jeffery-Cai \u003chttps://api.github.com/users/Jeffery-Cai\u003e\r\nDate:      2015-08-24T16:05:05Z\r\n"
+    ],
+    [
+      0.000079,
+      "\u001b[1mPress any key to continue, Q to quit...\r\u001b[22m"
+    ],
+    [
+      2.222137,
+      "                                                 \r"
+    ],
+    [
+      0.001255,
+      "Author:    Jeffery-Cai \u003chttps://github.com/Jeffery-Cai\u003e\r\n"
+    ],
+    [
+      0.000007,
+      "Fullname:  Jeffery-Cai/bootstrap\t\tPrivate: False\r\nURL:       https://github.com/Jeffery-Cai/bootstrap\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000130,
+      "\u001b[33m3084676445 IssueCommentEvent\u001b[39m\r\nUser:      m-ekramy \u003chttps://api.github.com/users/m-ekramy\u003e\r\n"
+    ],
+    [
+      0.000006,
+      "Date:      2015-08-24T16:03:23Z\r\n"
+    ],
+    [
+      0.000003,
+      "Created:   2015-08-24T16:03:19Z\r\n"
+    ],
+    [
+      0.000009,
+      "Updated:   2015-08-24T16:03:19Z\r\n"
+    ],
+    [
+      0.000003,
+      "URL:       https://github.com/twbs/bootstrap/issues/17279#issuecomment-134264780\r\n"
+    ],
+    [
+      0.000024,
+      "Issue:     17279 \u003chttps://github.com/twbs/bootstrap/issues/17279\u003e\r\n\r\n"
+    ],
+    [
+      0.000004,
+      " \u001b[1mDynamic layout direction\u001b[22m\r\n"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000431,
+      "   yes if it can be changed dynamically by changing a dir variable in the\r\n   main variable file. it's mine code that wrote for bootstrap 3:  #####\r\n   _variables.scss  ``$Direction: 'rtl';``  and for example in my file if\r\n   i have `` float:left;`` changed it to:  ``    @if ($Direction ==\r\n   'rtl'){      float: right;    }@else{      float: left;    }  ``\r\n"
+    ],
+    [
+      0.000007,
+      "\r\n\u001b[33m3084651024 IssueCommentEvent\u001b[39m\r\nUser:      kkirsche \u003chttps://api.github.com/users/kkirsche\u003e\r\n"
+    ],
+    [
+      0.000003,
+      "Date:      2015-08-24T15:56:32Z\r\n"
+    ],
+    [
+      0.000082,
+      "\u001b[1mPress any key to continue, Q to quit...\r\u001b[22m"
+    ],
+    [
+      1.662146,
+      "                                                 \r"
+    ],
+    [
+      0.001291,
+      "Created:   2015-08-24T15:56:28Z\r\n"
+    ],
+    [
+      0.000007,
+      "Updated:   2015-08-24T15:56:28Z\r\nURL:       https://github.com/twbs/bootstrap/issues/17279#issuecomment-134260945\r\n"
+    ],
+    [
+      0.000056,
+      "Issue:     17279 \u003chttps://github.com/twbs/bootstrap/issues/17279\u003e\r\n\r\n"
+    ],
+    [
+      0.000006,
+      " \u001b[1mDynamic layout direction\u001b[22m\r\n"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000300,
+      "   @m-ekramy am I correct in understanding that you would like better\r\n   support of RTL text formats? Just want to make sure I fully understand\r\n   your goals\r\n\r\n"
+    ],
+    [
+      0.000032,
+      "\u001b[33m3084646278 IssuesEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000011,
+      "User:      m-ekramy \u003chttps://api.github.com/users/m-ekramy\u003e\r\nDate:      2015-08-24T15:55:15Z\r\nCreated:   2015-08-24T15:55:11Z\r\n"
+    ],
+    [
+      0.000003,
+      "Updated:   2015-08-24T15:55:11Z\r\n"
+    ],
+    [
+      0.000003,
+      "URL:       https://github.com/twbs/bootstrap/issues/17279\r\n"
+    ],
+    [
+      0.000018,
+      "Action:    \u001b[34m\u001b[1mopened\u001b[39m\u001b[22m\t\tState: \u001b[34m\u001b[1mopen\u001b[39m\u001b[22m\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      " \u001b[1mDynamic layout direction\u001b[22m\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000285,
+      "   hi!  i customize bootstrap3 and make it's direction dynamically by\r\n"
+    ],
+    [
+      0.000005,
+      "   adding a $dir var in variables file then on each files check if $dir\r\n"
+    ],
+    [
+      0.000057,
+      "\u001b[1mPress any key to continue, Q to quit...\r\u001b[22m"
+    ],
+    [
+      1.509676,
+      "                                                 \r"
+    ],
+    [
+      0.001267,
+      "   == 'rtl' then float:right else float left. why you don't add this\r\n   fueature to bootstrap 4?! it's make bootstrap more amazing ;-)\r\n"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000048,
+      "\u001b[33m3084643877 ForkEvent\u001b[39m\r\nUser:      philipjin \u003chttps://api.github.com/users/philipjin\u003e\r\n"
+    ],
+    [
+      0.000006,
+      "Date:      2015-08-24T15:54:36Z\r\n"
+    ],
+    [
+      0.000024,
+      "Author:    philipjin \u003chttps://github.com/philipjin\u003e\r\n"
+    ],
+    [
+      0.000004,
+      "Fullname:  philipjin/bootstrap\t\tPrivate: False\r\n"
+    ],
+    [
+      0.000007,
+      "URL:       https://github.com/philipjin/bootstrap\r\n\r\n"
+    ],
+    [
+      0.000027,
+      "\u001b[33m3084641467 ForkEvent\u001b[39m\r\nUser:      chrisnicotera \u003chttps://api.github.com/users/chrisnicotera\u003e\r\nDate:      2015-08-24T15:53:54Z\r\n"
+    ],
+    [
+      0.000006,
+      "Author:    chrisnicotera \u003chttps://github.com/chrisnicotera\u003e\r\n"
+    ],
+    [
+      0.000008,
+      "Fullname:  chrisnicotera/bootstrap\t\tPrivate: False\r\n"
+    ],
+    [
+      0.000004,
+      "URL:       https://github.com/chrisnicotera/bootstrap\r\n"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.905155,
+      "\u001b[33m3084620519 IssueCommentEvent\u001b[39m\r\nUser:      kkirsche \u003chttps://api.github.com/users/kkirsche\u003e\r\nDate:      2015-08-24T15:48:16Z\r\n"
+    ],
+    [
+      0.000009,
+      "Created:   2015-08-24T15:48:13Z\r\nUpdated:   2015-08-24T15:48:13Z\r\nURL:       https://github.com/twbs/bootstrap/issues/17068#issuecomment-134257199\r\n"
+    ],
+    [
+      0.000051,
+      "\u001b[1mPress any key to continue, Q to quit...\r\u001b[22m"
+    ],
+    [
+      0.941794,
+      "                                                 \r"
+    ],
+    [
+      0.001309,
+      "Issue:     17068 \u003chttps://github.com/twbs/bootstrap/issues/17068\u003e\r\n\r\n"
+    ],
+    [
+      0.000007,
+      " \u001b[1mv4 - Missing space between nav-item and navbar-form\u001b[22m\r\n\r\n"
+    ],
+    [
+      0.000443,
+      "   @TheZoker thanks for posting the bug report! do you mind posting a\r\n   JSBin demonstrating this? It'll make it quicker for us to put the fix\r\n   together and to showcase what was done and how so everyone agrees it's\r\n   fully fixed :smiley:     Thanks for understanding!\r\n"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[33m3084585537 WatchEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000026,
+      "User:      findwei \u003chttps://api.github.com/users/findwei\u003e\r\nDate:      2015-08-24T15:38:15Z\r\n"
+    ],
+    [
+      0.000009,
+      "Action:    started\r\n\r\n"
+    ],
+    [
+      0.000032,
+      "\u001b[33m3084558226 ForkEvent\u001b[39m\r\nUser:      gongmiaomiao \u003chttps://api.github.com/users/gongmiaomiao\u003e\r\nDate:      2015-08-24T15:30:56Z\r\n"
+    ],
+    [
+      0.000011,
+      "Author:    gongmiaomiao \u003chttps://github.com/gongmiaomiao\u003e\r\n"
+    ],
+    [
+      0.000013,
+      "Fullname:  gongmiaomiao/bootstrap\t\tPrivate: False\r\n"
+    ],
+    [
+      0.000004,
+      "URL:       https://github.com/gongmiaomiao/bootstrap\r\n\r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[33m3084553738 ForkEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000004,
+      "User:      lfairbanks \u003chttps://api.github.com/users/lfairbanks\u003e\r\n"
+    ],
+    [
+      0.000076,
+      "\u001b[1mPress any key to continue, Q to quit...\r\u001b[22m"
+    ],
+    [
+      1.533712,
+      "                                                 \r"
+    ],
+    [
+      0.001319,
+      "Date:      2015-08-24T15:29:45Z\r\n"
+    ],
+    [
+      0.000023,
+      "Author:    lfairbanks \u003chttps://github.com/lfairbanks\u003e\r\n"
+    ],
+    [
+      0.000018,
+      "Fullname:  lfairbanks/bootstrap\t\tPrivate: False\r\n"
+    ],
+    [
+      0.000004,
+      "URL:       https://github.com/lfairbanks/bootstrap\r\n"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000039,
+      "\u001b[33m3084506853 IssuesEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000006,
+      "User:      monoblaine \u003chttps://api.github.com/users/monoblaine\u003e\r\nDate:      2015-08-24T15:17:16Z\r\n"
+    ],
+    [
+      0.000014,
+      "Created:   2015-08-24T15:17:13Z\r\n"
+    ],
+    [
+      0.000003,
+      "Updated:   2015-08-24T15:17:13Z\r\n"
+    ],
+    [
+      0.000021,
+      "URL:       https://github.com/twbs/bootstrap/issues/17278\r\n"
+    ],
+    [
+      0.000008,
+      "Action:    \u001b[34m\u001b[1mopened\u001b[39m\u001b[22m\t\tState: \u001b[34m\u001b[1mopen\u001b[39m\u001b[22m\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      " \u001b[1mv4 - File browser component suggestion (with JavaScript)\u001b[22m\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.001167,
+      "   I suggest changing the `.file-custom` class as follows, and use some\r\n   script:    # Before    ```less  .file-custom::after {      content:\r\n   \"Choose file...\";  }  ```    # After    ```less  .file-custom {\r\n   /* the rest of the rules are omitted. */      overflow: hidden;\r\n   white-space: nowrap;  }    .file-custom:empty::after {      content:\r\n   \"Choose file...\";  }  ```    # Script    ```js  (function ($) {\r\n"
+    ],
+    [
+      0.000009,
+      "   var doc = document,          supportsMultipleFiles = \"multiple\" in\r\n   doc.createElement(\"input\");        $(doc).on(\"change\", \".file \u003e\r\n"
+    ],
+    [
+      0.000051,
+      "\u001b[1mPress any key to continue, Q to quit...\r\u001b[22m"
+    ],
+    [
+      1.429285,
+      "                                                 \r"
+    ],
+    [
+      0.001294,
+      "   input[type=file]\", function () {          var input = this,\r\n   fileNames = [],              label = input.nextElementSibling,\r\n   files, len, i = -1, labelValue;                        if\r\n"
+    ],
+    [
+      0.000008,
+      "   (supportsMultipleFiles) {              len = (files =\r\n   input.files).length;                            while (++i \u003c len) {\r\n   fileNames.push(files[i].name);              }          }          else\r\n   {              fileNames.push(input.value.replace(/\\\\/g,\r\n"
+    ],
+    [
+      0.000003,
+      "   \"/\").replace(/.*\\//, \"\")); // Removes the path info (\"C:\\fakepath\\\" or\r\n"
+    ],
+    [
+      0.000003,
+      "   sth like that)          }                    label.textContent =\r\n"
+    ],
+    [
+      0.000010,
+      "   labelValue = fileNames.length === 0 ? \"\" : fileNames.join(\", \");\r\n   label.setAttribute(\"title\", labelValue);      });  })(jQuery);  ```\r\n"
+    ],
+    [
+      0.000013,
+      "   # Example    https://jsbin.com/kimaju/edit?html,css,js,output\r\n"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000053,
+      "\u001b[33m3084495121 ForkEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000006,
+      "User:      hischoolboy \u003chttps://api.github.com/users/hischoolboy\u003e\r\nDate:      2015-08-24T15:14:03Z\r\n"
+    ],
+    [
+      0.000023,
+      "Author:    hischoolboy \u003chttps://github.com/hischoolboy\u003e\r\n"
+    ],
+    [
+      0.000036,
+      "Fullname:  hischoolboy/bootstrap\t\tPrivate: False\r\nURL:       https://github.com/hischoolboy/bootstrap\r\n\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[33m3084492381 IssueCommentEvent\u001b[39m\r\nUser:      kkirsche \u003chttps://api.github.com/users/kkirsche\u003e\r\nDate:      2015-08-24T15:13:19Z\r\n"
+    ],
+    [
+      0.000090,
+      "\u001b[1mPress any key to continue, Q to quit...\r\u001b[22m"
+    ],
+    [
+      1.430592,
+      "                                                 \r"
+    ],
+    [
+      0.001190,
+      "Created:   2015-08-24T15:13:16Z\r\n"
+    ],
+    [
+      0.000007,
+      "Updated:   2015-08-24T15:13:16Z\r\nURL:       https://github.com/twbs/bootstrap/issues/17276#issuecomment-134242394\r\n"
+    ],
+    [
+      0.000057,
+      "Issue:     17276 \u003chttps://github.com/twbs/bootstrap/issues/17276\u003e\r\n\r\n"
+    ],
+    [
+      0.000007,
+      " \u001b[1mv4 - Navbar bg-primary dropdowns should get black font color\u001b[22m\r\n\r\n"
+    ],
+    [
+      0.000318,
+      "   Took the idea here which I think is correct and figured using the\r\n   user's default body text color would probably make more sense in\r\n   #17277 — thanks for reporting the bug!\r\n\r\n"
+    ],
+    [
+      0.000042,
+      "\u001b[33m3084491994 WatchEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000007,
+      "User:      goatide \u003chttps://api.github.com/users/goatide\u003e\r\nDate:      2015-08-24T15:13:13Z\r\nAction:    started\r\n\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[33m3084490469 WatchEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000009,
+      "User:      fnbone \u003chttps://api.github.com/users/fnbone\u003e\r\nDate:      2015-08-24T15:12:48Z\r\n"
+    ],
+    [
+      0.000014,
+      "Action:    started\r\n\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[33m3084489826 PullRequestEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000003,
+      "User:      kkirsche \u003chttps://api.github.com/users/kkirsche\u003e\r\n"
+    ],
+    [
+      0.000070,
+      "\u001b[1mPress any key to continue, Q to quit...\r\u001b[22m"
+    ],
+    [
+      1.702024,
+      "                                                 \r"
+    ],
+    [
+      0.001229,
+      "Date:      2015-08-24T15:12:37Z\r\n"
+    ],
+    [
+      0.000135,
+      "PR:        #17277 \u003chttps://github.com/twbs/bootstrap/pull/17277\u003e\r\nCreated:   2015-08-24T15:12:34Z\tUpdated: 2015-08-24T15:12:34Z\r\n"
+    ],
+    [
+      0.000008,
+      "SHA:       9eddd9d8c4c2d6c6f71bfc91cabe6646afe67260\r\nAuthor:    kkirsche \u003chttps://github.com/kkirsche\u003e\r\nRef:       patch-5\r\n"
+    ],
+    [
+      0.000004,
+      "Action:    \u001b[34m\u001b[1mopened\u001b[39m\u001b[22m\t\t\tState: \u001b[34m\u001b[1mopen\u001b[39m\u001b[22m\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      " \u001b[1mUse the body color for dropdown menu text in navbars\u001b[22m\r\n\r\n"
+    ],
+    [
+      0.000166,
+      "   Fix #17276\r\n\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[33m3084469020 IssuesEvent\u001b[39m\r\nUser:      TheZoker \u003chttps://api.github.com/users/TheZoker\u003e\r\n"
+    ],
+    [
+      0.000009,
+      "Date:      2015-08-24T15:06:57Z\r\n"
+    ],
+    [
+      0.000025,
+      "Created:   2015-08-24T15:06:53Z\r\nUpdated:   2015-08-24T15:06:53Z\r\nURL:       https://github.com/twbs/bootstrap/issues/17276\r\n"
+    ],
+    [
+      0.000005,
+      "Action:    \u001b[34m\u001b[1mopened\u001b[39m\u001b[22m\t\tState: \u001b[34m\u001b[1mopen\u001b[39m\u001b[22m\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      " \u001b[1mNavbar bg-primary dropdowns should get black font color\u001b[22m\r\n\r\n"
+    ],
+    [
+      0.000490,
+      "   When a navbar has `.bg-primary` the dropdown should get a black font\r\n"
+    ],
+    [
+      0.000046,
+      "\u001b[1mPress any key to continue, Q to quit...\r\u001b[22m"
+    ],
+    [
+      2.117951,
+      "                                                 \r"
+    ],
+    [
+      0.001314,
+      "   color.    Something like:  ```  .bg-primary .dropdown-menu {\r\n   color: #000;  }  ```  Otherwise this leads to some problems:\r\n"
+    ],
+    [
+      0.000008,
+      "   ![img_2015 08 24_17h05m12s_009_](https://cloud.githubusercontent.com/a\r\n   ssets/1368405/9443641/72b08cec-4a82-11e5-8a9e-ff2c27508c5f.png)\r\n   ![img_2015 08 24_17h06m06s_010_](https://cloud.githubusercontent.com/a\r\n   ssets/1368405/9443640/72ac5726-4a82-11e5-90e1-fc4c1fcd4ec8.png)\r\n"
+    ],
+    [
+      0.000037,
+      "\r\n"
+    ],
+    [
+      0.000036,
+      "\u001b[33m3084467832 IssueCommentEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000010,
+      "User:      kkirsche \u003chttps://api.github.com/users/kkirsche\u003e\r\n"
+    ],
+    [
+      0.000004,
+      "Date:      2015-08-24T15:06:47Z\r\n"
+    ],
+    [
+      0.000024,
+      "Created:   2015-08-24T15:06:43Z\r\n"
+    ],
+    [
+      0.000004,
+      "Updated:   2015-08-24T15:06:43Z\r\n"
+    ],
+    [
+      0.000003,
+      "URL:       https://github.com/twbs/bootstrap/issues/17274#issuecomment-134238229\r\n"
+    ],
+    [
+      0.000049,
+      "Issue:     17274 \u003chttps://github.com/twbs/bootstrap/issues/17274\u003e\r\n\r\n"
+    ],
+    [
+      0.000006,
+      " \u001b[1m.card-block p:last-of-type should be margin-bottom: 0\u001b[22m\r\n\r\n"
+    ],
+    [
+      0.000316,
+      "   @brwr Can you post a JSBin demonstrating this issue? I wasn't able to\r\n   duplicate a situation where this would be a major issue though I may\r\n   be thinking through this differently than what you mean.\r\n\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[33m3084465700 WatchEvent\u001b[39m\r\nUser:      tonyyu \u003chttps://api.github.com/users/tonyyu\u003e\r\n"
+    ],
+    [
+      0.000065,
+      "\u001b[1mPress any key to continue, Q to quit...\r\u001b[22m"
+    ],
+    [
+      1.541833,
+      "                                                 \r"
+    ],
+    [
+      0.001201,
+      "Date:      2015-08-24T15:06:11Z\r\n"
+    ],
+    [
+      0.000013,
+      "Action:    started\r\n"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000027,
+      "\u001b[33m3084458797 WatchEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000026,
+      "User:      hungndv \u003chttps://api.github.com/users/hungndv\u003e\r\nDate:      2015-08-24T15:04:20Z\r\n"
+    ],
+    [
+      0.000006,
+      "Action:    started\r\n\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[33m3084450605 IssueCommentEvent\u001b[39m\r\nUser:      zacechola \u003chttps://api.github.com/users/zacechola\u003e\r\n"
+    ],
+    [
+      0.000004,
+      "Date:      2015-08-24T15:02:10Z\r\n"
+    ],
+    [
+      0.000021,
+      "Created:   2015-08-24T15:02:06Z\r\n"
+    ],
+    [
+      0.000005,
+      "Updated:   2015-08-24T15:02:06Z\r\n"
+    ],
+    [
+      0.000013,
+      "URL:       https://github.com/twbs/bootstrap/issues/17268#issuecomment-134235413\r\n"
+    ],
+    [
+      0.000025,
+      "Issue:     17268 \u003chttps://github.com/twbs/bootstrap/issues/17268\u003e\r\n\r\n"
+    ],
+    [
+      0.000005,
+      " \u001b[1mPadding issue for input-group large size\u001b[22m\r\n\r\n"
+    ],
+    [
+      0.000194,
+      "   Duplicate of #17035\r\n\r\n\u001b[33m3084448127 IssueCommentEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000006,
+      "User:      toastal \u003chttps://api.github.com/users/toastal\u003e\r\nDate:      2015-08-24T15:01:32Z\r\n"
+    ],
+    [
+      0.000070,
+      "\u001b[1mPress any key to continue, Q to quit...\r\u001b[22m"
+    ],
+    [
+      1.662554,
+      "                                                 \r"
+    ],
+    [
+      0.001245,
+      "Created:   2015-08-24T15:01:29Z\r\nUpdated:   2015-08-24T15:01:29Z\r\n"
+    ],
+    [
+      0.000006,
+      "URL:       https://github.com/twbs/bootstrap/issues/17052#issuecomment-134235238\r\n"
+    ],
+    [
+      0.000037,
+      "Issue:     17052 \u003chttps://github.com/twbs/bootstrap/issues/17052\u003e\r\n\r\n"
+    ],
+    [
+      0.000006,
+      " \u001b[1mv4 CSS switch from :before/:after to ::before/::after\u001b[22m\r\n\r\n"
+    ],
+    [
+      0.000601,
+      "   I'd like to echo @kkirsche for more eloquently voicing my thoughts\r\n   about the matter. We're unsure how long vendors will support single\r\n   colon and we know that the spec has been defined to be double--and all\r\n   major browsers support the spec's syntax now. If anything, a big\r\n   project like TWBS would teach the 'lazy' folks that they *should* be\r\n"
+    ],
+    [
+      0.000007,
+      "   using the double colon syntax. I know I personally learned quite a bit\r\n   about CSS \u0026 JS because of this project. It's about setting a good\r\n   example.\r\n\r\n"
+    ],
+    [
+      0.000034,
+      "\u001b[33m3084441875 CommitCommentEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000018,
+      "User:      metaarts \u003chttps://api.github.com/users/metaarts\u003e\r\nDate:      2015-08-24T14:59:55Z\r\n"
+    ],
+    [
+      0.000006,
+      "SHA:       3b2b6f4a056d755c28e822f85080fae3a7f65b0d\r\n"
+    ],
+    [
+      0.000004,
+      "Author:    metaarts \u003chttps://github.com/metaarts\u003e\r\n"
+    ],
+    [
+      0.000009,
+      "ID:        12859403\r\n"
+    ],
+    [
+      0.000004,
+      "URL:       https://github.com/twbs/bootstrap/commit/3b2b6f4a056d755c28e822f85080fae3a7f65b0d#commitcomment-12859403\r\n"
+    ],
+    [
+      0.000090,
+      "\u001b[1mPress any key to continue, Q to quit...\r\u001b[22m"
+    ],
+    [
+      1.510074,
+      "                                                 \r"
+    ],
+    [
+      0.001274,
+      "\r\n"
+    ],
+    [
+      0.000213,
+      "   YOU SAVED MY LIFE!\r\n\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[33m3084441848 WatchEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000024,
+      "User:      todda00 \u003chttps://api.github.com/users/todda00\u003e\r\n"
+    ],
+    [
+      0.000006,
+      "Date:      2015-08-24T14:59:57Z\r\n"
+    ],
+    [
+      0.000012,
+      "Action:    started\r\n\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[33m3084438843 IssueCommentEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000003,
+      "User:      zacechola \u003chttps://api.github.com/users/zacechola\u003e\r\n"
+    ],
+    [
+      0.000003,
+      "Date:      2015-08-24T14:59:13Z\r\n"
+    ],
+    [
+      0.000016,
+      "Created:   2015-08-24T14:59:10Z\r\n"
+    ],
+    [
+      0.000004,
+      "Updated:   2015-08-24T14:59:10Z\r\n"
+    ],
+    [
+      0.000008,
+      "URL:       https://github.com/twbs/bootstrap/issues/17273#issuecomment-134234639\r\n"
+    ],
+    [
+      0.000015,
+      "Issue:     17273 \u003chttps://github.com/twbs/bootstrap/issues/17273\u003e\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      " \u001b[1mTooltips: \"Tether is not defined\"\u001b[22m\r\n\r\n"
+    ],
+    [
+      0.000184,
+      "   Should x-ref with #17201 and cc @fat. There are options for handling\r\n   dependencies _in general_ that need to be worked out.\r\n\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[33m3084425955 IssueCommentEvent\u001b[39m\r\nUser:      mattez \u003chttps://api.github.com/users/mattez\u003e\r\n"
+    ],
+    [
+      0.000074,
+      "\u001b[1mPress any key to continue, Q to quit...\r\u001b[22m"
+    ],
+    [
+      1.509964,
+      "                                                 \r"
+    ],
+    [
+      0.001319,
+      "Date:      2015-08-24T14:55:51Z\r\n"
+    ],
+    [
+      0.000030,
+      "Created:   2015-08-24T14:55:48Z\r\n"
+    ],
+    [
+      0.000007,
+      "Updated:   2015-08-24T14:55:48Z\r\nURL:       https://github.com/twbs/bootstrap/pull/17275#issuecomment-134233389\r\n"
+    ],
+    [
+      0.000101,
+      "Issue:     17275 \u003chttps://github.com/twbs/bootstrap/pull/17275\u003e\r\n\r\n"
+    ],
+    [
+      0.000006,
+      " \u001b[1mFix anchors, fix naming consistency\u001b[22m\r\n\r\n"
+    ],
+    [
+      0.000257,
+      "   @kkirsche oh so it's not my foult, = im happy THANK YOU for your\r\n   response. Good luck with that issue.\r\n\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[33m3084403655 IssueCommentEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000003,
+      "User:      kkirsche \u003chttps://api.github.com/users/kkirsche\u003e\r\n"
+    ],
+    [
+      0.000020,
+      "Date:      2015-08-24T14:50:03Z\r\n"
+    ],
+    [
+      0.000007,
+      "Created:   2015-08-24T14:50:00Z\r\nUpdated:   2015-08-24T14:50:00Z\r\nURL:       https://github.com/twbs/bootstrap/pull/17275#issuecomment-134231746\r\n"
+    ],
+    [
+      0.000026,
+      "Issue:     17275 \u003chttps://github.com/twbs/bootstrap/pull/17275\u003e\r\n\r\n"
+    ],
+    [
+      0.000004,
+      " \u001b[1mFix anchors, fix naming consistency\u001b[22m\r\n\r\n"
+    ],
+    [
+      0.000122,
+      "   @mattez this is due to a build issue that we are working to address in\r\n   #17050\r\n"
+    ],
+    [
+      0.000055,
+      "\u001b[1mPress any key to continue, Q to quit...\r\u001b[22m"
+    ],
+    [
+      1.070112,
+      "                                                 \r"
+    ],
+    [
+      0.001284,
+      "\r\n"
+    ],
+    [
+      0.000033,
+      "\u001b[33m3084397867 ForkEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000009,
+      "User:      pomelo-nwu \u003chttps://api.github.com/users/pomelo-nwu\u003e\r\n"
+    ],
+    [
+      0.000003,
+      "Date:      2015-08-24T14:48:26Z\r\n"
+    ],
+    [
+      0.000040,
+      "Author:    pomelo-nwu \u003chttps://github.com/pomelo-nwu\u003e\r\n"
+    ],
+    [
+      0.000007,
+      "Fullname:  pomelo-nwu/bootstrap\t\tPrivate: False\r\nURL:       https://github.com/pomelo-nwu/bootstrap\r\n\r\n"
+    ],
+    [
+      0.000030,
+      "\u001b[33m3084396572 IssueCommentEvent\u001b[39m\r\nUser:      mattez \u003chttps://api.github.com/users/mattez\u003e\r\nDate:      2015-08-24T14:48:07Z\r\n"
+    ],
+    [
+      0.000005,
+      "Created:   2015-08-24T14:48:04Z\r\n"
+    ],
+    [
+      0.000003,
+      "Updated:   2015-08-24T14:48:04Z\r\n"
+    ],
+    [
+      0.000009,
+      "URL:       https://github.com/twbs/bootstrap/pull/17275#issuecomment-134231251\r\n"
+    ],
+    [
+      0.000025,
+      "Issue:     17275 \u003chttps://github.com/twbs/bootstrap/pull/17275\u003e\r\n\r\n \u001b[1mFix anchors, fix naming consistency\u001b[22m\r\n"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000330,
+      "   Have I done something wrong?  Probably yes. \"All checks have failed\"\r\n   it is not good sign, isn't it.  But I don't know what is wrong.\r\n   Please, if you know, give me a note.  Thank you very much.\r\n\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[33m3084393825 WatchEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000062,
+      "\u001b[1mPress any key to continue, Q to quit...\r\u001b[22m"
+    ],
+    [
+      1.278039,
+      "                                                 \r"
+    ],
+    [
+      0.001191,
+      "User:      zomars \u003chttps://api.github.com/users/zomars\u003e\r\n"
+    ],
+    [
+      0.000006,
+      "Date:      2015-08-24T14:47:23Z\r\n"
+    ],
+    [
+      0.000031,
+      "Action:    started\r\n\r\n"
+    ],
+    [
+      0.000050,
+      "\u001b[33m3084358425 IssueCommentEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000008,
+      "User:      CoralSilver \u003chttps://api.github.com/users/CoralSilver\u003e\r\n"
+    ],
+    [
+      0.000006,
+      "Date:      2015-08-24T14:37:56Z\r\n"
+    ],
+    [
+      0.000034,
+      "Created:   2015-08-24T14:37:53Z\r\nUpdated:   2015-08-24T14:37:53Z\r\n"
+    ],
+    [
+      0.000006,
+      "URL:       https://github.com/twbs/bootstrap/issues/17169#issuecomment-134228747\r\nIssue:     17169 \u003chttps://github.com/twbs/bootstrap/issues/17169\u003e\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      " \u001b[1mv4 [hidden] attribute\u001b[22m\r\n\r\n"
+    ],
+    [
+      0.000178,
+      "   Makes sense. Thanks.\r\n\r\n\u001b[33m3084358115 PullRequestEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000006,
+      "User:      mattez \u003chttps://api.github.com/users/mattez\u003e\r\nDate:      2015-08-24T14:37:52Z\r\n"
+    ],
+    [
+      0.000036,
+      "PR:        #17275 \u003chttps://github.com/twbs/bootstrap/pull/17275\u003e\r\nCreated:   2015-08-24T14:37:49Z\tUpdated: 2015-08-24T14:37:49Z\r\n"
+    ],
+    [
+      0.000006,
+      "SHA:       a1b38092e2f87af519dc4ceb516badf6d2da9677\r\nAuthor:    mattez \u003chttps://github.com/mattez\u003e\r\n"
+    ],
+    [
+      0.000066,
+      "\u001b[1mPress any key to continue, Q to quit...\r\u001b[22m"
+    ],
+    [
+      1.334516,
+      "                                                 \r"
+    ],
+    [
+      0.001182,
+      "Ref:       fix-docs-layout-grid\r\n"
+    ],
+    [
+      0.000054,
+      "Action:    \u001b[34m\u001b[1mopened\u001b[39m\u001b[22m\t\t\tState: \u001b[34m\u001b[1mopen\u001b[39m\u001b[22m\r\n\r\n \u001b[1mFix anchors, fix naming consistency\u001b[22m\r\n\r\n"
+    ],
+    [
+      0.000252,
+      "   I found non working anchors and some naming in consistency. I hope I\r\n   fixed well. Have a nice day.\r\n\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[33m3084354250 WatchEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000020,
+      "User:      pistech \u003chttps://api.github.com/users/pistech\u003e\r\n"
+    ],
+    [
+      0.000006,
+      "Date:      2015-08-24T14:36:46Z\r\n"
+    ],
+    [
+      0.000037,
+      "Action:    started\r\n\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[33m3084322707 WatchEvent\u001b[39m\r\nUser:      bigezhang \u003chttps://api.github.com/users/bigezhang\u003e\r\nDate:      2015-08-24T14:27:59Z\r\nAction:    started\r\n\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[33m3084299915 ForkEvent\u001b[39m\r\nUser:      mattez \u003chttps://api.github.com/users/mattez\u003e\r\n"
+    ],
+    [
+      0.000003,
+      "Date:      2015-08-24T14:21:38Z\r\n"
+    ],
+    [
+      0.000025,
+      "Author:    mattez \u003chttps://github.com/mattez\u003e\r\n"
+    ],
+    [
+      0.000004,
+      "Fullname:  mattez/bootstrap\t\tPrivate: False\r\n"
+    ],
+    [
+      0.000073,
+      "\u001b[1mPress any key to continue, Q to quit...\r\u001b[22m"
+    ],
+    [
+      1.950205,
+      "                                                 \r"
+    ],
+    [
+      0.001284,
+      "URL:       https://github.com/mattez/bootstrap\r\n\r\n"
+    ],
+    [
+      0.000071,
+      "\u001b[33m3084291673 IssueCommentEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000007,
+      "User:      kkirsche \u003chttps://api.github.com/users/kkirsche\u003e\r\nDate:      2015-08-24T14:19:26Z\r\n"
+    ],
+    [
+      0.000003,
+      "Created:   2015-08-24T14:19:23Z\r\n"
+    ],
+    [
+      0.000003,
+      "Updated:   2015-08-24T14:19:23Z\r\n"
+    ],
+    [
+      0.000013,
+      "URL:       https://github.com/twbs/bootstrap/issues/17169#issuecomment-134221825\r\n"
+    ],
+    [
+      0.000021,
+      "Issue:     17169 \u003chttps://github.com/twbs/bootstrap/issues/17169\u003e\r\n\r\n"
+    ],
+    [
+      0.000004,
+      " \u001b[1mv4 [hidden] attribute\u001b[22m\r\n"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000543,
+      "   @CoralSilver there's no reason for us to deprecate it in my opinion.\r\n   V4 is a major update and as such we should probably not deprecate\r\n   things as this is our chance per semantic versioning to make non\r\n   backwards compatible changes. Keeping it as deprecated will keep it\r\n   until V5 which while small starts this type of questioning about any\r\n"
+    ],
+    [
+      0.000006,
+      "   and all classes which I think the core team would want to avoid.\r\n   X-Ref: #17240\r\n\r\n"
+    ],
+    [
+      1.053216,
+      "\u001b[33m3084283184 IssueCommentEvent\u001b[39m\r\nUser:      kkirsche \u003chttps://api.github.com/users/kkirsche\u003e\r\nDate:      2015-08-24T14:17:06Z\r\n"
+    ],
+    [
+      0.000042,
+      "\u001b[1mPress any key to continue, Q to quit...\r\u001b[22m"
+    ],
+    [
+      0.856661,
+      "                                                 \r"
+    ],
+    [
+      0.001264,
+      "Created:   2015-08-24T14:17:03Z\r\n"
+    ],
+    [
+      0.000007,
+      "Updated:   2015-08-24T14:17:03Z\r\nURL:       https://github.com/twbs/bootstrap/issues/17273#issuecomment-134221074\r\n"
+    ],
+    [
+      0.000038,
+      "Issue:     17273 \u003chttps://github.com/twbs/bootstrap/issues/17273\u003e\r\n\r\n"
+    ],
+    [
+      0.000006,
+      " \u001b[1mTooltips: \"Tether is not defined\"\u001b[22m\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000368,
+      "   @lgkonline did you load the tether javascript library? You'll notice\r\n   in the docs we load this file to load the tether library https://githu\r\n   b.com/twbs/bootstrap/blob/v4-dev/docs/assets/js/vendor/tether.min.js#L\r\n   1\r\n\r\n"
+    ],
+    [
+      0.000028,
+      "\u001b[33m3084270781 IssuesEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000006,
+      "User:      brwr \u003chttps://api.github.com/users/brwr\u003e\r\nDate:      2015-08-24T14:13:43Z\r\n"
+    ],
+    [
+      0.000040,
+      "Created:   2015-08-24T14:13:40Z\r\nUpdated:   2015-08-24T14:13:40Z\r\n"
+    ],
+    [
+      0.000004,
+      "URL:       https://github.com/twbs/bootstrap/issues/17274\r\n"
+    ],
+    [
+      0.000004,
+      "Action:    \u001b[34m\u001b[1mopened\u001b[39m\u001b[22m\t\tState: \u001b[34m\u001b[1mopen\u001b[39m\u001b[22m\r\n"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      " \u001b[1m.card-block p:last-of-type should be margin-bottom: 0\u001b[22m\r\n\r\n"
+    ],
+    [
+      0.000126,
+      "   Inside `.card-block`, the last `p` tag should be `margin-bottom: 0`.\r\n"
+    ],
+    [
+      0.000068,
+      "\u001b[1mPress any key to continue, Q to quit...\r\u001b[22m"
+    ],
+    [
+      1.621841,
+      "                                                 \r"
+    ],
+    [
+      0.001339,
+      "   This is not currently the case.\r\n\r\n"
+    ],
+    [
+      0.000030,
+      "\u001b[33m3084257767 IssueCommentEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000014,
+      "User:      CoralSilver \u003chttps://api.github.com/users/CoralSilver\u003e\r\n"
+    ],
+    [
+      0.000023,
+      "Date:      2015-08-24T14:09:56Z\r\n"
+    ],
+    [
+      0.000006,
+      "Created:   2015-08-24T14:09:53Z\r\n"
+    ],
+    [
+      0.000003,
+      "Updated:   2015-08-24T14:09:53Z\r\n"
+    ],
+    [
+      0.000014,
+      "URL:       https://github.com/twbs/bootstrap/issues/17169#issuecomment-134218689\r\n"
+    ],
+    [
+      0.000013,
+      "Issue:     17169 \u003chttps://github.com/twbs/bootstrap/issues/17169\u003e\r\n\r\n"
+    ],
+    [
+      0.000019,
+      " \u001b[1mv4 [hidden] attribute\u001b[22m\r\n\r\n"
+    ],
+    [
+      0.000508,
+      "   As ```.hidden``` wasn't deprecated in the last version, I would\r\n   consider in leaving it in (with a deprecation notice), so users that\r\n   were using it with ```removeClass()``` will have time to switch over\r\n   to ```removeAttr()``` (and not be forced to).  Doesn't seem like it\r\n   would make much difference with assistive technologies, no?  They are\r\n"
+    ],
+    [
+      0.000007,
+      "   already going to skip over something ```display: none```.\r\n\r\n\u001b[33m3084238806 IssueCommentEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000021,
+      "User:      Ward305 \u003chttps://api.github.com/users/Ward305\u003e\r\nDate:      2015-08-24T14:04:41Z\r\n"
+    ],
+    [
+      0.000006,
+      "Created:   2015-08-24T14:04:38Z\r\n"
+    ],
+    [
+      0.000063,
+      "\u001b[1mPress any key to continue, Q to quit...\r\u001b[22m"
+    ],
+    [
+      1.230513,
+      "                                                 \r"
+    ],
+    [
+      0.001333,
+      "Updated:   2015-08-24T14:04:38Z\r\n"
+    ],
+    [
+      0.000007,
+      "URL:       https://github.com/twbs/bootstrap/issues/17237#issuecomment-134216378\r\n"
+    ],
+    [
+      0.000025,
+      "Issue:     17237 \u003chttps://github.com/twbs/bootstrap/issues/17237\u003e\r\n\r\n"
+    ],
+    [
+      0.000010,
+      " \u001b[1m4.0 grid layout not spanning properly on PC monitor.\u001b[22m\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000369,
+      "   Not sure what you mean - \"close to your criteria for seriously\r\n   outdated by the time V4\" - Meaning will be fixed for FF28 - or by time\r\n   V4 is released FF28 will be too outdated?\r\n\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[33m3084231281 ForkEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000014,
+      "User:      dompl \u003chttps://api.github.com/users/dompl\u003e\r\n"
+    ],
+    [
+      0.000004,
+      "Date:      2015-08-24T14:02:31Z\r\n"
+    ],
+    [
+      0.000034,
+      "Author:    dompl \u003chttps://github.com/dompl\u003e\r\nFullname:  dompl/bootstrap\t\tPrivate: False\r\n"
+    ],
+    [
+      0.000006,
+      "URL:       https://github.com/dompl/bootstrap\r\n\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[33m3084215852 WatchEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000010,
+      "User:      AGirlWhoCode \u003chttps://api.github.com/users/AGirlWhoCode\u003e\r\nDate:      2015-08-24T13:58:07Z\r\n"
+    ],
+    [
+      0.000025,
+      "Action:    started\r\n\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[33m3084190094 IssueCommentEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000061,
+      "\u001b[1mPress any key to continue, Q to quit...\r\u001b[22m"
+    ],
+    [
+      1.213830,
+      "                                                 \r"
+    ],
+    [
+      0.001298,
+      "User:      bighazycrab \u003chttps://api.github.com/users/bighazycrab\u003e\r\nDate:      2015-08-24T13:50:50Z\r\n"
+    ],
+    [
+      0.000035,
+      "Created:   2015-08-24T13:50:47Z\r\n"
+    ],
+    [
+      0.000004,
+      "Updated:   2015-08-24T13:50:47Z\r\n"
+    ],
+    [
+      0.000003,
+      "URL:       https://github.com/twbs/bootstrap/pull/17032#issuecomment-134208613\r\n"
+    ],
+    [
+      0.000026,
+      "Issue:     17032 \u003chttps://github.com/twbs/bootstrap/pull/17032\u003e\r\n\r\n"
+    ],
+    [
+      0.000006,
+      " \u001b[1mAdd missing dropdown classes to v4 docs.\u001b[22m\r\n"
+    ],
+    [
+      0.000042,
+      "\r\n"
+    ],
+    [
+      0.000119,
+      "   :+1:\r\n\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[33m3084176408 IssuesEvent\u001b[39m\r\n"
+    ],
+    [
+      0.000004,
+      "User:      lgkonline \u003chttps://api.github.com/users/lgkonline\u003e\r\n"
+    ],
+    [
+      0.000007,
+      "Date:      2015-08-24T13:46:48Z\r\n"
+    ],
+    [
+      0.000011,
+      "Created:   2015-08-24T13:46:45Z\r\n"
+    ],
+    [
+      0.000003,
+      "Updated:   2015-08-24T13:46:45Z\r\n"
+    ],
+    [
+      0.000007,
+      "URL:       https://github.com/twbs/bootstrap/issues/17273\r\n"
+    ],
+    [
+      0.000019,
+      "Action:    \u001b[34m\u001b[1mopened\u001b[39m\u001b[22m\t\tState: \u001b[34m\u001b[1mopen\u001b[39m\u001b[22m\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      " \u001b[1mTooltips: \"Tether is not defined\"\u001b[22m\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000482,
+      "   Today I wanted to try the Bootstrap 4 alpha and when I want to use the\r\n   tooltips plugin I get this error in my debugger console:    ```\r\n"
+    ],
+    [
+      0.000048,
+      "\u001b[1mPress any key to continue, Q to quit...\r\u001b[22m"
+    ],
+    [
+      1.349814,
+      "                                                 \r"
+    ],
+    [
+      0.010665,
+      "\u001b[0m"
+    ],
+    [
+      0.002370,
+      "bash-3.2$ "
+    ],
+    [
+      1.735171,
+      "exit\r\n"
+    ]
+  ]
+}
