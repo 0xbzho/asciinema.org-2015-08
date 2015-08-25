@@ -1,0 +1,278 @@
+{
+  "version": 1,
+  "width": 205,
+  "height": 55,
+  "duration": 57.143510,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.013971,
+      "bash: /Users/sethgoings/.bash_darwin: No such file or directory\r\n"
+    ],
+    [
+      0.003263,
+      "bash: shopt: dirspell: invalid shell option name\r\nbash: shopt: globstar: invalid shell option name\r\nbash: shopt: autocd: invalid shell option name\r\n"
+    ],
+    [
+      0.004410,
+      "\r\nWarning! Not all shell options were set.\r\nYou are probably running an older verison of bash:\r\nGNU bash, version 4.3.33(1)-release (x86_64-apple-darwin14.1.0)\r\nCopyright (C) 2013 Free Software Foundation, Inc.\r\nLicense GPLv3+: GNU GPL version 3 or later \u003chttp://gnu.org/licenses/gpl.html\u003e\r\n\r\nThis is free software; you are free to change and redistribute it.\r\nThere is NO WARRANTY, to the extent permitted by law.\r\n\r\nThe following shell options are set:\r\ncdspell        \ton\r\ncheckhash      \ton\r\ncheckwinsize   \ton\r\ncmdhist        \ton\r\nexpand_aliases \ton\r\nextglob        \ton\r\nextquote       \ton\r\nforce_fignore  \ton\r\nhistappend     \ton\r\nhostcomplete   \ton\r\ninteractive_comments\ton\r\nprogcomp       \ton\r\npromptvars     \ton\r\nsourcepath     \ton\r\n\r\n"
+    ],
+    [
+      0.210830,
+      "SSH agent using key in OSX keychain.\r\n"
+    ],
+    [
+      0.042519,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000009,
+      "\u001b[106m\u001b[97m ~/code/deis \u001b(B\u001b[m\u001b[44m\u001b[97m ⑂ master \u001b(B\u001b[m\u001b[42m\u001b[97m  \u001b(B\u001b[m "
+    ],
+    [
+      1.308996,
+      "."
+    ],
+    [
+      0.000318,
+      "/"
+    ],
+    [
+      0.191546,
+      "r"
+    ],
+    [
+      0.080347,
+      "e"
+    ],
+    [
+      0.175694,
+      "r"
+    ],
+    [
+      0.128375,
+      "e"
+    ],
+    [
+      0.455978,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.208107,
+      "u"
+    ],
+    [
+      0.191498,
+      "n"
+    ],
+    [
+      0.112450,
+      " "
+    ],
+    [
+      0.271544,
+      "d"
+    ],
+    [
+      0.168633,
+      "e"
+    ],
+    [
+      0.103428,
+      "i"
+    ],
+    [
+      0.064361,
+      "s"
+    ],
+    [
+      0.207812,
+      ":"
+    ],
+    [
+      0.232009,
+      "t"
+    ],
+    [
+      0.095991,
+      "e"
+    ],
+    [
+      0.064488,
+      "s"
+    ],
+    [
+      0.050766,
+      "t"
+    ],
+    [
+      1.709008,
+      "\r\n"
+    ],
+    [
+      0.069076,
+      "\u001b[32mStarting ssh-agent and adding keys...\u001b[0m\r\n"
+    ],
+    [
+      0.276696,
+      "/Applications/Xcode.app/Contents/Developer/usr/bin/make -C tests/ test-smoke\r\n"
+    ],
+    [
+      0.006565,
+      "gofmt -l dockercli etcdutils mock utils apps_test.go auth_test.go builds_test.go config_test.go domains_test.go healthcheck_test.go integration_test.go keys_test.go limits_test.go main.go perms_test.go ps_test.go releases_test.go smoke_test.go tags_test.go users_test.go\r\n"
+    ],
+    [
+      0.046432,
+      "godep go vet github.com/deis/deis/tests github.com/deis/deis/tests/dockercli github.com/deis/deis/tests/etcdutils github.com/deis/deis/tests/mock github.com/deis/deis/tests/utils\r\n"
+    ],
+    [
+      0.187032,
+      "golint ./...\r\n"
+    ],
+    [
+      0.030044,
+      "dockercli/dockercli.go:128:1: exported function CreateVolume should have comment or be unexported\r\ndockercli/dockercli.go:160:1: exported function WaitForLine should have comment or be unexported\r\n"
+    ],
+    [
+      0.036611,
+      "godep go test -tags integration -short -timeout 20m -v -run TestSmoke\r\n"
+    ],
+    [
+      0.634504,
+      "=== RUN TestSmokeExampleApp\r\n"
+    ],
+    [
+      0.960598,
+      "if [ ! -f /Users/sethgoings/.ssh/deis-test ]; then\r\n  ssh-keygen -q -t rsa -f /Users/sethgoings/.ssh/deis-test -N '' -C deis\r\nfi\r\nssh-add /Users/sethgoings/.ssh/deis-test ... "
+    ],
+    [
+      0.007762,
+      "ok\r\n"
+    ],
+    [
+      0.000039,
+      "deis register http://deis.test-16b027b273.deis.xyz \\\r\n  --username=test \\\r\n  --password=asdf1234 \\\r\n  --email=test@test.co.nz || true ... "
+    ],
+    [
+      0.983048,
+      "ok\r\n"
+    ],
+    [
+      0.000022,
+      "deis login http://deis.test-16b027b273.deis.xyz \\\r\n  --username=test \\\r\n  --password=asdf1234 ... "
+    ],
+    [
+      1.092021,
+      "ok\r\n"
+    ],
+    [
+      0.000050,
+      "deis keys:add /Users/sethgoings/.ssh/deis-test.pub || true ... "
+    ],
+    [
+      0.884541,
+      "ok\r\n"
+    ],
+    [
+      0.000054,
+      "if [ ! -d ./example-python-django ]; then\r\n  git clone https://github.com/deis/example-python-django.git\r\nfi ... "
+    ],
+    [
+      0.674311,
+      "ok\r\n"
+    ],
+    [
+      0.000063,
+      "git remote remove deis || true ... "
+    ],
+    [
+      0.008822,
+      "ok\r\n"
+    ],
+    [
+      0.000054,
+      "sleep 6 \u0026\u0026 deis apps:create testing ... "
+    ],
+    [
+      7.296039,
+      "ok\r\n"
+    ],
+    [
+      0.000039,
+      "git push deis master ... "
+    ],
+    [
+      10.000000,
+      "ok\r\n"
+    ],
+    [
+      0.000081,
+      "sleep 6 \u0026\u0026 curl -s http://testing.test-16b027b273.deis.xyz | grep -q 'Powered by Deis' || \\\r\n\t(curl -v http://testing.test-16b027b273.deis.xyz ; exit 1) ... "
+    ],
+    [
+      7.672191,
+      "ok\r\n"
+    ],
+    [
+      0.000061,
+      "deis scale web=3 || deis scale cmd=3 ... "
+    ],
+    [
+      10.000000,
+      "ok\r\n"
+    ],
+    [
+      0.000130,
+      "sleep 7 \u0026\u0026 curl -s http://testing.test-16b027b273.deis.xyz | grep -q 'Powered by Deis' || \\\r\n\t(curl -v http://testing.test-16b027b273.deis.xyz ; exit 1) ... "
+    ],
+    [
+      7.287681,
+      "ok\r\n"
+    ],
+    [
+      0.000045,
+      "--- PASS: TestSmokeExampleApp (712.73s)\r\n"
+    ],
+    [
+      0.000010,
+      "PASS\r\n"
+    ],
+    [
+      0.004025,
+      "ok  \tgithub.com/deis/deis/tests\t712.733s\r\n"
+    ],
+    [
+      0.088454,
+      "\u001b[106m\u001b[97m ~/code/deis \u001b(B\u001b[m\u001b[44m\u001b[97m ⑂ master \u001b(B\u001b[m\u001b[42m\u001b[97m  \u001b(B\u001b[m "
+    ],
+    [
+      2.285641,
+      "e"
+    ],
+    [
+      0.191954,
+      "x"
+    ],
+    [
+      0.104028,
+      "i"
+    ],
+    [
+      0.095759,
+      "t"
+    ],
+    [
+      0.120211,
+      "\r\n"
+    ],
+    [
+      0.000107,
+      "exit\r\n"
+    ]
+  ]
+}
