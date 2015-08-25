@@ -1,0 +1,1846 @@
+{
+  "version": 1,
+  "width": 205,
+  "height": 55,
+  "duration": 560.092662,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.012504,
+      "bash: /Users/sethgoings/.bash_darwin: No such file or directory\r\n"
+    ],
+    [
+      0.003119,
+      "bash: shopt: dirspell: invalid shell option name\r\nbash: shopt: globstar: invalid shell option name\r\nbash: shopt: autocd: invalid shell option name\r\n"
+    ],
+    [
+      0.003869,
+      "\r\nWarning! Not all shell options were set.\r\nYou are probably running an older verison of bash:\r\nGNU bash, version 4.3.33(1)-release (x86_64-apple-darwin14.1.0)\r\nCopyright (C) 2013 Free Software Foundation, Inc.\r\nLicense GPLv3+: GNU GPL version 3 or later \u003chttp://gnu.org/licenses/gpl.html\u003e\r\n\r\nThis is free software; you are free to change and redistribute it.\r\nThere is NO WARRANTY, to the extent permitted by law.\r\n\r\nThe following shell options are set:\r\ncdspell        \ton\r\ncheckhash      \ton\r\ncheckwinsize   \ton\r\ncmdhist        \ton\r\nexpand_aliases \ton\r\nextglob        \ton\r\nextquote       \ton\r\nforce_fignore  \ton\r\nhistappend     \ton\r\n"
+    ],
+    [
+      0.000011,
+      "hostcomplete   \ton\r\ninteractive_comments\ton\r\nprogcomp       \ton\r\npromptvars     \ton\r\nsourcepath     \ton\r\n\r\n"
+    ],
+    [
+      0.216840,
+      "SSH agent using key in OSX keychain.\r\n"
+    ],
+    [
+      0.043632,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000005,
+      "\u001b[106m\u001b[97m ~/code/deis \u001b(B\u001b[m\u001b[44m\u001b[97m ⑂ master \u001b(B\u001b[m\u001b[42m\u001b[97m  \u001b(B\u001b[m "
+    ],
+    [
+      1.184249,
+      "."
+    ],
+    [
+      0.047839,
+      "/"
+    ],
+    [
+      0.111856,
+      "r"
+    ],
+    [
+      0.096254,
+      "e"
+    ],
+    [
+      0.464129,
+      "r"
+    ],
+    [
+      0.127838,
+      "un "
+    ],
+    [
+      0.584081,
+      "d"
+    ],
+    [
+      0.167857,
+      "e"
+    ],
+    [
+      0.112310,
+      "i"
+    ],
+    [
+      0.087854,
+      "s"
+    ],
+    [
+      0.288108,
+      ":"
+    ],
+    [
+      0.912095,
+      "c"
+    ],
+    [
+      0.095922,
+      "o"
+    ],
+    [
+      0.064538,
+      "n"
+    ],
+    [
+      0.055574,
+      "f"
+    ],
+    [
+      0.135931,
+      "i"
+    ],
+    [
+      0.079990,
+      "g"
+    ],
+    [
+      0.119958,
+      "u"
+    ],
+    [
+      0.088259,
+      "r"
+    ],
+    [
+      0.071928,
+      "e"
+    ],
+    [
+      0.559923,
+      "\r\n"
+    ],
+    [
+      0.066523,
+      "\r\n"
+    ],
+    [
+      0.011776,
+      "\u001b[33mGeneral questions...\u001b[0m\r\n"
+    ],
+    [
+      0.000121,
+      "------------------\r\n"
+    ],
+    [
+      0.010670,
+      "\u001b[32m-\u003e Enter Deis version: [ master ]\u001b[0m\r\n"
+    ],
+    [
+      1.423114,
+      "1"
+    ],
+    [
+      0.159915,
+      "."
+    ],
+    [
+      0.360070,
+      "9"
+    ],
+    [
+      0.280016,
+      "."
+    ],
+    [
+      0.199913,
+      "1"
+    ],
+    [
+      0.280152,
+      "\r\n"
+    ],
+    [
+      0.000160,
+      "You chose: 1.9.1\r\n"
+    ],
+    [
+      0.018859,
+      "\u001b[32m-\u003e What cloud provider would you like to use? [ Vagrant ]\u001b[0m\r\n"
+    ],
+    [
+      0.002297,
+      "1) Vagrant\r\n"
+    ],
+    [
+      0.002151,
+      "2) Amazon Web Services (AWS)\r\n"
+    ],
+    [
+      0.000021,
+      "#? "
+    ],
+    [
+      2.408793,
+      "2"
+    ],
+    [
+      1.151899,
+      "\r\n"
+    ],
+    [
+      0.003842,
+      "You chose: 2) Amazon Web Services (AWS)\r\n"
+    ],
+    [
+      0.034825,
+      "\u001b[32m-\u003e What's a publicly available Docker registry I can use? [ registry.hub.docker.com ]\u001b[0m\r\n"
+    ],
+    [
+      3.281796,
+      "\r\n"
+    ],
+    [
+      0.000188,
+      "You chose: registry.hub.docker.com\r\n"
+    ],
+    [
+      0.012665,
+      "\u001b[32m-\u003e And an organization/user I can push to (include trailing /)? [ sethgoings/ ]\u001b[0m\r\n"
+    ],
+    [
+      2.723381,
+      "s"
+    ],
+    [
+      0.056362,
+      "g"
+    ],
+    [
+      0.135873,
+      "o"
+    ],
+    [
+      0.055826,
+      "i"
+    ],
+    [
+      0.055976,
+      "n"
+    ],
+    [
+      0.032013,
+      "g"
+    ],
+    [
+      0.080470,
+      "s"
+    ],
+    [
+      0.319878,
+      "/"
+    ],
+    [
+      0.655733,
+      "\r\n"
+    ],
+    [
+      0.000203,
+      "You chose: sgoings/\r\n"
+    ],
+    [
+      0.012767,
+      "\u001b[32m-\u003e What ssh key should I use (for deisctl/ssh)? [ /Users/sethgoings/.ssh/deis-test ]\u001b[0m\r\n"
+    ],
+    [
+      2.459044,
+      "\r\n"
+    ],
+    [
+      0.000173,
+      "You chose: /Users/sethgoings/.ssh/deis-test\r\n"
+    ],
+    [
+      0.013304,
+      "\u001b[32m-\u003e What ssh key should I use for application deployment? [ /Users/sethgoings/.ssh/deis-test ]\u001b[0m\r\n"
+    ],
+    [
+      2.122958,
+      "\r\n"
+    ],
+    [
+      0.000139,
+      "You chose: /Users/sethgoings/.ssh/deis-test\r\n"
+    ],
+    [
+      0.013304,
+      "\u001b[32m-\u003e What wildcard domain name is available for me to use? (no default)\u001b[0m\r\n"
+    ],
+    [
+      1.762690,
+      "d"
+    ],
+    [
+      0.191791,
+      "e"
+    ],
+    [
+      0.120166,
+      "i"
+    ],
+    [
+      0.072142,
+      "s"
+    ],
+    [
+      0.167951,
+      "."
+    ],
+    [
+      0.359967,
+      "x"
+    ],
+    [
+      0.224063,
+      "y"
+    ],
+    [
+      0.119726,
+      "z"
+    ],
+    [
+      0.904421,
+      "\r\n"
+    ],
+    [
+      0.000178,
+      "You chose: deis.xyz\r\n"
+    ],
+    [
+      0.131963,
+      "\r\n"
+    ],
+    [
+      0.011466,
+      "\u001b[32mRerun Deis has been configured on this system using /Users/sethgoings/.rerun-deis/16b027b273/vars\u001b[0m\r\n"
+    ],
+    [
+      0.003157,
+      "To use the configuration outside of Rerun, you can run:\r\n\r\n  source \"/Users/sethgoings/.rerun-deis/16b027b273/vars\"\r\n\r\n"
+    ],
+    [
+      0.040768,
+      "\u001b[106m\u001b[97m ~/code/deis \u001b(B\u001b[m\u001b[44m\u001b[97m ⑂ master \u001b(B\u001b[m\u001b[42m\u001b[97m  \u001b(B\u001b[m "
+    ],
+    [
+      10.000000,
+      "."
+    ],
+    [
+      0.095593,
+      "/"
+    ],
+    [
+      0.160092,
+      "r"
+    ],
+    [
+      0.079940,
+      "e"
+    ],
+    [
+      0.175894,
+      "r"
+    ],
+    [
+      0.263963,
+      "un "
+    ],
+    [
+      0.816246,
+      "d"
+    ],
+    [
+      0.184016,
+      "e"
+    ],
+    [
+      0.104007,
+      "i"
+    ],
+    [
+      0.095961,
+      "s"
+    ],
+    [
+      0.200069,
+      ":"
+    ],
+    [
+      0.255929,
+      "p"
+    ],
+    [
+      0.120010,
+      "r"
+    ],
+    [
+      0.095828,
+      "o"
+    ],
+    [
+      0.144184,
+      "v"
+    ],
+    [
+      0.103951,
+      "i"
+    ],
+    [
+      0.112144,
+      "s"
+    ],
+    [
+      0.119884,
+      "i"
+    ],
+    [
+      0.048132,
+      "o"
+    ],
+    [
+      0.063953,
+      "n"
+    ],
+    [
+      1.424197,
+      "\r\n"
+    ],
+    [
+      0.974997,
+      "Requirement already satisfied (use --upgrade to upgrade): awscli in /usr/local/lib/python2.7/site-packages\r\n"
+    ],
+    [
+      0.003990,
+      "Requirement already satisfied (use --upgrade to upgrade): boto in /usr/local/lib/python2.7/site-packages\r\n"
+    ],
+    [
+      0.001251,
+      "Requirement already satisfied (use --upgrade to upgrade): docopt in /usr/local/lib/python2.7/site-packages\r\n"
+    ],
+    [
+      0.001396,
+      "Requirement already satisfied (use --upgrade to upgrade): botocore==1.1.2 in /usr/local/lib/python2.7/site-packages (from awscli)\r\n"
+    ],
+    [
+      0.001402,
+      "Requirement already satisfied (use --upgrade to upgrade): colorama\u003c=0.3.3,\u003e=0.2.5 in /usr/local/lib/python2.7/site-packages (from awscli)\r\n"
+    ],
+    [
+      0.001252,
+      "Requirement already satisfied (use --upgrade to upgrade): rsa\u003c=3.1.4,\u003e=3.1.2 in /usr/local/lib/python2.7/site-packages (from awscli)\r\n"
+    ],
+    [
+      0.000892,
+      "Requirement already satisfied (use --upgrade to upgrade): docutils\u003e=0.10 in /usr/local/lib/python2.7/site-packages (from awscli)\r\n"
+    ],
+    [
+      0.000868,
+      "Requirement already satisfied (use --upgrade to upgrade): jmespath==0.7.1 in /usr/local/lib/python2.7/site-packages (from botocore==1.1.2-\u003eawscli)\r\n"
+    ],
+    [
+      0.000855,
+      "Requirement already satisfied (use --upgrade to upgrade): python-dateutil\u003c3.0.0,\u003e=2.1 in /usr/local/lib/python2.7/site-packages (from botocore==1.1.2-\u003eawscli)\r\n"
+    ],
+    [
+      0.000641,
+      "Requirement already satisfied (use --upgrade to upgrade): pyasn1\u003e=0.1.3 in /usr/local/lib/python2.7/site-packages (from rsa\u003c=3.1.4,\u003e=3.1.2-\u003eawscli)\r\n"
+    ],
+    [
+      0.000616,
+      "Requirement already satisfied (use --upgrade to upgrade): six\u003e=1.5 in /usr/local/lib/python2.7/site-packages (from python-dateutil\u003c3.0.0,\u003e=2.1-\u003ebotocore==1.1.2-\u003eawscli)\r\n"
+    ],
+    [
+      0.036619,
+      "\u001b[32mInstalling clients (version: 1.9.1)\u001b[0m\r\n"
+    ],
+    [
+      0.012112,
+      "\u001b[32mInstalling deis-cli (1.9.1) at /Users/sethgoings/.rerun-deis/16b027b273/bin/deis...\u001b[0m\r\n"
+    ],
+    [
+      0.407452,
+      "  % Total    % Received % Xfe"
+    ],
+    [
+      0.000006,
+      "rd  Average Speed   Time    Time     T"
+    ],
+    [
+      0.000003,
+      "ime  "
+    ],
+    [
+      0.000002,
+      "Curr"
+    ],
+    [
+      0.000002,
+      "ent"
+    ],
+    [
+      0.000002,
+      "\r\n  "
+    ],
+    [
+      0.000002,
+      "   "
+    ],
+    [
+      0.000002,
+      "   "
+    ],
+    [
+      0.000002,
+      "   "
+    ],
+    [
+      0.000002,
+      "  "
+    ],
+    [
+      0.000002,
+      "    "
+    ],
+    [
+      0.000002,
+      "   "
+    ],
+    [
+      0.000006,
+      "          "
+    ],
+    [
+      0.000002,
+      "   "
+    ],
+    [
+      0.000009,
+      "Dload  Upload   "
+    ],
+    [
+      0.000002,
+      "Tota"
+    ],
+    [
+      0.000002,
+      "l   "
+    ],
+    [
+      0.000002,
+      "Spe"
+    ],
+    [
+      0.000002,
+      "nt "
+    ],
+    [
+      0.000002,
+      "   "
+    ],
+    [
+      0.000002,
+      "Left"
+    ],
+    [
+      0.000002,
+      "  S"
+    ],
+    [
+      0.000002,
+      "peed"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "\r  0     0 "
+    ],
+    [
+      0.000001,
+      "  "
+    ],
+    [
+      0.000002,
+      " 0 "
+    ],
+    [
+      0.000001,
+      "  "
+    ],
+    [
+      0.000002,
+      "  0"
+    ],
+    [
+      0.000001,
+      "  "
+    ],
+    [
+      0.000001,
+      "  "
+    ],
+    [
+      0.000002,
+      "0  "
+    ],
+    [
+      0.000001,
+      "  "
+    ],
+    [
+      0.000002,
+      " 0 "
+    ],
+    [
+      0.000002,
+      "  "
+    ],
+    [
+      0.000002,
+      "   "
+    ],
+    [
+      0.000002,
+      "0  "
+    ],
+    [
+      0.000002,
+      "    "
+    ],
+    [
+      0.000001,
+      "0 -"
+    ],
+    [
+      0.000001,
+      "-:"
+    ],
+    [
+      0.000002,
+      "--:"
+    ],
+    [
+      0.000001,
+      "--"
+    ],
+    [
+      0.000002,
+      " -"
+    ],
+    [
+      0.000002,
+      "-:-"
+    ],
+    [
+      0.000001,
+      "-:"
+    ],
+    [
+      0.000001,
+      "--"
+    ],
+    [
+      0.000002,
+      " --"
+    ],
+    [
+      0.000001,
+      ":-"
+    ],
+    [
+      0.000001,
+      "-:"
+    ],
+    [
+      0.000002,
+      "-- "
+    ],
+    [
+      0.000001,
+      "  "
+    ],
+    [
+      0.000001,
+      "  "
+    ],
+    [
+      0.000002,
+      "0"
+    ],
+    [
+      0.246409,
+      "\r  0     0    0     "
+    ],
+    [
+      0.000006,
+      "0    0     0      0      0 --:--:-- --:"
+    ],
+    [
+      0.000003,
+      "--:-"
+    ],
+    [
+      0.000002,
+      "- -"
+    ],
+    [
+      0.000002,
+      "-:-"
+    ],
+    [
+      0.000002,
+      "-:"
+    ],
+    [
+      0.000002,
+      "-- "
+    ],
+    [
+      0.000002,
+      "  "
+    ],
+    [
+      0.000002,
+      "  0"
+    ],
+    [
+      0.966227,
+      "\r 14 6950k   14 1019k "
+    ],
+    [
+      0.000008,
+      "   0     0   840k      0  0:00:08  0:0"
+    ],
+    [
+      0.000003,
+      "0:0"
+    ],
+    [
+      0.000002,
+      "1  "
+    ],
+    [
+      0.000002,
+      "0:0"
+    ],
+    [
+      0.000002,
+      "0:"
+    ],
+    [
+      0.000002,
+      "07 "
+    ],
+    [
+      0.000002,
+      " 8"
+    ],
+    [
+      0.000002,
+      "40k"
+    ],
+    [
+      0.998999,
+      "\r 58 6950k   58 4079k    "
+    ],
+    [
+      0.000006,
+      "0     0  1844k      0  0:00:03  0:00:02"
+    ],
+    [
+      0.000002,
+      "  0"
+    ],
+    [
+      0.000002,
+      ":00"
+    ],
+    [
+      0.000002,
+      ":01"
+    ],
+    [
+      0.000002,
+      " 1"
+    ],
+    [
+      0.000002,
+      "844"
+    ],
+    [
+      0.000002,
+      "k"
+    ],
+    [
+      0.581064,
+      "\r100 6"
+    ],
+    [
+      0.000008,
+      "950k  100 6950k    0     0  248"
+    ],
+    [
+      0.000003,
+      "8k  "
+    ],
+    [
+      0.000002,
+      "   "
+    ],
+    [
+      0.000002,
+      " 0"
+    ],
+    [
+      0.000002,
+      "  0"
+    ],
+    [
+      0.000002,
+      ":0"
+    ],
+    [
+      0.000002,
+      "0:0"
+    ],
+    [
+      0.000002,
+      "2 "
+    ],
+    [
+      0.000002,
+      " 0:"
+    ],
+    [
+      0.000002,
+      "00"
+    ],
+    [
+      0.000002,
+      ":02"
+    ],
+    [
+      0.000002,
+      " -"
+    ],
+    [
+      0.000002,
+      "-:"
+    ],
+    [
+      0.000002,
+      "--:"
+    ],
+    [
+      0.000002,
+      "--"
+    ],
+    [
+      0.000002,
+      " 24"
+    ],
+    [
+      0.000002,
+      "88"
+    ],
+    [
+      0.000002,
+      "k\r\n"
+    ],
+    [
+      0.017120,
+      "Verifying archive integrity..."
+    ],
+    [
+      0.042394,
+      " All good.\r\n"
+    ],
+    [
+      0.002719,
+      "Uncompressing Deis CLI"
+    ],
+    [
+      0.479088,
+      "     0% "
+    ],
+    [
+      0.006501,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000019,
+      "   59% "
+    ],
+    [
+      0.003934,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000004,
+      " 100%  "
+    ],
+    [
+      0.038635,
+      "\r\n"
+    ],
+    [
+      0.000141,
+      "\r\ndeis is in the current directory. Please\r\n"
+    ],
+    [
+      0.000003,
+      "move deis to a directory in your search PATH.\r\n"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "See http://docs.deis.io/ for documentation.\r\n"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.014147,
+      "\u001b[32mLinking /Users/sethgoings/.rerun-deis/16b027b273/bin/deis -\u003e /Users/sethgoings/.rerun-deis/16b027b273/1.9.1/deis\u001b[0m\r\n"
+    ],
+    [
+      0.685458,
+      "  % Total    % "
+    ],
+    [
+      0.000006,
+      "Received % Xferd  Average Speed   Time"
+    ],
+    [
+      0.000003,
+      "    "
+    ],
+    [
+      0.000002,
+      "Tim"
+    ],
+    [
+      0.000002,
+      "e  "
+    ],
+    [
+      0.000002,
+      "  "
+    ],
+    [
+      0.000002,
+      " Ti"
+    ],
+    [
+      0.000001,
+      "me"
+    ],
+    [
+      0.000001,
+      "  C"
+    ],
+    [
+      0.000001,
+      "ur"
+    ],
+    [
+      0.000001,
+      "re"
+    ],
+    [
+      0.000002,
+      "nt\r\n"
+    ],
+    [
+      0.000001,
+      "  "
+    ],
+    [
+      0.000002,
+      "   "
+    ],
+    [
+      0.000001,
+      "   "
+    ],
+    [
+      0.000002,
+      "  "
+    ],
+    [
+      0.000002,
+      "   "
+    ],
+    [
+      0.000002,
+      "    "
+    ],
+    [
+      0.000002,
+      "   "
+    ],
+    [
+      0.000001,
+      "    "
+    ],
+    [
+      0.000001,
+      "  "
+    ],
+    [
+      0.000002,
+      "   "
+    ],
+    [
+      0.000001,
+      "  "
+    ],
+    [
+      0.000002,
+      "  D"
+    ],
+    [
+      0.000026,
+      "lo"
+    ],
+    [
+      0.000007,
+      "ad  Upload   Total   Spent    Left  Speed\r\n\r  0   "
+    ],
+    [
+      0.000004,
+      "  0    0"
+    ],
+    [
+      0.000002,
+      "   "
+    ],
+    [
+      0.000002,
+      "  "
+    ],
+    [
+      0.000013,
+      "0    0     0      "
+    ],
+    [
+      0.000002,
+      "0  "
+    ],
+    [
+      0.000002,
+      "   "
+    ],
+    [
+      0.000001,
+      " 0"
+    ],
+    [
+      0.000002,
+      " --"
+    ],
+    [
+      0.000002,
+      ":-"
+    ],
+    [
+      0.000009,
+      "-:--"
+    ],
+    [
+      0.000005,
+      " --:--:-- --:--:-- "
+    ],
+    [
+      0.000002,
+      "    0"
+    ],
+    [
+      0.124163,
+      "\r  0    "
+    ],
+    [
+      0.000006,
+      " 0    0     0    0     0      0      0 --:--:-- --:--:-- "
+    ],
+    [
+      0.000003,
+      "--:--"
+    ],
+    [
+      0.000002,
+      ":-- "
+    ],
+    [
+      0.000002,
+      "    "
+    ],
+    [
+      0.000002,
+      "0"
+    ],
+    [
+      0.999795,
+      "\r 29 298"
+    ],
+    [
+      0.000010,
+      "2k   29  866k    0     0   770k      0  "
+    ],
+    [
+      0.000003,
+      "0:00"
+    ],
+    [
+      0.000002,
+      ":03"
+    ],
+    [
+      0.000014,
+      "  "
+    ],
+    [
+      0.000056,
+      "0:00:01  0:00:02  7"
+    ],
+    [
+      0.000006,
+      "70k"
+    ],
+    [
+      0.794699,
+      "\r100 2"
+    ],
+    [
+      0.000007,
+      "982k  100 2982k    0     0  1554k   "
+    ],
+    [
+      0.000003,
+      "   0 "
+    ],
+    [
+      0.000003,
+      " 0:"
+    ],
+    [
+      0.000003,
+      "00:0"
+    ],
+    [
+      0.000002,
+      "1  "
+    ],
+    [
+      0.000002,
+      "0:"
+    ],
+    [
+      0.000002,
+      "00:"
+    ],
+    [
+      0.000002,
+      "01"
+    ],
+    [
+      0.000002,
+      " -"
+    ],
+    [
+      0.000002,
+      "-:-"
+    ],
+    [
+      0.000002,
+      "-:"
+    ],
+    [
+      0.000002,
+      "--"
+    ],
+    [
+      0.000002,
+      " 15"
+    ],
+    [
+      0.000002,
+      "54"
+    ],
+    [
+      0.000002,
+      "k\r\n"
+    ],
+    [
+      0.015972,
+      "Verifying archive integrity..."
+    ],
+    [
+      0.031305,
+      " All good.\r\n"
+    ],
+    [
+      0.002589,
+      "Uncompressing Deis Control Utility"
+    ],
+    [
+      0.449103,
+      "     0% "
+    ],
+    [
+      0.006964,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000016,
+      "   34% "
+    ],
+    [
+      0.007914,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000024,
+      "   68% "
+    ],
+    [
+      0.003394,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000024,
+      " 100%  "
+    ],
+    [
+      0.020922,
+      "\r\n"
+    ],
+    [
+      0.979611,
+      "Refreshed deis-builder from v1.9.1\r\n"
+    ],
+    [
+      0.188308,
+      "Refreshed deis-cache from v1.9.1\r\n"
+    ],
+    [
+      0.195269,
+      "Refreshed deis-controller from v1.9.1\r\n"
+    ],
+    [
+      0.171836,
+      "Refreshed deis-database from v1.9.1\r\n"
+    ],
+    [
+      0.137889,
+      "Refreshed deis-logger from v1.9.1\r\n"
+    ],
+    [
+      0.654653,
+      "Refreshed deis-logspout from v1.9.1\r\n"
+    ],
+    [
+      0.145025,
+      "Refreshed deis-publisher from v1.9.1\r\n"
+    ],
+    [
+      0.143365,
+      "Refreshed deis-registry from v1.9.1\r\n"
+    ],
+    [
+      0.169132,
+      "Refreshed deis-router from v1.9.1\r\n"
+    ],
+    [
+      0.151460,
+      "Refreshed deis-store-admin from v1.9.1\r\n"
+    ],
+    [
+      0.176128,
+      "Refreshed deis-store-daemon from v1.9.1\r\n"
+    ],
+    [
+      0.184056,
+      "Refreshed deis-store-gateway from v1.9.1\r\n"
+    ],
+    [
+      0.176899,
+      "Refreshed deis-store-metadata from v1.9.1\r\n"
+    ],
+    [
+      0.149210,
+      "Refreshed deis-store-monitor from v1.9.1\r\n"
+    ],
+    [
+      0.171379,
+      "Refreshed deis-store-volume from v1.9.1\r\n"
+    ],
+    [
+      0.153329,
+      "Refreshed deis-swarm-manager from v1.9.1\r\n"
+    ],
+    [
+      0.183352,
+      "Refreshed deis-swarm-node from v1.9.1\r\n"
+    ],
+    [
+      0.162251,
+      "Refreshed deis-mesos-marathon from v1.9.1\r\n"
+    ],
+    [
+      0.149622,
+      "Refreshed deis-mesos-master from v1.9.1\r\n"
+    ],
+    [
+      0.146419,
+      "Refreshed deis-mesos-slave from v1.9.1\r\n"
+    ],
+    [
+      0.135715,
+      "Refreshed deis-zookeeper from v1.9.1\r\n"
+    ],
+    [
+      0.157051,
+      "Refreshed deis-kube-apiserver from v1.9.1\r\n"
+    ],
+    [
+      0.159810,
+      "Refreshed deis-kube-controller-manager from v1.9.1\r\n"
+    ],
+    [
+      0.154469,
+      "Refreshed deis-kube-kubelet from v1.9.1\r\n"
+    ],
+    [
+      0.187333,
+      "Refreshed deis-kube-proxy from v1.9.1\r\n"
+    ],
+    [
+      0.131149,
+      "Refreshed deis-kube-scheduler from v1.9.1\r\n"
+    ],
+    [
+      0.001051,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "deisctl is in the current directory and unit files are\r\n"
+    ],
+    [
+      0.000024,
+      "in /Users/sethgoings/.deis/units. Please move deisctl to a\r\n"
+    ],
+    [
+      0.000005,
+      "directory in your search PATH.\r\n"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "See http://docs.deis.io/ for documentation.\r\n\r\n"
+    ],
+    [
+      0.015059,
+      "\u001b[32mMoving unit files to /Users/sethgoings/.rerun-deis/16b027b273/units\u001b[0m\r\n"
+    ],
+    [
+      0.015621,
+      "\u001b[32mLinking /Users/sethgoings/.rerun-deis/16b027b273/bin/deisctl -\u003e /Users/sethgoings/.rerun-deis/16b027b273/1.9.1/deis\u001b[0m\r\n"
+    ],
+    [
+      0.015640,
+      "\u001b[32mLinking /Users/sethgoings/.rerun-deis/16b027b273/units -\u003e /Users/sethgoings/.rerun-deis/16b027b273/1.9.1/units\u001b[0m\r\n"
+    ],
+    [
+      0.019535,
+      "sed -e \"s,discovery #DISCOVERY_URL,discovery $(curl -s -w '\\n' https://discovery.etcd.io/new?size=$DEIS_NUM_INSTANCES),\" contrib/coreos/user-data.example \u003e contrib/coreos/user-data\r\n"
+    ],
+    [
+      0.359324,
+      "\u001b[32mStarting ssh-agent and adding keys...\u001b[0m\r\n"
+    ],
+    [
+      0.043517,
+      "\u001b[32mCreating CloudFormation stack deis-test-16b027b273\u001b[0m\r\n"
+    ],
+    [
+      0.011900,
+      "\u001b[32mImporting /Users/sethgoings/.ssh/deis-test keypair to EC2\u001b[0m\r\n"
+    ],
+    [
+      1.283058,
+      "\u001b[32mProvisioning 3-node CoreOS\u001b[0m\r\n"
+    ],
+    [
+      4.758288,
+      "arn:aws:cloudformation:us-west-2:848936754035:stack/deis-test-16b027b273/3af4f4e0-4b5a-11e5-b8f9-50e2414b0a18\r\n"
+    ],
+    [
+      2.167066,
+      "Waiting for instances to be provisioned (CREATE_IN_PROGRESS, 600s) ...\r\n"
+    ],
+    [
+      10.000000,
+      "Waiting for instances to be provisioned (CREATE_IN_PROGRESS, 590s) ...\r\n"
+    ],
+    [
+      10.000000,
+      "Waiting for instances to be provisioned (CREATE_IN_PROGRESS, 580s) ...\r\n"
+    ],
+    [
+      10.000000,
+      "Waiting for instances to be provisioned (CREATE_IN_PROGRESS, 570s) ...\r\n"
+    ],
+    [
+      10.000000,
+      "Waiting for instances to be provisioned (CREATE_IN_PROGRESS, 560s) ...\r\n"
+    ],
+    [
+      10.000000,
+      "Waiting for instances to be provisioned (CREATE_IN_PROGRESS, 550s) ...\r\n"
+    ],
+    [
+      10.000000,
+      "Waiting for instances to be provisioned (CREATE_IN_PROGRESS, 540s) ...\r\n"
+    ],
+    [
+      10.000000,
+      "Waiting for instances to be provisioned (CREATE_IN_PROGRESS, 530s) ...\r\n"
+    ],
+    [
+      10.000000,
+      "Waiting for instances to be provisioned (CREATE_IN_PROGRESS, 520s) ...\r\n"
+    ],
+    [
+      10.000000,
+      "Waiting for instances to be provisioned (CREATE_IN_PROGRESS, 510s) ...\r\n"
+    ],
+    [
+      10.000000,
+      "Waiting for instances to be provisioned (CREATE_IN_PROGRESS, 500s) ...\r\n"
+    ],
+    [
+      10.000000,
+      "Waiting for instances to be provisioned (CREATE_IN_PROGRESS, 490s) ...\r\n"
+    ],
+    [
+      10.000000,
+      "Waiting for instances to be provisioned (CREATE_IN_PROGRESS, 480s) ...\r\n"
+    ],
+    [
+      10.000000,
+      "Waiting for instances to be provisioned (CREATE_IN_PROGRESS, 470s) ...\r\n"
+    ],
+    [
+      10.000000,
+      "Waiting for instances to be provisioned (CREATE_COMPLETE, 460s) ...\r\n"
+    ],
+    [
+      10.000000,
+      "Waiting for instances to pass initial health checks (600s) ...\r\n"
+    ],
+    [
+      10.000000,
+      "Waiting for instances to pass initial health checks (590s) ...\r\n"
+    ],
+    [
+      10.000000,
+      "Waiting for instances to pass initial health checks (580s) ...\r\n"
+    ],
+    [
+      10.000000,
+      "Waiting for instances to pass initial health checks (570s) ...\r\n"
+    ],
+    [
+      10.000000,
+      "Waiting for instances to pass initial health checks (560s) ...\r\n"
+    ],
+    [
+      10.000000,
+      "Waiting for instances to pass initial health checks (550s) ...\r\n"
+    ],
+    [
+      10.000000,
+      "Waiting for instances to pass initial health checks (540s) ...\r\n"
+    ],
+    [
+      10.000000,
+      "Waiting for instances to pass initial health checks (530s) ...\r\n"
+    ],
+    [
+      10.000000,
+      "Waiting for instances to pass initial health checks (520s) ...\r\n"
+    ],
+    [
+      10.000000,
+      "Waiting for instances to pass initial health checks (510s) ...\r\n"
+    ],
+    [
+      10.000000,
+      "Waiting for instances to pass initial health checks (500s) ...\r\n"
+    ],
+    [
+      10.000000,
+      "Waiting for instances to pass initial health checks (490s) ...\r\n"
+    ],
+    [
+      10.000000,
+      "Waiting for instances to pass initial health checks (480s) ...\r\n"
+    ],
+    [
+      10.000000,
+      "Waiting for instances to pass initial health checks (470s) ...\r\n"
+    ],
+    [
+      10.000000,
+      "Waiting for instances to pass initial health checks (460s) ...\r\n"
+    ],
+    [
+      1.112446,
+      "Instances are available:\r\n"
+    ],
+    [
+      1.204744,
+      "i-f3dfb236\t54.149.241.155\tm3.medium\tus-west-2b\trunning\r\ni-f2dfb237\t54.149.231.235\tm3.medium\tus-west-2b\trunning\r\n"
+    ],
+    [
+      0.000007,
+      "i-b6219b70\t52.25.52.57\tm3.medium\tus-west-2a\trunning\r\n"
+    ],
+    [
+      2.258306,
+      "Using ELB deis-test-DeisWebE-1MSY6DPT8DNDR at deis-test-DeisWebE-1MSY6DPT8DNDR-1021214407.us-west-2.elb.amazonaws.com\r\n"
+    ],
+    [
+      2.557531,
+      "\u001b[0;32mYour Deis cluster has been successfully deployed to AWS CloudFormation and is started.\u001b[0m\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[0;32mPlease continue to follow the instructions in the documentation.\u001b[0m\r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[0;32mEnabling proxy protocol\u001b[0m\r\n"
+    ],
+    [
+      0.963079,
+      "1\r\n"
+    ],
+    [
+      2.042379,
+      "\u001b[32mSetting up Route53 zone...\u001b[0m\r\n"
+    ],
+    [
+      1.583570,
+      "waiting for record to sync: \u003cStatus:PENDING\u003e\r\n"
+    ],
+    [
+      10.000000,
+      "\u003cStatus:INSYNC\u003e\r\n"
+    ],
+    [
+      0.113664,
+      "waiting for wildcard domain to become available...ok\r\n"
+    ],
+    [
+      1.405749,
+      "i-f3dfb236\r\n"
+    ],
+    [
+      2.631164,
+      "\u001b[32mDEISCTL_TUNNEL=ec2-54-149-241-155.us-west-2.compute.amazonaws.com\u001b[0m\r\n"
+    ],
+    [
+      0.049155,
+      "\u001b[32mWaiting for etcd/fleet at ec2-54-149-241-155.us-west-2.compute.amazonaws.com\u001b[0m\r\n"
+    ],
+    [
+      1.231176,
+      "\u001b[32metcd available after 1 seconds\u001b[0m\r\n"
+    ],
+    [
+      0.982648,
+      "test-16b027b273.deis.xyz\r\n"
+    ],
+    [
+      1.067510,
+      "LS0tLS1CRUdJTiBSU0EgUFJJVkFURSBLRVktLS0tLQpNSUlFb3dJQkFBS0NBUUVBcThiT1BmZTl4N0xZRU9aYUxZZ3ZBZkxIaEZBMy94QTRSbURqcG5SZGxtZVlQSlVjClEyV0wza1dZWHlzRWQvUVlZYk9pZnVSTHpvUTdvOFo2aXUwZEJVR2IxRjFVMEtGcDRMTER4MURjekZPSEw3WVgKM0FneG1PYkVLekpYbnBDa2pJSS9zbDZuTWlnMjJaKzA3Ym0vYUxsTEFlVXV0eEJsMXJETlBWc0dsMHh4bSthUQpwN3ZXOSsvU2c2bXhHRm13SGJOTW1wMzNoN2xmay9POGRpV1pLUTlvWWlDYWY0MmxScTJmSDR3RGcxZll5WXJ6ClFaUnNSREZXbEorK2N5ajc4SU5LVVRYY01XejNJMEU2SnlET1VLMk9FeEpKQis3cExaRWdWMlozNW1WZ1ljdXoKKytwRkhCaFhHSFFGWW5VamR6bE94ZWkyK0MxaEhpcHdQbFJENndJREFRQUJBb0lCQUZQU1UxblJ4bjNvTzU4agppT1duQ3FrOHV6ZEpuY21OTktqREp0TlcvVVFqa1JvZStRZTZTYUpRKzZXVTdEMU1rNGs1aXhXNGVYVncrVmxWCnhQNTk3aWRlZUpnTVl4TGJjVHNBZ0tDR1NQZzcyai9oNzRxalJQQ0R5ejM0OXVDZFhHNWtNSWp0djFDdVp2V1QKQlVycjFRZFpROHpNOVJySG1hcEY1Q0VJaGhMVm9lM2N1NWN5Tmg5cXhlZUExQUxrTkt0U1ZaM2xSeVhYb2JJcApoQnNHWkU1WGxuNzZkNXE3SU5BSWw1aXBydDB6OHlNWURsTFZ1QXR6ZHNQbDZTWnVlS0VCbEJ1M2JKQVFKVlE3CnEvYkduNVl5bUdHQ1FxVEYrLytBeXd5aHRRWklJYTVwVE9rZDd2eURHZ0hkbEoxb3JSbDJJeGMxRVp2YmFrNGoKNWxlQk9jRUNnWUVBMTVjYnBrczZz"
+    ],
+    [
+      0.000043,
+      "Unc5TkYwZWtlQkc2WlZ1QUJ5NzZjUzhUMlRVb2lTOW9JemN0L1Q5VEFYagptTURMWVVMVDVKTDFIQ1RBSVZOcjgzTVd4Y2N0YlVJVkxtY3l0ei94d2o3bTNWVUQwUFFvQUpLWDBFWUxITVR1CmV6Ty9SNjJJZStMN05QZE92dVB4WjQ0VU9EeVVIcjZwWlMxZHRuQ2dRL2FyMW9nRWw4ZTgwek1DZ1lFQXkvbFgKRm1PeHpzaGg2ckV6UTA3T1Njay9UYlRtK2ZyNElzWDVYWFdxTWFIRk5MNlcwR2NpZ3drbmtXUnhHckJ6Z3oxUApYeDJNSUk5dlJkbEozaE8zMFNCMnExdzZobTl0b0ZuR2JFa1R0cTU1UlY5dk5HY05HblNzbGkyNE1BT1F5VGpsCnMwWHVHeHdTZWpSSkFMWlRPMStqTkJGVjA3c2VLbnRrdXFBWHpHa0NnWUEreUMxd0h1WkhuMjZmYWlLMTNuY28KSExEODdXRTNzV2daUXNhOU5TL1hxazI0Y0dxM0VkdjJwdVpUTzQvVE40eVRsb3d3NkVjK2pSeHJtaFk3aEF3QgpDR0ozaFBLVlc1WUZqSFZoQzBqKzZiRzJJRCtxTUJzMjI1bnZlTFNQUjBsYVlrNlhQbkFWZFFXa1h0ZlBvRHhhClQzekQzVVorcEQza2FwWFQwWUhHaXdLQmdGNzBZMXRUNjlsMHBVaXBWMUQxSmNscHUyT0VYS1p3OUFUVUh1TW8KUEtQQVNGcm1nclRmM2t3Yi9lU01XcTd2QjhkSHltUmdEL1MwY1R1V0RQSXFRYjlFR3BwcFpBRmpiQ2hpd3FGMApYNDRDcVFmbmhwQmhqTk1ORDY4Vjk1RzZoek4xbmxFWHMrSEE3c1VmQkFFbDM1ZGJUVkdXNUZxZDJFdzBoMDd0CjZrWkpBb0dCQUlMc1JDNlBpRXRsb0hPR0xLY1dmdDgzQzFTeUR2U0xEckxNMFRmMDlDNVhScnVQcVJ4eXNhQnMKbmFVeW1wdTZP"
+    ],
+    [
+      0.000188,
+      "K0xkcTVSeDZ0Z1JFNlVHR3RKTEhBSzJ5N3JmaWZJNFNEaVV4Q2cwYXRqbXljOVZLbm9JOFR4Swo2aFA0ZFU1L1B6R3NUTi9DaElFUmwrWGFETUJuOU9za1VNZWpUeHN6WlU4bHN1UEc4QnFzCi0tLS0tRU5EIFJTQSBQUklWQVRFIEtFWS0tLS0tCg==\r\n"
+    ],
+    [
+      1.035467,
+      "v1.9.1\r\n"
+    ],
+    [
+      1.136639,
+      "\u001b[31m● \u001b[34m▴ \u001b[32m■\u001b[0m\r\n\u001b[32m■ \u001b[31m● \u001b[34m▴\u001b[0m Installing Deis...\r\n\u001b[34m▴ \u001b[32m■ \u001b[31m●\u001b[0m\r\nStorage subsystem...\r\n"
+    ],
+    [
+      3.175304,
+      "\u001b[0;33mdeis-store-daemon.service:\u001b[0m loaded\r\n"
+    ],
+    [
+      0.093753,
+      "\u001b[0;33mdeis-store-metadata.service:\u001b[0m loaded\r\n"
+    ],
+    [
+      0.042593,
+      "\u001b[0;33mdeis-store-volume.service:\u001b[0m loaded\r\n"
+    ],
+    [
+      0.046777,
+      "\u001b[0;33mdeis-store-monitor.service:\u001b[0m loaded\r\n"
+    ],
+    [
+      0.044264,
+      "\u001b[0;33mdeis-store-gateway@1.service:\u001b[0m loaded\r\n"
+    ],
+    [
+      0.000011,
+      "Logging subsystem...\r\n"
+    ],
+    [
+      1.766715,
+      "\u001b[0;33mdeis-logspout.service:\u001b[0m loaded\r\n"
+    ],
+    [
+      1.499612,
+      "\u001b[0;33mdeis-logger.service:\u001b[0m loaded\r\nControl plane...\r\n"
+    ],
+    [
+      2.852195,
+      "\u001b[0;33mdeis-database.service:\u001b[0m loaded\r\n"
+    ],
+    [
+      0.463439,
+      "\u001b[0;33mdeis-controller.service:\u001b[0m loaded\r\n"
+    ],
+    [
+      0.166377,
+      "\u001b[0;33mdeis-builder.service:\u001b[0m loaded\r\n"
+    ],
+    [
+      0.112101,
+      "\u001b[0;33mdeis-registry@1.service:\u001b[0m loaded\r\n"
+    ],
+    [
+      0.000005,
+      "Data plane...\r\n"
+    ],
+    [
+      3.934136,
+      "\u001b[0;33mdeis-publisher.service:\u001b[0m loaded\r\n"
+    ],
+    [
+      0.000009,
+      "Routing mesh...\r\n"
+    ],
+    [
+      5.310184,
+      "\u001b[0;33mdeis-router@2.service:\u001b[0m loaded\r\n"
+    ],
+    [
+      0.740092,
+      "\u001b[0;33mdeis-router@1.service:\u001b[0m loaded\r\n"
+    ],
+    [
+      0.049518,
+      "\u001b[0;33mdeis-router@3.service:\u001b[0m loaded\r\nDone.\r\n"
+    ],
+    [
+      0.000007,
+      "\r\nPlease run `deisctl start platform` to boot up Deis.\r\n"
+    ],
+    [
+      6.194220,
+      "\u001b[31m● \u001b[34m▴ \u001b[32m■\u001b[0m\r\n\u001b[32m■ \u001b[31m● \u001b[34m▴\u001b[0m Starting Deis...\r\n\u001b[34m▴ \u001b[32m■ \u001b[31m●\u001b[0m\r\nStorage subsystem...\r\n"
+    ],
+    [
+      1.938689,
+      "\u001b[0;33mdeis-store-monitor.service:\u001b[0m activating/start-pre                     \r"
+    ],
+    [
+      10.000000,
+      "\u001b[0;33mdeis-store-monitor.service:\u001b[0m active/running                           \r\r\n"
+    ],
+    [
+      1.931933,
+      "\u001b[0;33mdeis-store-daemon.service:\u001b[0m activating/start-pre                      \r"
+    ],
+    [
+      10.000000,
+      "\u001b[0;33mdeis-store-daemon.service:\u001b[0m active/running                            \r\r\n"
+    ],
+    [
+      1.982449,
+      "\u001b[0;33mdeis-store-metadata.service:\u001b[0m activating/start-pre                    \r"
+    ],
+    [
+      5.984507,
+      "\u001b[0;33mdeis-store-metadata.service:\u001b[0m active/running                          \r\r\n"
+    ],
+    [
+      3.139278,
+      "\u001b[0;33mdeis-store-gateway@1.service:\u001b[0m activating/start-pre                   \r"
+    ],
+    [
+      10.000000,
+      "\u001b[0;33mdeis-store-gateway@1.service:\u001b[0m activating/start-post                  \r"
+    ],
+    [
+      10.000000,
+      "\u001b[0;33mdeis-store-gateway@1.service:\u001b[0m active/running                         \r\r\n"
+    ],
+    [
+      2.087468,
+      "\u001b[0;33mdeis-store-volume.service:\u001b[0m active/running                            \r\r\n"
+    ],
+    [
+      0.000007,
+      "Logging subsystem...\r\n"
+    ],
+    [
+      1.770665,
+      "\u001b[0;33mdeis-logger.service:\u001b[0m activating/start-pre                            \r"
+    ],
+    [
+      9.962326,
+      "\u001b[0;33mdeis-logger.service:\u001b[0m active/running                                  \r\r\n"
+    ],
+    [
+      2.084624,
+      "\u001b[0;33mdeis-logspout.service:\u001b[0m activating/start-pre                          \r"
+    ],
+    [
+      10.000000,
+      "\u001b[0;33mdeis-logspout.service:\u001b[0m active/running                                \r\r\n"
+    ],
+    [
+      1.769049,
+      "Control plane...\r\n"
+    ],
+    [
+      2.158510,
+      "\u001b[0;33mdeis-controller.service:\u001b[0m activating/start-pre                        \r"
+    ],
+    [
+      0.026096,
+      "\u001b[0;33mdeis-registry@1.service:\u001b[0m activating/start-pre                        \r"
+    ],
+    [
+      0.249939,
+      "\u001b[0;33mdeis-database.service:\u001b[0m activating/start-pre                          \r"
+    ],
+    [
+      10.000000,
+      "\u001b[0;33mdeis-registry@1.service:\u001b[0m active/running                              \r\r\n"
+    ],
+    [
+      8.025110,
+      "\u001b[0;33mdeis-database.service:\u001b[0m active/running                                \r\r\n"
+    ],
+    [
+      10.000000,
+      "\u001b[0;33mdeis-controller.service:\u001b[0m active/running                              \r\r\n"
+    ],
+    [
+      0.137133,
+      "\u001b[0;33mdeis-builder.service:\u001b[0m activating/start-pre                           \r"
+    ],
+    [
+      10.000000,
+      "\u001b[0;33mdeis-builder.service:\u001b[0m activating/start-post                          \r"
+    ],
+    [
+      10.000000,
+      "\u001b[0;33mdeis-builder.service:\u001b[0m active/running                                 \r\r\n"
+    ],
+    [
+      0.000006,
+      "Data plane...\r\n"
+    ],
+    [
+      0.148112,
+      "\u001b[0;33mdeis-publisher.service:\u001b[0m active/running                               \r\r\nRouting mesh...\r\n"
+    ],
+    [
+      1.184581,
+      "\u001b[0;33mdeis-router@2.service:\u001b[0m active/running                                \r\r\n"
+    ],
+    [
+      0.040803,
+      "\u001b[0;33mdeis-router@1.service:\u001b[0m active/running                                \r\r\n"
+    ],
+    [
+      0.095084,
+      "\u001b[0;33mdeis-router@3.service:\u001b[0m active/running                                \r\r\n"
+    ],
+    [
+      0.000006,
+      "Done.\r\n \r\nPlease use `deis register` to setup an administrator account.\r\n"
+    ],
+    [
+      0.019915,
+      "\u001b[32mWaiting for ELB (deis-test-DeisWebE-1MSY6DPT8DNDR) to see an instance in InService...\u001b[0m\r\n"
+    ],
+    [
+      1.795720,
+      "\u001b[106m\u001b[97m ~/code/deis \u001b(B\u001b[m\u001b[44m\u001b[97m ⑂ master \u001b(B\u001b[m\u001b[42m\u001b[97m  \u001b(B\u001b[m "
+    ],
+    [
+      10.000000,
+      "e"
+    ],
+    [
+      0.199742,
+      "x"
+    ],
+    [
+      0.144219,
+      "i"
+    ],
+    [
+      0.095978,
+      "t"
+    ],
+    [
+      0.103811,
+      "\r\n"
+    ],
+    [
+      0.000098,
+      "exit\r\n"
+    ]
+  ]
+}
