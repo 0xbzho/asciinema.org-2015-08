@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "width": 133,
+  "height": 34,
+  "duration": 15.798903,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.232058,
+      "SSH agent using key in OSX keychain.\r\n"
+    ],
+    [
+      0.044438,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000011,
+      "\u001b[106m\u001b[97m ~/code/rigger \u001b(B\u001b[m\u001b[44m\u001b[97m ⑂ master + \u001b(B\u001b[m\u001b[42m\u001b[97m  \u001b(B\u001b[m "
+    ],
+    [
+      0.747804,
+      "."
+    ],
+    [
+      0.032138,
+      "/"
+    ],
+    [
+      0.183478,
+      "r"
+    ],
+    [
+      0.135934,
+      "i"
+    ],
+    [
+      0.096370,
+      "g"
+    ],
+    [
+      0.127861,
+      "g"
+    ],
+    [
+      0.192355,
+      "e"
+    ],
+    [
+      0.064025,
+      "r"
+    ],
+    [
+      0.127999,
+      " "
+    ],
+    [
+      0.175624,
+      "t"
+    ],
+    [
+      0.120396,
+      "e"
+    ],
+    [
+      0.087983,
+      "s"
+    ],
+    [
+      0.071648,
+      "t"
+    ],
+    [
+      1.000000,
+      "\r\n"
+    ],
+    [
+      0.071705,
+      "\u001b[32mStarting ssh-agent and adding keys...\u001b[0m\r\n"
+    ],
+    [
+      0.502413,
+      "/Applications/Xcode.app/Contents/Developer/usr/bin/make -C tests/ test-smoke\r\n"
+    ],
+    [
+      0.007116,
+      "gofmt -l dockercli etcdutils mock utils apps_test.go auth_test.go builds_test.go config_test.go domains_test.go healthcheck_test.go integration_test.go keys_test.go limits_test.go main.go perms_test.go ps_test.go releases_test.go smoke_test.go tags_test.go users_test.go\r\n"
+    ],
+    [
+      0.066071,
+      "godep go vet github.com/deis/deis/tests github.com/deis/deis/tests/dockercli github.com/deis/deis/tests/etcdutils github.com/deis/deis/tests/mock github.com/deis/deis/tests/utils\r\n"
+    ],
+    [
+      0.320424,
+      "golint ./...\r\n"
+    ],
+    [
+      0.051267,
+      "dockercli/dockercli.go:128:1: exported function CreateVolume should have comment or be unexported\r\n"
+    ],
+    [
+      0.000007,
+      "dockercli/dockercli.go:160:1: exported function WaitForLine should have comment or be unexported\r\n"
+    ],
+    [
+      0.035314,
+      "godep go test -tags integration -short -timeout 20m -v -run TestSmoke\r\n"
+    ],
+    [
+      0.759232,
+      "=== RUN TestSmokeExampleApp\r\n"
+    ],
+    [
+      0.255818,
+      "if [ ! -f /Users/sethgoings/.ssh/deis-test ]; then\r\n  ssh-keygen -q -t rsa -f /Users/sethgoings/.ssh/deis-test -N '' -C deis\r\nfi\r\nssh-add /Users/sethgoings/.ssh/deis-test ... "
+    ],
+    [
+      0.006764,
+      "ok\r\n"
+    ],
+    [
+      0.000058,
+      "deis register http://deis.test-275966c736-275966c736.test-275966c736.deis.xyz \\\r\n  --username=test \\\r\n  --password=asdf1234 \\\r\n  --email=test@test.co.nz || true ... "
+    ],
+    [
+      1.000000,
+      "ok\r\n"
+    ],
+    [
+      0.000048,
+      "deis login http://deis.test-275966c736-275966c736.test-275966c736.deis.xyz \\\r\n  --username=test \\\r\n  --password=asdf1234 ... "
+    ],
+    [
+      1.000000,
+      "ok\r\n"
+    ],
+    [
+      0.000030,
+      "deis keys:add /Users/sethgoings/.ssh/deis-test.pub || true ... "
+    ],
+    [
+      0.969777,
+      "ok\r\n"
+    ],
+    [
+      0.000046,
+      "if [ ! -d ./example-java-jetty ]; then\r\n  git clone https://github.com/deis/example-java-jetty.git\r\nfi ... "
+    ],
+    [
+      0.766506,
+      "ok\r\n"
+    ],
+    [
+      0.000082,
+      "git remote remove deis || true ... "
+    ],
+    [
+      0.010053,
+      "ok\r\n"
+    ],
+    [
+      0.000043,
+      "sleep 6 \u0026\u0026 deis apps:create testing ... "
+    ],
+    [
+      1.000000,
+      "ok\r\n"
+    ],
+    [
+      0.000030,
+      "git push deis master ... "
+    ],
+    [
+      1.000000,
+      "ok\r\n"
+    ],
+    [
+      0.000106,
+      "sleep 6 \u0026\u0026 curl -s http://testing.test-275966c736-275966c736.test-275966c736.deis.xyz | grep -q 'Powered by Deis' || \\\r\n\t(curl -v http://testing.test-275966c736-275966c736.test-275966c736.deis.xyz ; exit 1) ... "
+    ],
+    [
+      1.000000,
+      "ok\r\n"
+    ],
+    [
+      0.000085,
+      "deis scale web=3 || deis scale cmd=3 ... "
+    ],
+    [
+      1.000000,
+      "ok\r\n"
+    ],
+    [
+      0.000050,
+      "sleep 7 \u0026\u0026 curl -s http://testing.test-275966c736-275966c736.test-275966c736.deis.xyz | grep -q 'Powered by Deis' || \\\r\n\t(curl -v http://testing.test-275966c736-275966c736.test-275966c736.deis.xyz ; exit 1) ... "
+    ],
+    [
+      1.000000,
+      "ok\r\n"
+    ],
+    [
+      0.000017,
+      "--- PASS: TestSmokeExampleApp (686.21s)\r\n"
+    ],
+    [
+      0.000021,
+      "PASS\r\n"
+    ],
+    [
+      0.002682,
+      "ok  \tgithub.com/deis/deis/tests\t686.217s\r\n"
+    ],
+    [
+      0.044319,
+      "\u001b[106m\u001b[97m ~/code/rigger \u001b(B\u001b[m\u001b[44m\u001b[97m ⑂ master + \u001b(B\u001b[m\u001b[42m\u001b[97m  \u001b(B\u001b[m "
+    ],
+    [
+      1.000000,
+      "e"
+    ],
+    [
+      0.135777,
+      "x"
+    ],
+    [
+      0.120419,
+      "i"
+    ],
+    [
+      0.103634,
+      "t"
+    ],
+    [
+      0.128271,
+      "\r\n"
+    ],
+    [
+      0.000088,
+      "exit\r\n"
+    ]
+  ]
+}
