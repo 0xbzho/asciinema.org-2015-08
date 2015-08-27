@@ -1,0 +1,242 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 43.866288,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.015915,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000007,
+      "bash-3.2$ "
+    ],
+    [
+      7.216622,
+      "p"
+    ],
+    [
+      0.021445,
+      "y"
+    ],
+    [
+      0.264183,
+      "t"
+    ],
+    [
+      0.129950,
+      "h"
+    ],
+    [
+      0.621929,
+      "o"
+    ],
+    [
+      0.056047,
+      "n"
+    ],
+    [
+      0.463948,
+      " "
+    ],
+    [
+      0.536117,
+      "Q"
+    ],
+    [
+      0.303830,
+      "u"
+    ],
+    [
+      0.111878,
+      "a"
+    ],
+    [
+      0.720339,
+      "d"
+    ],
+    [
+      0.223962,
+      "r"
+    ],
+    [
+      0.183819,
+      "a"
+    ],
+    [
+      0.536055,
+      "P"
+    ],
+    [
+      0.352123,
+      "y"
+    ],
+    [
+      0.551914,
+      "."
+    ],
+    [
+      0.240021,
+      "p"
+    ],
+    [
+      0.416159,
+      "y"
+    ],
+    [
+      0.591895,
+      "\r\n"
+    ],
+    [
+      0.095623,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.000240,
+      "\u001b[95m################################### QuadraPy ###################################\u001b[0m\r\n\r\nThanks for using QuadraPy. QuadraPy is a simple Python based Quadratic equation solver. Pass it the three coefficients and it should spit out one or two real solutions. It does not support imaginary solutions. The source is available at https://github.com/PatMurrayDEV/QuadraPy -- if you have any questions email me at feedback@patmurray.co\r\n"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\r\nFollowing the format \u001b[42;39ma\u001b[0mx² + \u001b[41;39mb\u001b[0mx + \u001b[46;39mc\u001b[0m,\r\n"
+    ],
+    [
+      0.000003,
+      "Enter the co-efficients (watch for negatives):\r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[42;39m  a\u001b[0m: "
+    ],
+    [
+      3.088262,
+      "1"
+    ],
+    [
+      0.727924,
+      "\r\n"
+    ],
+    [
+      0.000114,
+      "\u001b[41;39m  b\u001b[0m: "
+    ],
+    [
+      0.967903,
+      "3"
+    ],
+    [
+      2.016214,
+      "\r\n"
+    ],
+    [
+      0.000127,
+      "\u001b[46;39m  c\u001b[0m: "
+    ],
+    [
+      0.559714,
+      "2"
+    ],
+    [
+      0.736089,
+      "\r\n"
+    ],
+    [
+      0.000160,
+      "Two solutions x =  -1.0  \u0026  -2.0\r\n"
+    ],
+    [
+      0.003333,
+      "bash-3.2$ "
+    ],
+    [
+      4.576072,
+      "python QuadraPy.py"
+    ],
+    [
+      1.151897,
+      "\r\n"
+    ],
+    [
+      0.028368,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.000177,
+      "\u001b[95m################################### QuadraPy ###################################\u001b[0m\r\n\r\nThanks for using QuadraPy. QuadraPy is a simple Python based Quadratic equation solver. Pass it the three coefficients and it should spit out one or two real solutions. It does not support imaginary solutions. The source is available at https://github.com/PatMurrayDEV/QuadraPy -- if you have any questions email me at feedback@patmurray.co\r\n"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\r\nFollowing the format \u001b[42;39ma\u001b[0mx² + \u001b[41;39mb\u001b[0mx + \u001b[46;39mc\u001b[0m,\r\n"
+    ],
+    [
+      0.000003,
+      "Enter the co-efficients (watch for negatives):\r\n"
+    ],
+    [
+      0.000021,
+      "\u001b[42;39m  a\u001b[0m: "
+    ],
+    [
+      2.035566,
+      "1"
+    ],
+    [
+      0.560650,
+      "\r\n"
+    ],
+    [
+      0.000204,
+      "\u001b[41;39m  b\u001b[0m: "
+    ],
+    [
+      2.479163,
+      "-"
+    ],
+    [
+      0.616089,
+      "6"
+    ],
+    [
+      0.856004,
+      "\r\n"
+    ],
+    [
+      0.000124,
+      "\u001b[46;39m  c\u001b[0m: "
+    ],
+    [
+      0.431921,
+      "9"
+    ],
+    [
+      0.399740,
+      "\r\n"
+    ],
+    [
+      0.000156,
+      "One Solution x =  3.0\r\n"
+    ],
+    [
+      0.003214,
+      "bash-3.2$ "
+    ],
+    [
+      8.969681,
+      "exit\r\n"
+    ]
+  ]
+}
