@@ -1,0 +1,350 @@
+{
+  "version": 1,
+  "width": 143,
+  "height": 34,
+  "duration": 19.317214,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.234721,
+      "SSH agent using key in OSX keychain.\r\n"
+    ],
+    [
+      0.044868,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000006,
+      "\u001b[106m\u001b[97m ~/code/rigger \u001b(B\u001b[m\u001b[44m\u001b[97m ⑂ master + \u001b(B\u001b[m\u001b[42m\u001b[97m  \u001b(B\u001b[m "
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      0.071875,
+      "/"
+    ],
+    [
+      0.152249,
+      "r"
+    ],
+    [
+      0.159897,
+      "i"
+    ],
+    [
+      0.343726,
+      "g"
+    ],
+    [
+      0.152322,
+      "g"
+    ],
+    [
+      0.184176,
+      "e"
+    ],
+    [
+      0.072099,
+      "r"
+    ],
+    [
+      0.343754,
+      " "
+    ],
+    [
+      0.192008,
+      "c"
+    ],
+    [
+      0.104193,
+      "o"
+    ],
+    [
+      0.079782,
+      "n"
+    ],
+    [
+      0.071689,
+      "f"
+    ],
+    [
+      0.128291,
+      "i"
+    ],
+    [
+      0.079752,
+      "g"
+    ],
+    [
+      0.120387,
+      "u"
+    ],
+    [
+      0.095633,
+      "r"
+    ],
+    [
+      0.080310,
+      "e"
+    ],
+    [
+      0.575757,
+      "\r\n"
+    ],
+    [
+      0.063490,
+      "\r\n"
+    ],
+    [
+      0.011405,
+      "\u001b[33mGeneral questions...\u001b[0m\r\n"
+    ],
+    [
+      0.000098,
+      "------------------\r\n"
+    ],
+    [
+      0.010468,
+      "\u001b[32m-\u003e Enter Deis version: [ master ]\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "1"
+    ],
+    [
+      0.279958,
+      "."
+    ],
+    [
+      0.255687,
+      "9"
+    ],
+    [
+      0.279988,
+      "."
+    ],
+    [
+      0.239982,
+      "1"
+    ],
+    [
+      0.559957,
+      "\r\n"
+    ],
+    [
+      0.000165,
+      "You chose: 1.9.1\r\n"
+    ],
+    [
+      0.013443,
+      "\u001b[32m-\u003e Where is the Deis repository located? [ /Users/sethgoings/go/src/github.com/deis/deis ]\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\r\n"
+    ],
+    [
+      0.000163,
+      "You chose: /Users/sethgoings/go/src/github.com/deis/deis\r\n"
+    ],
+    [
+      0.018864,
+      "\u001b[32m-\u003e What cloud provider would you like to use? [ Vagrant ]\u001b[0m\r\n"
+    ],
+    [
+      0.002277,
+      "1) Vagrant\r\n"
+    ],
+    [
+      0.002149,
+      "2) Amazon Web Services (AWS)\r\n"
+    ],
+    [
+      0.000004,
+      "#? "
+    ],
+    [
+      1.000000,
+      "2"
+    ],
+    [
+      0.904131,
+      "\r\n"
+    ],
+    [
+      0.003844,
+      "You chose: 2) Amazon Web Services (AWS)\r\n"
+    ],
+    [
+      0.033026,
+      "\u001b[32m-\u003e What's a publicly available Docker registry I can use? [ registry.hub.docker.com ]\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\r\n"
+    ],
+    [
+      0.000166,
+      "You chose: registry.hub.docker.com\r\n"
+    ],
+    [
+      0.012019,
+      "\u001b[32m-\u003e And an organization/user I can push to (include trailing /)? [ sethgoings/ ]\u001b[0m\r\n"
+    ],
+    [
+      0.795872,
+      "s"
+    ],
+    [
+      0.063705,
+      "g"
+    ],
+    [
+      0.064426,
+      "o"
+    ],
+    [
+      0.080008,
+      "i"
+    ],
+    [
+      0.049013,
+      "n"
+    ],
+    [
+      0.049503,
+      "g"
+    ],
+    [
+      0.061349,
+      "s"
+    ],
+    [
+      0.280184,
+      "/"
+    ],
+    [
+      0.551919,
+      "\r\n"
+    ],
+    [
+      0.000116,
+      "You chose: sgoings/\r\n"
+    ],
+    [
+      0.012264,
+      "\u001b[32m-\u003e What ssh key should I use (for deisctl/ssh)? [ /Users/sethgoings/.ssh/deis-test ]\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\r\n"
+    ],
+    [
+      0.000167,
+      "You chose: /Users/sethgoings/.ssh/deis-test\r\n"
+    ],
+    [
+      0.012356,
+      "\u001b[32m-\u003e What ssh key should I use for application deployment? [ /Users/sethgoings/.ssh/deis-test ]\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\r\n"
+    ],
+    [
+      0.000180,
+      "You chose: /Users/sethgoings/.ssh/deis-test\r\n"
+    ],
+    [
+      0.012498,
+      "\u001b[32m-\u003e What wildcard domain name is available for me to use? (no default)\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "d"
+    ],
+    [
+      0.184233,
+      "e"
+    ],
+    [
+      0.135888,
+      "i"
+    ],
+    [
+      0.063932,
+      "s"
+    ],
+    [
+      0.272303,
+      "."
+    ],
+    [
+      0.296030,
+      "x"
+    ],
+    [
+      0.152022,
+      "y"
+    ],
+    [
+      0.119937,
+      "z"
+    ],
+    [
+      0.391551,
+      "\r\n"
+    ],
+    [
+      0.000182,
+      "You chose: deis.xyz\r\n"
+    ],
+    [
+      0.128107,
+      "\r\n"
+    ],
+    [
+      0.011333,
+      "\u001b[32mRerun Deis has been configured on this system using /Users/sethgoings/.rigger/275966c736/vars\u001b[0m\r\n"
+    ],
+    [
+      0.003381,
+      "To use the configuration outside of Rerun, you can run:\r\n\r\n  source \"/Users/sethgoings/.rigger/275966c736/vars\"\r\n\r\n"
+    ],
+    [
+      0.040720,
+      "\u001b[106m\u001b[97m ~/code/rigger \u001b(B\u001b[m\u001b[44m\u001b[97m ⑂ master + \u001b(B\u001b[m\u001b[42m\u001b[97m  \u001b(B\u001b[m "
+    ],
+    [
+      1.000000,
+      "e"
+    ],
+    [
+      0.168111,
+      "x"
+    ],
+    [
+      0.128309,
+      "i"
+    ],
+    [
+      0.088027,
+      "t"
+    ],
+    [
+      0.120005,
+      "\r\n"
+    ],
+    [
+      0.000098,
+      "exit\r\n"
+    ]
+  ]
+}
