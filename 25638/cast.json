@@ -1,0 +1,3230 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 40,
+  "duration": 145.815437,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.008861,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000010,
+      "$ "
+    ],
+    [
+      0.839140,
+      "t"
+    ],
+    [
+      0.122845,
+      "m"
+    ],
+    [
+      0.278358,
+      "u"
+    ],
+    [
+      0.159024,
+      "x"
+    ],
+    [
+      0.216272,
+      "\r\n"
+    ],
+    [
+      0.013011,
+      "\u001b[?1049h\u001b(B\u001b[m\u001b[?1l\u001b\u003e\u001b[H\u001b[2J\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[?1006l\u001b[?1005l\u001b[c\u001b]112\u0007\u001b[?25l\u001b[1;1H\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[42m[0] 0:bash*                                \"Peters-MacBook.home\" 17:48 28-Aug-15\u001b(B\u001b[m\u001b[40;1H\u001b[1;40r\u001b[H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.388598,
+      "\u001b[1;39r$ \u001b[1;40r\u001b[H\u001b[2C"
+    ],
+    [
+      0.477594,
+      "\u001b[1;39r\u001b[H\u001b[2Ce\u001b[1;40r\u001b[H\u001b[3C"
+    ],
+    [
+      0.095605,
+      "\u001b[1;39r\u001b[H\u001b[3C \u001b[1;40r\u001b[H\u001b[4C"
+    ],
+    [
+      0.096151,
+      "\u001b[1;39r\u001b[H\u001b[4C.\u001b[1;40r\u001b[H\u001b[5C"
+    ],
+    [
+      0.277255,
+      "\r\n"
+    ],
+    [
+      0.011451,
+      "\u001b[?25l\u001b[H\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2d\u001b[?12;25h\u001b[?1h\u001b="
+    ],
+    [
+      0.007351,
+      "\u001b[1;39r\u001b[H\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[K\u001b[1;40r\u001b[H\u001b[39d"
+    ],
+    [
+      0.000024,
+      "\u001b[?25l\u001b[H$ e .\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2d\u001b[?12l\u001b[?25h\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000074,
+      "\u001b[?25l\u001b[H\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2d\u001b[?12;25h\u001b[?1h\u001b="
+    ],
+    [
+      0.042581,
+      "\u001b[1;39r\u001b[H\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1;40r\u001b[H"
+    ],
+    [
+      0.000845,
+      "\u001b[1;39r\u001b[38d\u001b[7m-UUU:----F1  \u001b[1m*scratch*   \u001b(B\u001b[m\u001b[7m   All L1     (Fundamental) ---------------------------\u001b[38;1H\u001b[1;40r\u001b[H\r\n\u001b(B\u001b[m"
+    ],
+    [
+      0.001324,
+      "\u001b[1;39r\u001b[H\u001b[39dLoading paren...done\u001b[K\u001b[1;40r\u001b[H\r\n"
+    ],
+    [
+      0.100196,
+      "\u001b[?25l\u001b[40d\u001b[30m\u001b[42m[0] 0:emacs-24.5*                          \"Peters-MacBook.home\" 17:48 28-Aug-15\u001b(B\u001b[m\u001b[2;1H\u001b[?12;25h"
+    ],
+    [
+      0.642788,
+      "\u001b[1;39r\u001b[H\u001b[39;9Hterm/xterm...\u001b[1;40r\u001b[H\r\n"
+    ],
+    [
+      0.003568,
+      "\u001b[1;39r\u001b[H\u001b[39;22Hdone\u001b[1;40r\u001b[H\r\n"
+    ],
+    [
+      0.005876,
+      "\u001b[1;39r\u001b[H\u001b[39dFor information about GNU Emacs and the GNU system, type C-h C-a.\u001b[K\u001b[1;40r\u001b[H\r\n"
+    ],
+    [
+      0.079888,
+      "\u001b[1;39r\u001b[H\u001b[39dFor information about GNU Emacs and the GNU system, type C-h C-a.\u001b[K\u001b[H\u001b[7mFile Edit Options Buffers Tools Operate Mark Regexp Immediate Subdir Help       \u001b[1;1H\u001b[1;40r\u001b[?25l\u001b(B\u001b[m"
+    ],
+    [
+      0.000488,
+      "\u001b[1;39r\r\n  \u001b[32m/Users/pdericson/src/github.com/mesoscloud/mesos-master\u001b[39m:\u001b[K\r\n  total used in directory 24 available 27517236\u001b[K\r\n  drwxr-xr-x   8 pdericson  staff   272 28 Aug 17:48 \u001b[34m\u001b[1m.\u001b(B\u001b[m\u001b[K\r\n  drwxr-xr-x  16 pdericson  staff   544 26 Aug 20:39 \u001b[34m\u001b[1m..\u001b(B\u001b[m\u001b[K\r\n  drwxr-xr-x  15 pdericson  staff   510 28 Aug 17:48 \u001b[34m\u001b[1m.git\u001b(B\u001b[m\u001b[K\r\n  -rw-r--r--   1 pdericson  staff   796 28 Aug 17:48 .monty.yml\u001b[K\r\n  drwxr-xr-x   4 pdericson  staff   136 24 Jul 17:45 \u001b[34m\u001b[1m0.22.1\u001b(B\u001b[m\u001b[K\r\n  drwxr-xr-x   4 pdericson  staff   136 24 Jul 17:45 \u001b[34m\u001b[1m0.23.0\u001b(B\u001b[m\u001b[K\r\n  -rw-r--r--   1 pdericson  staff  1078 24 Jul 17:45 LICENSE\u001b[K\r\n  -rw-r--r--   1 pdericson  staff  1286 27 Aug 21:42 README.md\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[7m-UUU:%%--F1  \u001b[1mmesos-master     \u001b(B\u001b[m\u001b[7m   All L5     (Dired by name) --------------------\u001b[38;1H\u001b[1;40r\u001b[H\u001b[6;54H\u001b[?12;25h\u001b(B\u001b[m"
+    ],
+    [
+      0.991597,
+      "\u001b[20;1H─────────────────────────────────────────\u001b[32m───────────────────────────────────────\u001b[?25l\u001b[1;1H\u001b(B\u001b[m\u001b[7mFile Edit Options Buffers Tools Operate Mark Regexp Immediate Subdir Help       \u001b[2;1H\u001b(B\u001b[m  \u001b[32m/Users/pdericson/src/github.com/mesoscloud/mesos-master\u001b[39m:\u001b[K\r\n  total used in directory 24 available 27517236\u001b[K\r\n  drwxr-xr-x   8 pdericson  staff   272 28 Aug 17:48 \u001b[34m\u001b[1m.\u001b(B\u001b[m\u001b[K\r\n  drwxr-xr-x  16 pdericson  staff   544 26 Aug 20:39 \u001b[34m\u001b[1m..\u001b(B\u001b[m\u001b[K\r\n  drwxr-xr-x  15 pdericson  staff   510 28 Aug 17:48 \u001b[34m\u001b[1m.git\u001b(B\u001b[m\u001b[K\r\n  -rw-r--r--   1 pdericson  staff   796 28 Aug 17:48 .monty.yml\u001b[K\r\n  drwxr-xr-x   4 pdericson  staff   136 24 Jul 17:45 \u001b[34m\u001b[1m0.22.1\u001b(B\u001b[m\u001b[K\r\n  drwxr-xr-x   4 pdericson  staff   136 24 Jul 17:45 \u001b[34m\u001b[1m0.23.0\u001b(B\u001b[m\u001b[K\r\n  -rw-r--r--   1 pdericson  staff  1078 24 Jul 17:45 LICENSE\u001b[K\r\n  -rw-r--r--   1"
+    ],
+    [
+      0.000108,
+      " pdericson  staff  1286 27 Aug 21:42 README.md\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2B\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[42m[0] 0:emacs-24.5*                          \"Peters-MacBook.home\" 17:48 28-Aug-15\u001b(B\u001b[m\u001b[21;1H\u001b[?12l\u001b[?25h\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000009,
+      "\u001b[1;19r\u001b[H\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1;40r\u001b[H\u001b[21d"
+    ],
+    [
+      0.001036,
+      "\u001b[1;19r\u001b[H\u001b[19dFor information about GNU Emacs and the GNU system, type C-h C-a.\u001b[K\u001b[H\u001b[7mFile Edit Options Buffers Tools Operate Mark Regexp Immediate Subdir Help       \u001b[1;1H\u001b[1;40r\u001b[21d\u001b(B\u001b[m"
+    ],
+    [
+      0.000579,
+      "\u001b[1;19r\u001b[H\r\n  \u001b[32m/Users/pdericson/src/github.com/mesoscloud/mesos-master\u001b[39m:\u001b[K\r\n  total used in directory 24 available 27517236\u001b[K\r\n  drwxr-xr-x   8 pdericson  staff   272 28 Aug 17:48 \u001b[34m\u001b[1m.\u001b(B\u001b[m\u001b[K\r\n  drwxr-xr-x  16 pdericson  staff   544 26 Aug 20:39 \u001b[34m\u001b[1m..\u001b(B\u001b[m\u001b[K\r\n  drwxr-xr-x  15 pdericson  staff   510 28 Aug 17:48 \u001b[34m\u001b[1m.git\u001b(B\u001b[m\u001b[K\r\n  -rw-r--r--   1 pdericson  staff   796 28 Aug 17:48 .monty.yml\u001b[K\r\n  drwxr-xr-x   4 pdericson  staff   136 24 Jul 17:45 \u001b[34m\u001b[1m0.22.1\u001b(B\u001b[m\u001b[K\r\n  drwxr-xr-x   4 pdericson  staff   136 24 Jul 17:45 \u001b[34m\u001b[1m0.23.0\u001b(B\u001b[m\u001b[K\r\n  -rw-r--r--   1 pdericson  staff  1078 24 Jul 17:45 LICENSE\u001b[K\r\n  -rw-r--r--   1 pdericson  staff  1286 27 Aug 21:42 README.md\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[7m-UUU:%%--F1  \u001b[1mmesos-master     \u001b(B\u001b[m\u001b[7m   All L5     (Dired by name) --------------------\u001b[18;1H\u001b[1;40r\u001b[H\u001b[21d\u001b(B\u001b[m"
+    ],
+    [
+      0.275701,
+      "\u001b[?25l\u001b[40d\u001b[30m\u001b[42m[0] 0:bash*                                \"Peters-MacBook.home\" 17:48 28-Aug-15\u001b(B\u001b[m\u001b[21;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.134473,
+      "\u001b[21;39r\u001b[H\u001b[21d$ \u001b[1;40r\u001b[H\u001b[21;3H"
+    ],
+    [
+      0.520656,
+      "\u001b[21;39r\u001b[H\u001b[21;3Hm\u001b[1;40r\u001b[H\u001b[21;4H"
+    ],
+    [
+      0.224027,
+      "\u001b[21;39r\u001b[H\u001b[21;4Ho\u001b[1;40r\u001b[H\u001b[21;5H"
+    ],
+    [
+      0.095964,
+      "\u001b[21;39r\u001b[H\u001b[21;5Hn\u001b[1;40r\u001b[H\u001b[21;6H"
+    ],
+    [
+      0.132076,
+      "\u001b[21;39r\u001b[H\u001b[21;6Ht\u001b[1;40r\u001b[H\u001b[21;7H"
+    ],
+    [
+      0.218943,
+      "\u001b[21;39r\u001b[H\u001b[21;7Hy\u001b[1;40r\u001b[H\u001b[21;8H"
+    ],
+    [
+      0.205702,
+      "\r\n"
+    ],
+    [
+      0.125567,
+      "\u001b[21;39r\u001b[H\u001b[22d🌹  \u001b[1mdocker build -t mesoscloud/mesos-master:0.23.0-centos-7 0.23.0/centos/7\u001b[1;40r\u001b[H\u001b[23d\u001b(B\u001b[m"
+    ],
+    [
+      0.220783,
+      "\u001b[21;39r\u001b[H\u001b[23dSending build context to Docker daemon 3.072 kB\r\nSending build context to Docker daemon \u001b[1;40r\u001b[H\u001b[25d"
+    ],
+    [
+      0.017350,
+      "\u001b[21;39r\u001b[H\u001b[25dStep 0 : FROM centos:7\u001b[1;40r\u001b[H\u001b[26d"
+    ],
+    [
+      0.000852,
+      "\u001b[21;39r\u001b[H\u001b[26d ---\u003e 7322fbe74aa5\u001b[1;40r\u001b[H\u001b[27d"
+    ],
+    [
+      0.000272,
+      "\u001b[21;39r\u001b[H\u001b[27dStep 1 : RUN rpm -i http://repos.mesosphere.io/el/7/noarch/RPMS/mesosphere-el-repo-7-1.noarch.rpm \u0026\u0026 yum -y install mesos-0.23.0\u001b[1;40r\u001b[H\u001b[29d"
+    ],
+    [
+      0.105884,
+      "\u001b[?25l\u001b[40d\u001b[30m\u001b[42m[0] 0:Python*                              \"Peters-MacBook.home\" 17:48 28-Aug-15\u001b(B\u001b[m\u001b[29;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.379920,
+      "\u001b[21;39r\u001b[H\u001b[29d ---\u003e Using cache\u001b[1;40r\u001b[H\u001b[30d"
+    ],
+    [
+      0.000315,
+      "\u001b[21;39r\u001b[H\u001b[30d ---\u003e 79b95e9af95c\u001b[1;40r\u001b[H\u001b[31d"
+    ],
+    [
+      0.000246,
+      "\u001b[21;39r\u001b[H\u001b[31dStep 2 : CMD /usr/sbin/mesos-master\u001b[1;40r\u001b[H\u001b[32d"
+    ],
+    [
+      0.454901,
+      "\u001b[21;39r\u001b[H\u001b[32d ---\u003e Using cache\u001b[1;40r\u001b[H\u001b[33d"
+    ],
+    [
+      0.006783,
+      "\u001b[21;39r\u001b[H\u001b[33d ---\u003e fed957ef697f\u001b[1;40r\u001b[H\u001b[34d"
+    ],
+    [
+      0.000211,
+      "\u001b[21;39r\u001b[H\u001b[34dStep 3 : ENV MESOS_WORK_DIR /tmp/mesos\u001b[1;40r\u001b[H\u001b[35d"
+    ],
+    [
+      0.239169,
+      "\u001b[32m\u001b[15A─────────────────────────────────────────\u001b[39m───────────────────────────────────────\u001b[?25l\u001b[1;1H\u001b(B\u001b[m\u001b[7mFile Edit Options Buffers Tools Operate Mark Regexp Immediate Subdir Help       \u001b[2;1H\u001b(B\u001b[m  \u001b[32m/Users/pdericson/src/github.com/mesoscloud/mesos-master\u001b[39m:\u001b[K\r\n  total used in directory 24 available 27517236\u001b[K\r\n  drwxr-xr-x   8 pdericson  staff   272 28 Aug 17:48 \u001b[34m\u001b[1m.\u001b(B\u001b[m\u001b[K\r\n  drwxr-xr-x  16 pdericson  staff   544 26 Aug 20:39 \u001b[34m\u001b[1m..\u001b(B\u001b[m\u001b[K\r\n  drwxr-xr-x  15 pdericson  staff   510 28 Aug 17:48 \u001b[34m\u001b[1m.git\u001b(B\u001b[m\u001b[K\r\n  -rw-r--r--   1 pdericson  staff   796 28 Aug 17:48 .monty.yml\u001b[K\r\n  drwxr-xr-x   4 pdericson  staff   136 24 Jul 17:45 \u001b[34m\u001b[1m0.22.1\u001b(B\u001b[m\u001b[K\r\n  drwxr-xr-x   4 pdericson  staff   136 24 Jul 17:45 \u001b[34m\u001b[1m0.23.0\u001b(B\u001b[m\u001b[K\r\n  -rw-r--r--   1 pdericson  staff  1078 24 Jul 17:45 LICENSE\u001b[K\r\n  -rw-r--r-- "
+    ],
+    [
+      0.000068,
+      "  1 pdericson  staff  1286 27 Aug 21:42 README.md\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[7m-UUU:%%--F1  \u001b[1mmesos-master     \u001b(B\u001b[m\u001b[7m   All L5     (Dired by name) --------------------\u001b[19;1H\u001b(B\u001b[mFor information about GNU Emacs and the GNU system, type C-h C-a.\u001b[K\u001b[21;1H$ monty\u001b[K\r\n🌹  \u001b[1mdocker build -t mesoscloud/mesos-master:0.23.0-centos-7 0.23.0/centos/7\u001b(B\u001b[m\u001b[K\r\nSending build context to Docker daemon 3.072 kB\u001b[K\r\nSending build context to Docker daemon \u001b[K\r\nStep 0 : FROM centos:7\u001b[K\r\n ---\u003e 7322fbe74aa5\u001b[K\r\nStep 1 : RUN rpm -i http://repos.mesosphere.io/el/7/noarch/RPMS/mesosphere-el-repo-7-1.noarch.rpm \u0026\u0026 yum -y install mesos-0.23.0\u001b[K\r\n ---\u003e Using cache\u001b[K\r\n ---\u003e 79b95e9af95c\u001b[K\r\nStep 2 : CMD /usr/sbin/mesos-master\u001b[K\r\n ---\u003e Using cache\u001b[K\r\n ---\u003e fed957ef697f\u001b[K\r\nStep 3 : ENV MESOS_WORK_DIR /tmp/mesos\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[42m[0] 0:Python*                              \"Peters-MacBook.home\" 17:48 28-Aug-15\u001b(B\u001b[m\u001b[6;54H\u001b[?12;25h\u001b[?1h\u001b="
+    ],
+    [
+      0.233298,
+      "\u001b[21;39r\u001b[H\u001b[35d ---\u003e Using cache\u001b[1;40r\u001b[H\u001b[6;54H"
+    ],
+    [
+      0.003081,
+      "\u001b[21;39r\u001b[H\u001b[36d ---\u003e 234cfda89cb6\u001b[1;40r\u001b[H\u001b[6;54H"
+    ],
+    [
+      0.000166,
+      "\u001b[21;39r\u001b[H\u001b[37dStep 4 : VOLUME /tmp/mesos\u001b[1;40r\u001b[H\u001b[6;54H"
+    ],
+    [
+      0.183386,
+      "\u001b[?25l\u001b[40;1H\u001b[30m\u001b[42m[0] 0:emacs-24.5*                          \"Peters-MacBook.home\" 17:48 28-Aug-15\u001b(B\u001b[m\u001b[6;54H\u001b[?12;25h"
+    ],
+    [
+      0.273063,
+      "\u001b[21;39r\u001b[H\u001b[38d ---\u003e Using cache\u001b[1;40r\u001b[H\u001b[6;54H"
+    ],
+    [
+      0.000340,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e a9730379596d\r\n\u001b[1;40r\u001b[H\u001b[6;54H"
+    ],
+    [
+      0.000320,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 5 : COPY entrypoint.sh /\r\n\u001b[1;40r\u001b[H\u001b[6;54H"
+    ],
+    [
+      0.454575,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[6;54H"
+    ],
+    [
+      0.000065,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e a4f1d25712cc\r\n\u001b[1;40r\u001b[H\u001b[6;54H"
+    ],
+    [
+      0.000213,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 6 : ENTRYPOINT /entrypoint.sh\r\n\u001b[1;40r\u001b[H\u001b[6;54H"
+    ],
+    [
+      0.472211,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[6;54H"
+    ],
+    [
+      0.000151,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 7ed178c3aaa0\r\n\u001b[1;40r\u001b[H\u001b[6;54H"
+    ],
+    [
+      0.000355,
+      "\u001b[21;39r\u001b[H\u001b[39dSuccessfully built 7ed178c3aaa0\r\n\u001b[1;40r\u001b[H\u001b[6;54H"
+    ],
+    [
+      0.002610,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mmesos-master --version\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[6;54H"
+    ],
+    [
+      0.364478,
+      "\u001b[21;39r\u001b[H\u001b[39dmesos 0.23.0\r\n\u001b[1;40r\u001b[H\u001b[6;54H"
+    ],
+    [
+      0.114880,
+      "\u001b[19;1H\u001b[K\u001b[1;19r\u001b[H\u001b[18;39H\u001b[7m6\u001b[1;40r\u001b[H\u001b[7;54H\u001b(B\u001b[m"
+    ],
+    [
+      0.026504,
+      "\u001b[21;39r\u001b[H\u001b[39d\u001b[32m\u001b[1mtest passed\u001b(B\u001b[m\r\n🌹  \u001b[1mtest -z \"$MESOS_AUTHENTICATE\"\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[7;54H"
+    ],
+    [
+      0.469630,
+      "\u001b[21;39r\u001b[H\u001b[39d\u001b[32m\u001b[1mtest passed\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[7;54H"
+    ],
+    [
+      0.000089,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mtest \"$MESOS_AUTHENTICATE\" = true\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[7;54H"
+    ],
+    [
+      0.105695,
+      "\u001b[1;19r\u001b[H\u001b[32C\u001b[7mHelp                                     \r\n\u001b(B\u001b[m- \u001b[33mbuild\u001b[39m: 0.23.0/centos/7\u001b[K\u001b[3;3H\u001b[33mimage\u001b[39m:\u001b[K\u001b[4;3H  - mesoscloud/mesos-master:0.23.0-centos-7\u001b[K\u001b[5;3H  - mesoscloud/mesos-master:0.23.0-centos\u001b[K\u001b[6;3H  - mesoscloud/mesos-master:0.23.0\u001b[K\u001b[1;40r\u001b[H\u001b[6;37H\u001b[?25l"
+    ],
+    [
+      0.000386,
+      "\u001b[1;19r\u001b[H\u001b[7;3H  - mesoscloud/mesos-master:latest\u001b[K\r\n\u001b[K\r\n- \u001b[33mbuild\u001b[39m: 0.23.0/ubuntu/14.04\u001b[K\u001b[10;3H\u001b[33mimage\u001b[39m:\u001b[K\u001b[11;3H  - mesoscloud/mesos-master:0.23.0-ubuntu-14.04\u001b[K\u001b[12;5H- mesoscloud/mesos-master:0.23.0-ubuntu\u001b[14;1H- \u001b[33mbuild\u001b[39m: 0.22.1/centos/7\u001b[15;3H\u001b[33mimage\u001b[39m:\u001b[16;5H- mesoscloud/mesos-master:0.22.1-centos-7\u001b[17;5H- mesoscloud/mesos-master:0.22.1-centos\u001b[18;4H\u001b[7m-:----F1  \u001b[1m.monty.yml  \u001b(B\u001b[m\u001b[7m   Top L1    Git-master  (YAML) ---\u001b[1;40r\u001b[H\r\n\u001b[?12;25h\u001b(B\u001b[m"
+    ],
+    [
+      0.450024,
+      "\u001b[21;39r\u001b[H\u001b[39d\u001b[32m\u001b[1mtest passed\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\r\n\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mdocker tag -f mesoscloud/mesos-master:0.23.0-centos-7 mesoscloud/mesos-master:0.23.0-centos\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.000025,
+      "\u001b[1;40r\u001b[H\r\n"
+    ],
+    [
+      0.218491,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mdocker tag -f mesoscloud/mesos-master:0.23.0-centos-7 mesoscloud/mesos-master:0.23.0\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\r\n"
+    ],
+    [
+      0.220431,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mdocker tag -f mesoscloud/mesos-master:0.23.0-centos-7 mesoscloud/mesos-master:latest\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\r\n"
+    ],
+    [
+      0.234162,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mdocker build -t mesoscloud/mesos-master:0.23.0-ubuntu-14.04 0.23.0/ubuntu/14.04\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\r\n"
+    ],
+    [
+      0.234094,
+      "\u001b[21;39r\u001b[H\u001b[39dSending build context to Docker daemon 3.072 kB\r\nSending build context to Docker daemon \r\n\u001b[1;40r\u001b[H\r\n"
+    ],
+    [
+      0.016156,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 0 : FROM ubuntu:14.04\r\n\u001b[1;40r\u001b[H\r\n"
+    ],
+    [
+      0.000785,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 63e3c10217b8\r\n\u001b[1;40r\u001b[H\r\n"
+    ],
+    [
+      0.000354,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 1 : RUN apt-key adv --keyserver keyserver.ubuntu.com --recv E56151BF \u0026\u0026 echo deb http://repos.mesosphere.io/ubuntu trusty main \u003e /etc/apt/sources.list.d/mesosphere.list \u0026\u0026 apt-get update \u0026\u0026 apt-get -y install mesos=0.23.0-1.0.ubuntu1404\r\n\u001b[1;40r\u001b[H\r\n"
+    ],
+    [
+      0.487625,
+      "\u001b[1;19r\u001b[H\u001b[19dMark set\u001b[1;40r\u001b[H\r\n"
+    ],
+    [
+      0.001812,
+      "\u001b[1;19r\u001b[H\r\n  \u001b[33mimage\u001b[39m:\u001b[K\u001b[3;3H  - mesoscloud/mesos-master:0.22.1-ubuntu-14.04\u001b[4;34H2.1-ubuntu\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[1;40r\u001b[H\u001b[5B\u001b[?25l"
+    ],
+    [
+      0.000283,
+      "\u001b[1;19r\u001b[H\u001b[6B- \u001b[33mtests\u001b[39m:\u001b[K\u001b[8;5H- \u001b[33mcmd\u001b[39m: mesos-master --version\r\n\u001b[K\u001b[10;3H  - \u001b[33mcmd\u001b[39m: test -z \u001b[32m\"$MESOS_AUTHENTICATE\"\u001b(B\u001b[m\r\n\u001b[K\u001b[12;7H\u001b[33mcmd\u001b[39m: test \u001b[32m\"$MESOS_AUTHENTICATE\"\u001b[39m = true\u001b[13;7H\u001b[33menv\u001b[39m:\r\n        - SECRET=password\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[18;29H\u001b[7mBot L33\u001b[1;40r\u001b[H\u001b[14B\u001b[?12;25h\u001b(B\u001b[m"
+    ],
+    [
+      0.025400,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[14B"
+    ],
+    [
+      0.000327,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 6efeb261069b\r\n\u001b[1;40r\u001b[H\u001b[14B"
+    ],
+    [
+      0.000289,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 2 : CMD /usr/sbin/mesos-master\r\n\u001b[1;40r\u001b[H\u001b[14B"
+    ],
+    [
+      0.466658,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[14B"
+    ],
+    [
+      0.000204,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 9f6e4015372d\r\n\u001b[1;40r\u001b[H\u001b[14B"
+    ],
+    [
+      0.001865,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 3 : ENV MESOS_WORK_DIR /tmp/mesos\r\n\u001b[1;40r\u001b[H\u001b[14B"
+    ],
+    [
+      0.351228,
+      "\u001b[4B\u001b[K\u001b[1;19r\u001b[H\u001b[18;6H\u001b[7m**--F1  \u001b[1m.monty.yml  \u001b(B\u001b[m\u001b[7m   Bot L34\u001b[1;40r\u001b[H\u001b[16;9H\u001b(B\u001b[m"
+    ],
+    [
+      0.119643,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[16;9H"
+    ],
+    [
+      0.000266,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 4ffc4148ff4f\r\n\u001b[1;40r\u001b[H\u001b[16;9H"
+    ],
+    [
+      0.002846,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 4 : VOLUME /tmp/mesos\r\n\u001b[1;40r\u001b[H\u001b[16;9H"
+    ],
+    [
+      0.454985,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[16;9H"
+    ],
+    [
+      0.000270,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 023ff84266d3\r\n\u001b[1;40r\u001b[H\u001b[16;9H"
+    ],
+    [
+      0.000293,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 5 : COPY entrypoint.sh /\r\n\u001b[1;40r\u001b[H\u001b[16;9H"
+    ],
+    [
+      0.076958,
+      "\u001b[2D"
+    ],
+    [
+      0.371909,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[16;7H"
+    ],
+    [
+      0.000316,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 5099310ba47e\r\n\u001b[1;40r\u001b[H\u001b[16;7H"
+    ],
+    [
+      0.000303,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 6 : ENTRYPOINT /entrypoint.sh\r\n\u001b[1;40r\u001b[H\u001b[16;7H"
+    ],
+    [
+      0.217677,
+      "\u001b[2D"
+    ],
+    [
+      0.249526,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[16;5H"
+    ],
+    [
+      0.000283,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e ce569ee27aa8\r\n\u001b[1;40r\u001b[H\u001b[16;5H"
+    ],
+    [
+      0.000405,
+      "\u001b[21;39r\u001b[H\u001b[39dSuccessfully built ce569ee27aa8\r\n\u001b[1;40r\u001b[H\u001b[16;5H"
+    ],
+    [
+      0.002819,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mmesos-master --version\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[16;5H"
+    ],
+    [
+      0.052242,
+      "\u001b[1;19r\u001b[H\u001b[16;5H-\u001b[1;40r\u001b[H\u001b[16;6H"
+    ],
+    [
+      0.127910,
+      "\u001b[C"
+    ],
+    [
+      0.163514,
+      "\u001b[1;19r\u001b[H\u001b[16;7Hc\u001b[1;40r\u001b[H\u001b[16;8H"
+    ],
+    [
+      0.023665,
+      "\u001b[21;39r\u001b[H\u001b[39dmesos 0.23.0\r\n\u001b[1;40r\u001b[H\u001b[16;8H"
+    ],
+    [
+      0.107904,
+      "\u001b[21;39r\u001b[H\u001b[39d\u001b[32m\u001b[1mtest passed\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[16;8H\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mtest -z \"$MESOS_AUTHENTICATE\"\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[1;40r\u001b[H\u001b[16;8H"
+    ],
+    [
+      0.022398,
+      "\u001b[1;19r\u001b[H\u001b[16;8Hm\u001b[1;40r\u001b[H\u001b[16;9H"
+    ],
+    [
+      0.142261,
+      "\u001b[1;19r\u001b[H\u001b[16;9Hd\u001b[1;40r\u001b[H\u001b[16;10H"
+    ],
+    [
+      0.282256,
+      "\u001b[1;19r\u001b[H\u001b[16;7H\u001b[33mcmd\u001b[39m:\u001b[1;40r\u001b[H\u001b[16;11H"
+    ],
+    [
+      0.036227,
+      "\u001b[21;39r\u001b[H\u001b[39d\u001b[32m\u001b[1mtest passed\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[16;11H"
+    ],
+    [
+      0.000067,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mtest \"$MESOS_AUTHENTICATE\" = true\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[16;11H"
+    ],
+    [
+      0.143100,
+      "\u001b[C"
+    ],
+    [
+      0.293077,
+      "\u001b[21;39r\u001b[H\u001b[39d\u001b[32m\u001b[1mtest passed\u001b(B\u001b[m\r\n🌹  \u001b[1mdocker tag -f mesoscloud/mesos-master:0.23.0-ubuntu-14.04 mesoscloud/mesos-master:0.23.0-ubuntu\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[16;12H"
+    ],
+    [
+      0.213972,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mdocker build -t mesoscloud/mesos-master:0.22.1-centos-7 0.22.1/centos/7\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[16;12H"
+    ],
+    [
+      0.211239,
+      "\u001b[21;39r\u001b[H\u001b[39dSending build context to Docker daemon 3.072 kB\r\nSending build context to Docker daemon \r\n\u001b[1;40r\u001b[H\u001b[16;12H"
+    ],
+    [
+      0.024134,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 0 : FROM centos:7\r\n\u001b[1;40r\u001b[H\u001b[16;12H"
+    ],
+    [
+      0.000732,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 7322fbe74aa5\r\n\u001b[1;40r\u001b[H\u001b[16;12H"
+    ],
+    [
+      0.000140,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 1 : RUN rpm -i http://repos.mesosphere.io/el/7/noarch/RPMS/mesosphere-el-repo-7-1.noarch.rpm \u0026\u0026 yum -y install mesos-0.22.1\r\n\u001b[1;40r\u001b[H\u001b[16;12H"
+    ],
+    [
+      0.207052,
+      "\u001b[1;19r\u001b[H\u001b[16;12Hf\u001b[1;40r\u001b[H\u001b[16;13H"
+    ],
+    [
+      0.103981,
+      "\u001b[1;19r\u001b[H\u001b[16;13Ho\u001b[1;40r\u001b[H\u001b[16;14H"
+    ],
+    [
+      0.083848,
+      "\u001b[1;19r\u001b[H\u001b[16;14Hr\u001b[1;40r\u001b[H\u001b[16;15H"
+    ],
+    [
+      0.134774,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[16;15H"
+    ],
+    [
+      0.000716,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 70af10fed6d9\r\n\u001b[1;40r\u001b[H\u001b[16;15H"
+    ],
+    [
+      0.000064,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 2 : CMD /usr/sbin/mesos-master\r\n\u001b[1;40r\u001b[H\u001b[16;15H"
+    ],
+    [
+      0.059276,
+      "\u001b[1;19r\u001b[H\u001b[16;15Ht\u001b[1;40r\u001b[H\u001b[16;16H"
+    ],
+    [
+      0.127256,
+      "\u001b[1;19r\u001b[H\u001b[16;16Hu\u001b[1;40r\u001b[H\u001b[16;17H"
+    ],
+    [
+      0.056283,
+      "\u001b[1;19r\u001b[H\u001b[16;17Hn\u001b[1;40r\u001b[H\u001b[16;18H"
+    ],
+    [
+      0.115919,
+      "\u001b[1;19r\u001b[H\u001b[16;18He\u001b[1;40r\u001b[H\u001b[16;19H"
+    ],
+    [
+      0.162107,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[16;19H"
+    ],
+    [
+      0.003042,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 37da68ffd9e8\r\n\u001b[1;40r\u001b[H\u001b[16;19H"
+    ],
+    [
+      0.000257,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 3 : ENV MESOS_WORK_DIR /tmp/mesos\r\n\u001b[1;40r\u001b[H\u001b[16;19H"
+    ],
+    [
+      0.467144,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[16;19H"
+    ],
+    [
+      0.000299,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 5a9d2e005a71\r\n\u001b[1;40r\u001b[H\u001b[16;19H"
+    ],
+    [
+      0.003154,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 4 : VOLUME /tmp/mesos\r\n\u001b[1;40r\u001b[H\u001b[16;19H"
+    ],
+    [
+      0.031690,
+      "\u001b[1;19r\u001b[H\u001b[18;35H\u001b[7m5\u001b[1;40r\u001b[H\u001b[17;7H\u001b(B\u001b[m"
+    ],
+    [
+      0.429815,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[17;7H"
+    ],
+    [
+      0.000681,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 696fd039f2a3\r\n\u001b[1;40r\u001b[H\u001b[17;7H"
+    ],
+    [
+      0.000243,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 5 : COPY entrypoint.sh /\r\n\u001b[1;40r\u001b[H\u001b[17;7H"
+    ],
+    [
+      0.000949,
+      "\r"
+    ],
+    [
+      0.457160,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[16B"
+    ],
+    [
+      0.000256,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 03cbbc58e2a0\r\n\u001b[1;40r\u001b[H\u001b[16B"
+    ],
+    [
+      0.000311,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 6 : ENTRYPOINT /entrypoint.sh\r\n\u001b[1;40r\u001b[H\u001b[16B"
+    ],
+    [
+      0.442556,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[16B"
+    ],
+    [
+      0.000240,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 1a3776266c78\r\n\u001b[1;40r\u001b[H\u001b[16B"
+    ],
+    [
+      0.000279,
+      "\u001b[21;39r\u001b[H\u001b[39dSuccessfully built 1a3776266c78\r\n\u001b[1;40r\u001b[H\u001b[16B"
+    ],
+    [
+      0.003263,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mmesos-master --version\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[16B"
+    ],
+    [
+      0.378129,
+      "\u001b[21;39r\u001b[H\u001b[39dmesos 0.22.1\r\n\u001b[1;40r\u001b[H\u001b[16B"
+    ],
+    [
+      0.104570,
+      "\u001b[21;39r\u001b[H\u001b[39d\u001b[32m\u001b[1mtest passed\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[16B\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mtest -z \"$MESOS_AUTHENTICATE\"\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[1;40r\u001b[H\u001b[16B"
+    ],
+    [
+      0.447516,
+      "\u001b[21;39r\u001b[H\u001b[39d\u001b[32m\u001b[1mtest passed\u001b(B\u001b[m\r\n🌹  \u001b[1mtest \"$MESOS_AUTHENTICATE\" = true\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[16B"
+    ],
+    [
+      0.496010,
+      "\u001b[21;39r\u001b[H\u001b[39d\u001b[32m\u001b[1mtest passed\u001b(B\u001b[m\r\n🌹  \u001b[1mdocker tag -f mesoscloud/mesos-master:0.22.1-centos-7 mesoscloud/mesos-master:0.22.1-centos\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[16B"
+    ],
+    [
+      0.228036,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mdocker tag -f mesoscloud/mesos-master:0.22.1-centos-7 mesoscloud/mesos-master:0.22.1\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[16B"
+    ],
+    [
+      0.212542,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mdocker build -t mesoscloud/mesos-master:0.22.1-ubuntu-14.04 0.22.1/ubuntu/14.04\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[16B"
+    ],
+    [
+      0.217353,
+      "\u001b[21;39r\u001b[H\u001b[39dSending build context to Docker daemon 3.072 kB\r\nSending build context to Docker daemon \r\n\u001b[1;40r\u001b[H\u001b[16B"
+    ],
+    [
+      0.017066,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 0 : FROM ubuntu:14.04\r\n\u001b[1;40r\u001b[H\u001b[16B"
+    ],
+    [
+      0.000927,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 63e3c10217b8\r\n\u001b[1;40r\u001b[H\u001b[16B"
+    ],
+    [
+      0.000320,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 1 : RUN apt-key adv --keyserver keyserver.ubuntu.com --recv E56151BF \u0026\u0026 echo deb http://repos.mesosphere.io/ubuntu trusty main \u003e /etc/apt/sources.list.d/mesosphere.list \u0026\u0026 apt-get update \u0026\u0026 apt-get -y install mesos=0.22.1-1.0.ubuntu1404\r\n\u001b[1;40r\u001b[H\u001b[16B"
+    ],
+    [
+      0.473331,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[16B"
+    ],
+    [
+      0.000290,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 95a964e920ff\r\n\u001b[1;40r\u001b[H\u001b[16B"
+    ],
+    [
+      0.000293,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 2 : CMD /usr/sbin/mesos-master\r\n\u001b[1;40r\u001b[H\u001b[16B"
+    ],
+    [
+      0.462261,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[16B"
+    ],
+    [
+      0.000216,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 23d8ba2a2bf4\r\n\u001b[1;40r\u001b[H\u001b[16B"
+    ],
+    [
+      0.000333,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 3 : ENV MESOS_WORK_DIR /tmp/mesos\r\n\u001b[1;40r\u001b[H\u001b[16B"
+    ],
+    [
+      0.455057,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[16B"
+    ],
+    [
+      0.000296,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 13b55b339439\r\n\u001b[1;40r\u001b[H\u001b[16B"
+    ],
+    [
+      0.000527,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 4 : VOLUME /tmp/mesos\r\n\u001b[1;40r\u001b[H\u001b[16B"
+    ],
+    [
+      0.479498,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[16B"
+    ],
+    [
+      0.000177,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e d845098cf131\r\n\u001b[1;40r\u001b[H\u001b[16B"
+    ],
+    [
+      0.000260,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 5 : COPY entrypoint.sh /\r\n\u001b[1;40r\u001b[H\u001b[16B"
+    ],
+    [
+      0.466962,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[16B"
+    ],
+    [
+      0.002920,
+      "\u001b[?25l\u001b[4Bo deb http://repos.mesosphere.io/ubuntu trusty main \u003e /etc/apt/sources.list.d/mesosphere.list \u0026\u0026 apt-get update \u0026\u0026 apt-get -y install mesos=0.22.1-1.0.ubuntu1404\u001b[K\r\n ---\u003e Using cache\u001b[K\r\n ---\u003e 95a964e920ff\u001b[K\r\nStep 2 : CMD /usr/sbin/mesos-master\u001b[K\r\n ---\u003e Using cache\u001b[K\r\n ---\u003e 23d8ba2a2bf4\u001b[K\r\nStep 3 : ENV MESOS_WORK_DIR /tmp/mesos\u001b[K\r\n ---\u003e Using cache\u001b[K\r\n ---\u003e 13b55b339439\u001b[K\r\nStep 4 : VOLUME /tmp/mesos\u001b[K\r\n ---\u003e Using cache\u001b[K\r\n ---\u003e d845098cf131\u001b[K\r\nStep 5 : COPY entrypoint.sh /\u001b[K\r\n ---\u003e Using cache\u001b[K\r\n ---\u003e b1aade3939a6\u001b[K\r\nStep 6 : ENTRYPOINT /entrypoint.sh\u001b[K\r\n\u001b[K\u001b[17d\u001b[?12;25h"
+    ],
+    [
+      0.450390,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[16B"
+    ],
+    [
+      0.000218,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 0cd2009489d2\r\n\u001b[1;40r\u001b[H\u001b[16B"
+    ],
+    [
+      0.000226,
+      "\u001b[21;39r\u001b[H\u001b[39dSuccessfully built 0cd2009489d2\r\n\u001b[1;40r\u001b[H\u001b[16B"
+    ],
+    [
+      0.002828,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mmesos-master --version\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[16B"
+    ],
+    [
+      0.366318,
+      "\u001b[21;39r\u001b[H\u001b[39dmesos 0.22.1\r\n\u001b[1;40r\u001b[H\u001b[16B"
+    ],
+    [
+      0.147592,
+      "\u001b[21;39r\u001b[H\u001b[39d\u001b[32m\u001b[1mtest passed\u001b(B\u001b[m\r\n🌹  \u001b[1mtest -z \"$MESOS_AUTHENTICATE\"\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[16B"
+    ],
+    [
+      0.457547,
+      "\u001b[21;39r\u001b[H\u001b[39d\u001b[32m\u001b[1mtest passed\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[16B"
+    ],
+    [
+      0.000066,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mtest \"$MESOS_AUTHENTICATE\" = true\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[16B"
+    ],
+    [
+      0.476793,
+      "\u001b[21;39r\u001b[H\u001b[39d\u001b[32m\u001b[1mtest passed\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[16B"
+    ],
+    [
+      0.000162,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mdocker tag -f mesoscloud/mesos-master:0.22.1-ubuntu-14.04 mesoscloud/mesos-master:0.22.1-ubuntu\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[16B"
+    ],
+    [
+      2.240072,
+      "\u001b[1;18r\u001b[H\u001b[17d\u001b[1M\u001b[1;19r\u001b[H\u001b[19d..\u001b[2d  - \u001b[33mcmd\u001b[39m: test -z \u001b[32m\"$MESOS_AUTHENTICATE\"\u001b(B\u001b[m\r\n\u001b[K\u001b[4;7H\u001b[33mcmd\u001b[39m: test \u001b[32m\"$MESOS_AUTHENTICATE\"\u001b[39m = true\u001b[5;7H\u001b[33menv\u001b[39m:\u001b[6;9H- SECRET=password\u001b[1;40r\u001b[H\u001b[6;26H\u001b[?25l"
+    ],
+    [
+      0.000164,
+      "\r\n\u001b[K\u001b[1;19r\u001b[H\u001b[8;12Hfortune\u001b[K\u001b[10;1H\u001b[K\u001b[2B\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2B\u001b[K\u001b[18dSaving file /Users/pdericson/src/github.com/mesoscloud/mesos-master/.monty.yml.\\\u001b[18;1H\u001b[1;40r\u001b[H\u001b[8B\u001b[?12;25h"
+    ],
+    [
+      0.001095,
+      "\u001b[10B\u001b[K\u001b[1;19r\u001b[H\u001b[18dWrote /Users/pdericson/src/github.com/mesoscloud/mesos-master/.monty.yml\u001b[K\u001b[1;40r\u001b[H\u001b[8B"
+    ],
+    [
+      0.009298,
+      "\u001b[1;19r\u001b[H\u001b[18d\u001b[1L\u001b[A\u001b[K\r\n\u001b[7m-UU-:----F1  \u001b[1m.monty.yml  \u001b(B\u001b[m\u001b[7m   Bot L35   Git:master  (YAML) -----------------------\u001b[18;1H\u001b[1;40r\u001b[H\u001b[8B\u001b(B\u001b[m"
+    ],
+    [
+      0.983772,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mdocker build -t mesoscloud/mesos-master:0.23.0-centos-7 0.23.0/centos/7\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[8B"
+    ],
+    [
+      0.213990,
+      "\u001b[21;39r\u001b[H\u001b[39dSending build context to Docker daemon 3.072 kB\r\nSending build context to Docker daemon \r\n\u001b[1;40r\u001b[H\u001b[8B"
+    ],
+    [
+      0.015497,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 0 : FROM centos:7\r\n\u001b[1;40r\u001b[H\u001b[8B"
+    ],
+    [
+      0.000939,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 7322fbe74aa5\r\nStep 1 : RUN rpm -i http://repos.mesosphere.io/el/7/noarch/RPMS/mesosphere-el-repo-7-1.noarch.rpm \u0026\u0026 yum -y install mesos-0.23.0\r\n\u001b[1;40r\u001b[H\u001b[8B"
+    ],
+    [
+      0.471020,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[8B"
+    ],
+    [
+      0.000162,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 79b95e9af95c\r\n\u001b[1;40r\u001b[H\u001b[8B"
+    ],
+    [
+      0.000382,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 2 : CMD /usr/sbin/mesos-master\r\n\u001b[1;40r\u001b[H\u001b[8B"
+    ],
+    [
+      0.463984,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[8B"
+    ],
+    [
+      0.000275,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e fed957ef697f\r\n\u001b[1;40r\u001b[H\u001b[8B"
+    ],
+    [
+      0.000472,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 3 : ENV MESOS_WORK_DIR /tmp/mesos\r\n\u001b[1;40r\u001b[H\u001b[8B"
+    ],
+    [
+      0.446477,
+      "\u001b[10B\u001b[K\u001b[9d"
+    ],
+    [
+      0.028462,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[8B"
+    ],
+    [
+      0.000251,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 234cfda89cb6\r\n\u001b[1;40r\u001b[H\u001b[8B"
+    ],
+    [
+      0.003315,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 4 : VOLUME /tmp/mesos\r\n\u001b[1;40r\u001b[H\u001b[8B"
+    ],
+    [
+      0.247548,
+      "\u001b[1;19r\u001b[H\u001b[19d\u001b[36mFind file: \u001b[39m~/src/github.com/mesoscloud/mesos-master/\u001b[1;33H\u001b[7mMinibuf Help\u001b[1;40r\u001b[H\u001b[44C\u001b[?25l\u001b(B\u001b[m"
+    ],
+    [
+      0.000009,
+      "\u001b[19;53H\u001b[?12;25h"
+    ],
+    [
+      0.190705,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[19;53H"
+    ],
+    [
+      0.003930,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e a9730379596d\r\n\u001b[1;40r\u001b[H\u001b[19;53H"
+    ],
+    [
+      0.000252,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 5 : COPY entrypoint.sh /\r\n\u001b[1;40r\u001b[H\u001b[19;53H"
+    ],
+    [
+      0.085318,
+      "\u001b[1;19r\u001b[H\u001b[19;53H.\u001b[1;40r\u001b[H\u001b[19;54H"
+    ],
+    [
+      0.374705,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[19;54H"
+    ],
+    [
+      0.000481,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e a4f1d25712cc\r\n\u001b[1;40r\u001b[H\u001b[19;54H\r"
+    ],
+    [
+      0.000009,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 6 : ENTRYPOINT /entrypoint.sh\r\n\u001b[1;40r\u001b[H\u001b[18B"
+    ],
+    [
+      0.001393,
+      "\u001b[1;19r\u001b[H\u001b[19dDirectory has changed on disk; type g to update Dired\u001b[1;40r\u001b[H\u001b[8B"
+    ],
+    [
+      0.000813,
+      "\u001b[1;19r\u001b[H\u001b[32C\u001b[7mOperate Mark Regexp Immediate Subdir Help\u001b[1;40r\u001b[H\u001b[73C\u001b[?25l\u001b(B\u001b[m"
+    ],
+    [
+      0.000310,
+      "\u001b[1;19r\u001b[H\u001b[2;3H\u001b[32m/Users/pdericson/src/github.com/mesoscloud/mesos-master\u001b[39m:\u001b[3;3Htotal used in directory 24 available 27517236\u001b[4;3Hdrwxr-xr-x   8 pdericson  staff   272 28 Aug 17:48 \u001b[34m\u001b[1m.\u001b[5;3H\u001b(B\u001b[mdrwxr-xr-x  16 pdericson  staff   544 26 Aug 20:39 \u001b[34m\u001b[1m..\u001b[6;3H\u001b(B\u001b[mdrwxr-xr-x  15 pdericson  staff   510 28 Aug 17:48 \u001b[34m\u001b[1m.git\u001b[1;40r\u001b[H\u001b[6;58H\u001b(B\u001b[m"
+    ],
+    [
+      0.000372,
+      "\u001b[1;19r\u001b[H\u001b[7;3H-rw-r--r--   1 pdericson  staff   796 28 Aug 17:48 .monty.yml\u001b[8;3Hdrwxr-xr-x   4 pdericson  staff   136 24 Jul 17:45 \u001b[34m\u001b[1m0.22.1\u001b[9;3H\u001b(B\u001b[mdrwxr-xr-x   4 pdericson  staff   136 24 Jul 17:45 \u001b[34m\u001b[1m0.23.0\u001b[10;3H\u001b(B\u001b[m-rw-r--r--   1 pdericson  staff  1078 24 Jul 17:45 LICENSE\u001b[11;3H-rw-r--r--   1 pdericson  staff  1286 27 Aug 21:42 README.md\u001b[18;4H\u001b[7mU:%%--F1  \u001b[1mmesos-master     \u001b(B\u001b[m\u001b[7m   All L6     (Dired by name) \u001b[1;40r\u001b[H\u001b[7;54H\u001b[?12;25h\u001b(B\u001b[m"
+    ],
+    [
+      0.424020,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[7;54H"
+    ],
+    [
+      0.000262,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 7ed178c3aaa0\r\n\u001b[1;40r\u001b[H\u001b[7;54H"
+    ],
+    [
+      0.000272,
+      "\u001b[21;39r\u001b[H\u001b[39dSuccessfully built 7ed178c3aaa0\r\n\u001b[1;40r\u001b[H\u001b[7;54H"
+    ],
+    [
+      0.002607,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mmesos-master --version\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[7;54H"
+    ],
+    [
+      0.359493,
+      "\u001b[21;39r\u001b[H\u001b[39dmesos 0.23.0\r\n\u001b[1;40r\u001b[H\u001b[7;54H"
+    ],
+    [
+      0.159540,
+      "\u001b[21;39r\u001b[H\u001b[39d\u001b[32m\u001b[1mtest passed\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[7;54H"
+    ],
+    [
+      0.000117,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mtest -z \"$MESOS_AUTHENTICATE\"\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[7;54H"
+    ],
+    [
+      0.437055,
+      "\u001b[21;39r\u001b[H\u001b[39d\u001b[32m\u001b[1mtest passed\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[7;54H"
+    ],
+    [
+      0.000178,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mtest \"$MESOS_AUTHENTICATE\" = true\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[7;54H"
+    ],
+    [
+      0.092314,
+      "\u001b[19;1H\u001b[K\u001b[1;19r\u001b[H\u001b[18;39H\u001b[7m7\u001b[1;40r\u001b[H\u001b[8;54H\u001b(B\u001b[m"
+    ],
+    [
+      0.378932,
+      "\u001b[21;39r\u001b[H\u001b[39d\u001b[32m\u001b[1mtest passed\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[8;54H"
+    ],
+    [
+      0.000010,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mfortune\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[8;54H"
+    ],
+    [
+      0.373043,
+      "\u001b[21;39r\u001b[H\u001b[39dsh: fortune: command not found\r\n\u001b[1;40r\u001b[H\u001b[8;54H"
+    ],
+    [
+      0.106366,
+      "\u001b[21;39r\u001b[H\u001b[39d\u001b[31m\u001b[1mtest failed (exit 127)\u001b(B\u001b[m\r\n🌹  \u001b[1mdocker tag -f mesoscloud/mesos-master:0.23.0-centos-7 mesoscloud/mesos-master:0.23.0-centos\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[8;54H"
+    ],
+    [
+      0.222332,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mdocker tag -f mesoscloud/mesos-master:0.23.0-centos-7 mesoscloud/mesos-master:0.23.0\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[8;54H"
+    ],
+    [
+      0.223957,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mdocker tag -f mesoscloud/mesos-master:0.23.0-centos-7 mesoscloud/mesos-master:latest\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[8;54H"
+    ],
+    [
+      0.221519,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mdocker build -t mesoscloud/mesos-master:0.23.0-ubuntu-14.04 0.23.0/ubuntu/14.04\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[8;54H"
+    ],
+    [
+      0.217574,
+      "\u001b[21;39r\u001b[H\u001b[39dSending build context to Docker daemon 3.072 kB\r\nSending build context to Docker daemon \r\n\u001b[1;40r\u001b[H\u001b[8;54H"
+    ],
+    [
+      0.021015,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 0 : FROM ubuntu:14.04\r\n\u001b[1;40r\u001b[H\u001b[8;54H"
+    ],
+    [
+      0.000826,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 63e3c10217b8\r\n\u001b[1;40r\u001b[H\u001b[8;54H"
+    ],
+    [
+      0.000439,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 1 : RUN apt-key adv --keyserver keyserver.ubuntu.com --recv E56151BF \u0026\u0026 echo deb http://repos.mesosphere.io/ubuntu trusty main \u003e /etc/apt/sources.list.d/mesosphere.list \u0026\u0026 apt-get update \u0026\u0026 apt-get -y install mesos=0.23.0-1.0.ubuntu1404\r\n\u001b[1;40r\u001b[H\u001b[8;54H"
+    ],
+    [
+      0.461162,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[8;54H"
+    ],
+    [
+      0.000373,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 6efeb261069b\r\n\u001b[1;40r\u001b[H\u001b[8;54H"
+    ],
+    [
+      0.000494,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 2 : CMD /usr/sbin/mesos-master\r\n\u001b[1;40r\u001b[H\u001b[8;54H"
+    ],
+    [
+      0.458198,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[8;54H"
+    ],
+    [
+      0.000285,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 9f6e4015372d\r\n\u001b[1;40r\u001b[H\u001b[8;54H"
+    ],
+    [
+      0.000205,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 3 : ENV MESOS_WORK_DIR /tmp/mesos\r\n\u001b[1;40r\u001b[H\u001b[8;54H"
+    ],
+    [
+      0.447437,
+      "\u001b[1;19r\u001b[H\u001b[18;39H\u001b[7m8\u001b[1;40r\u001b[H\u001b[9;54H\u001b(B\u001b[m"
+    ],
+    [
+      0.022193,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[9;54H"
+    ],
+    [
+      0.000302,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 4ffc4148ff4f\r\n\u001b[1;40r\u001b[H\u001b[9;54H"
+    ],
+    [
+      0.000268,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 4 : VOLUME /tmp/mesos\r\n\u001b[1;40r\u001b[H\u001b[9;54H"
+    ],
+    [
+      0.378527,
+      "\u001b[1;19r\u001b[H\u001b[2;58H\u001b[32m/0.23.0\u001b[39m:\u001b[3;27H0 available 27517218\u001b[K\u001b[4;15H4 pdericson  staff  136 24 Jul 17:45 \u001b[34m\u001b[1m.\u001b(B\u001b[m\u001b[K\u001b[5;15H8 pdericson  staff  272 28 Aug 17:49 \u001b[34m\u001b[1m..\u001b(B\u001b[m\u001b[K\u001b[6;15H3 pdericson  staff  102 24 Jul 17:45 \u001b[34m\u001b[1mcentos\u001b[7;3H\u001b(B\u001b[mdrwxr-xr-x  3 pdericson  staff  102 24 Jul 17:45 \u001b[34m\u001b[1mubuntu\u001b(B\u001b[m\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[18;14H\u001b[1m\u001b[7m0.23.0           \u001b(B\u001b[m\u001b[7m   All L5\u001b[1;40r\u001b[H\u001b[6;52H\u001b(B\u001b[m"
+    ],
+    [
+      0.106387,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[6;52H"
+    ],
+    [
+      0.000272,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 023ff84266d3\r\n\u001b[1;40r\u001b[H\u001b[6;52H"
+    ],
+    [
+      0.000317,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 5 : COPY entrypoint.sh /\r\n\u001b[1;40r\u001b[H\u001b[6;52H"
+    ],
+    [
+      0.466300,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[6;52H"
+    ],
+    [
+      0.000252,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 5099310ba47e\r\n\u001b[1;40r\u001b[H\u001b[6;52H"
+    ],
+    [
+      0.000316,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 6 : ENTRYPOINT /entrypoint.sh\r\n\u001b[1;40r\u001b[H\u001b[6;52H"
+    ],
+    [
+      0.277837,
+      "\u001b[1;19r\u001b[H\u001b[2;65H\u001b[32m/centos\u001b[39m:\u001b[4;15H3 pdericson  staff  102\u001b[5;15H4 pdericson  staff  136 24 Jul 17:45\u001b[6;15H4 pdericson  staff  136 28 Aug 17:48 \u001b[34m\u001b[1m7\u001b(B\u001b[m\u001b[K\r\n\u001b[K\u001b[18;14H\u001b[1m\u001b[7mcentos\u001b[1;40r\u001b[H\u001b[6;52H\u001b(B\u001b[m"
+    ],
+    [
+      0.206355,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[6;52H"
+    ],
+    [
+      0.000244,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e ce569ee27aa8\r\n\u001b[1;40r\u001b[H\u001b[6;52H"
+    ],
+    [
+      0.000206,
+      "\u001b[21;39r\u001b[H\u001b[39dSuccessfully built ce569ee27aa8\r\n\u001b[1;40r\u001b[H\u001b[6;52H"
+    ],
+    [
+      0.002736,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mmesos-master --version\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[6;52H"
+    ],
+    [
+      0.361048,
+      "\u001b[21;39r\u001b[H\u001b[39dmesos 0.23.0\r\n\u001b[1;40r\u001b[H\u001b[6;52H"
+    ],
+    [
+      0.102870,
+      "\u001b[21;39r\u001b[H\u001b[39d\u001b[32m\u001b[1mtest passed\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[6;52H\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mtest -z \"$MESOS_AUTHENTICATE\"\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[6;52H"
+    ],
+    [
+      0.068559,
+      "\u001b[1;19r\u001b[H\u001b[2;72H\u001b[32m/7\u001b[39m:\u001b[3;27H1\u001b[1@6\u001b[4;15H4 pdericson  staff  136 28 Aug 17:48\u001b[5;15H3 pdericson  staff  102\u001b[6;3H-rw-r--r--  1 pdericson  staff  272 28 Aug 17:48 Dockerfile\u001b[7;3H-rwxr-xr-x  1 pdericson  staff  314 27 Aug 23:24 entrypoint.sh\u001b[1;40r\u001b[H\u001b[7;65H\u001b[?25l"
+    ],
+    [
+      0.000023,
+      "\u001b[1;19r\u001b[H\u001b[18;14H\u001b[1m\u001b[7m7     \u001b[1;40r\u001b[H\u001b[6;52H\u001b[?12;25h\u001b(B\u001b[m"
+    ],
+    [
+      0.050466,
+      "\u001b[?25l\u001b[40;1H\u001b[30m\u001b[42m[0] 0:emacs-24.5*                          \"Peters-MacBook.home\" 17:49 28-Aug-15\u001b(B\u001b[m\u001b[6;52H\u001b[?12;25h"
+    ],
+    [
+      0.357646,
+      "\u001b[21;39r\u001b[H\u001b[39d\u001b[32m\u001b[1mtest passed\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[6;52H"
+    ],
+    [
+      0.000189,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mtest \"$MESOS_AUTHENTICATE\" = true\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[6;52H"
+    ],
+    [
+      0.453054,
+      "\u001b[21;39r\u001b[H\u001b[39d\u001b[32m\u001b[1mtest passed\u001b(B\u001b[m\r\n🌹  \u001b[1mfortune\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[6;52H"
+    ],
+    [
+      0.350395,
+      "\u001b[21;39r\u001b[H\u001b[39dsh: 1: fortune: not found\r\n\u001b[1;40r\u001b[H\u001b[6;52H"
+    ],
+    [
+      0.099879,
+      "\u001b[21;39r\u001b[H\u001b[39d\u001b[31m\u001b[1mtest failed (exit 127)\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[6;52H\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mdocker tag -f mesoscloud/mesos-master:0.23.0-ubuntu-14.04 mesoscloud/mesos-master:0.23.0-ubuntu\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[1;40r\u001b[H\u001b[6;52H"
+    ],
+    [
+      0.219137,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mdocker build -t mesoscloud/mesos-master:0.22.1-centos-7 0.22.1/centos/7\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[6;52H"
+    ],
+    [
+      0.056154,
+      "\u001b[1;19r\u001b[H\u001b[32C\u001b[7mDockerfile Help                          \u001b[1;40r\u001b[H\u001b[73C\u001b[?25l\u001b(B\u001b[m"
+    ],
+    [
+      0.000386,
+      "\u001b[1;19r\u001b[H\r\n\u001b[36m\u001b[1mFROM\u001b(B\u001b[m centos:7\u001b[K\r\n\u001b[K\r\n\u001b[36m\u001b[1mRUN\u001b(B\u001b[m rpm -i http://repos.mesosphere.io/el/7/noarch/RPMS/mesosphere-el-repo-7-1.n\\\u001b[5;1Hoarch.rpm \u0026\u0026 \u001b[32m\\\u001b(B\u001b[m\u001b[K\r\nyum -y install mesos-0.23.0\u001b[K\u001b[1;40r\u001b[H\u001b[6;28H"
+    ],
+    [
+      0.000264,
+      "\r\n\u001b[K\u001b[1;19r\u001b[H\u001b[7B\u001b[36m\u001b[1mCMD\u001b(B\u001b[m [\u001b[32m\"/usr/sbin/mesos-master\"\u001b[39m]\u001b[10;1H\u001b[36m\u001b[1mENV\u001b(B\u001b[m MESOS_WORK_DIR /tmp/mesos\u001b[12;1H\u001b[36m\u001b[1mVOLUME\u001b(B\u001b[m /tmp/mesos\u001b[14;1H\u001b[36m\u001b[1mCOPY\u001b(B\u001b[m entrypoint.sh /\u001b[16;1H\u001b[36m\u001b[1mENTRYPOINT\u001b(B\u001b[m [\u001b[32m\"/entrypoint.sh\"\u001b[39m]\u001b[18;4H\u001b[7m-:----F1  \u001b[1mDockerfile  \u001b(B\u001b[m\u001b[7m   All L1    Git-master  (Dockerfile) \u001b[1;40r\u001b[H\r\n\u001b[?12;25h\u001b(B\u001b[m"
+    ],
+    [
+      0.201903,
+      "\u001b[21;39r\u001b[H\u001b[39dSending build context to Docker daemon 3.072 kB\r\nSending build context to Docker daemon \r\n\u001b[1;40r\u001b[H\r\n"
+    ],
+    [
+      0.015473,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 0 : FROM centos:7\r\n\u001b[1;40r\u001b[H\r\n"
+    ],
+    [
+      0.000741,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 7322fbe74aa5\r\n\u001b[1;40r\u001b[H\r\n"
+    ],
+    [
+      0.000141,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 1 : RUN rpm -i http://repos.mesosphere.io/el/7/noarch/RPMS/mesosphere-el-repo-7-1.noarch.rpm \u0026\u0026 yum -y install mesos-0.22.1\r\n\u001b[1;40r\u001b[H\r\n"
+    ],
+    [
+      0.450795,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\r\n"
+    ],
+    [
+      0.000276,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 70af10fed6d9\r\n\u001b[1;40r\u001b[H\r\n"
+    ],
+    [
+      0.000331,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 2 : CMD /usr/sbin/mesos-master\r\n\u001b[1;40r\u001b[H\r\n"
+    ],
+    [
+      0.442137,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\r\n"
+    ],
+    [
+      0.000432,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 37da68ffd9e8\r\n\u001b[1;40r\u001b[H\r\n"
+    ],
+    [
+      0.000316,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 3 : ENV MESOS_WORK_DIR /tmp/mesos\r\n\u001b[1;40r\u001b[H\r\n"
+    ],
+    [
+      0.188373,
+      "\u001b[1;19r\u001b[H\u001b[19dMark set\u001b[1;40r\u001b[H\r\n"
+    ],
+    [
+      0.000783,
+      "\u001b[1;19r\u001b[H\u001b[18;35H\u001b[7m5\u001b[1;40r\u001b[H\u001b[16B\u001b(B\u001b[m"
+    ],
+    [
+      0.255790,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[16B"
+    ],
+    [
+      0.000162,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 5a9d2e005a71\r\n\u001b[1;40r\u001b[H\u001b[16B"
+    ],
+    [
+      0.000353,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 4 : VOLUME /tmp/mesos\r\n\u001b[1;40r\u001b[H\u001b[16B"
+    ],
+    [
+      0.365063,
+      "\u001b[2B\u001b[K\u001b[1;19r\u001b[H\r\n\u001b[36m\u001b[1mENV\u001b(B\u001b[m MESOS_WORK_DIR /tmp/mesos\u001b[4;1H\u001b[36m\u001b[1mVOLUME\u001b(B\u001b[m /tmp/mesos\u001b[K\r\n\u001b[K\r\n\u001b[36m\u001b[1mCOPY\u001b(B\u001b[m entrypoint.sh /\u001b[K\u001b[8;1H\u001b[36m\u001b[1mENTRYPOINT\u001b(B\u001b[m [\u001b[32m\"/entrypoint.sh\"\u001b[39m]\u001b[K\u001b[10;1H\u001b[K\u001b[1;40r\u001b[H\u001b[9B\u001b[?25l"
+    ],
+    [
+      0.000053,
+      "\u001b[2B\u001b[K\u001b[2B\u001b[K\u001b[2B\u001b[K\u001b[1;19r\u001b[H\u001b[18;6H\u001b[7m**--F1  \u001b[1mDockerfile  \u001b(B\u001b[m\u001b[7m   Bot L16\u001b[1;40r\u001b[H\u001b[9B\u001b[?12;25h\u001b(B\u001b[m"
+    ],
+    [
+      0.143038,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[9B"
+    ],
+    [
+      0.000206,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 696fd039f2a3\r\n\u001b[1;40r\u001b[H\u001b[9B"
+    ],
+    [
+      0.000324,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 5 : COPY entrypoint.sh /\r\n\u001b[1;40r\u001b[H\u001b[9B"
+    ],
+    [
+      0.448654,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[9B"
+    ],
+    [
+      0.000292,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 03cbbc58e2a0\r\n\u001b[1;40r\u001b[H\u001b[9B"
+    ],
+    [
+      0.000205,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 6 : ENTRYPOINT /entrypoint.sh\r\n\u001b[1;40r\u001b[H\u001b[9B"
+    ],
+    [
+      0.466783,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[9B"
+    ],
+    [
+      0.000297,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 1a3776266c78\r\n\u001b[1;40r\u001b[H\u001b[9B"
+    ],
+    [
+      0.000258,
+      "\u001b[21;39r\u001b[H\u001b[39dSuccessfully built 1a3776266c78\r\n\u001b[1;40r\u001b[H\u001b[9B"
+    ],
+    [
+      0.002843,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mmesos-master --version\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[9B"
+    ],
+    [
+      0.364976,
+      "\u001b[21;39r\u001b[H\u001b[39dmesos 0.22.1\r\n\u001b[1;40r\u001b[H\u001b[9B"
+    ],
+    [
+      0.104632,
+      "\u001b[21;39r\u001b[H\u001b[39d\u001b[32m\u001b[1mtest passed\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[9B\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mtest -z \"$MESOS_AUTHENTICATE\"\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[1;40r\u001b[H\u001b[9B"
+    ],
+    [
+      0.266476,
+      "\u001b[1;19r\u001b[H\u001b[9BR\u001b[1;40r\u001b[H\u001b[10;2H"
+    ],
+    [
+      0.132063,
+      "\u001b[1;19r\u001b[H\u001b[10;2HU\u001b[1;40r\u001b[H\u001b[10;3H"
+    ],
+    [
+      0.061680,
+      "\u001b[21;39r\u001b[H\u001b[39d\u001b[32m\u001b[1mtest passed\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[10;3H"
+    ],
+    [
+      0.000103,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mtest \"$MESOS_AUTHENTICATE\" = true\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[10;3H"
+    ],
+    [
+      0.166197,
+      "\u001b[1;19r\u001b[H\u001b[9B\u001b[36m\u001b[1mRUN\u001b[1;40r\u001b[H\u001b[10;4H\u001b(B\u001b[m"
+    ],
+    [
+      0.319306,
+      "\u001b[21;39r\u001b[H\u001b[39d\u001b[32m\u001b[1mtest passed\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[10;4H"
+    ],
+    [
+      0.000026,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mfortune\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[10;4H"
+    ],
+    [
+      0.080668,
+      "\u001b[C"
+    ],
+    [
+      0.216421,
+      "\u001b[1;19r\u001b[H\u001b[10;5Ha\u001b[1;40r\u001b[H\u001b[10;6H"
+    ],
+    [
+      0.086049,
+      "\u001b[21;39r\u001b[H\u001b[39dsh: fortune: command not found\r\n\u001b[1;40r\u001b[H\u001b[10;6H"
+    ],
+    [
+      0.076785,
+      "\u001b[1;19r\u001b[H\u001b[10;6Hp\u001b[1;40r\u001b[H\u001b[10;7H"
+    ],
+    [
+      0.043166,
+      "\u001b[21;39r\u001b[H\u001b[39d\u001b[31m\u001b[1mtest failed (exit 127)\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[10;7H"
+    ],
+    [
+      0.000149,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mdocker tag -f mesoscloud/mesos-master:0.22.1-centos-7 mesoscloud/mesos-master:0.22.1-centos\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[10;7H"
+    ],
+    [
+      0.115428,
+      "\u001b[1;19r\u001b[H\u001b[10;7Ht\u001b[1;40r\u001b[H\u001b[10;8H"
+    ],
+    [
+      0.119929,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mdocker tag -f mesoscloud/mesos-master:0.22.1-centos-7 mesoscloud/mesos-master:0.22.1\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[10;8H"
+    ],
+    [
+      0.057599,
+      "\u001b[1;19r\u001b[H\u001b[10;8H-\u001b[1;40r\u001b[H\u001b[10;9H"
+    ],
+    [
+      0.062618,
+      "\u001b[1;19r\u001b[H\u001b[10;9Hg\u001b[1;40r\u001b[H\u001b[10;10H"
+    ],
+    [
+      0.110149,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mdocker build -t mesoscloud/mesos-master:0.22.1-ubuntu-14.04 0.22.1/ubuntu/14.04\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[10;10H"
+    ],
+    [
+      0.210754,
+      "\u001b[21;39r\u001b[H\u001b[39dSending build context to Docker daemon 3.072 kB\u001b[1;40r\u001b[H\u001b[10;10H"
+    ],
+    [
+      0.002440,
+      "\u001b[?25l\u001b[21;1H🌹  \u001b[1mmesos-master --version\u001b(B\u001b[m\u001b[K\r\nmesos 0.22.1\u001b[K\r\n\u001b[32m\u001b[1mtest passed\u001b(B\u001b[m\u001b[K\r\n🌹  \u001b[1mtest -z \"$MESOS_AUTHENTICATE\"\u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1mtest passed\u001b(B\u001b[m\u001b[K\r\n🌹  \u001b[1mtest \"$MESOS_AUTHENTICATE\" = true\u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1mtest passed\u001b(B\u001b[m\u001b[K\r\n🌹  \u001b[1mfortune\u001b(B\u001b[m\u001b[K\r\nsh: fortune: command not found\u001b[K\r\n\u001b[31m\u001b[1mtest failed (exit 127)\u001b(B\u001b[m\u001b[K\r\n🌹  \u001b[1mdocker tag -f mesoscloud/mesos-master:0.22.1-centos-7 mesoscloud/mesos-master:0.22.1-centos\u001b(B\u001b[m\u001b[K\r\n🌹  \u001b[1mdocker tag -f mesoscloud/mesos-master:0.22.1-centos-7 mesoscloud/mesos-master:0.22.1\u001b(B\u001b[m\u001b[K\r\n🌹  \u001b[1mdocker build -t mesoscloud/mesos-master:0.22.1-ubuntu-14.04 0.22.1/ubuntu/14.04\u001b(B\u001b[m\u001b[K\r\nSending build context to Docker daemon 3.072 kB\u001b[K\r\nSending build context to Docker daemon \u001b[K\r\n\u001b[K\u001b[10;10H\u001b[?12;25h"
+    ],
+    [
+      0.012834,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 0 : FROM ubuntu:14.04\r\n\u001b[1;40r\u001b[H\u001b[10;10H"
+    ],
+    [
+      0.000654,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 63e3c10217b8\r\n\u001b[1;40r\u001b[H\u001b[10;10H"
+    ],
+    [
+      0.000448,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 1 : RUN apt-key adv --keyserver keyserver.ubuntu.com --recv E56151BF \u0026\u0026 echo deb http://repos.mesosphere.io/ubuntu trusty main \u003e /etc/apt/sources.list.d/mesosphere.list \u0026\u0026 apt-get update \u0026\u0026 apt-get -y install mesos=0.22.1-1.0.ubuntu1404\r\n\u001b[1;40r\u001b[H\u001b[10;10H"
+    ],
+    [
+      0.464636,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[10;10H"
+    ],
+    [
+      0.001390,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 95a964e920ff\r\n\u001b[1;40r\u001b[H\u001b[10;10H"
+    ],
+    [
+      0.000462,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 2 : CMD /usr/sbin/mesos-master\r\n\u001b[1;40r\u001b[H\u001b[10;10H"
+    ],
+    [
+      0.000169,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.195976,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.162891,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.101035,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[10;7H"
+    ],
+    [
+      0.000356,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 23d8ba2a2bf4\r\n\u001b[1;40r\u001b[H\u001b[10;7H"
+    ],
+    [
+      0.000506,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 3 : ENV MESOS_WORK_DIR /tmp/mesos\r\n\u001b[1;40r\u001b[H\u001b[10;7H"
+    ],
+    [
+      0.068096,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.187067,
+      "\u001b[2D\u001b[K\u001b[C"
+    ],
+    [
+      0.216688,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[10;5H"
+    ],
+    [
+      0.000219,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 13b55b339439\r\n\u001b[1;40r\u001b[H\u001b[10;5H"
+    ],
+    [
+      0.000415,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 4 : VOLUME /tmp/mesos\r\n\u001b[1;40r\u001b[H\u001b[10;5H"
+    ],
+    [
+      0.350673,
+      "\u001b[1;19r\u001b[H\u001b[10;5Hy\u001b[1;40r\u001b[H\u001b[10;6H"
+    ],
+    [
+      0.135169,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[10;6H"
+    ],
+    [
+      0.000291,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e d845098cf131\r\n\u001b[1;40r\u001b[H\u001b[10;6H"
+    ],
+    [
+      0.000245,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 5 : COPY entrypoint.sh /\r\n\u001b[1;40r\u001b[H\u001b[10;6H"
+    ],
+    [
+      0.008411,
+      "\u001b[1;19r\u001b[H\u001b[10;6Hu\u001b[1;40r\u001b[H\u001b[10;7H"
+    ],
+    [
+      0.281772,
+      "\u001b[1;19r\u001b[H\u001b[10;7Hm\u001b[1;40r\u001b[H\u001b[10;8H"
+    ],
+    [
+      0.169905,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[10;8H"
+    ],
+    [
+      0.000330,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e b1aade3939a6\r\n\u001b[1;40r\u001b[H\u001b[10;8H"
+    ],
+    [
+      0.000045,
+      "\u001b[C"
+    ],
+    [
+      0.000582,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 6 : ENTRYPOINT /entrypoint.sh\r\n\u001b[1;40r\u001b[H\u001b[10;9H"
+    ],
+    [
+      0.172208,
+      "\u001b[1;19r\u001b[H\u001b[10;9Hi\u001b[1;40r\u001b[H\u001b[10;10H"
+    ],
+    [
+      0.080406,
+      "\u001b[1;19r\u001b[H\u001b[10;8H\u001b[36m\u001b[1m in\u001b[1;40r\u001b[H\u001b[10;11H\u001b(B\u001b[m"
+    ],
+    [
+      0.096353,
+      "\u001b[1;19r\u001b[H\u001b[10;8H ins\u001b[1;40r\u001b[H\u001b[10;12H"
+    ],
+    [
+      0.072180,
+      "\u001b[1;19r\u001b[H\u001b[10;12Ht\u001b[1;40r\u001b[H\u001b[10;13H"
+    ],
+    [
+      0.051268,
+      "\u001b[1;19r\u001b[H\u001b[10;13Ha\u001b[1;40r\u001b[H\u001b[10;14H"
+    ],
+    [
+      0.049130,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[10;14H"
+    ],
+    [
+      0.000059,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 0cd2009489d2\r\n\u001b[1;40r\u001b[H\u001b[10;14H"
+    ],
+    [
+      0.000162,
+      "\u001b[21;39r\u001b[H\u001b[39dSuccessfully built 0cd2009489d2\r\n\u001b[1;40r\u001b[H\u001b[10;14H"
+    ],
+    [
+      0.003567,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mmesos-master --version\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[10;14H"
+    ],
+    [
+      0.062977,
+      "\u001b[1;19r\u001b[H\u001b[10;14Hl\u001b[1;40r\u001b[H\u001b[10;15H"
+    ],
+    [
+      0.182874,
+      "\u001b[1;19r\u001b[H\u001b[10;15Hl\u001b[1;40r\u001b[H\u001b[10;16H"
+    ],
+    [
+      0.114076,
+      "\u001b[21;39r\u001b[H\u001b[39dmesos 0.22.1\r\n\u001b[1;40r\u001b[H\u001b[10;16H"
+    ],
+    [
+      0.106796,
+      "\u001b[C"
+    ],
+    [
+      0.008053,
+      "\u001b[21;39r\u001b[H\u001b[39d\u001b[32m\u001b[1mtest passed\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[10;17H"
+    ],
+    [
+      0.000026,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mtest -z \"$MESOS_AUTHENTICATE\"\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[10;17H"
+    ],
+    [
+      0.141859,
+      "\u001b[1;19r\u001b[H\u001b[10;17H-\u001b[1;40r\u001b[H\u001b[10;18H"
+    ],
+    [
+      0.305431,
+      "\u001b[21;39r\u001b[H\u001b[39d\u001b[32m\u001b[1mtest passed\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[10;18H"
+    ],
+    [
+      0.000189,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mtest \"$MESOS_AUTHENTICATE\" = true\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[10;18H"
+    ],
+    [
+      0.325883,
+      "\u001b[1;19r\u001b[H\u001b[10;18Hy\u001b[1;40r\u001b[H\u001b[10;19H"
+    ],
+    [
+      0.144642,
+      "\u001b[21;39r\u001b[H\u001b[39d\u001b[32m\u001b[1mtest passed\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[10;19H"
+    ],
+    [
+      0.000023,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mfortune\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[10;19H"
+    ],
+    [
+      0.080820,
+      "\u001b[C"
+    ],
+    [
+      0.262834,
+      "\u001b[21;39r\u001b[H\u001b[39dsh: 1: fortune: not found\r\n\u001b[1;40r\u001b[H\u001b[10;20H"
+    ],
+    [
+      0.107703,
+      "\u001b[21;39r\u001b[H\u001b[39d\u001b[31m\u001b[1mtest failed (exit 127)\u001b(B\u001b[m\r\n🌹  \u001b[1mdocker tag -f mesoscloud/mesos-master:0.22.1-ubuntu-14.04 mesoscloud/mesos-master:0.22.1-ubuntu\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[10;20H"
+    ],
+    [
+      1.052457,
+      "\u001b[1;19r\u001b[H\u001b[10;20He\u001b[1;40r\u001b[H\u001b[10;21H"
+    ],
+    [
+      0.128114,
+      "\u001b[1;19r\u001b[H\u001b[10;21Hp\u001b[1;40r\u001b[H\u001b[10;22H"
+    ],
+    [
+      0.080293,
+      "\u001b[1;19r\u001b[H\u001b[10;22He\u001b[1;40r\u001b[H\u001b[10;23H"
+    ],
+    [
+      0.151622,
+      "\u001b[1;19r\u001b[H\u001b[10;23Hl\u001b[1;40r\u001b[H\u001b[10;24H"
+    ],
+    [
+      0.236182,
+      "\u001b[1;19r\u001b[H\u001b[10;24H-\u001b[1;40r\u001b[H\u001b[10;25H"
+    ],
+    [
+      0.296320,
+      "\u001b[1;19r\u001b[H\u001b[10;25Hr\u001b[1;40r\u001b[H\u001b[10;26H"
+    ],
+    [
+      0.072516,
+      "\u001b[1;19r\u001b[H\u001b[10;26He\u001b[1;40r\u001b[H\u001b[10;27H"
+    ],
+    [
+      0.084267,
+      "\u001b[1;19r\u001b[H\u001b[10;27Hl\u001b[1;40r\u001b[H\u001b[10;28H"
+    ],
+    [
+      0.115692,
+      "\u001b[1;19r\u001b[H\u001b[10;28He\u001b[1;40r\u001b[H\u001b[10;29H"
+    ],
+    [
+      0.068131,
+      "\u001b[1;19r\u001b[H\u001b[10;29Ha\u001b[1;40r\u001b[H\u001b[10;30H"
+    ],
+    [
+      0.079387,
+      "\u001b[1;19r\u001b[H\u001b[10;30Hs\u001b[1;40r\u001b[H\u001b[10;31H"
+    ],
+    [
+      0.068371,
+      "\u001b[1;19r\u001b[H\u001b[10;31He\u001b[1;40r\u001b[H\u001b[10;32H"
+    ],
+    [
+      0.134832,
+      "\u001b[C"
+    ],
+    [
+      0.604362,
+      "\u001b[1;19r\u001b[H\u001b[10;33H\u0026\u001b[1;40r\u001b[H\u001b[10;34H"
+    ],
+    [
+      0.151722,
+      "\u001b[1;19r\u001b[H\u001b[10;34H\u0026\u001b[1;40r\u001b[H\u001b[10;35H"
+    ],
+    [
+      0.293722,
+      "\u001b[C"
+    ],
+    [
+      0.729558,
+      "\u001b[1;19r\u001b[H\u001b[10;36Hy\u001b[1;40r\u001b[H\u001b[10;37H"
+    ],
+    [
+      0.135733,
+      "\u001b[1;19r\u001b[H\u001b[10;37Hu\u001b[1;40r\u001b[H\u001b[10;38H"
+    ],
+    [
+      0.284399,
+      "\u001b[1;19r\u001b[H\u001b[10;38H,\u001b[1;40r\u001b[H\u001b[10;39H"
+    ],
+    [
+      0.188639,
+      "\u001b[C"
+    ],
+    [
+      0.086181,
+      "\u001b[1;19r\u001b[H\u001b[10;40Hi\u001b[1;40r\u001b[H\u001b[10;41H"
+    ],
+    [
+      0.063720,
+      "\u001b[1;19r\u001b[H\u001b[10;39H\u001b[36m\u001b[1m in\u001b[1;40r\u001b[H\u001b[10;42H\u001b(B\u001b[m"
+    ],
+    [
+      0.132001,
+      "\u001b[1;19r\u001b[H\u001b[10;39H ins\u001b[1;40r\u001b[H\u001b[10;43H"
+    ],
+    [
+      0.080224,
+      "\u001b[1;19r\u001b[H\u001b[10;43Ht\u001b[1;40r\u001b[H\u001b[10;44H"
+    ],
+    [
+      0.265055,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.168266,
+      "\u001b[1;19r\u001b[H\u001b[10;39H\u001b[36m\u001b[1m in\u001b(B\u001b[m\u001b[K\u001b[1;40r\u001b[H\u001b[10;42H"
+    ],
+    [
+      0.163329,
+      "\u001b[1;19r\u001b[H\u001b[10;39H i\u001b[K\u001b[1;40r\u001b[H\u001b[10;41H"
+    ],
+    [
+      0.158492,
+      "\u001b[2D\u001b[K\u001b[C"
+    ],
+    [
+      0.002657,
+      "\u001b[?25l\u001b[H\u001b[7mFile Edit Options Buffers Tools Dockerfile Help                                 \u001b[2;1H\u001b(B\u001b[m\u001b[36m\u001b[1mENV\u001b(B\u001b[m MESOS_WORK_DIR /tmp/mesos\u001b[K\r\n\u001b[K\r\n\u001b[36m\u001b[1mVOLUME\u001b(B\u001b[m /tmp/mesos\u001b[K\r\n\u001b[K\r\n\u001b[36m\u001b[1mCOPY\u001b(B\u001b[m entrypoint.sh /\u001b[K\r\n\u001b[K\r\n\u001b[36m\u001b[1mENTRYPOINT\u001b(B\u001b[m [\u001b[32m\"/entrypoint.sh\"\u001b[39m]\u001b[K\r\n\u001b[K\r\n\u001b[36m\u001b[1mRUN\u001b(B\u001b[m yum install -y epel-release \u0026\u0026 yu,\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[7m-UU-:**--F1  \u001b[1mDockerfile  \u001b(B\u001b[m\u001b[7m   Bot L16   Git-master  (Dockerfile) -----------------\u001b[19;1H\u001b(B\u001b[m\u001b[K\u001b[10;40H\u001b[?12;25h"
+    ],
+    [
+      0.156093,
+      "\u0008"
+    ],
+    [
+      0.161830,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.462073,
+      "\u001b[1;19r\u001b[H\u001b[10;38Hm\u001b[1;40r\u001b[H\u001b[10;39H"
+    ],
+    [
+      0.103954,
+      "\u001b[C"
+    ],
+    [
+      0.132102,
+      "\u001b[1;19r\u001b[H\u001b[10;40Hi\u001b[1;40r\u001b[H\u001b[10;41H"
+    ],
+    [
+      0.072460,
+      "\u001b[1;19r\u001b[H\u001b[10;39H\u001b[36m\u001b[1m in\u001b[1;40r\u001b[H\u001b[10;42H\u001b(B\u001b[m"
+    ],
+    [
+      0.048716,
+      "\u001b[1;19r\u001b[H\u001b[10;39H ins\u001b[1;40r\u001b[H\u001b[10;43H"
+    ],
+    [
+      0.079150,
+      "\u001b[1;19r\u001b[H\u001b[10;43Ht\u001b[1;40r\u001b[H\u001b[10;44H"
+    ],
+    [
+      0.054190,
+      "\u001b[1;19r\u001b[H\u001b[10;44Ha\u001b[1;40r\u001b[H\u001b[10;45H"
+    ],
+    [
+      0.133402,
+      "\u001b[1;19r\u001b[H\u001b[10;45Hl\u001b[1;40r\u001b[H\u001b[10;46H"
+    ],
+    [
+      0.147508,
+      "\u001b[1;19r\u001b[H\u001b[10;46Hl\u001b[1;40r\u001b[H\u001b[10;47H"
+    ],
+    [
+      0.118455,
+      "\u001b[C"
+    ],
+    [
+      0.181406,
+      "\u001b[1;19r\u001b[H\u001b[10;48H-\u001b[1;40r\u001b[H\u001b[10;49H"
+    ],
+    [
+      0.301644,
+      "\u001b[1;19r\u001b[H\u001b[10;49Hy\u001b[1;40r\u001b[H\u001b[10;50H"
+    ],
+    [
+      0.127894,
+      "\u001b[C"
+    ],
+    [
+      1.419262,
+      "\u001b[1;19r\u001b[H\u001b[10;51Hf\u001b[1;40r\u001b[H\u001b[10;52H"
+    ],
+    [
+      0.099892,
+      "\u001b[1;19r\u001b[H\u001b[10;52Ho\u001b[1;40r\u001b[H\u001b[10;53H"
+    ],
+    [
+      0.084526,
+      "\u001b[1;19r\u001b[H\u001b[10;53Hr\u001b[1;40r\u001b[H\u001b[10;54H"
+    ],
+    [
+      0.150039,
+      "\u001b[1;19r\u001b[H\u001b[10;54Ht\u001b[1;40r\u001b[H\u001b[10;55H"
+    ],
+    [
+      0.099522,
+      "\u001b[1;19r\u001b[H\u001b[10;55Hu\u001b[1;40r\u001b[H\u001b[10;56H"
+    ],
+    [
+      0.080370,
+      "\u001b[1;19r\u001b[H\u001b[10;56Hn\u001b[1;40r\u001b[H\u001b[10;57H"
+    ],
+    [
+      0.107343,
+      "\u001b[1;19r\u001b[H\u001b[10;57He\u001b[1;40r\u001b[H\u001b[10;58H"
+    ],
+    [
+      0.227885,
+      "\u001b[1;19r\u001b[H\u001b[10;58H-\u001b[1;40r\u001b[H\u001b[10;59H"
+    ],
+    [
+      0.238001,
+      "\u001b[1;19r\u001b[H\u001b[10;59Hm\u001b[1;40r\u001b[H\u001b[10;60H"
+    ],
+    [
+      0.072293,
+      "\u001b[1;19r\u001b[H\u001b[10;60Ho\u001b[1;40r\u001b[H\u001b[10;61H"
+    ],
+    [
+      0.060918,
+      "\u001b[1;19r\u001b[H\u001b[10;61Hd\u001b[1;40r\u001b[H\u001b[10;62H"
+    ],
+    [
+      0.223517,
+      "\u001b[1;19r\u001b[H\u001b[10;62He\u001b[1;40r\u001b[H\u001b[10;63H"
+    ],
+    [
+      0.561933,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.316248,
+      "\u001b[1;19r\u001b[H\u001b[18;35H\u001b[7m7\u001b[1;40r\u001b[H\u001b[10B\u001b(B\u001b[m"
+    ],
+    [
+      0.506556,
+      "\u001b[1;18r\u001b[H\u001b[17d\u001b[1M\u001b[1;19r\u001b[H\u001b[19dos/7/Dockerfile...\u001b[18;1HSaving file /Users/pdericson/src/github.com/mesoscloud/mesos-master/0.23.0/cent\\\u001b[18;1H\u001b[1;40r\u001b[H\u001b[10B"
+    ],
+    [
+      0.002044,
+      "\u001b[1;19r\u001b[H\u001b[19;2Hckerfile\u001b[K\u001b[18;1HWrote /Users/pdericson/src/github.com/mesoscloud/mesos-master/0.23.0/centos/7/D\u001b[1;40r\u001b[H\u001b[10B"
+    ],
+    [
+      0.009298,
+      "\u001b[1;19r\u001b[H\u001b[17;6H\u001b[7m----F1  \u001b[1mDockerfile  \u001b(B\u001b[m\u001b[7m   Bot L17   Git:\u001b[1;40r\u001b[H\u001b[10B\u001b(B\u001b[m"
+    ],
+    [
+      0.645680,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mdocker build -t mesoscloud/mesos-master:0.23.0-centos-7 0.23.0/centos/7\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[10B"
+    ],
+    [
+      0.217851,
+      "\u001b[21;39r\u001b[H\u001b[39dSending build context to Docker daemon 3.072 kB\r\nSending build context to Docker daemon \r\n\u001b[1;40r\u001b[H\u001b[10B"
+    ],
+    [
+      0.017010,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 0 : FROM centos:7\r\n\u001b[1;40r\u001b[H\u001b[10B"
+    ],
+    [
+      0.000887,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 7322fbe74aa5\r\n\u001b[1;40r\u001b[H\u001b[10B"
+    ],
+    [
+      0.000304,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 1 : RUN rpm -i http://repos.mesosphere.io/el/7/noarch/RPMS/mesosphere-el-repo-7-1.noarch.rpm \u0026\u0026 yum -y install mesos-0.23.0\r\n\u001b[1;40r\u001b[H\u001b[10B"
+    ],
+    [
+      0.466699,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[10B"
+    ],
+    [
+      0.002765,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 79b95e9af95c\r\n\u001b[1;40r\u001b[H\u001b[10B"
+    ],
+    [
+      0.000405,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 2 : CMD /usr/sbin/mesos-master\r\n\u001b[1;40r\u001b[H\u001b[10B"
+    ],
+    [
+      0.473286,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[10B"
+    ],
+    [
+      0.000366,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e fed957ef697f\r\n\u001b[1;40r\u001b[H\u001b[10B"
+    ],
+    [
+      0.000435,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 3 : ENV MESOS_WORK_DIR /tmp/mesos\r\n\u001b[1;40r\u001b[H\u001b[10B"
+    ],
+    [
+      0.460374,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[10B"
+    ],
+    [
+      0.000218,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 234cfda89cb6\r\n\u001b[1;40r\u001b[H\u001b[10B"
+    ],
+    [
+      0.000153,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 4 : VOLUME /tmp/mesos\r\n\u001b[1;40r\u001b[H\u001b[10B"
+    ],
+    [
+      0.443599,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[10B"
+    ],
+    [
+      0.000296,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e a9730379596d\r\n\u001b[1;40r\u001b[H\u001b[10B"
+    ],
+    [
+      0.000486,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 5 : COPY entrypoint.sh /\r\n\u001b[1;40r\u001b[H\u001b[10B"
+    ],
+    [
+      0.458927,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[10B"
+    ],
+    [
+      0.000377,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e a4f1d25712cc\r\n\u001b[1;40r\u001b[H\u001b[10B"
+    ],
+    [
+      0.000317,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 6 : ENTRYPOINT /entrypoint.sh\r\n\u001b[1;40r\u001b[H\u001b[10B"
+    ],
+    [
+      0.450077,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n ---\u003e 7ed178c3aaa0\r\n\u001b[1;40r\u001b[H\u001b[10B"
+    ],
+    [
+      0.000424,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 7 : RUN yum install -y epel-release \u0026\u0026 yum install -y fortune-mod\r\n\u001b[1;40r\u001b[H\u001b[10B"
+    ],
+    [
+      0.452065,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[10B"
+    ],
+    [
+      0.000297,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 0ea96430d74d\r\n\u001b[1;40r\u001b[H\u001b[10B"
+    ],
+    [
+      0.000359,
+      "\u001b[21;39r\u001b[H\u001b[39dSuccessfully built 0ea96430d74d\r\n\u001b[1;40r\u001b[H\u001b[10B"
+    ],
+    [
+      0.002786,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mmesos-master --version\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[10B"
+    ],
+    [
+      0.358631,
+      "\u001b[21;39r\u001b[H\u001b[39dmesos 0.23.0\r\n\u001b[1;40r\u001b[H\u001b[10B"
+    ],
+    [
+      0.101252,
+      "\u001b[21;39r\u001b[H\u001b[39d\u001b[32m\u001b[1mtest passed\u001b(B\u001b[m\r\n🌹  \u001b[1mtest -z \"$MESOS_AUTHENTICATE\"\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[10B"
+    ],
+    [
+      0.465832,
+      "\u001b[21;39r\u001b[H\u001b[39d\u001b[32m\u001b[1mtest passed\u001b(B\u001b[m\r\n🌹  \u001b[1mtest \"$MESOS_AUTHENTICATE\" = true\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[10B"
+    ],
+    [
+      0.486959,
+      "\u001b[21;39r\u001b[H\u001b[39d\u001b[32m\u001b[1mtest passed\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[10B"
+    ],
+    [
+      0.000015,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mfortune\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[10B"
+    ],
+    [
+      0.357147,
+      "\u001b[21;39r\u001b[H\u001b[39dPatience is the best remedy for every trouble.\r\n\u001b[1;40r\u001b[H\u001b[10B\u001b[21;39r\u001b[H\u001b[39;17H-- Titus Maccius Plautus\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[1;40r\u001b[H\u001b[10B"
+    ],
+    [
+      0.107504,
+      "\u001b[21;39r\u001b[H\u001b[39d\u001b[32m\u001b[1mtest passed\u001b(B\u001b[m\r\n🌹  \u001b[1mdocker tag -f mesoscloud/mesos-master:0.23.0-centos-7 mesoscloud/mesos-master:0.23.0-centos\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[10B"
+    ],
+    [
+      0.223598,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mdocker tag -f mesoscloud/mesos-master:0.23.0-centos-7 mesoscloud/mesos-master:0.23.0\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[10B"
+    ],
+    [
+      0.236160,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mdocker tag -f mesoscloud/mesos-master:0.23.0-centos-7 mesoscloud/mesos-master:latest\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[10B"
+    ],
+    [
+      1.748345,
+      "\u001b[1;18r\u001b[H\u001b[17d\u001b[1L\u001b[19d\u001b[K\u001b[2A\u001b[K\u001b[1;40r\u001b[H\u001b[10B"
+    ],
+    [
+      0.395857,
+      "\u001b[1;19r\u001b[H\u001b[19d\u001b[36mFind file: \u001b[39m~/src/github.com/mesoscloud/mesos-master/0.23.0/centos/7/\u001b[1;33H\u001b[7mMinibuf Help   \u001b[1;40r\u001b[H\u001b[19;69H\u001b(B\u001b[m"
+    ],
+    [
+      0.446052,
+      "\u001b[1;19r\u001b[H\u001b[19;69H.\u001b[1;40r\u001b[H\u001b[19;70H"
+    ],
+    [
+      0.441689,
+      "\r"
+    ],
+    [
+      0.001438,
+      "\u001b[1;19r\u001b[H\u001b[19dDirectory has changed on disk; type g to update Dired\u001b[K\u001b[1;40r\u001b[H\u001b[10B"
+    ],
+    [
+      0.000884,
+      "\u001b[1;19r\u001b[H\u001b[32C\u001b[7mOperate Mark Regexp Immediate Subdir Help\r\n\u001b(B\u001b[m  \u001b[32m/Users/pdericson/src/github.com/mesoscloud/mesos-master/0.23.0/centos/7\u001b[39m:\u001b[3;3Htotal used in directory 16 available 27517218\r\n  drwxr-xr-x  4 pdericson  staff  136 28 Aug 17:48 \u001b[34m\u001b[1m.\u001b[5;3H\u001b(B\u001b[mdrwxr-xr-x  3 pdericson  staff  102 24 Jul 17:45 \u001b[34m\u001b[1m..\r\n\u001b(B\u001b[m  -rw-r--r--  1 pdericson  staff  272 28 Aug 17:48 Dockerfile\u001b[1;40r\u001b[H\u001b[6;62H\u001b[?25l\u001b[1;19r\u001b[H\u001b[7;3H-rwxr-xr-x  1 pdericson  staff  314 27 Aug 23:24 entrypoint.sh\r\n\u001b[K\u001b[2B\u001b[K\u001b[18;4H\u001b[7mU:%%--F1  \u001b[1m7                \u001b(B\u001b[m\u001b[7m   All L5     (Dired by name) ---"
+    ],
+    [
+      0.000025,
+      "\u001b[1;40r\u001b[H\u001b[6;52H\u001b[?12;25h\u001b(B\u001b[m"
+    ],
+    [
+      0.957430,
+      "\u001b[19;1H\u001b[K\u001b[1;19r\u001b[H\u001b[18;39H\u001b[7m6\u001b[1;40r\u001b[H\u001b[7;52H\u001b(B\u001b[m"
+    ],
+    [
+      0.442781,
+      "\u001b[1;19r\u001b[H\u001b[19dSetting up indent for shell type sh\u001b[1;40r\u001b[H\u001b[7;52H"
+    ],
+    [
+      0.000026,
+      "\u001b[1;19r\u001b[H\u001b[19dIndentation variables are now local.\u001b[1;40r\u001b[H\u001b[7;52H"
+    ],
+    [
+      0.000165,
+      "\u001b[1;19r\u001b[H\u001b[19;13Hsetup for shell type sh\u001b[K\u001b[1;40r\u001b[H\u001b[7;52H"
+    ],
+    [
+      0.031701,
+      "\u001b[1;19r\u001b[H\u001b[32C\u001b[7mSh-Script Help                           \r\n\u001b(B\u001b[m\u001b[33m#!/bin/\u001b[36m\u001b[1msh\u001b(B\u001b[m\u001b[33m                                                                       \u001b(B\u001b[m\u001b[3;1H\u001b[K\r\n\u001b[33mPRINCIPAL\u001b[39m=${\u001b[33mPRINCIPAL\u001b[39m:-root}\u001b[K\r\n\u001b[K\r\n\u001b[36m\u001b[1mif\u001b(B\u001b[m [ -n \u001b[32m\"$SECRET\"\u001b[39m ]; \u001b[36m\u001b[1mthen\u001b(B\u001b[m\u001b[K\u001b[1;40r\u001b[H\u001b[6;26H\u001b[?25l\u001b[1;19r\u001b[H\u001b[7;3H  \u001b[34m\u001b[1mexport\u001b(B\u001b[m \u001b[33mMESOS_AUTHENTICATE\u001b[39m=true\u001b[K\u001b[8;5H\u001b[34m\u001b[1mexport\u001b(B\u001b[m \u001b[33mMESOS_AUTHENTICATE_SLAVES\u001b[39m=true\u001b[9;5Htouch /tmp/credentials\u001b[10;5Hchmod 600 /tmp/credentials\u001b[11;5H\u001b[34m\u001b[1mecho\u001b(B\u001b[m -n \u001b[32m\"$PRINCIPAL $SECRET\"\u001b[39m \u003e /tmp/credentials\u001b[12;5H\u001b[34m\u001b[1mexport\u001b(B\u001b[m \u001b[33mMESOS_CREDENTIALS\u001b[39m=/tmp/credentials\r\n\u001b[36m\u001b[1mfi\u001b[15;1Hexec\u001b(B\u001b[m \u001b[32m\"$@\"\u001b[18;4H\u001b[39m\u001b[7m-:----F1  \u001b[1mentrypoint.sh\u001b(B\u001b[m\u001b[7m   All L1    Git-master  (Shell-script[sh]) "
+    ],
+    [
+      0.000042,
+      "\u001b[1;40r\u001b[H\r\n\u001b[?12;25h\u001b(B\u001b[m"
+    ],
+    [
+      2.056333,
+      "\u001b[17B\u001b[K\u001b[2d"
+    ],
+    [
+      0.377728,
+      "\u001b[1;19r\u001b[H\u001b[19dMark set\u001b[1;40r\u001b[H\r\n"
+    ],
+    [
+      0.001417,
+      "\u001b[1;19r\u001b[H\u001b[18;36H\u001b[7m5\u001b[1;40r\u001b[H\u001b[15B\u001b(B\u001b[m"
+    ],
+    [
+      1.493343,
+      "\u001b[3B\u001b[K\u001b[1;19r\u001b[H\u001b[18;36H\u001b[7m4\u001b[1;40r\u001b[H\u001b[14B\u001b(B\u001b[m"
+    ],
+    [
+      0.190236,
+      "\u001b[1;19r\u001b[H\u001b[18;36H\u001b[7m3\u001b[1;40r\u001b[H\u001b[13B\u001b(B\u001b[m"
+    ],
+    [
+      0.572411,
+      "\r\n\u001b[K\u001b[1;19r\u001b[H\u001b[16d\u001b[36m\u001b[1mexec\u001b(B\u001b[m \u001b[32m\"$@\"\u001b[18;6H\u001b[39m\u001b[7m**--F1  \u001b[1mentrypoint.sh\u001b(B\u001b[m\u001b[7m   All L14\u001b[1;40r\u001b[H\u001b[14B\u001b(B\u001b[m"
+    ],
+    [
+      0.212719,
+      "\r\n\u001b[K\u001b[1;19r\u001b[H\u001b[17d\u001b[36m\u001b[1mexec\u001b(B\u001b[m \u001b[32m\"$@\"\u001b[18;36H\u001b[39m\u001b[7m5\u001b[1;40r\u001b[H\u001b[15B\u001b(B\u001b[m"
+    ],
+    [
+      0.335215,
+      "\u001b[1;19r\u001b[H\u001b[18;36H\u001b[7m4\u001b[1;40r\u001b[H\u001b[14B\u001b(B\u001b[m"
+    ],
+    [
+      0.751969,
+      "\u001b[1;19r\u001b[H\u001b[15de\u001b[1;40r\u001b[H\u001b[15;2H"
+    ],
+    [
+      0.276734,
+      "\u001b[1;19r\u001b[H\u001b[15;2Hc\u001b[1;40r\u001b[H\u001b[15;3H"
+    ],
+    [
+      0.116402,
+      "\u001b[1;19r\u001b[H\u001b[15;3Hh\u001b[1;40r\u001b[H\u001b[15;4H"
+    ],
+    [
+      0.091842,
+      "\u001b[1;19r\u001b[H\u001b[15d\u001b[34m\u001b[1mecho\u001b[1;40r\u001b[H\u001b[15;5H\u001b(B\u001b[m"
+    ],
+    [
+      0.196006,
+      "\u001b[C"
+    ],
+    [
+      1.761239,
+      "\u001b[1;19r\u001b[H\u001b[15;6HH\u001b[1;40r\u001b[H\u001b[15;7H"
+    ],
+    [
+      0.087346,
+      "\u001b[1;19r\u001b[H\u001b[15;7HE\u001b[1;40r\u001b[H\u001b[15;8H"
+    ],
+    [
+      0.080817,
+      "\u001b[1;19r\u001b[H\u001b[15;8HR\u001b[1;40r\u001b[H\u001b[15;9H"
+    ],
+    [
+      0.080119,
+      "\u001b[1;19r\u001b[H\u001b[15;9HE\u001b[1;40r\u001b[H\u001b[15;10H"
+    ],
+    [
+      0.227403,
+      "\u001b[1;19r\u001b[H\u001b[15;10HA\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.697489,
+      "\u001b[1;19r\u001b[H\u001b[19dos/7/entrypoint.sh...\u001b[17;1H\u001b[7m-UU-:**--F1  \u001b[1mentrypoint.sh\u001b(B\u001b[m\u001b[7m   Top L14   Git-master  (Shell-script[sh]) ----------\u001b[18;1H\u001b(B\u001b[mSaving file /Users/pdericson/src/github.com/mesoscloud/mesos-master/0.23.0/cent\\\u001b[18;1H\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.002477,
+      "\u001b[1;19r\u001b[H\u001b[19dntrypoint.sh\u001b[K\u001b[18;1HWrote /Users/pdericson/src/github.com/mesoscloud/mesos-master/0.23.0/centos/7/e\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.010789,
+      "\u001b[1;19r\u001b[H\u001b[17;6H\u001b[7m----F1  \u001b[1mentrypoint.sh\u001b(B\u001b[m\u001b[7m   Top L14   Git:\u001b[1;40r\u001b[H\u001b[15;11H\u001b(B\u001b[m"
+    ],
+    [
+      0.183097,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mdocker build -t mesoscloud/mesos-master:0.23.0-centos-7 0.23.0/centos/7\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.217101,
+      "\u001b[21;39r\u001b[H\u001b[39dSending build context to Docker daemon 3.072 kB\r\nSending build context to Docker daemon \r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.017393,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 0 : FROM centos:7\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.000835,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 7322fbe74aa5\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.000257,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 1 : RUN rpm -i http://repos.mesosphere.io/el/7/noarch/RPMS/mesosphere-el-repo-7-1.noarch.rpm \u0026\u0026 yum -y install mesos-0.23.0\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.465195,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.000248,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 79b95e9af95c\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.000237,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 2 : CMD /usr/sbin/mesos-master\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.475298,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.000535,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e fed957ef697f\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.000212,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 3 : ENV MESOS_WORK_DIR /tmp/mesos\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.469207,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.004922,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 234cfda89cb6\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.000250,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 4 : VOLUME /tmp/mesos\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.465224,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.000242,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e a9730379596d\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.000218,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 5 : COPY entrypoint.sh /\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.549524,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 4b03953fb834\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.006953,
+      "\u001b[21;39r\u001b[H\u001b[39dRemoving intermediate container 267acff24a8f\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.000115,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 6 : ENTRYPOINT /entrypoint.sh\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.015974,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Running in b36eed45d200\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.020335,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e c5a0398e88c0\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.004643,
+      "\u001b[21;39r\u001b[H\u001b[39dRemoving intermediate container b36eed45d200\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.000221,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 7 : RUN yum install -y epel-release \u0026\u0026 yum install -y fortune-mod\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.018339,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Running in 39c51ba2f6a9\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.224615,
+      "\u001b[21;39r\u001b[H\u001b[39dLoaded plugins: fastestmirror\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      9.898520,
+      "\u001b[21;39r\u001b[H\u001b[39dLoading mirror speeds from cached hostfile\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.001081,
+      "\u001b[21;39r\u001b[H\u001b[39d * base: centos.mirror.nsw.au.glovine.com.au\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.001008,
+      "\u001b[21;39r\u001b[H\u001b[39d * extras: centos.mirror.nsw.au.glovine.com.au\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.001044,
+      "\u001b[21;39r\u001b[H\u001b[39d * updates: centos.mirror.nsw.au.glovine.com.au\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      1.121861,
+      "\u001b[21;39r\u001b[H\u001b[39dResolving Dependencies\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.001711,
+      "\u001b[21;39r\u001b[H\u001b[39d--\u003e Running transaction check\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.000628,
+      "\u001b[21;39r\u001b[H\u001b[39d---\u003e Package epel-release.noarch 0:7-5 will be installed\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.041230,
+      "\u001b[21;39r\u001b[H\u001b[39d--\u003e Finished Dependency Resolution\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.034242,
+      "\u001b[21;39r\u001b[H\u001b[39d\nDependencies Resolved\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.001459,
+      "\u001b[21;39r\u001b[H\u001b[39d\n================================================================================\u001b[39;1H\n Package                Arch             Version         Repository        Size\r\n================================================================================\u001b[39;1H\nInstalling:\r\n epel-release           noarch           7-5             extras            14 k\r\n\nTransaction Summary\r\n================================================================================\u001b[39;1H\nInstall  1 Package\r\n\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.000584,
+      "\u001b[21;39r\u001b[H\u001b[39dTotal download size: 14 k\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.014883,
+      "\u001b[?25l\u001b[21;1H---\u003e Package epel-release.noarch 0:7-5 will be installed\u001b[K\r\n--\u003e Finished Dependency Resolution\u001b[K\r\n\u001b[K\r\nDependencies Resolved\u001b[K\r\n\u001b[K\r\n================================================================================\u001b[27;1H Package                Arch             Version         Repository        Size\u001b[K\r\n================================================================================\u001b[29;1HInstalling:\u001b[K\r\n epel-release           noarch           7-5             extras            14 k\u001b[K\r\n\u001b[K\r\nTransaction Summary\u001b[K\r\n================================================================================\u001b[34;1HInstall  1 Package\u001b[K\r\n\u001b[K\r\nTotal download size: 14 k\u001b[K\r\nInstalled size: 24 k\u001b[K\r\nDownloading packages:\u001b[K\r\n\u001b[K\u001b[15;11H\u001b[?12;25h"
+    ],
+    [
+      0.371356,
+      "\u001b[21;39r\u001b[H\u001b[39dRunning transaction check\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.001824,
+      "\u001b[21;39r\u001b[H\u001b[39dRunning transaction test\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.002541,
+      "\u001b[21;39r\u001b[H\u001b[39dTransaction test succeeded\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.001124,
+      "\u001b[21;39r\u001b[H\u001b[39dRunning transaction\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.025623,
+      "\u001b[21;39r\u001b[H\u001b[39d  Installing : epel-release-7-5.noarch                                      1/1\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.057313,
+      "\u001b[21;39r\u001b[H\u001b[39;80H \u001b[39;1H\n  Verifying  : epel-release-7-5.noarch                                      1/1\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.027979,
+      "\u001b[21;39r\u001b[H\u001b[39;80H \u001b[39;1H\n\nInstalled:\r\n  epel-release.noarch 0:7-5                                                     \u001b[39;1H\n\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.000802,
+      "\u001b[21;39r\u001b[H\u001b[39dComplete!\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.163134,
+      "\u001b[21;39r\u001b[H\u001b[39dLoaded plugins: fastestmirror\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.150543,
+      "\u001b[?25l\u001b[40;1H\u001b[30m\u001b[42m[0] 0:emacs-24.5*                          \"Peters-MacBook.home\" 17:50 28-Aug-15\u001b(B\u001b[m\u001b[15;11H\u001b[?12;25h"
+    ],
+    [
+      4.016408,
+      "\u001b[21;39r\u001b[H\u001b[39d\u001b[91mhttp://fedora.uberglobalmirror.com/epel//7/x86_64/repodata/c621288e991e3f7d879ea24ac7a94074db5573e7908780c4d556ecb17a860c42-updateinfo.xml.bz2: [Errno 14] HTTP Error 404 - Not Found\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.000604,
+      "\u001b[21;39r\u001b[H\u001b[39d\u001b[91mTrying other mirror.\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      2.002115,
+      "\u001b[21;39r\u001b[H\u001b[39dLoading mirror speeds from cached hostfile\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.088787,
+      "\u001b[21;39r\u001b[H\u001b[39d * base: centos.mirror.nsw.au.glovine.com.au\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.001130,
+      "\u001b[21;39r\u001b[H\u001b[39d * epel: mirror.rackcentral.com.au\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.000945,
+      "\u001b[21;39r\u001b[H\u001b[39d * extras: centos.mirror.nsw.au.glovine.com.au\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.000903,
+      "\u001b[21;39r\u001b[H\u001b[39d * updates: centos.mirror.nsw.au.glovine.com.au\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.805958,
+      "\u001b[21;39r\u001b[H\u001b[39dResolving Dependencies\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.001384,
+      "\u001b[21;39r\u001b[H\u001b[39d--\u003e Running transaction check\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.000751,
+      "\u001b[21;39r\u001b[H\u001b[39d---\u003e Package fortune-mod.x86_64 0:1.99.1-17.el7 will be installed\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.004822,
+      "\u001b[21;39r\u001b[H\u001b[39d--\u003e Processing Dependency: librecode.so.0()(64bit) for package: fortune-mod-1.99.1-17.el7.x86_64\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.199063,
+      "\u001b[21;39r\u001b[H\u001b[39d--\u003e Running transaction check\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.000317,
+      "\u001b[21;39r\u001b[H\u001b[39d---\u003e Package recode.x86_64 0:3.6-38.el7 will be installed\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.032823,
+      "\u001b[21;39r\u001b[H\u001b[39d--\u003e Finished Dependency Resolution\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.032019,
+      "\u001b[21;39r\u001b[H\u001b[39d\nDependencies Resolved\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.002914,
+      "\u001b[21;39r\u001b[H\u001b[39d\n================================================================================\u001b[39;1H\n Package             Arch           Version                  Repository    Size\r\n================================================================================\u001b[39;1H\nInstalling:\r\n fortune-mod         x86_64         1.99.1-17.el7            epel         1.1 M\r\nInstalling for dependencies:\r\n recode              x86_64         3.6-38.el7               base         718 k\r\n\nTransaction Summary\r\n================================================================================\u001b[39;1H\nInstall  1 Package (+1 Dependent package)\r\n\n\u001b[1;40r\u001b[H\u001b[15;11H\u001b[21;39r\u001b[H\u001b[39dTotal download size: 1.8 M\r\n"
+    ],
+    [
+      0.000027,
+      "\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.000294,
+      "\u001b[21;39r\u001b[H\u001b[39dInstalled size: 4.9 M\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.002255,
+      "\u001b[21;39r\u001b[H\u001b[39dDownloading packages:\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.972188,
+      "\u001b[21;39r\u001b[H\u001b[39d\u001b[91mwarning: \u001b[1;40r\u001b[H\u001b[15;11H\u001b(B\u001b[m"
+    ],
+    [
+      0.000411,
+      "\u001b[21;39r\u001b[H\u001b[39;10H\u001b[91m/var/cache/yum/x86_64/7/epel/packages/fortune-mod-1.99.1-17.el7.x86_64.rpm: Header V3 RSA/SHA256 Signature, key ID 352c64e5: NOKEY\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.005104,
+      "\u001b[21;39r\u001b[H\u001b[39dPublic key for fortune-mod-1.99.1-17.el7.x86_64.rpm is not installed\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.007507,
+      "\u001b[21;39r\u001b[H\u001b[39d--------------------------------------------------------------------------------\u001b[39;1H\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.000666,
+      "\u001b[21;39r\u001b[H\u001b[39dTotal                                              1.8 MB/s | 1.8 MB  00:00     \u001b[39;1H\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.002859,
+      "\u001b[21;39r\u001b[H\u001b[39dRetrieving key from file:///etc/pki/rpm-gpg/RPM-GPG-KEY-EPEL-7\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.005685,
+      "\u001b[21;39r\u001b[H\u001b[39d\u001b[91mImporting GPG key 0x352C64E5:\u001b(B\u001b[m\r\n\u001b[91m Userid     : \"Fedora EPEL (7) \u003cepel@fedoraproject.org\u003e\"\u001b(B\u001b[m\r\n\u001b[91m Fingerprint: 91e9 7d7c 4a5e 96f1 7f3e 888f 6a2f aea2 352c 64e5\u001b(B\u001b[m\r\n\u001b[91m Package    : epel-release-7-5.noarch (@extras)\u001b(B\u001b[m\r\n\u001b[91m From       : /etc/pki/rpm-gpg/RPM-GPG-KEY-EPEL-7\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.008433,
+      "\u001b[21;39r\u001b[H\u001b[39dRunning transaction check\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.008999,
+      "\u001b[21;39r\u001b[H\u001b[39dRunning transaction test\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.020351,
+      "\u001b[21;39r\u001b[H\u001b[39dTransaction test succeeded\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.001103,
+      "\u001b[21;39r\u001b[H\u001b[39dRunning transaction\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.152298,
+      "\u001b[21;39r\u001b[H\u001b[39d  Installing : recode-3.6-38.el7.x86_64                                     1/2\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.098667,
+      "\u001b[21;39r\u001b[H\u001b[39;80H \u001b[39;1H\ninstall-info: No such file or directory for /usr/share/info/recode.info.gz\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.253941,
+      "\u001b[21;39r\u001b[H\u001b[39d  Installing : fortune-mod-1.99.1-17.el7.x86_64                             2/2\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.015745,
+      "\u001b[21;39r\u001b[H\u001b[39;80H \u001b[39;1H\n  Verifying  : fortune-mod-1.99.1-17.el7.x86_64                             1/2\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.007719,
+      "\u001b[21;39r\u001b[H\u001b[39;80H \u001b[39;1H\n  Verifying  : recode-3.6-38.el7.x86_64                                     2/2\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.031938,
+      "\u001b[21;39r\u001b[H\u001b[39;80H \u001b[39;1H\n\nInstalled:\r\n  fortune-mod.x86_64 0:1.99.1-17.el7                                            \u001b[39;1H\n\nDependency Installed:\r\n  recode.x86_64 0:3.6-38.el7                                                    \u001b[39;1H\n\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.000654,
+      "\u001b[21;39r\u001b[H\u001b[39dComplete!\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.535205,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e fb36a76a4a72\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.024758,
+      "\u001b[21;39r\u001b[H\u001b[39dRemoving intermediate container 39c51ba2f6a9\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.000691,
+      "\u001b[21;39r\u001b[H\u001b[39dSuccessfully built fb36a76a4a72\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.002605,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mmesos-master --version\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.347179,
+      "\u001b[21;39r\u001b[H\u001b[39dHEREA\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.024393,
+      "\u001b[21;39r\u001b[H\u001b[39dmesos 0.23.0\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.101630,
+      "\u001b[21;39r\u001b[H\u001b[39d\u001b[32m\u001b[1mtest passed\u001b(B\u001b[m\r\n🌹  \u001b[1mtest -z \"$MESOS_AUTHENTICATE\"\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.388764,
+      "\u001b[21;39r\u001b[H\u001b[39dHEREA\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.110801,
+      "\u001b[21;39r\u001b[H\u001b[39d\u001b[32m\u001b[1mtest passed\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[15;11H\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mtest \"$MESOS_AUTHENTICATE\" = true\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.363368,
+      "\u001b[21;39r\u001b[H\u001b[39dHEREA\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.098180,
+      "\u001b[21;39r\u001b[H\u001b[39d\u001b[32m\u001b[1mtest passed\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.000027,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mfortune\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.355840,
+      "\u001b[21;39r\u001b[H\u001b[39dHEREA\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.008969,
+      "\u001b[21;39r\u001b[H\u001b[39dForty two.\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.096639,
+      "\u001b[21;39r\u001b[H\u001b[39d\u001b[32m\u001b[1mtest passed\u001b(B\u001b[m\r\n🌹  \u001b[1mdocker tag -f mesoscloud/mesos-master:0.23.0-centos-7 mesoscloud/mesos-master:0.23.0-centos\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.219287,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mdocker tag -f mesoscloud/mesos-master:0.23.0-centos-7 mesoscloud/mesos-master:0.23.0\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.237007,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mdocker tag -f mesoscloud/mesos-master:0.23.0-centos-7 mesoscloud/mesos-master:latest\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[15;11H"
+    ],
+    [
+      1.793761,
+      "\u001b[19;1H\u001b[K\u001b[1;19r\u001b[H\u001b[17d\u001b[36m\u001b[1mexec\u001b(B\u001b[m \u001b[32m\"$@\"\u001b(B\u001b[m\u001b[K\r\n\u001b[7m-UU-:----F1  \u001b[1mentrypoint.sh\u001b(B\u001b[m\u001b[7m   All L14   Git:master  (Shell-script[sh]) ----------\u001b[18;1H\u001b[1;40r\u001b[H\u001b[15;11H\u001b(B\u001b[m"
+    ],
+    [
+      0.287210,
+      "\u001b[1;19r\u001b[H\u001b[19d(No files need saving)\u001b[1;40r\u001b[H\u001b[15;11H\u001b[19;1H\u001b[K"
+    ],
+    [
+      0.000011,
+      "\u001b[?25l\u001b[H$ e .\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2d\u001b[?12l\u001b[?25h\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.002684,
+      "\u001b[1;19r\u001b[H\r\n$ \u001b[1;40r\u001b[H\u001b[2;3H"
+    ],
+    [
+      0.306905,
+      "\u001b[?25l\u001b[40;1H\u001b[30m\u001b[42m[0] 0:bash*                                \"Peters-MacBook.home\" 17:50 28-Aug-15\u001b(B\u001b[m\u001b[2;3H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.157894,
+      "\u001b[1;19r\u001b[H\u001b[2;3Hg\u001b[1;40r\u001b[H\u001b[2;4H"
+    ],
+    [
+      0.153493,
+      "\u001b[1;19r\u001b[H\u001b[2;4Hi\u001b[1;40r\u001b[H\u001b[2;5H"
+    ],
+    [
+      0.137040,
+      "\u001b[1;19r\u001b[H\u001b[2;5Ht\u001b[1;40r\u001b[H\u001b[2;6H"
+    ],
+    [
+      0.432351,
+      "\u001b[1;19r\u001b[H\u001b[2;6H \u001b[1;40r\u001b[H\u001b[2;7H"
+    ],
+    [
+      0.088295,
+      "\u001b[1;19r\u001b[H\u001b[2;7Hr\u001b[1;40r\u001b[H\u001b[2;8H"
+    ],
+    [
+      0.067566,
+      "\u001b[1;19r\u001b[H\u001b[2;8He\u001b[1;40r\u001b[H\u001b[2;9H"
+    ],
+    [
+      0.084102,
+      "\u001b[1;19r\u001b[H\u001b[2;9Hs\u001b[1;40r\u001b[H\u001b[2;10H"
+    ],
+    [
+      0.100010,
+      "\u001b[1;19r\u001b[H\u001b[2;10He\u001b[1;40r\u001b[H\u001b[2;11H"
+    ],
+    [
+      0.128139,
+      "\u001b[1;19r\u001b[H\u001b[2;11Ht\u001b[1;40r\u001b[H\u001b[2;12H"
+    ],
+    [
+      0.136393,
+      "\u001b[1;19r\u001b[H\u001b[2;12H \u001b[1;40r\u001b[H\u001b[2;13H"
+    ],
+    [
+      0.132965,
+      "\u001b[1;19r\u001b[H\u001b[2;13H-\u001b[1;40r\u001b[H\u001b[2;14H"
+    ],
+    [
+      0.190694,
+      "\u001b[1;19r\u001b[H\u001b[2;14H-\u001b[1;40r\u001b[H\u001b[2;15H"
+    ],
+    [
+      0.226597,
+      "\u001b[1;19r\u001b[H\u001b[2;15Hh\u001b[1;40r\u001b[H\u001b[2;16H"
+    ],
+    [
+      0.051682,
+      "\u001b[1;19r\u001b[H\u001b[2;16Ha\u001b[1;40r\u001b[H\u001b[2;17H"
+    ],
+    [
+      0.060532,
+      "\u001b[1;19r\u001b[H\u001b[2;17Hr\u001b[1;40r\u001b[H\u001b[2;18H"
+    ],
+    [
+      0.189015,
+      "\u001b[1;19r\u001b[H\u001b[2;18Hd\u001b[1;40r\u001b[H\u001b[2;19H"
+    ],
+    [
+      0.247923,
+      "\r\n"
+    ],
+    [
+      0.010565,
+      "\u001b[1;19r\u001b[H\u001b[2BHEAD is now at f456216 entrypoint.sh: chmod\u001b[1;40r\u001b[H\u001b[3B"
+    ],
+    [
+      0.000427,
+      "\u001b[1;19r\u001b[H\u001b[3B$ \u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.270873,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mdocker build -t mesoscloud/mesos-master:0.23.0-centos-7 0.23.0/centos/7\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.225238,
+      "\u001b[21;39r\u001b[H\u001b[39dSending build context to Docker daemon 3.072 kB\r\nSending build context to Docker daemon \r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.019041,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 0 : FROM centos:7\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000734,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 7322fbe74aa5\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000143,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 1 : RUN rpm -i http://repos.mesosphere.io/el/7/noarch/RPMS/mesosphere-el-repo-7-1.noarch.rpm \u0026\u0026 yum -y install mesos-0.23.0\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.506021,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000240,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 79b95e9af95c\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000260,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 2 : CMD /usr/sbin/mesos-master\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.512705,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000369,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e fed957ef697f\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000331,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 3 : ENV MESOS_WORK_DIR /tmp/mesos\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.467716,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.002443,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 234cfda89cb6\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000198,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 4 : VOLUME /tmp/mesos\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.456600,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000300,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e a9730379596d\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000267,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 5 : COPY entrypoint.sh /\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.525007,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 18d5f3a44f91\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.004655,
+      "\u001b[21;39r\u001b[H\u001b[39dRemoving intermediate container b73c09bab0ea\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000210,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 6 : ENTRYPOINT /entrypoint.sh\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.015956,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Running in f5aa62c39bce\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.021782,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e a038e5fdf3bc\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.005085,
+      "\u001b[21;39r\u001b[H\u001b[39dRemoving intermediate container f5aa62c39bce\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000063,
+      "\u001b[21;39r\u001b[H\u001b[39dSuccessfully built a038e5fdf3bc\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.003089,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mmesos-master --version\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.366722,
+      "\u001b[21;39r\u001b[H\u001b[39dmesos 0.23.0\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.098685,
+      "\u001b[21;39r\u001b[H\u001b[39d\u001b[32m\u001b[1mtest passed\u001b(B\u001b[m\r\n🌹  \u001b[1mtest -z \"$MESOS_AUTHENTICATE\"\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.469104,
+      "\u001b[21;39r\u001b[H\u001b[39d\u001b[32m\u001b[1mtest passed\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000056,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mtest \"$MESOS_AUTHENTICATE\" = true\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.492353,
+      "\u001b[21;39r\u001b[H\u001b[39d\u001b[32m\u001b[1mtest passed\u001b(B\u001b[m\r\n🌹  \u001b[1mdocker tag -f mesoscloud/mesos-master:0.23.0-centos-7 mesoscloud/mesos-master:0.23.0-centos\u001b[1;40r\u001b[H\u001b[4;3H\u001b(B\u001b[m"
+    ],
+    [
+      0.002204,
+      "\u001b[?25l\u001b[21;1H ---\u003e a9730379596d\u001b[K\r\nStep 5 : COPY entrypoint.sh /\u001b[K\r\n ---\u003e 18d5f3a44f91\u001b[K\r\nRemoving intermediate container b73c09bab0ea\u001b[K\r\nStep 6 : ENTRYPOINT /entrypoint.sh\u001b[K\r\n ---\u003e Running in f5aa62c39bce\u001b[K\r\n ---\u003e a038e5fdf3bc\u001b[K\r\nRemoving intermediate container f5aa62c39bce\u001b[K\r\nSuccessfully built a038e5fdf3bc\u001b[K\r\n🌹  \u001b[1mmesos-master --version\u001b(B\u001b[m\u001b[K\r\nmesos 0.23.0\u001b[K\r\n\u001b[32m\u001b[1mtest passed\u001b(B\u001b[m\u001b[K\r\n🌹  \u001b[1mtest -z \"$MESOS_AUTHENTICATE\"\u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1mtest passed\u001b(B\u001b[m\u001b[K\r\n🌹  \u001b[1mtest \"$MESOS_AUTHENTICATE\" = true\u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1mtest passed\u001b(B\u001b[m\u001b[K\r\n🌹  \u001b[1mdocker tag -f mesoscloud/mesos-master:0.23.0-centos-7 mesoscloud/mesos-master:0.23.0-centos\u001b(B\u001b[m\u001b[K\r\n\u001b[K\u001b[4;3H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.222057,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mdocker tag -f mesoscloud/mesos-master:0.23.0-centos-7 mesoscloud/mesos-master:0.23.0\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.247769,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mdocker tag -f mesoscloud/mesos-master:0.23.0-centos-7 mesoscloud/mesos-master:latest\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.219000,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mdocker build -t mesoscloud/mesos-master:0.23.0-ubuntu-14.04 0.23.0/ubuntu/14.04\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.225109,
+      "\u001b[21;39r\u001b[H\u001b[39dSending build context to Docker daemon 3.072 kB\r\nSending build context to Docker daemon \r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.020366,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 0 : FROM ubuntu:14.04\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.001084,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 63e3c10217b8\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000450,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 1 : RUN apt-key adv --keyserver keyserver.ubuntu.com --recv E56151BF \u0026\u0026 echo deb http://repos.mesosphere.io/ubuntu trusty main \u003e /etc/apt/sources.list.d/mesosphere.list \u0026\u0026 apt-get update \u0026\u0026 apt-get -y install mesos=0.23.0-1.0.ubuntu1404\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.482893,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000182,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 6efeb261069b\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000395,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 2 : CMD /usr/sbin/mesos-master\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.457226,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000620,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 9f6e4015372d\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000012,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 3 : ENV MESOS_WORK_DIR /tmp/mesos\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.457457,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000261,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 4ffc4148ff4f\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000227,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 4 : VOLUME /tmp/mesos\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.462724,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000116,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 023ff84266d3\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000292,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 5 : COPY entrypoint.sh /\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.448196,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000186,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 5099310ba47e\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000299,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 6 : ENTRYPOINT /entrypoint.sh\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.483387,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000289,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e ce569ee27aa8\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000227,
+      "\u001b[21;39r\u001b[H\u001b[39dSuccessfully built ce569ee27aa8\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.002679,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mmesos-master --version\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.361390,
+      "\u001b[21;39r\u001b[H\u001b[39dmesos 0.23.0\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.101002,
+      "\u001b[21;39r\u001b[H\u001b[39d\u001b[32m\u001b[1mtest passed\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000009,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mtest -z \"$MESOS_AUTHENTICATE\"\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.463220,
+      "\u001b[21;39r\u001b[H\u001b[39d\u001b[32m\u001b[1mtest passed\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000025,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mtest \"$MESOS_AUTHENTICATE\" = true\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.487104,
+      "\u001b[21;39r\u001b[H\u001b[39d\u001b[32m\u001b[1mtest passed\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[4;3H\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mdocker tag -f mesoscloud/mesos-master:0.23.0-ubuntu-14.04 mesoscloud/mesos-master:0.23.0-ubuntu\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.000030,
+      "\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.215020,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mdocker build -t mesoscloud/mesos-master:0.22.1-centos-7 0.22.1/centos/7\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.229101,
+      "\u001b[21;39r\u001b[H\u001b[39dSending build context to Docker daemon 3.072 kB\r\nSending build context to Docker daemon \r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.015949,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 0 : FROM centos:7\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000802,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 7322fbe74aa5\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000168,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 1 : RUN rpm -i http://repos.mesosphere.io/el/7/noarch/RPMS/mesosphere-el-repo-7-1.noarch.rpm \u0026\u0026 yum -y install mesos-0.22.1\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.484494,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000248,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 70af10fed6d9\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000320,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 2 : CMD /usr/sbin/mesos-master\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.464334,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000195,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 37da68ffd9e8\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000399,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 3 : ENV MESOS_WORK_DIR /tmp/mesos\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.453377,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000456,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 5a9d2e005a71\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000154,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 4 : VOLUME /tmp/mesos\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.477967,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000348,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 696fd039f2a3\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000256,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 5 : COPY entrypoint.sh /\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.474948,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000183,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 03cbbc58e2a0\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000297,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 6 : ENTRYPOINT /entrypoint.sh\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.487116,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000292,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 1a3776266c78\r\nSuccessfully built 1a3776266c78\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.003029,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mmesos-master --version\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.380861,
+      "\u001b[21;39r\u001b[H\u001b[39dmesos 0.22.1\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.098764,
+      "\u001b[21;39r\u001b[H\u001b[39d\u001b[32m\u001b[1mtest passed\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000142,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mtest -z \"$MESOS_AUTHENTICATE\"\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.470386,
+      "\u001b[21;39r\u001b[H\u001b[39d\u001b[32m\u001b[1mtest passed\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000060,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mtest \"$MESOS_AUTHENTICATE\" = true\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.447359,
+      "\u001b[21;39r\u001b[H\u001b[39d\u001b[32m\u001b[1mtest passed\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[4;3H\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mdocker tag -f mesoscloud/mesos-master:0.22.1-centos-7 mesoscloud/mesos-master:0.22.1-centos\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.224459,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mdocker tag -f mesoscloud/mesos-master:0.22.1-centos-7 mesoscloud/mesos-master:0.22.1\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.222300,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mdocker build -t mesoscloud/mesos-master:0.22.1-ubuntu-14.04 0.22.1/ubuntu/14.04\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.217335,
+      "\u001b[21;39r\u001b[H\u001b[39dSending build context to Docker daemon 3.072 kB\r\nSending build context to Docker daemon \r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.026533,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 0 : FROM ubuntu:14.04\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.001200,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 63e3c10217b8\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000321,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 1 : RUN apt-key adv --keyserver keyserver.ubuntu.com --recv E56151BF \u0026\u0026 echo deb http://repos.mesosphere.io/ubuntu trusty main \u003e /etc/apt/sources.list.d/mesosphere.list \u0026\u0026 apt-get update \u0026\u0026 apt-get -y install mesos=0.22.1-1.0.ubuntu1404\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.470275,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000270,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 95a964e920ff\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000255,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 2 : CMD /usr/sbin/mesos-master\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.497389,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000256,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 23d8ba2a2bf4\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000369,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 3 : ENV MESOS_WORK_DIR /tmp/mesos\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.451045,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000356,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 13b55b339439\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000343,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 4 : VOLUME /tmp/mesos\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.452600,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.003653,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e d845098cf131\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000887,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 5 : COPY entrypoint.sh /\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.461946,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000331,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e b1aade3939a6\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000306,
+      "\u001b[21;39r\u001b[H\u001b[39dStep 6 : ENTRYPOINT /entrypoint.sh\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.458022,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e Using cache\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000228,
+      "\u001b[21;39r\u001b[H\u001b[39d ---\u003e 0cd2009489d2\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000209,
+      "\u001b[21;39r\u001b[H\u001b[39dSuccessfully built 0cd2009489d2\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.003048,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mmesos-master --version\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.356002,
+      "\u001b[21;39r\u001b[H\u001b[39dmesos 0.22.1\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.110766,
+      "\u001b[21;39r\u001b[H\u001b[39d\u001b[32m\u001b[1mtest passed\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000053,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mtest -z \"$MESOS_AUTHENTICATE\"\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.481364,
+      "\u001b[21;39r\u001b[H\u001b[39d\u001b[32m\u001b[1mtest passed\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.000081,
+      "\u001b[21;39r\u001b[H\u001b[39d🌹  \u001b[1mtest \"$MESOS_AUTHENTICATE\" = true\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      0.458670,
+      "\u001b[21;39r\u001b[H\u001b[39d\u001b[32m\u001b[1mtest passed\u001b(B\u001b[m\r\n🌹  \u001b[1mdocker tag -f mesoscloud/mesos-master:0.22.1-ubuntu-14.04 mesoscloud/mesos-master:0.22.1-ubuntu\u001b(B\u001b[m\r\n\u001b[1;40r\u001b[H\u001b[4;3H"
+    ],
+    [
+      1.765520,
+      "\u001b[1;19r\u001b[H\u001b[4;3Hlogout\u001b[1;40r\u001b[H\u001b[4B"
+    ],
+    [
+      0.001907,
+      "\u001b[?25l\u001b[H\u001b[1m:0.22.1\u001b(B\u001b[m\u001b[K\r\n🌹  \u001b[1mdocker build -t mesoscloud/mesos-master:0.22.1-ubuntu-14.04 0.22.1/ubuntu/14.04\u001b(B\u001b[m\u001b[K\r\nSending build context to Docker daemon 3.072 kB\u001b[K\r\nSending build context to Docker daemon \u001b[K\r\nStep 0 : FROM ubuntu:14.04\u001b[K\r\n ---\u003e 63e3c10217b8\u001b[K\r\nStep 1 : RUN apt-key adv --keyserver keyserver.ubuntu.com --recv E56151BF \u0026\u0026 echo deb http://repos.mesosphere.io/ubuntu trusty main \u003e /etc/apt/sources.list.d/mesosphere.list \u0026\u0026 apt-get update \u0026\u0026 apt-get -y install mesos=0.22.1-1.0.ubuntu1404\u001b[K\r\n ---\u003e Using cache\u001b[K\r\n ---\u003e 95a964e920ff\u001b[K\r\nStep 2 : CMD /usr/sbin/mesos-master\u001b[K\r\n ---\u003e Using cache\u001b[K\r\n ---\u003e 23d8ba2a2bf4\u001b[K\r\nStep 3 : ENV MESOS_WORK_DIR /tmp/mesos\u001b[K\r\n ---\u003e Using cache\u001b[K\r\n ---\u003e 13b55b339439\u001b[K\r\nStep 4 : VOLUME /tmp/mesos\u001b[K\r\n ---\u003e Using cache\u001b[K\r\n ---\u003e d845098cf131\u001b[K\r\nStep 5 : COPY entrypoint.sh /\u001b[K\r\n ---\u003e Using cache\u001b[K\r\n ---\u003e b1aade3939a6\u001b[K\r\nStep 6 : ENTRYPOINT /entrypoint.sh\u001b[K\r\n ---\u003e Using cache\u001b[K\r\n ---\u003e 0cd2009489d2\u001b[K\r\nSuccessfully built 0cd2009489d2\u001b[K\r\n🌹"
+    ],
+    [
+      0.000062,
+      "  \u001b[1mmesos-master --version\u001b(B\u001b[m\u001b[K\r\nmesos 0.22.1\u001b[K\r\n\u001b[32m\u001b[1mtest passed\u001b(B\u001b[m\u001b[K\r\n🌹  \u001b[1mtest -z \"$MESOS_AUTHENTICATE\"\u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1mtest passed\u001b(B\u001b[m\u001b[K\r\n🌹  \u001b[1mtest \"$MESOS_AUTHENTICATE\" = true\u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1mtest passed\u001b(B\u001b[m\u001b[K\r\n🌹  \u001b[1mdocker tag -f mesoscloud/mesos-master:0.22.1-ubuntu-14.04 mesoscloud/mesos-master:0.22.1-ubuntu\u001b(B\u001b[m\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[42m[0] 0:bash*                                \"Peters-MacBook.home\" 17:50 28-Aug-15\u001b(B\u001b[m\u001b[39;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.450943,
+      "\u001b[?25l\r\n\u001b[30m\u001b[42m[0] 0:Python*                              \"Peters-MacBook.home\" 17:50 28-Aug-15\u001b(B\u001b[m\u001b[39;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.286851,
+      "\u001b[1;39r\u001b[H\u001b[39d^C\u001b[1;40r\u001b[H\u001b[39;3H"
+    ],
+    [
+      0.001007,
+      "\u001b[1;39r\u001b[H\u001b[39;3HTraceback (most recent call last):\r\n  File \"/Users/pdericson/src/github.com/pdericson/monty/bin/monty\", line 180, in \u003cmodule\u003e\r\n\u001b[1;40r\u001b[H\u001b[39d"
+    ],
+    [
+      0.000018,
+      "\u001b[1;39r\u001b[H\u001b[39d    main()\r\n  File \"/Users/pdericson/src/github.com/pdericson/monty/bin/monty\", line 33, in main\r\n    time.sleep(1)\r\nKeyboardInterrupt\r\n\u001b[1;40r\u001b[H\u001b[39d"
+    ],
+    [
+      0.015505,
+      "\u001b[1;39r\u001b[H\u001b[39d$ \u001b[1;40r\u001b[H\u001b[39;3H"
+    ],
+    [
+      0.197785,
+      "\u001b[?25l\r\n\u001b[30m\u001b[42m[0] 0:bash*                                \"Peters-MacBook.home\" 17:50 28-Aug-15\u001b(B\u001b[m\u001b[39;3H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.165861,
+      "\u001b[1;39r\u001b[H\u001b[39;3H#\u001b[1;40r\u001b[H\u001b[39;4H"
+    ],
+    [
+      0.235077,
+      "\u001b[1;39r\u001b[H\u001b[39;4H \u001b[1;40r\u001b[H\u001b[39;5H"
+    ],
+    [
+      0.339918,
+      "\u001b[1;39r\u001b[H\u001b[39;5HT\u001b[1;40r\u001b[H\u001b[39;6H"
+    ],
+    [
+      0.180134,
+      "\u001b[1;39r\u001b[H\u001b[39;6Hh\u001b[1;40r\u001b[H\u001b[39;7H"
+    ],
+    [
+      0.120861,
+      "\u001b[1;39r\u001b[H\u001b[39;7Ha\u001b[1;40r\u001b[H\u001b[39;8H"
+    ],
+    [
+      0.139883,
+      "\u001b[1;39r\u001b[H\u001b[39;8Hn\u001b[1;40r\u001b[H\u001b[39;9H"
+    ],
+    [
+      0.131930,
+      "\u001b[1;39r\u001b[H\u001b[39;9Hk\u001b[1;40r\u001b[H\u001b[39;10H"
+    ],
+    [
+      0.152184,
+      "\u001b[1;39r\u001b[H\u001b[39;10H \u001b[1;40r\u001b[H\u001b[39;11H"
+    ],
+    [
+      0.163962,
+      "\u001b[1;39r\u001b[H\u001b[39;11Hy\u001b[1;40r\u001b[H\u001b[39;12H"
+    ],
+    [
+      0.128136,
+      "\u001b[1;39r\u001b[H\u001b[39;12Ho\u001b[1;40r\u001b[H\u001b[39;13H"
+    ],
+    [
+      0.099887,
+      "\u001b[1;39r\u001b[H\u001b[39;13Hu\u001b[1;40r\u001b[H\u001b[39;14H"
+    ],
+    [
+      0.080013,
+      "\u001b[1;39r\u001b[H\u001b[39;14H \u001b[1;40r\u001b[H\u001b[39;15H"
+    ],
+    [
+      0.255678,
+      "\u001b[1;39r\u001b[H\u001b[39;15HM\u001b[1;40r\u001b[H\u001b[39;16H"
+    ],
+    [
+      0.164281,
+      "\u001b[1;39r\u001b[H\u001b[39;16HO\u001b[1;40r\u001b[H\u001b[39;17H"
+    ],
+    [
+      0.154027,
+      "\u001b[1;39r\u001b[H\u001b[39;17Hn\u001b[1;40r\u001b[H\u001b[39;18H"
+    ],
+    [
+      0.190684,
+      "\u001b[1;39r\u001b[H\u001b[39;18Ht\u001b[1;40r\u001b[H\u001b[39;19H"
+    ],
+    [
+      0.204347,
+      "\u001b[1;39r\u001b[H\u001b[39;19Hy\u001b[1;40r\u001b[H\u001b[39;20H"
+    ],
+    [
+      0.621777,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.183539,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.180320,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.186299,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.428891,
+      "\u001b[1;39r\u001b[H\u001b[39;16Ho\u001b[1;40r\u001b[H\u001b[39;17H"
+    ],
+    [
+      0.093025,
+      "\u001b[1;39r\u001b[H\u001b[39;17Hn\u001b[1;40r\u001b[H\u001b[39;18H"
+    ],
+    [
+      0.143938,
+      "\u001b[1;39r\u001b[H\u001b[39;18Ht\u001b[1;40r\u001b[H\u001b[39;19H"
+    ],
+    [
+      0.162105,
+      "\u001b[1;39r\u001b[H\u001b[39;19Hy\u001b[1;40r\u001b[H\u001b[39;20H"
+    ],
+    [
+      0.349847,
+      "\u001b[1;39r\u001b[H\u001b[39;20H.\u001b[1;40r\u001b[H\u001b[39;21H"
+    ],
+    [
+      0.410030,
+      "\u001b[1;39r\u001b[H\u001b[39d\n\u001b[1;40r\u001b[H\u001b[39d"
+    ],
+    [
+      0.000179,
+      "\u001b[1;39r\u001b[H\u001b[39d$ \u001b[1;40r\u001b[H\u001b[39;3H"
+    ],
+    [
+      0.699780,
+      "\u001b[1;39r\u001b[H\u001b[39;3Hlogout\r\n\u001b[1;40r\u001b[H\u001b[39d"
+    ],
+    [
+      0.001265,
+      "\u001b[1;40r\u001b(B\u001b[m\u001b[?1l\u001b\u003e\u001b[H\u001b[2J\u001b]112\u0007\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[?1006l\u001b[?1005l\u001b[?1049l"
+    ],
+    [
+      0.000208,
+      "[exited]\r\n"
+    ],
+    [
+      0.000707,
+      "$ "
+    ],
+    [
+      1.101583,
+      "exit\r\n"
+    ]
+  ]
+}
