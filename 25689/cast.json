@@ -1,0 +1,438 @@
+{
+  "version": 1,
+  "width": 67,
+  "height": 40,
+  "duration": 11.455875,
+  "command": "zsh -l",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.156018,
+      "[oh-my-zsh] Random theme '/Users/Rafeh/.oh-my-zsh/themes/risto.zsh-theme' loaded...\r\n"
+    ],
+    [
+      0.002507,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                  \r \r"
+    ],
+    [
+      0.000069,
+      "\u001b]2;Rafeh@Rafehs-MacBook-Pro: ~/Dropbox/github/Thinkful\u0007"
+    ],
+    [
+      0.000022,
+      "\u001b]1;..thub/Thinkful\u0007"
+    ],
+    [
+      0.018382,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32mRafeh@Rafehs-MacBook-Pro:\u001b[01;34mgithub/Thinkful \u001b[31m‹master*›\u001b[00m\u001b[00m$ "
+    ],
+    [
+      0.000016,
+      "\u001b[K"
+    ],
+    [
+      0.000171,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.765867,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000059,
+      "\r\r\n"
+    ],
+    [
+      0.000757,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                  \r \r"
+    ],
+    [
+      0.000138,
+      "\u001b]2;Rafeh@Rafehs-MacBook-Pro: ~/Dropbox/github/Thinkful\u0007"
+    ],
+    [
+      0.000042,
+      "\u001b]1;..thub/Thinkful\u0007"
+    ],
+    [
+      0.018010,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32mRafeh@Rafehs-MacBook-Pro:\u001b[01;34mgithub/Thinkful \u001b[31m‹master*›\u001b[00m\u001b[00m$ "
+    ],
+    [
+      0.000010,
+      "\u001b[K"
+    ],
+    [
+      0.000031,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.140466,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000109,
+      "\r\r\n"
+    ],
+    [
+      0.000427,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                  \r \r"
+    ],
+    [
+      0.000205,
+      "\u001b]2;Rafeh@Rafehs-MacBook-Pro: ~/Dropbox/github/Thinkful\u0007"
+    ],
+    [
+      0.000049,
+      "\u001b]1;..thub/Thinkful\u0007"
+    ],
+    [
+      0.021267,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32mRafeh@Rafehs-MacBook-Pro:\u001b[01;34mgithub/Thinkful \u001b[31m‹master*›\u001b[00m\u001b[00m$ \u001b[K"
+    ],
+    [
+      0.000039,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.145893,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000021,
+      "\r\r\n"
+    ],
+    [
+      0.000387,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                  \r \r"
+    ],
+    [
+      0.000099,
+      "\u001b]2;Rafeh@Rafehs-MacBook-Pro: ~/Dropbox/github/Thinkful\u0007"
+    ],
+    [
+      0.000034,
+      "\u001b]1;..thub/Thinkful\u0007"
+    ],
+    [
+      0.017886,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32mRafeh@Rafehs-MacBook-Pro:\u001b[01;34mgithub/Thinkful \u001b[31m‹master*›\u001b[00m\u001b[00m$ "
+    ],
+    [
+      0.000007,
+      "\u001b[K"
+    ],
+    [
+      0.000071,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.125502,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000041,
+      "\r\r\n"
+    ],
+    [
+      0.000376,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                  \r \r"
+    ],
+    [
+      0.000098,
+      "\u001b]2;Rafeh@Rafehs-MacBook-Pro: ~/Dropbox/github/Thinkful\u0007"
+    ],
+    [
+      0.000035,
+      "\u001b]1;..thub/Thinkful\u0007"
+    ],
+    [
+      0.018380,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32mRafeh@Rafehs-MacBook-Pro:\u001b[01;34mgithub/Thinkful \u001b[31m‹master*›\u001b[00m\u001b[00m$ "
+    ],
+    [
+      0.000007,
+      "\u001b[K"
+    ],
+    [
+      0.000072,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.133029,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000010,
+      "\r\r\n"
+    ],
+    [
+      0.000396,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                  \r \r"
+    ],
+    [
+      0.000099,
+      "\u001b]2;Rafeh@Rafehs-MacBook-Pro: ~/Dropbox/github/Thinkful\u0007"
+    ],
+    [
+      0.000036,
+      "\u001b]1;..thub/Thinkful\u0007"
+    ],
+    [
+      0.018278,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32mRafeh@Rafehs-MacBook-Pro:\u001b[01;34mgithub/Thinkful \u001b[31m‹master*›\u001b[00m\u001b[00m$ "
+    ],
+    [
+      0.000008,
+      "\u001b[K"
+    ],
+    [
+      0.000029,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.141135,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000042,
+      "\r\r\n"
+    ],
+    [
+      0.000528,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                  \r \r"
+    ],
+    [
+      0.000127,
+      "\u001b]2;Rafeh@Rafehs-MacBook-Pro: ~/Dropbox/github/Thinkful\u0007"
+    ],
+    [
+      0.000054,
+      "\u001b]1;..thub/Thinkful\u0007"
+    ],
+    [
+      0.018508,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32mRafeh@Rafehs-MacBook-Pro:\u001b[01;34mgithub/Thinkful \u001b[31m‹master*›\u001b[00m\u001b[00m$ "
+    ],
+    [
+      0.000009,
+      "\u001b[K"
+    ],
+    [
+      0.000028,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.132583,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000023,
+      "\r\r\n"
+    ],
+    [
+      0.000444,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                  \r \r"
+    ],
+    [
+      0.000123,
+      "\u001b]2;Rafeh@Rafehs-MacBook-Pro: ~/Dropbox/github/Thinkful\u0007"
+    ],
+    [
+      0.000010,
+      "\u001b]1;..thub/Thinkful\u0007"
+    ],
+    [
+      0.018674,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32mRafeh@Rafehs-MacBook-Pro:\u001b[01;34mgithub/Thinkful \u001b[31m‹master*›\u001b[00m\u001b[00m$ "
+    ],
+    [
+      0.000009,
+      "\u001b[K"
+    ],
+    [
+      0.000036,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.116624,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000028,
+      "\r\r\n"
+    ],
+    [
+      0.000546,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                  \r \r"
+    ],
+    [
+      0.000305,
+      "\u001b]2;Rafeh@Rafehs-MacBook-Pro: ~/Dropbox/github/Thinkful\u0007"
+    ],
+    [
+      0.000009,
+      "\u001b]1;..thub/Thinkful\u0007"
+    ],
+    [
+      0.020769,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32mRafeh@Rafehs-MacBook-Pro:\u001b[01;34mgithub/Thinkful \u001b[31m‹master*›\u001b[00m\u001b[00m$ "
+    ],
+    [
+      0.000008,
+      "\u001b[K"
+    ],
+    [
+      0.000122,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.210430,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000020,
+      "\r\r\n"
+    ],
+    [
+      0.000468,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                  \r \r"
+    ],
+    [
+      0.000103,
+      "\u001b]2;Rafeh@Rafehs-MacBook-Pro: ~/Dropbox/github/Thinkful\u0007"
+    ],
+    [
+      0.000036,
+      "\u001b]1;..thub/Thinkful\u0007"
+    ],
+    [
+      0.017912,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32mRafeh@Rafehs-MacBook-Pro:\u001b[01;34mgithub/Thinkful \u001b[31m‹master*›\u001b[00m\u001b[00m$ "
+    ],
+    [
+      0.000008,
+      "\u001b[K"
+    ],
+    [
+      0.000032,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.757380,
+      "w"
+    ],
+    [
+      0.072242,
+      "\u0008wo"
+    ],
+    [
+      0.119881,
+      "w"
+    ],
+    [
+      1.207993,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000026,
+      "\r\r\n"
+    ],
+    [
+      0.002606,
+      "\u001b]2;wow\u0007\u001b]1;wow\u0007"
+    ],
+    [
+      0.003554,
+      "zsh: command not found: wow\r\n"
+    ],
+    [
+      0.000404,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                  \r \r"
+    ],
+    [
+      0.000107,
+      "\u001b]2;Rafeh@Rafehs-MacBook-Pro: ~/Dropbox/github/Thinkful\u0007"
+    ],
+    [
+      0.000016,
+      "\u001b]1;..thub/Thinkful\u0007"
+    ],
+    [
+      0.022719,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32mRafeh@Rafehs-MacBook-Pro:\u001b[01;34mgithub/Thinkful \u001b[31m‹master*›\u001b[00m\u001b[00m$ "
+    ],
+    [
+      0.000007,
+      "\u001b[K"
+    ],
+    [
+      0.000053,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.699101,
+      "i"
+    ],
+    [
+      0.327504,
+      "\u0008 \u0008"
+    ],
+    [
+      2.000000,
+      "\r\r\n"
+    ],
+    [
+      0.000423,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                  \r \r"
+    ],
+    [
+      0.000119,
+      "\u001b]2;Rafeh@Rafehs-MacBook-Pro: ~/Dropbox/github/Thinkful\u0007"
+    ],
+    [
+      0.000035,
+      "\u001b]1;..thub/Thinkful\u0007"
+    ],
+    [
+      0.018236,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32mRafeh@Rafehs-MacBook-Pro:\u001b[01;34mgithub/Thinkful \u001b[31m‹master*›\u001b[00m\u001b[00m$ \u001b[K"
+    ],
+    [
+      0.000135,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.317254,
+      "e"
+    ],
+    [
+      0.208079,
+      "\u0008ex"
+    ],
+    [
+      0.112378,
+      "i"
+    ],
+    [
+      0.215525,
+      "t"
+    ],
+    [
+      0.097887,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000038,
+      "\r\r\n"
+    ],
+    [
+      0.000565,
+      "\u001b]2;exit\u0007\u001b]1;exit\u0007"
+    ]
+  ]
+}
