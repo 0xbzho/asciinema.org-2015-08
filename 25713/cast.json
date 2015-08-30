@@ -1,0 +1,510 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 39.849409,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.075802,
+      "$ "
+    ],
+    [
+      1.369666,
+      "m"
+    ],
+    [
+      0.200608,
+      "o"
+    ],
+    [
+      0.143243,
+      "r"
+    ],
+    [
+      0.091159,
+      "e"
+    ],
+    [
+      0.133879,
+      " "
+    ],
+    [
+      0.734888,
+      "c"
+    ],
+    [
+      0.096766,
+      "l"
+    ],
+    [
+      0.330089,
+      "i.py "
+    ],
+    [
+      0.734229,
+      "\r\n"
+    ],
+    [
+      0.004417,
+      "# -*- coding: utf-8 -*-\r\n\"\"\"\r\n"
+    ],
+    [
+      0.000040,
+      "    flask.cli\r\n    ~~~~~~~~~\r\n\r\n"
+    ],
+    [
+      0.000145,
+      "    A simple command line application to run flask apps.\r\n\r\n"
+    ],
+    [
+      0.000041,
+      "    :copyright: (c) 2015 by Armin Ronacher."
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000061,
+      "    :license: BSD, see LICENSE for more details."
+    ],
+    [
+      0.000033,
+      "\r\n"
+    ],
+    [
+      0.000060,
+      "\"\"\"\r\n"
+    ],
+    [
+      0.000094,
+      "\r\nimport os"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000148,
+      "import sys\r\n"
+    ],
+    [
+      0.000017,
+      "from threading import Lock, Thread"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000370,
+      "from functools import update_wrapper\r\n\r\nimport click\r\n\r\n"
+    ],
+    [
+      0.000026,
+      "from ._compat import iteritems, reraise\r\n\r\n\r\n"
+    ],
+    [
+      0.000273,
+      "class NoAppException(click.UsageError):\r\n    \"\"\"Raised if an application cannot be found or loaded.\"\"\"\r\n"
+    ],
+    [
+      0.000303,
+      "\u001b[7m--More--(2%)\u001b[27m"
+    ],
+    [
+      0.890831,
+      "\r\r\u001b[K\r\n"
+    ],
+    [
+      0.000189,
+      "\r\ndef find_best_app(module):\r\n"
+    ],
+    [
+      0.000093,
+      "    \"\"\"Given a module instance this tries to find the best possible"
+    ],
+    [
+      0.000591,
+      "\r\n    application in the module or raises an exception."
+    ],
+    [
+      0.000028,
+      "\r\n    \"\"\"\r\n"
+    ],
+    [
+      0.000022,
+      "    from . import Flask"
+    ],
+    [
+      0.000030,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000028,
+      "    # Search for the most common names first."
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000191,
+      "    for attr_name in 'app', 'application':\r\n"
+    ],
+    [
+      0.000034,
+      "        app = getattr(module, attr_name, None)\r\n"
+    ],
+    [
+      0.000315,
+      "        if app is not None and isinstance(app, Flask):\r\n"
+    ],
+    [
+      0.000018,
+      "            return app"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000059,
+      "\r\n"
+    ],
+    [
+      0.000030,
+      "    # Otherwise find the only object that is a Flask instance."
+    ],
+    [
+      0.000060,
+      "\r\n"
+    ],
+    [
+      0.000077,
+      "    matches = [v for k, v in iteritems(module.__dict__)"
+    ],
+    [
+      0.000090,
+      "\r\n"
+    ],
+    [
+      0.000054,
+      "               if isinstance(v, Flask)]\r\n"
+    ],
+    [
+      0.000285,
+      "\r\n    if len(matches) == 1:"
+    ],
+    [
+      0.000061,
+      "\r\n        return matches[0]\r\n"
+    ],
+    [
+      0.000044,
+      "    raise NoAppException('Failed to find application in module \"%s\".  Are '\r\n"
+    ],
+    [
+      0.000231,
+      "                         'you sure it contains a Flask application?  Maybe '"
+    ],
+    [
+      0.000055,
+      "\r\n"
+    ],
+    [
+      0.000091,
+      "                         'you wrapped it in a WSGI middleware or you are '\r\n"
+    ],
+    [
+      0.000055,
+      "\u001b[7m--More--(7%)\u001b[27m"
+    ],
+    [
+      0.878134,
+      "\r                         'using a factory function.' % module.__name__)"
+    ],
+    [
+      0.000210,
+      "\r\n"
+    ],
+    [
+      0.000403,
+      "\r\n\r\n"
+    ],
+    [
+      0.000021,
+      "def prepare_exec_for_file(filename):\r\n"
+    ],
+    [
+      0.000137,
+      "    \"\"\"Given a filename this will try to calculate the python path, add it\r\n"
+    ],
+    [
+      0.000022,
+      "    to the search path and return the actual module name that is expected."
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000176,
+      "    \"\"\"\r\n    module = []"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000053,
+      "\r\n"
+    ],
+    [
+      0.000885,
+      "    # Chop off file extensions or package markers\r\n    if filename.endswith('.py'):\r\n        filename = filename[:-3]\r\n    elif os.path.split(filename)[1] == '__init__.py':\r\n        filename = os.path.dirname(filename)\r\n    else:\r\n        raise NoAppException('The file provided (%s) does exist but is not a '\r\n                             'valid Python file.  This means that it cannot '\r\n                             'be used as application.  Please change the '\r\n                             'extension to .py' % filename)\r\n    filename = os.path.realpath(filename)\r\n\r\n    dirpath = filename\r\n    while 1:\r\n"
+    ],
+    [
+      0.000019,
+      "\u001b[7m--More--(12%)\u001b[27m"
+    ],
+    [
+      0.438015,
+      "\r        dirpath, extra = os.path.split(dirpath)\r\n        module.append(extra)\r\n        if not os.path.isfile(os.path.join(dirpath, '__init__.py')):\r\n            break\r\n\r\n    sys.path.insert(0, dirpath)\r\n    return '.'.join(module[::-1])\r\n\r\n\r\ndef locate_app(app_id):\r\n    \"\"\"Attempts to locate the application.\"\"\"\r\n    __traceback_hide__ = True\r\n    if ':' in app_id:\r\n        module, app_obj = app_id.split(':', 1)\r\n    else:\r\n        module = app_id\r\n        app_obj = None\r\n\r\n    __import__(module)\r\n    mod = sys.modules[module]\r\n    if app_obj is None:\r\n        app = find_best_app(mod)\r\n    else:\r\n\u001b[7m--More--(15%)\u001b[27m"
+    ],
+    [
+      0.472607,
+      "\r        app = getattr(mod, app_obj, None)\r\n        if app is None:\r\n            raise RuntimeError('Failed to find application in module \"%s\"'\r\n                               % module)\r\n\r\n    return app\r\n\r\n\r\nclass DispatchingApp(object):\r\n    \"\"\"Special application that dispatches to a flask application which\r\n    is imported by name in a background thread.  If an error happens\r\n    it is is recorded and shows as part of the WSGI handling which in case\r\n    of the Werkzeug debugger means that it shows up in the browser.\r\n    \"\"\"\r\n\r\n    def __init__(self, loader, use_eager_loading=False):\r\n        self.loader = loader\r\n        self._app = None\r\n        self._lock = Lock()\r\n        self._bg_loading_exc_info = None\r\n        if use_eager_loading:\r\n            self._load_unlocked()\r\n        else:\r\n\u001b[7m--More--(19%)\u001b[27m"
+    ],
+    [
+      1.000247,
+      "\r            self._load_in_background()\r\n\r\n    def _load_in_background(self):\r\n        def _load_app():\r\n            __traceback_hide__ = True\r\n            with self._lock:\r\n                try:\r\n                    self._load_unlocked()\r\n                except Exception:\r\n                    self._bg_loading_exc_info = sys.exc_info()\r\n        t = Thread(target=_load_app, args=())\r\n        t.start()\r\n\r\n    def _flush_bg_loading_exception(self):\r\n        __traceback_hide__ = True\r\n        exc_info = self._bg_loading_exc_info\r\n        if exc_info is not None:\r\n            self._bg_loading_exc_info = None\r\n            reraise(*exc_info)\r\n\r\n    def _load_unlocked(self):\r\n        __traceback_hide__ = True\r\n        self._app = rv = self.loader()\r\n\u001b[7m--More--(23%)\u001b[27m"
+    ],
+    [
+      1.000283,
+      "\r        self._bg_loading_exc_info = None\r\n        return rv\r\n\r\n    def __call__(self, environ, start_response):\r\n        __traceback_hide__ = True\r\n        if self._app is not None:\r\n            return self._app(environ, start_response)\r\n        self._flush_bg_loading_exception()\r\n        with self._lock:\r\n            if self._app is not None:\r\n                rv = self._app\r\n            else:\r\n                rv = self._load_unlocked()\r\n            return rv(environ, start_response)\r\n\r\n\r\nclass ScriptInfo(object):\r\n    \"\"\"Help object to deal with Flask applications.  This is usually not\r\n    necessary to interface with as it's used internally in the dispatching\r\n    to click.\r\n    \"\"\"\r\n\r\n    def __init__(self, app_import_path=None, debug=None, create_app=None):\r\n\u001b[7m--More--(28%)\u001b[27m"
+    ],
+    [
+      0.164966,
+      "\r        #: The application import path\r\n        self.app_import_path = app_import_path\r\n        #: The debug flag.  If this is not None, the application will\r\n        #: automatically have it's debug flag overridden with this value.\r\n        self.debug = debug\r\n        #: Optionally a function that is passed the script info to create\r\n        #: the instance of the application.\r\n        self.create_app = create_app\r\n        #: A dictionary with arbitrary data that can be associated with\r\n        #: this script info.\r\n        self.data = {}\r\n        self._loaded_app = None\r\n\r\n    def load_app(self):\r\n        \"\"\"Loads the Flask app (if not yet loaded) and returns it.  Calling\r\n        this multiple times will just result in the already loaded app to\r\n        be returned.\r\n        \"\"\"\r\n        __traceback_hide__ = True\r\n        if self._loaded_app is not None:\r\n            return self._loaded_app\r\n        if self.create_app is not None:\r\n            rv = self.create_app(self)\r\n\u001b[7m--More--(33%)\u001b[27m"
+    ],
+    [
+      0.154920,
+      "\r        else:\r\n            if self.app_import_path is None:\r\n                raise NoAppException('Could not locate Flask application. '\r\n                                     'You did not provide FLASK_APP or the '\r\n                                     '--app parameter.')\r\n            rv = locate_app(self.app_import_path)\r\n        if self.debug is not None:\r\n            rv.debug = self.debug\r\n        self._loaded_app = rv\r\n        return rv\r\n\r\n\r\npass_script_info = click.make_pass_decorator(ScriptInfo, ensure=True)\r\n\r\n\r\ndef with_appcontext(f):\r\n    \"\"\"Wraps a callback so that it's guaranteed to be executed with the\r\n    script's application context.  If callbacks are registered directly\r\n    to the ``app.cli`` object then they are wrapped with this function\r\n    by default unless it's disabled.\r\n    \"\"\"\r\n    @click.pass_context\r\n    def decorator(__ctx, *args, **kwargs):\r\n\u001b[7m--More--(38%)\u001b[27m"
+    ],
+    [
+      0.743706,
+      "\r        with __ctx.ensure_object(ScriptInfo).load_app().app_context():\r\n            return __ctx.invoke(f, *args, **kwargs)\r\n    return update_wrapper(decorator, f)\r\n\r\n\r\ndef set_debug_value(ctx, param, value):\r\n    ctx.ensure_object(ScriptInfo).debug = value\r\n\r\n\r\ndef set_app_value(ctx, param, value):\r\n    if value is not None:\r\n        if os.path.isfile(value):\r\n            value = prepare_exec_for_file(value)\r\n        elif '.' not in sys.path:\r\n            sys.path.insert(0, '.')\r\n    ctx.ensure_object(ScriptInfo).app_import_path = value\r\n\r\n\r\ndebug_option = click.Option(['--debug/--no-debug'],\r\n    help='Enable or disable debug mode.',\r\n    default=None, callback=set_debug_value)\r\n\r\n\r\n\u001b[7m--More--(42%)\u001b[27m"
+    ],
+    [
+      0.649523,
+      "\rapp_option = click.Option(['-a', '--app'],\r\n    help='The application to run',\r\n    callback=set_app_value, is_eager=True)\r\n\r\n\r\nclass AppGroup(click.Group):\r\n    \"\"\"This works similar to a regular click :class:`~click.Group` but it\r\n    changes the behavior of the :meth:`command` decorator so that it\r\n    automatically wraps the functions in :func:`with_appcontext`.\r\n\r\n    Not to be confused with :class:`FlaskGroup`.\r\n    \"\"\"\r\n\r\n    def command(self, *args, **kwargs):\r\n        \"\"\"This works exactly like the method of the same name on a regular\r\n        :class:`click.Group` but it wraps callbacks in :func:`with_appcontext`\r\n        unless it's disabled by passing ``with_appcontext=False``.\r\n        \"\"\"\r\n        wrap_for_ctx = kwargs.pop('with_appcontext', True)\r\n        def decorator(f):\r\n            if wrap_for_ctx:\r\n                f = with_appcontext(f)\r\n            return click.Group.command(self, *args, **kwargs)(f)\r\n\u001b[7m--More--(47%)\u001b[27m"
+    ],
+    [
+      0.359047,
+      "\r        return decorator\r\n\r\n    def group(self, *args, **kwargs):\r\n        \"\"\"This works exactly like the method of the same name on a regular\r\n        :class:`click.Group` but it defaults the group class to\r\n        :class:`AppGroup`.\r\n        \"\"\"\r\n        kwargs.setdefault('cls', AppGroup)\r\n        return click.Group.group(self, *args, **kwargs)\r\n\r\n\r\nclass FlaskGroup(AppGroup):\r\n    \"\"\"Special subclass of the :class:`AppGroup` group that supports\r\n    loading more commands from the configured Flask app.  Normally a\r\n    developer does not have to interface with this class but there are\r\n    some very advanced use cases for which it makes sense to create an\r\n    instance of this.\r\n\r\n    For information as of why this is useful see :ref:`custom-scripts`.\r\n\r\n    :param add_default_commands: if this is True then the default run and\r\n                                 shell commands wil be added.\r\n    :param add_app_option: adds the default :option:`--app` option.  This gets\r\n\u001b[7m--More--(52%)\u001b[27m"
+    ],
+    [
+      0.505888,
+      "\r                           automatically disabled if a `create_app`\r\n                           callback is defined.\r\n    :param add_debug_option: adds the default :option:`--debug` option.\r\n    :param create_app: an optional callback that is passed the script info\r\n                       and returns the loaded app.\r\n    \"\"\"\r\n\r\n    def __init__(self, add_default_commands=True, add_app_option=None,\r\n                 add_debug_option=True, create_app=None, **extra):\r\n        params = list(extra.pop('params', None) or ())\r\n        if add_app_option is None:\r\n            add_app_option = create_app is None\r\n        if add_app_option:\r\n            params.append(app_option)\r\n        if add_debug_option:\r\n            params.append(debug_option)\r\n\r\n        AppGroup.__init__(self, params=params, **extra)\r\n        self.create_app = create_app\r\n\r\n        if add_default_commands:\r\n            self.add_command(run_command)\r\n            self.add_command(shell_command)\r\n\u001b[7m--More--(58%)\u001b[27m"
+    ],
+    [
+      0.272125,
+      "\r\r\u001b[K\r\n    def get_command(self, ctx, name):\r\n        # We load built-in commands first as these should always be the\r\n        # same no matter what the app does.  If the app does want to\r\n        # override this it needs to make a custom instance of this group\r\n        # and not attach the default commands.\r\n        #\r\n        # This also means that the script stays functional in case the\r\n        # application completely fails.\r\n        rv = AppGroup.get_command(self, ctx, name)\r\n        if rv is not None:\r\n            return rv\r\n\r\n        info = ctx.ensure_object(ScriptInfo)\r\n        try:\r\n            rv = info.load_app().cli.get_command(ctx, name)\r\n            if rv is not None:\r\n                return rv\r\n        except NoAppException:\r\n            pass\r\n\r\n    def list_commands(self, ctx):\r\n        # The commands available is the list of both the application (if\r\n\u001b[7m--More--(62%)\u001b[27m"
+    ],
+    [
+      0.687543,
+      "\r        # available) plus the builtin commands.\r\n        rv = set(click.Group.list_commands(self, ctx))\r\n        info = ctx.ensure_object(ScriptInfo)\r\n        try:\r\n            rv.update(info.load_app().cli.list_commands(ctx))\r\n        except Exception:\r\n            # Here we intentionally swallow all exceptions as we don't\r\n            # want the help page to break if the app does not exist.\r\n            # If someone attempts to use the command we try to create\r\n            # the app again and this will give us the error.\r\n            pass\r\n        return sorted(rv)\r\n\r\n    def main(self, *args, **kwargs):\r\n        obj = kwargs.get('obj')\r\n        if obj is None:\r\n            obj = ScriptInfo(create_app=self.create_app)\r\n        kwargs['obj'] = obj\r\n        kwargs.setdefault('auto_envvar_prefix', 'FLASK')\r\n        return AppGroup.main(self, *args, **kwargs)\r\n\r\n\r\ndef script_info_option(*args, **kwargs):\r\n\u001b[7m--More--(67%)\u001b[27m"
+    ],
+    [
+      0.199340,
+      "\r    \"\"\"This decorator works exactly like :func:`click.option` but is eager\r\n    by default and stores the value in the :attr:`ScriptInfo.data`.  This\r\n    is useful to further customize an application factory in very complex\r\n    situations.\r\n\r\n    :param script_info_key: this is a mandatory keyword argument which\r\n                            defines under which data key the value should\r\n                            be stored.\r\n    \"\"\"\r\n    try:\r\n        key = kwargs.pop('script_info_key')\r\n    except LookupError:\r\n        raise TypeError('script_info_key not provided.')\r\n\r\n    real_callback = kwargs.get('callback')\r\n    def callback(ctx, param, value):\r\n        if real_callback is not None:\r\n            value = real_callback(ctx, value)\r\n        ctx.ensure_object(ScriptInfo).data[key] = value\r\n        return value\r\n\r\n    kwargs['callback'] = callback\r\n    kwargs.setdefault('is_eager', True)\r\n\u001b[7m--More--(72%)\u001b[27m"
+    ],
+    [
+      0.185679,
+      "\r    return click.option(*args, **kwargs)\r\n\r\n\r\n@click.command('run', short_help='Runs a development server.')\r\n@click.option('--host', '-h', default='127.0.0.1',\r\n              help='The interface to bind to.')\r\n@click.option('--port', '-p', default=5000,\r\n              help='The port to bind to.')\r\n@click.option('--reload/--no-reload', default=None,\r\n              help='Enable or disable the reloader.  By default the reloader '\r\n              'is active if debug is enabled.')\r\n@click.option('--debugger/--no-debugger', default=None,\r\n              help='Enable or disable the debugger.  By default the debugger '\r\n              'is active if debug is enabled.')\r\n@click.option('--eager-loading/--lazy-loader', default=None,\r\n              help='Enable or disable eager loading.  By default eager '\r\n              'loading is enabled if the reloader is disabled.')\r\n@click.option('--with-threads/--without-threads', default=False,\r\n              help='Enable or disable multithreading.')\r\n@pass_script_info\r\ndef run_command(info, host, port, reload, debugger, eager_loading,\r\n                with_threads):\r\n    \"\"\"Runs a local development server for the Flask application.\r\n\u001b[7m--More--(79%)\u001b[27m"
+    ],
+    [
+      0.568022,
+      "\r\r\u001b[K\r\n    This local server is recommended for development purposes only but it\r\n    can also be used for simple intranet deployments.  By default it will\r\n    not support any sort of concurrency at all to simplify debugging.  This\r\n    can be changed with the --with-threads option which will enable basic\r\n    multithreading.\r\n\r\n    The reloader and debugger are by default enabled if the debug flag of\r\n    Flask is enabled and disabled otherwise.\r\n    \"\"\"\r\n    from werkzeug.serving import run_simple\r\n    if reload is None:\r\n        reload = info.debug\r\n    if debugger is None:\r\n        debugger = info.debug\r\n    if eager_loading is None:\r\n        eager_loading = not reload\r\n\r\n    app = DispatchingApp(info.load_app, use_eager_loading=eager_loading)\r\n\r\n    # Extra startup messages.  This depends a but on Werkzeug internals to\r\n    # not double execute when the reloader kicks in.\r\n    if os.environ.get('WERKZEUG_RUN_MAIN') != 'true':\r\n\u001b[7m--More--(84%)\u001b[27m"
+    ],
+    [
+      1.112762,
+      "\r        # If we have an import path we can print it out now which can help\r\n        # people understand what's being served.  If we do not have an\r\n        # import path because the app was loaded through a callback then\r\n        # we won't print anything.\r\n        if info.app_import_path is not None:\r\n            print(' * Serving Flask app \"%s\"' % info.app_import_path)\r\n        if info.debug is not None:\r\n            print(' * Forcing debug %s' % (info.debug and 'on' or 'off'))\r\n\r\n    run_simple(host, port, app, use_reloader=reload,\r\n               use_debugger=debugger, threaded=with_threads)\r\n\r\n\r\n@click.command('shell', short_help='Runs a shell in the app context.')\r\n@with_appcontext\r\ndef shell_command():\r\n    \"\"\"Runs an interactive Python shell in the context of a given\r\n    Flask application.  The application will populate the default\r\n    namespace of this shell according to it's configuration.\r\n\r\n    This is useful for executing small snippets of management code\r\n    without having to manually configuring the application.\r\n    \"\"\"\r\n\u001b[7m--More--(90%)\u001b[27m"
+    ],
+    [
+      1.448387,
+      "\r    import code\r\n    from flask.globals import _app_ctx_stack\r\n    app = _app_ctx_stack.top.app\r\n    banner = 'Python %s on %s\\nApp: %s%s\\nInstance: %s' % (\r\n        sys.version,\r\n        sys.platform,\r\n        app.import_name,\r\n        app.debug and ' [debug]' or '',\r\n        app.instance_path,\r\n    )\r\n    ctx = {}\r\n\r\n    # Support the regular Python interpreter startup script if someone\r\n    # is using it.\r\n    startup = os.environ.get('PYTHONSTARTUP')\r\n    if startup and os.path.isfile(startup):\r\n        with open(startup, 'r') as f:\r\n            eval(compile(f.read(), startup, 'exec'), ctx)\r\n\r\n    ctx.update(app.make_shell_context())\r\n\r\n    code.interact(banner=banner, local=ctx)\r\n\r\n\u001b[7m--More--(94%)\u001b[27m"
+    ],
+    [
+      1.600889,
+      "\r\r\u001b[K\r\ncli = FlaskGroup(help=\"\"\"\\\r\nThis shell command acts as general utility script for Flask applications.\r\n\r\nIt loads the application configured (either through the FLASK_APP environment\r\nvariable or the --app parameter) and then provides commands either provided\r\nby the application or Flask itself.\r\n\r\nThe most useful commands are the \"run\" and \"shell\" command.\r\n\r\nExample usage:\r\n\r\n  flask --app=hello --debug run\r\n\"\"\")\r\n\r\n\r\ndef main(as_module=False):\r\n    this_module = __package__ + '.cli'\r\n    args = sys.argv[1:]\r\n\r\n    if as_module:\r\n        if sys.version_info \u003e= (2, 7):\r\n            name = 'python -m ' + this_module.rsplit('.', 1)[0]\r\n\u001b[7m--More--(97%)\u001b[27m"
+    ],
+    [
+      1.648251,
+      "\r        else:\r\n            name = 'python -m ' + this_module\r\n\r\n        # This module is always executed as \"python -m flask.run\" and as such\r\n        # we need to ensure that we restore the actual command line so that\r\n        # the reloader can properly operate.\r\n        sys.argv = ['-m', this_module] + sys.argv[1:]\r\n    else:\r\n        name = None\r\n\r\n    cli.main(args=args, prog_name=name)\r\n\r\n\r\nif __name__ == '__main__':\r\n    main(as_module=True)\r\n"
+    ],
+    [
+      0.000592,
+      "$ "
+    ],
+    [
+      3.760904,
+      "\u001b[H\u001b[2J$ "
+    ],
+    [
+      1.625064,
+      "s"
+    ],
+    [
+      0.159968,
+      "e"
+    ],
+    [
+      0.151571,
+      "d"
+    ],
+    [
+      0.104322,
+      " "
+    ],
+    [
+      0.368534,
+      "-"
+    ],
+    [
+      0.336378,
+      "n"
+    ],
+    [
+      0.150914,
+      " "
+    ],
+    [
+      0.857804,
+      "/"
+    ],
+    [
+      0.302975,
+      "'"
+    ],
+    [
+      0.240557,
+      "d"
+    ],
+    [
+      0.086281,
+      "e"
+    ],
+    [
+      0.147133,
+      "f"
+    ],
+    [
+      0.090349,
+      " "
+    ],
+    [
+      1.116638,
+      "m"
+    ],
+    [
+      0.088649,
+      "a"
+    ],
+    [
+      0.151595,
+      "i"
+    ],
+    [
+      0.145070,
+      "n"
+    ],
+    [
+      1.743840,
+      "("
+    ],
+    [
+      0.736878,
+      "/"
+    ],
+    [
+      1.368416,
+      ","
+    ],
+    [
+      0.127530,
+      " "
+    ],
+    [
+      0.960942,
+      "+"
+    ],
+    [
+      0.511637,
+      "5"
+    ],
+    [
+      0.945741,
+      " "
+    ],
+    [
+      0.187669,
+      "p"
+    ],
+    [
+      0.204730,
+      "'"
+    ],
+    [
+      0.624352,
+      " "
+    ],
+    [
+      0.166868,
+      "c"
+    ],
+    [
+      0.101216,
+      "l"
+    ],
+    [
+      0.236125,
+      "i"
+    ],
+    [
+      0.184884,
+      ".py "
+    ],
+    [
+      0.558973,
+      "\r\n"
+    ],
+    [
+      0.004428,
+      "    def main(self, *args, **kwargs):\r\n        obj = kwargs.get('obj')\r\n        if obj is None:\r\n            obj = ScriptInfo(create_app=self.create_app)\r\n        kwargs['obj'] = obj\r\n        kwargs.setdefault('auto_envvar_prefix', 'FLASK')\r\ndef main(as_module=False):\r\n    this_module = __package__ + '.cli'\r\n    args = sys.argv[1:]\r\n\r\n    if as_module:\r\n        if sys.version_info \u003e= (2, 7):\r\n"
+    ],
+    [
+      0.000554,
+      "$ "
+    ],
+    [
+      2.395410,
+      "exit"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ]
+  ]
+}
