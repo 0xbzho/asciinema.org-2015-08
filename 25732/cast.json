@@ -1,0 +1,1370 @@
+{
+  "version": 1,
+  "width": 118,
+  "height": 38,
+  "duration": 32.179328,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.393802,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                     \r \r"
+    ],
+    [
+      0.128711,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[0;38;5;231;48;5;31;1m sanmiguel \u001b[0;38;5;31;48;5;240;22m \u001b[0;38;5;250;48;5;240m~ \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;250;48;5;240mgit \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;252;48;5;240;1mphoenix \u001b[0;38;5;240;49;22m \u001b[0m"
+    ],
+    [
+      0.000017,
+      "\u001b[K\u001b[63C\u001b[0;38;5;236;49;22m \u001b[0;38;5;98;48;5;236m  296a6e9\u001b[0;38;5;166;48;5;236m ✚ 1\u001b[0;38;5;214;48;5;236m … 1 \u001b[0m\u001b[84D"
+    ],
+    [
+      0.000139,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.062939,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[0;38;5;231;48;5;31;1m sanmiguel \u001b[0;38;5;31;48;5;240;22m \u001b[0;38;5;250;48;5;240m~ \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;250;48;5;240mgit \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;252;48;5;240;1mphoenix \u001b[0;38;5;240;49;22m \u001b[0m\u001b[K\u001b[63C\u001b[0;38;5;236;49;22m \u001b[0;38;5;98;48;5;236m  296a6e9\u001b[0;38;5;166;48;5;236m ✚ 1\u001b[0;38;5;214;48;5;236m … 1 \u001b[0m\u001b[84D"
+    ],
+    [
+      0.345855,
+      "\u001b[4m\u001b[33mv\u001b[24m\u001b[39m"
+    ],
+    [
+      0.097593,
+      "\u0008\u001b[24m\u001b[32mv\u001b[32mi\u001b[39m"
+    ],
+    [
+      0.030413,
+      "\u0008\u0008\u001b[32mv\u001b[32mi\u001b[32mm\u001b[39m"
+    ],
+    [
+      0.103137,
+      " "
+    ],
+    [
+      0.153082,
+      "\u001b[4ml\u001b[24m"
+    ],
+    [
+      0.144754,
+      "\u0008\u001b[4m\u001b[33ml\u001b[4m\u001b[33mb\u001b[24m\u001b[39m"
+    ],
+    [
+      0.194571,
+      "\u001b[31m\u001b[39m\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[0;38;5;231;48;5;31;1m sanmiguel \u001b[0;38;5;31;48;5;240;22m \u001b[0;38;5;250;48;5;240m~ \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;250;48;5;240mgit \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;252;48;5;240;1mphoenix \u001b[0;38;5;240;49;22m \u001b[0m"
+    ],
+    [
+      0.000008,
+      "\u001b[32mvim\u001b[39m \u001b[4m\u001b[33mlb\u001b[24m\u001b[39m\u001b[K\u001b[57C\u001b[0;38;5;236;49;22m \u001b[0;38;5;98;48;5;236m  296a6e9\u001b[0;38;5;166;48;5;236m ✚ 1\u001b[0;38;5;214;48;5;236m … 1 \u001b[0m\u001b[78D"
+    ],
+    [
+      0.000023,
+      "\u001b[31m\u001b[39m\r\r\n"
+    ],
+    [
+      0.000079,
+      "\u001b[J \u001b[31m-- no matches found --\u001b[39m\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[33C"
+    ],
+    [
+      0.000020,
+      "\u001b[32mvim\u001b[39m \u001b[4m\u001b[33mlb\u001b[24m\u001b[39m\u001b[K\u001b[57C\u001b[0;38;5;236;49;22m \u001b[0;38;5;98;48;5;236m  296a6e9\u001b[0;38;5;166;48;5;236m ✚ 1\u001b[0;38;5;214;48;5;236m … 1 \u001b[0m\u001b[78D"
+    ],
+    [
+      0.548177,
+      "\u0008\u0008\u001b[39m\u001b[4ml\u001b[24m\u001b[24m\u001b[39m \u0008"
+    ],
+    [
+      0.159886,
+      "\u0008\u001b[4ml\u001b[4mi\u001b[24m"
+    ],
+    [
+      0.079526,
+      "\u0008\u001b[4mi\u001b[4mb\u001b[24m"
+    ],
+    [
+      0.086872,
+      "\u001b[33m\u001b[39m\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[0;38;5;231;48;5;31;1m sanmiguel \u001b[0;38;5;31;48;5;240;22m \u001b[0;38;5;250;48;5;240m~ \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;250;48;5;240mgit \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;252;48;5;240;1mphoenix \u001b[0;38;5;240;49;22m \u001b[0m\u001b[32mvim\u001b[39m \u001b[4mlib\u001b[1m\u001b[4m/\u001b[0m\u001b[24m\u001b[K\u001b[55C\u001b[0;38;5;236;49;22m \u001b[0;38;5;98;48;5;236m  296a6e9\u001b[0;38;5;166;48;5;236m ✚ 1\u001b[0;38;5;214;48;5;236m … 1 \u001b[0m\u001b[76D"
+    ],
+    [
+      0.112814,
+      "\u0008\u001b[0m\u001b[4m/\u001b[4mp\u001b[24m"
+    ],
+    [
+      0.080000,
+      "\u0008\u001b[4mp\u001b[4mh\u001b[24m"
+    ],
+    [
+      0.127172,
+      "\u001b[33m\u001b[39m\u001b[33m\u001b[39m\u001b[33m\u001b[39m\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[0;38;5;231;48;5;31;1m sanmiguel \u001b[0;38;5;31;48;5;240;22m \u001b[0;38;5;250;48;5;240m~ \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;250;48;5;240mgit \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;252;48;5;240;1mphoenix \u001b[0;38;5;240;49;22m \u001b[0m"
+    ],
+    [
+      0.000009,
+      "\u001b[32mvim\u001b[39m \u001b[4mlib/phoenix\u001b[24m\u001b[K\u001b[48C\u001b[0;38;5;236;49;22m \u001b[0;38;5;98;48;5;236m  296a6e9\u001b[0;38;5;166;48;5;236m ✚ 1\u001b[0;38;5;214;48;5;236m … 1 \u001b[0m\u001b[69D"
+    ],
+    [
+      0.185661,
+      "\u0008\u001b[4mx\u001b[4m.\u001b[24m"
+    ],
+    [
+      0.126155,
+      "\u001b[33m\u001b[39m\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[0;38;5;231;48;5;31;1m sanmiguel \u001b[0;38;5;31;48;5;240;22m \u001b[0;38;5;250;48;5;240m~ \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;250;48;5;240mgit \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;252;48;5;240;1mphoenix \u001b[0;38;5;240;49;22m \u001b[0m"
+    ],
+    [
+      0.000008,
+      "\u001b[32mvim\u001b[39m \u001b[4mlib/phoenix.ex\u001b[24m\u001b[1m \u001b[0m\u001b[K\u001b[44C\u001b[0;38;5;236;49;22m \u001b[0;38;5;98;48;5;236m  296a6e9\u001b[0;38;5;166;48;5;236m ✚ 1\u001b[0;38;5;214;48;5;236m … 1 \u001b[0m\u001b[65D"
+    ],
+    [
+      0.152241,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000008,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.062947,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[0;38;5;231;48;5;31;1m sanmiguel \u001b[0;38;5;31;48;5;240;22m \u001b[0;38;5;250;48;5;240m~ \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;250;48;5;240mgit \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;252;48;5;240;1mphoenix \u001b[0;38;5;240;49;22m \u001b[0m\u001b[32mvim\u001b[39m \u001b[4mlib/phoenix.ex\u001b[24m\u001b[K\u001b[45C\u001b[0;38;5;236;49;22m \u001b[0;38;5;98;48;5;236m  296a6e9\u001b[0;38;5;166;48;5;236m ✚ 1\u001b[0;38;5;214;48;5;236m … 1 \u001b[0m\u001b[66D"
+    ],
+    [
+      0.000078,
+      "\r\r\n"
+    ],
+    [
+      0.161580,
+      "\u001b[?1000h\u001b[?1049h\u001b[?1h\u001b=\u001b[2;1H▽\u001b[6n\u001b[2;1H  \u001b[1;1H"
+    ],
+    [
+      0.001495,
+      "\u001b[1;38r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[H\u001b[2J\u001b[?25l\u001b[38;1H\"lib/phoenix.ex\""
+    ],
+    [
+      0.000042,
+      " 43L, 1344C"
+    ],
+    [
+      0.032443,
+      "\u001b[\u003ec"
+    ],
+    [
+      0.017570,
+      "\u001b[1;1H\u001b[38;5;250m\u001b[48;5;240m 1 lib/\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;231m\u001b[48;5;240mphoenix.ex \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;240m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;231m\u001b[48;5;236m                                                                                          \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;252m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;235m\u001b[48;5;252m Bufs \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[2;1H\u001b[38;5;166mdefmodule\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;136mPhoenix\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;64mdo\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n  \u001b[38;5;33m@moduledoc\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;37m\"\"\"\r\n  This is documentation for the Phoenix project.\r\n\r\n  By default, Phoenix applications depend on other packages besides\r\n  Phoenix itself. Below we provide a short explanation with links to\r\n  their documentation for each of those projects:\r\n\r\n    * [Ecto](http://hexdocs.pm/ecto) - a language integrated query "
+    ],
+    [
+      0.000129,
+      "and\r\n      database wrapper\r\n\r\n    * [Phoenix](http://hexdocs.pm/phoenix) - the Phoenix web framework\r\n      (these docs)\r\n\r\n    * [Phoenix HTML](http://hexdocs.pm/phoenix_html) - conveniences for\r\n      working with HTML in Phoenix\r\n\r\n    * [Plug](http://hexdocs.pm/plug) - a specification and conveniences\r\n      for composable modules in between web applications\r\n\r\n  There are also optional packages depending on your configuration:\r\n\r\n    * [Phoenix PubSub Redis](http://hexdocs.pm/phoenix_pubsub_redis) - use\r\n      Redis to power Phoenix PubSub system\r\n\r\n  \"\"\"\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n  \u001b[38;5;166muse\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;136mApplication\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\r\n  \u001b[38;5;33m@doc\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;37mfalse\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n  \u001b[38;5;166mdef\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;33mstart\u001b[m\u001b[38;5;245m\u001b[48;5;234m(\u001b[38;5;240m_type\u001b[m\u001b[38;5;245m\u001b[48;5;234m, \u001b[38;5;240m_args\u001b[m\u001b[38;5;245m\u001b[48;5;234m) \u001b[38;5;64mdo\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n    \u001b[38;5;240m# Warm up caches\r\n"
+    ],
+    [
+      0.028703,
+      "\u001b[m\u001b[38;5;245m\u001b[48;5;234m    \u001b[38;5;240m_\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;64m=\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;136mPhoenix.Template\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;64m.\u001b[m\u001b[38;5;245m\u001b[48;5;234mengines\r\n    \u001b[38;5;240m_\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;64m=\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;136mPhoenix.Template\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;64m.\u001b[m\u001b[38;5;245m\u001b[48;5;234mformat_encoder(\u001b[38;5;124m\"\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;37mindex.html\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;124m\"\u001b[m\u001b[38;5;245m\u001b[48;5;234m)\u001b[36;5H\u001b[38;5;240m# Configure proper system flags from Phoenix only\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[1m\u001b[38;5;22m\u001b[48;5;148m NORMAL \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;148m\u001b[48;5;240m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;250m\u001b[48;5;240m 296a6e9 \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;245m\u001b[48;5;240m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;250m\u001b[48;5;240mlib/\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;231m\u001b[48;5;240mphoenix.ex \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;240m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;231m\u001b[48;5;236m       "
+    ],
+    [
+      0.000063,
+      "                                \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;247m\u001b[48;5;236munix\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;244m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;247m\u001b[48;5;236m utf-8\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;244m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;247m\u001b[48;5;236m elixir\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;240m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;70m\u001b[48;5;240m   2%\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;252m\u001b[48;5;240m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;235m\u001b[48;5;252m  \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;235m\u001b[48;5;252m  1\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;22m\u001b[48;5;252m:1  \u001b[2;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000011,
+      "\u001b[?1000l\u001b[?1002h"
+    ],
+    [
+      0.124613,
+      "\u001b[?25l\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;108H:\u001b[2;1H"
+    ],
+    [
+      0.000053,
+      "\u001b[38;1H\u001b[K\u001b[38;1H:"
+    ],
+    [
+      0.000010,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.096003,
+      "R"
+    ],
+    [
+      0.000005,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.183839,
+      "e"
+    ],
+    [
+      0.000014,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.040352,
+      "f"
+    ],
+    [
+      0.000041,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.175644,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.264764,
+      "e"
+    ],
+    [
+      0.000017,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.103658,
+      "l"
+    ],
+    [
+      0.000009,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.056214,
+      "i"
+    ],
+    [
+      0.000007,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.103998,
+      "x"
+    ],
+    [
+      0.000021,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.064261,
+      "i"
+    ],
+    [
+      0.000027,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.079104,
+      "r"
+    ],
+    [
+      0.000011,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.120458,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.095524,
+      "G"
+    ],
+    [
+      0.000004,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.151984,
+      "e"
+    ],
+    [
+      0.000021,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.079936,
+      "n"
+    ],
+    [
+      0.000004,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.176512,
+      "S"
+    ],
+    [
+      0.000007,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.144061,
+      "e"
+    ],
+    [
+      0.000007,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.080093,
+      "r"
+    ],
+    [
+      0.000008,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.143313,
+      "v"
+    ],
+    [
+      0.000005,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.119940,
+      "e"
+    ],
+    [
+      0.000005,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.079970,
+      "r"
+    ],
+    [
+      0.000005,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.144138,
+      "\r"
+    ],
+    [
+      0.063679,
+      "\u001b[?25l"
+    ],
+    [
+      0.007743,
+      ":Ref elixir GenServer \r"
+    ],
+    [
+      0.000009,
+      ":Ref elixir GenServer       \r"
+    ],
+    [
+      0.004633,
+      "\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[H\u001b[2J\u001b[1;1H\u001b[38;5;247m\u001b[48;5;236m 1 lib/phoenix.ex \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;236m\u001b[48;5;240m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;250m\u001b[48;5;240m2 ./\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;231m\u001b[48;5;240m[ref-elixir:GenServer] \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;240m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;231m\u001b[48;5;236m                                                             \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;252m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;235m\u001b[48;5;252m Bufs \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[2;1H\u001b[38;5;166mdefmodule\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;136mPhoenix\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;64mdo\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38C\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n  \u001b[38;5;33m@moduledoc\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;37m\"\"\"\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[42C\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37m  This is documentation for the Phoenix project.\u001b[m\u001b[38;5;245m\u001b"
+    ],
+    [
+      0.000056,
+      "[48;5;234m\u001b[10C\u001b[38;5;244m\u001b[48;5;244m|\u001b[5;59H|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37m  By default, Phoenix applications depend on other package\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37ms besides\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[49C\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37m  Phoenix itself. Below we provide a short explanation wit\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37mh links to\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[48C\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37m  their documentation for each of those projects:\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[9C\u001b[38;5;244m\u001b[48;5;244m|\u001b[11;59H|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37m    * [Ecto](http://hexdocs.pm/ecto) - a language integrat\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37med query and\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[46C\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37m      database wrapper\u001b[m\u001b[38;5;245m\u001b[48;5;234m"
+    ],
+    [
+      0.000590,
+      "\u001b[36C\u001b[38;5;244m\u001b[48;5;244m|\u001b[15;59H|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37m    * [Phoenix](http://hexdocs.pm/phoenix) - the Phoenix w\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37meb framework\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[46C\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37m      (these docs)\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[40C\u001b[38;5;244m\u001b[48;5;244m|\u001b[19;59H|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37m    * [Phoenix HTML](http://hexdocs.pm/phoenix_html) - con\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37mveniences for\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[45C\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37m      working with HTML in Phoenix\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[24C\u001b[38;5;244m\u001b[48;5;244m|\u001b[23;59H|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37m    * [Plug](http://hexdocs.pm/plug) - a specification and\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37m conveniences\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[45C\u001b[38;5;244m\u001b[48;5;244m|"
+    ],
+    [
+      0.000036,
+      "\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37m      for composable modules in between web applications\u001b[m\u001b[38;5;245m\u001b[48;5;234m  \u001b[38;5;244m\u001b[48;5;244m|\u001b[27;59H|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37m  There are also optional packages depending on your confi\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37mguration:\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[49C\u001b[38;5;244m\u001b[48;5;244m|\u001b[30;59H|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37m    * [Phoenix PubSub Redis](http://hexdocs.pm/phoenix_pub\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37msub_redis) - use\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[42C\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37m      Redis to power Phoenix PubSub system\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[16C\u001b[38;5;244m\u001b[48;5;244m|\u001b[34;59H|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37m  \"\"\"\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[53C\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n  \u001b[38;5;166muse\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;136mApplication\u001b[m\u001b[38;5;245m\u001b[48;5;234m"
+    ],
+    [
+      0.015353,
+      "\u001b[41C\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;240m\u001b[48;5;235m lib/\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;244m\u001b[48;5;235mphoenix.ex \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;235m\u001b[48;5;233m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;244m\u001b[48;5;233m                     \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;235m\u001b[48;5;233m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;241m\u001b[48;5;235m   2% \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;233m\u001b[48;5;241m  \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;233m\u001b[48;5;241m  1\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;22m\u001b[48;5;241m:1  \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[7m\u001b[38;5;244m\u001b[48;5;235m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[3;60H\u001b[93m                                   GenServer    \u001b[4;60H                        \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[7m\u001b[93m        \u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[6;60HA behaviour module for implementing the server of a client-\u001b[7;60Hserver relation.\u001b[9;60HA GenServer is a process as any other Elixir process and it\u001b[10;61Hcan be used to keep\u001b[11;60Hstate, execute code asynchron"
+    ],
+    [
+      0.000073,
+      "ously and so on. The advantage\u001b[12;61Hof using a generic\u001b[13;60Hserver process (GenServer) implemented using this module is\u001b[14;61Hthat it will have a\u001b[15;60Hstandard set of interface functions and include functionali\u001b[16;60Hty for tracing and\u001b[17;60Herror reporting. It will also fit into a supervision tree.\u001b[19;60H\u001b[93mExample\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[21;60HThe GenServer behaviour abstracts the common client-server\u001b[22;60Hinteraction.\u001b[23;60HDevelopers are only required to implement the callbacks and\u001b[24;61Hfunctionality they\u001b[25;60Hare interested in.\u001b[27;60HLet's start with a code example and then explore the availa\u001b[28;60Hble callbacks.\u001b[29;60HImagine we want a GenServer that works like a stack, allowi\u001b[30;60Hng us to push and\u001b[31;60Hpop items:\u001b[33;60H\u001b[96m┃ defmodule Stack do\u001b[34;60H┃   use GenServer\u001b[35;60H┃ \u001b[36;60H┃   # Callbacks\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[37;60H\u001b[1m\u001b[38;5;22m\u001b[48;5;148m NORMAL \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;148m\u001b[48;5;240m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;196m"
+    ],
+    [
+      0.002446,
+      "\u001b[48;5;240m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;250m\u001b[48;5;240m./\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;231m\u001b[48;5;240m[ref-elixir:GenServer] \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;240m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;231m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;240m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;70m\u001b[48;5;240m   1%\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;252m\u001b[48;5;240m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;235m\u001b[48;5;252m  \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;235m\u001b[48;5;252m  1\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;22m\u001b[48;5;252m:2  \u001b[2;60H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.073891,
+      "\u001b[?25l\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;108H^D\u001b[2;60H"
+    ],
+    [
+      0.024211,
+      "\u001b[38;108H  \u001b[2;60H\u001b[93mExample\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[3;60H\u001b[K\u001b[4;60HThe GenServer behaviour abstracts the common client-server\u001b[5;60Hinteraction.\u001b[6;60HDevelopers are only required to implement the callbacks and\u001b[7;60H functionality they\u001b[8;60Hare interested in.\u001b[9;60H\u001b[K\u001b[10;60HLet's start with a code example and then explore the availa\u001b[11;60Hble callbacks.\u001b[11;75H\u001b[K\u001b[12;60HImagine we want a GenServer that works like a stack, allowi\u001b[13;60Hng us to push and\u001b[13;77H\u001b[K\u001b[14;60Hpop items:\u001b[14;70H\u001b[K\u001b[15;60H\u001b[K\u001b[16;60H\u001b[96m┃ defmodule Stack do\u001b[17;60H┃   use GenServer\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[17;77H\u001b[K\u001b[18;60H\u001b[96m┃ \u001b[19;60H┃   # Callbacks\u001b[20;60H┃ \u001b[21;60H┃   def handle_call(:pop, _from, [h|t]) do\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[21;102H\u001b[K\u001b[22;60H\u001b[96m┃     {:reply, h, t}\u001b[23;60H┃   end\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[23;67H\u001b[K\u001b[24;60H\u001b[96m┃ \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[24;62H\u001b[K\u001b[25;60H\u001b[96m┃   def handle_cast({:push, item}, state) do\u001b[26;60H┃     {:noreply, [item|state]}\u001b[27;60H┃   end\u001b[m\u001b[38"
+    ],
+    [
+      0.000061,
+      ";5;245m\u001b[48;5;234m\u001b[27;67H\u001b[K\u001b[28;60H\u001b[96m┃ end\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[28;65H\u001b[K\u001b[29;60H\u001b[96m┃ \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[29;62H\u001b[K\u001b[30;60H\u001b[96m┃ # Start the server\u001b[31;60H┃ {:ok, pid} = GenServer.start_link(Stack, [:hello])\u001b[32;60H┃ \u001b[33;62H# This is the client\u001b[34;62HGenServer.call(pid, :pop)\u001b[35;62H#=\u003e :hello\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[36;62H\u001b[K\u001b[37;105H\u001b[38;5;70m\u001b[48;5;240m6\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[7C\u001b[1m\u001b[38;5;235m\u001b[48;5;252m12\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;22m\u001b[48;5;252m:\u001b[2;60H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.135265,
+      "\u001b[?25l\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;108H^D\u001b[2;60H"
+    ],
+    [
+      0.025311,
+      "\u001b[38;108H  \u001b[2;60H\u001b[96m┃   # Callbacks\u001b[3;60H┃ \u001b[4;60H┃   def handle_call(:pop, _from, [h|t]) do\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[4;102H\u001b[K\u001b[5;60H\u001b[96m┃     {:reply, h, t}\u001b[6;60H┃   end\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[6;67H\u001b[K\u001b[7;60H\u001b[96m┃ \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[7;62H\u001b[K\u001b[8;60H\u001b[96m┃   def handle_cast({:push, item}, state) do\u001b[9;60H┃     {:noreply, [item|state]}\u001b[10;60H┃   end\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[10;67H\u001b[K\u001b[11;60H\u001b[96m┃ end\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[11;65H\u001b[K\u001b[12;60H\u001b[96m┃ \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[12;62H\u001b[K\u001b[13;60H\u001b[96m┃ # Start the server\u001b[14;60H┃ {:ok, pid} = GenServer.start_link(Stack, [:hello])\u001b[15;60H┃ \u001b[16;62H# This is the client\u001b[17;62HGenServer.call(pid, :pop)\u001b[18;62H#=\u003e :hello\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[19;62H\u001b[K\u001b[20;62H\u001b[96mGenServer.cast(pid, {:push, :world})\u001b[21;62H#=\u003e :ok\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[21;69H\u001b[K\u001b[22;62H\u001b[K\u001b[23;62H\u001b[96mGenServer.call(pid, :pop)\u001b[24;62H#=\u003e :world\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[25;60H\u001b[K\u001b[26;60HWe start our \u001b[96mStack\u001b[m\u001b[38;5;245m\u001b[48;5;234m by call"
+    ],
+    [
+      0.000078,
+      "ing \u001b[96mstart_link/3\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[27;60H, passing the modul\u001b[1m\u001b[7me with the server\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[28;60Himplementation and its initial argument (a list representin\u001b[29;60Hg the stack\u001b[30;60Hcontaining the item \u001b[96m:hello\u001b[m\u001b[38;5;245m\u001b[48;5;234m). We can primarily in\u001b[31;60Hteract with the server b\u001b[1m\u001b[7my\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[31;85H\u001b[K\u001b[32;60Hsending two types of messages. call messages expe\u001b[33;60Hct a reply from the serv\u001b[1m\u001b[7mer\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[34;60H(and are therefore synchronous) while cast messag\u001b[35;60Hes do not.\u001b[35;70H\u001b[K\u001b[36;60H\u001b[K\u001b[37;104H\u001b[38;5;70m\u001b[48;5;240m13\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[7C\u001b[1m\u001b[38;5;235m\u001b[48;5;252m25\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;22m\u001b[48;5;252m:1\u001b[2;60H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.151180,
+      "\u001b[?25l\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;108H^D\u001b[2;60H"
+    ],
+    [
+      0.014901,
+      "\u001b[38;108H  \u001b[2;60H\u001b[2;62H\u001b[K\u001b[3;62H\u001b[96mGenServer.cast(pid, {:push, :world})\u001b[4;62H#=\u003e :ok\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[4;69H\u001b[K\u001b[5;62H\u001b[K\u001b[6;62H\u001b[96mGenServer.call(pid, :pop)\u001b[7;62H#=\u003e :world\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[8;60H\u001b[K\u001b[9;60HWe start our \u001b[96mStack\u001b[m\u001b[38;5;245m\u001b[48;5;234m by calling \u001b[96mstart_link/3\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[10;60H, passing the modul\u001b[1m\u001b[7me with the server\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[11;60Himplementation and its initial argument (a list representin\u001b[12;60Hg the stack\u001b[13;60Hcontaining the item \u001b[96m:hello\u001b[m\u001b[38;5;245m\u001b[48;5;234m). We can primarily in\u001b[14;60Hteract with the server b\u001b[1m\u001b[7my\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[14;85H\u001b[K\u001b[15;60Hsending two types of messages. call messages expe\u001b[16;60Hct a reply from the serv\u001b[1m\u001b[7mer\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[17;60H(and are therefore synchronous) while cast messag\u001b[18;60Hes do not.\u001b[18;70H\u001b[K\u001b[19;60H\u001b[K\u001b[20;60HEvery time you do a \u001b[96mGenServer.call/3\u001b[m\u001b[38;5;245m\u001b[48;5;234m, the client\u001b[21;60H will send a message tha\u001b[1m\u001b[7mt m"
+    ],
+    [
+      0.000067,
+      "ust\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[22;60Hbe handled by the \u001b[96mhandle_call/3\u001b[m\u001b[38;5;245m\u001b[48;5;234m callback in the\u001b[23;60HGenServer. A \u001b[96mcast/\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[7m\u001b[96m2\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[7m message\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[24;60Hmust be handled by \u001b[96mhandle_cast/2\u001b[m\u001b[38;5;245m\u001b[48;5;234m.\u001b[26;60H\u001b[93mCallbacks\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[26;69H\u001b[K\u001b[27;60H\u001b[K\u001b[28;60HThere are 6 callbacks required to be implemented in a \u001b[28;114H\u001b[K\u001b[29;60H\u001b[96mGenServer\u001b[m\u001b[38;5;245m\u001b[48;5;234m. By addi\u001b[1m\u001b[7mng \u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[7m\u001b[96muse\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[30;60H\u001b[96mGenServer\u001b[m\u001b[38;5;245m\u001b[48;5;234m to your module, Elixir will automatically de\u001b[31;60Hfine all 6 callbacks for\u001b[31;84H\u001b[K\u001b[32;60Hyou, leaving it up to you to implement the ones you want to\u001b[33;60H customize. The\u001b[33;76H\u001b[K\u001b[34;60Hcallbacks are:\u001b[34;74H\u001b[K\u001b[35;60H\u001b[K\u001b[36;62H• \u001b[96minit(args)\u001b[m\u001b[38;5;245m\u001b[48;5;234m - invoked when the server is star\u001b[36;60H\u001b[1m\u001b[38;5;244m@            "
+    ],
+    [
+      0.004576,
+      "                                              \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[37;104H\u001b[38;5;70m\u001b[48;5;240m21\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[7C\u001b[1m\u001b[38;5;235m\u001b[48;5;252m42\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;22m\u001b[48;5;252m:\u001b[2;60H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.348636,
+      "\u001b[?25l\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;108H^U\u001b[2;60H"
+    ],
+    [
+      0.016590,
+      "\u001b[38;108H  \u001b[2;60H\u001b[2C\u001b[96m  # Callbacks\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[3;62H\u001b[K\u001b[4;62H\u001b[96m  def handle_call(:pop, _from, [h|t]) do\u001b[5;62H    {:reply, h, t}\u001b[6;62H  end\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[6;67H\u001b[K\u001b[7;62H\u001b[K\u001b[8;60H\u001b[96m┃   def handle_cast({:push, item}, state) do\u001b[9;60H┃     {:noreply, [item|state]}\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[9;90H\u001b[K\u001b[10;60H\u001b[96m┃   end\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[10;67H\u001b[K\u001b[11;60H\u001b[96m┃ end\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[11;65H\u001b[K\u001b[12;60H\u001b[96m┃ \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[12;62H\u001b[K\u001b[13;60H\u001b[96m┃ # Start the server\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[13;80H\u001b[K\u001b[14;60H\u001b[96m┃ {:ok, pid} = GenServer.start_link(Stack, [:hello])\u001b[15;60H┃ \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[15;62H\u001b[K\u001b[16;60H\u001b[96m┃ # This is the client\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[16;82H\u001b[K\u001b[17;60H\u001b[96m┃ GenServer.call(pid, :pop)\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[17;87H\u001b[K\u001b[18;60H\u001b[96m┃ #=\u003e :hello\u001b[19;60H┃ \u001b[20;60H┃ GenServer.cast(pid, {:push, :world})\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[20;98H\u001b[K\u001b[21;60H\u001b[96m┃ #=\u003e :ok\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[21;69"
+    ],
+    [
+      0.000053,
+      "H\u001b[K\u001b[22;60H\u001b[96m┃ \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[22;63H\u001b[K\u001b[23;60H\u001b[96m┃ GenServer.call(pid, :pop)\u001b[24;60H┃ #=\u003e :world\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[24;72H\u001b[K\u001b[26;60HWe start our \u001b[96mStack\u001b[m\u001b[38;5;245m\u001b[48;5;234m by calling \u001b[96mstart_link/3\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[27;60H, passing the modul\u001b[1m\u001b[7me with the server\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[28;60Himplementation and its initial argument (a list representin\u001b[29;60Hg the stack\u001b[29;71H\u001b[K\u001b[30;60Hcontaining the item \u001b[96m:hello\u001b[m\u001b[38;5;245m\u001b[48;5;234m). We can primarily in\u001b[30;108H\u001b[K\u001b[31;60Hteract with the server b\u001b[1m\u001b[7my\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[32;60Hsending two types of messages. call messages expe\u001b[32;109H\u001b[K\u001b[33;60Hct a reply from the serv\u001b[1m\u001b[7mer\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[34;60H(and are therefore synchronous) while cast messag\u001b[35;60Hes do not.\u001b[36;60H\u001b[K\u001b[37;104H\u001b[38;5;70m\u001b[48;5;240m13\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[7C\u001b[1m\u001b[38;5;235m\u001b[48;5;252m25\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;22m\u001b[48;5;252m:\u001b[2;60H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.119010,
+      "\u001b[?25l\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;108H^U\u001b[2;60H"
+    ],
+    [
+      0.000343,
+      "\u001b[38;108H  \u001b[2;60H\r\u001b[59C                                                           \u001b[3;60H                                                           \u001b[4;60H                                                           \u001b[5;60H                                                           \u001b[6;60H                                                           \u001b[7;60H                                                           \u001b[8;60H                                                           \u001b[9;60H                                                           \u001b[10;60H                                                           \u001b[11;60H                                                           \u001b[12;60H                                                           \u001b[13;60H                                                           \u001b[14;60H                                                           \u001b[15;60H                                                           \u001b[16;60H                                                           \u001b[17;60H  "
+    ],
+    [
+      0.000057,
+      "                                                         \u001b[18;60H                                                           \u001b[19;60H\u001b[96m┃   # Callbacks\u001b[m\u001b[38;5;245m\u001b[48;5;234m                                            \u001b[20;60H\u001b[96m┃ \u001b[m\u001b[38;5;245m\u001b[48;5;234m                                                         \u001b[21;60H\u001b[96m┃   def handle_call(:pop, _from, [h|t]) do\u001b[m\u001b[38;5;245m\u001b[48;5;234m                 \u001b[22;60H\u001b[96m┃     {:reply, h, t}\u001b[m\u001b[38;5;245m\u001b[48;5;234m                                       \u001b[23;60H\u001b[96m┃   end\u001b[m\u001b[38;5;245m\u001b[48;5;234m                                                    \u001b[24;60H\u001b[96m┃ \u001b[m\u001b[38;5;245m\u001b[48;5;234m                                                         \u001b[25;60H\u001b[96m┃   def handle_cast({:push, item}, state) do\u001b[m\u001b[38;5;245m\u001b[48;5;234m               \u001b[26;60H\u001b[96m┃     {:noreply, [item|state]}\u001b[m\u001b[38;5;245m\u001b[48;5;234m                             \u001b[27;60H\u001b[96m┃   end\u001b[m\u001b[38;5;245m\u001b[48;5;234m                                                    "
+    ],
+    [
+      0.006161,
+      "\u001b[28;60H\u001b[96m┃ end\u001b[m\u001b[38;5;245m\u001b[48;5;234m                                                      \u001b[29;60H\u001b[96m┃ \u001b[m\u001b[38;5;245m\u001b[48;5;234m                                                         \u001b[30;60H\u001b[96m┃ # Start the server\u001b[m\u001b[38;5;245m\u001b[48;5;234m                                       \u001b[31;60H\u001b[96m┃ {:ok, pid} = GenServer.start_link(Stack, [:hello])\u001b[m\u001b[38;5;245m\u001b[48;5;234m       \u001b[32;60H\u001b[96m┃ \u001b[m\u001b[38;5;245m\u001b[48;5;234m                                                         \u001b[33;60H\u001b[96m┃ # This is the client\u001b[m\u001b[38;5;245m\u001b[48;5;234m                                     \u001b[34;60H\u001b[96m┃ GenServer.call(pid, :pop)\u001b[m\u001b[38;5;245m\u001b[48;5;234m                                \u001b[35;60H\u001b[96m┃ #=\u003e :hello\u001b[m\u001b[38;5;245m\u001b[48;5;234m                                               \u001b[36;60H\u001b[96m┃ \u001b[m\u001b[38;5;245m\u001b[48;5;234m                                                         \u001b[2;60H\u001b[93mExample\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[4;60HThe GenServer behaviour abstracts the common client-server\u001b[5;60Hinteraction.\u001b[6;6"
+    ],
+    [
+      0.000068,
+      "0HDevelopers are only required to implement the callbacks and\u001b[7;61Hfunctionality they\u001b[8;60Hare interested in.\u001b[10;60HLet's start with a code example and then explore the availa\u001b[11;60Hble callbacks.\u001b[12;60HImagine we want a GenServer that works like a stack, allowi\u001b[13;60Hng us to push and\u001b[14;60Hpop items:\u001b[16;60H\u001b[96m┃ defmodule Stack do\u001b[17;60H┃   use GenServer\u001b[18;60H┃ \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[37;104H\u001b[38;5;70m\u001b[48;5;240m 6\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[7C\u001b[1m\u001b[38;5;235m\u001b[48;5;252m12\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;22m\u001b[48;5;252m:2\u001b[2;60H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.080866,
+      "\u001b[?25l\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;108H^U\u001b[2;60H"
+    ],
+    [
+      0.000264,
+      "\u001b[38;108H  \u001b[2;60H\r\u001b[59C                                                           \u001b[3;60H                                                           \u001b[4;60H                                                           \u001b[5;60H                                                           \u001b[6;60H                                                           \u001b[7;60H                                                           \u001b[8;60H                                                           \u001b[9;60H                                                           \u001b[10;60H                                                           \u001b[11;60H                                                           \u001b[12;60H                                                           \u001b[13;60H                                                           \u001b[14;60H                                                           \u001b[15;60H                                                           \u001b[16;60H                                                           \u001b[17;60H  "
+    ],
+    [
+      0.000039,
+      "                                                         \u001b[18;60H                                                           \u001b[19;60H\u001b[93mExample\u001b[m\u001b[38;5;245m\u001b[48;5;234m                                                    \u001b[20;60H                                                           \u001b[21;60HThe GenServer behaviour abstracts the common client-server \u001b[22;60Hinteraction.                                               \u001b[23;60HDevelopers are only required to implement the callbacks and\u001b[24;60H functionality they                                        \u001b[25;60Hare interested in.                                         \u001b[26;60H                                                           \u001b[27;60HLet's start with a code example and then explore the availa\u001b[28;60Hble callbacks.                                             \u001b[29;60HImagine we want a GenServer that works like a stack, allowi\u001b[30;60Hng us to push and                                          \u001b[31;60Hpop items:                                               "
+    ],
+    [
+      0.004840,
+      "  \u001b[32;60H                                                           \u001b[33;60H\u001b[96m┃ defmodule Stack do\u001b[m\u001b[38;5;245m\u001b[48;5;234m                                       \u001b[34;60H\u001b[96m┃   use GenServer\u001b[m\u001b[38;5;245m\u001b[48;5;234m                                          \u001b[35;60H\u001b[96m┃ \u001b[m\u001b[38;5;245m\u001b[48;5;234m                                                         \u001b[36;60H\u001b[96m┃   # Callbacks\u001b[m\u001b[38;5;245m\u001b[48;5;234m                                            \u001b[3;60H\u001b[93m                                   GenServer    \u001b[4;60H                        \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[7m\u001b[93m        \u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[6;60HA behaviour module for implementing the server of a client-\u001b[7;60Hserver relation.\u001b[9;60HA GenServer is a process as any other Elixir process and it\u001b[10;61Hcan be used to keep\u001b[11;60Hstate, execute code asynchronously and so on. The advantage\u001b[12;61Hof using a generic\u001b[13;60Hserver process (GenServer) implemented using this module is\u001b[14;61Hthat it will have a\u001b[15;60Hstandard set of"
+    ],
+    [
+      0.000056,
+      " interface functions and include functionali\u001b[16;60Hty for tracing and\u001b[17;60Herror reporting. It will also fit into a supervision tree.\u001b[37;105H\u001b[38;5;70m\u001b[48;5;240m1\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[7C\u001b[1m\u001b[38;5;235m\u001b[48;5;252m 1\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;22m\u001b[48;5;252m:\u001b[2;60H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.114691,
+      "\u001b[?25l\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;108H^U\u001b[2;60H"
+    ],
+    [
+      0.003195,
+      "\u0007\u001b[38;108H  \u001b[2;60H\u001b[2;60H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.381331,
+      "\u001b[?25l\u001b[38;108H^W\u001b[2;60H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.183817,
+      "\u001b[?25l\u001b[38;110Hq\u001b[2;60H"
+    ],
+    [
+      0.006209,
+      "\u001b[38;108H   \u001b[2;1H\u001b[1;1H\u001b[38;5;250m\u001b[48;5;240m 1 lib/\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;231m\u001b[48;5;240mphoenix.ex \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;240m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;231m\u001b[48;5;236m                             \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[2;59H\u001b[K\u001b[3;59H\u001b[K\u001b[4;59H\u001b[K\u001b[5;59H\u001b[K\u001b[6;59H\u001b[38;5;37ms besides\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[6;68H\u001b[K\u001b[7;1H\u001b[38;5;37m  Phoenix itself. Below we provide a short explanation with links to\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[7;69H\u001b[K\u001b[8;3H\u001b[38;5;37mtheir documentation for each of those projects:\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[8;50H\u001b[K\u001b[9;1H\u001b[K\u001b[10;3H\u001b[38;5;37m  * [Ecto](http://hexdocs.pm/ecto) - a language integrated query and\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[10;71H\u001b[K\u001b[11;1H\u001b[38;5;37m      database wrapper\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[11;59H\u001b[K\u001b[12;1H\u001b[K\u001b[13;1H\u001b[38;5;37m    * [Phoenix](http://hexdocs.pm/phoenix) - the Phoenix web framework\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[13;71H\u001b[K\u001b[14;7H\u001b[38;5;37m(these docs)\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[14;19H\u001b[K\u001b[1"
+    ],
+    [
+      0.000078,
+      "5;59H\u001b[K\u001b[16;15H\u001b[38;5;37m HTML](http://hexdocs.pm/phoenix_html) - conveniences for\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[16;72H\u001b[K\u001b[17;1H\u001b[38;5;37m      working with HTML in Phoenix\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[17;59H\u001b[K\u001b[18;1H\u001b[K\u001b[19;1H\u001b[38;5;37m    * [Plug](http://hexdocs.pm/plug) - a specification and conveniences\r\n      for composable modules in between web applications\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[20;57H\u001b[K\u001b[21;1H\u001b[K\u001b[22;3H\u001b[38;5;37mThere are also optional packages depending on your configuration:\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[22;68H\u001b[K\u001b[23;59H\u001b[K\u001b[24;9H\u001b[38;5;37mhoenix PubSub Redis](http://hexdocs.pm/phoenix_pubsub_redis) - use\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[24;75H\u001b[K\u001b[25;2H\u001b[38;5;37m     Redis to power Phoenix PubSub system\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[25;59H\u001b[K\u001b[26;1H\u001b[K\u001b[27;1H\u001b[38;5;37m  \"\"\"\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[27;59H\u001b[K\u001b[28;1H  \u001b[38;5;166muse\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;136mApplication\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[28;18H\u001b[K\u001b[29;1H\u001b[K\u001b[30;3H\u001b[38;5;33m@doc\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;37mfalse\u001b[m\u001b[38;5;245m"
+    ],
+    [
+      0.005531,
+      "\u001b[48;5;234m\u001b[30;59H\u001b[K\u001b[31;1H  \u001b[38;5;166mdef\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;33mstart\u001b[m\u001b[38;5;245m\u001b[48;5;234m(\u001b[38;5;240m_type\u001b[m\u001b[38;5;245m\u001b[48;5;234m, \u001b[38;5;240m_args\u001b[m\u001b[38;5;245m\u001b[48;5;234m) \u001b[38;5;64mdo\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[31;29H\u001b[K\u001b[32;1H    \u001b[38;5;240m# Warm up caches\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[32;59H\u001b[K\u001b[33;1H    \u001b[38;5;240m_\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;64m=\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;136mPhoenix.Template\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;64m.\u001b[m\u001b[38;5;245m\u001b[48;5;234mengines\u001b[33;33H\u001b[K\u001b[34;5H\u001b[38;5;240m_\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;64m=\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;136mPhoenix.Template\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;64m.\u001b[m\u001b[38;5;245m\u001b[48;5;234mformat_encoder(\u001b[38;5;124m\"\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;37mindex.html\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;124m\"\u001b[m\u001b[38;5;245m\u001b[48;5;234m)\u001b[34;59H\u001b[K\u001b[35;1H\u001b[K\u001b[36;3H  \u001b[38;5;240m# Configure proper system flags from Phoenix only\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[36;59H\u001b[K\u001b[37;1H\u001b[1m\u001b[38;5;22m\u001b[48;5;148m NORMAL \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;244"
+    ],
+    [
+      0.000084,
+      "m\u001b[48;5;235me\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u0008\u001b[38;5;148m\u001b[48;5;240m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;244m\u001b[48;5;235mi\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u0008\u001b[38;5;250m\u001b[48;5;240m 296a6e9 \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;245m\u001b[48;5;240m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;250m\u001b[48;5;240mlib/\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;231m\u001b[48;5;240mphoenix.ex \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;240m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;231m\u001b[48;5;236m                                       \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;231m\u001b[48;5;240me\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u0008\u001b[38;5;247m\u001b[48;5;236munix\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;231m\u001b[48;5;240mi\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u0008\u001b[38;5;244m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;231m\u001b[48;5;240m:\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u0008\u001b[38;5;247m\u001b[48;5;236m utf-8\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;231m\u001b[48;5;240mr\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u0008\u001b[38;5;244m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;231m\u001b[48;5;240me\u001b[m\u001b[38;5;245m"
+    ],
+    [
+      0.005160,
+      "\u001b[48;5;234m\u0008\u001b[38;5;247m\u001b[48;5;236m elixir\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[5C\u001b[38;5;70m\u001b[48;5;240m2\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[10C\u001b[38;5;22m\u001b[48;5;252m1\u001b[2;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.727384,
+      "\u001b[?25l\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;108H:\u001b[2;1H"
+    ],
+    [
+      0.000054,
+      "\u001b[38;108H\u001b[K\u001b[38;1H:"
+    ],
+    [
+      0.000009,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.223476,
+      "R"
+    ],
+    [
+      0.000004,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.175632,
+      "e"
+    ],
+    [
+      0.000007,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.040013,
+      "f"
+    ],
+    [
+      0.000005,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.120039,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.256590,
+      "e"
+    ],
+    [
+      0.000011,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.096017,
+      "l"
+    ],
+    [
+      0.000007,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.063251,
+      "i"
+    ],
+    [
+      0.000006,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.080132,
+      "x"
+    ],
+    [
+      0.000007,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.055833,
+      "i"
+    ],
+    [
+      0.000005,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.088041,
+      "r"
+    ],
+    [
+      0.000005,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.136005,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.447974,
+      "G"
+    ],
+    [
+      0.000007,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.823956,
+      "e"
+    ],
+    [
+      0.000007,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.208001,
+      "..."
+    ],
+    [
+      0.000449,
+      "\u001b[?25l\rCOMPLETE { \"Ge\", [ context: Elixir, imports: [], aliases: []] }^@"
+    ],
+    [
+      0.022468,
+      "\r:Ref elixir GenEvent.\u001b[38;22H\u001b[K\u001b[38;22H..."
+    ],
+    [
+      0.000020,
+      "\u001b[38;15H\u001b[K\u001b[38;15H\u001b[37;1H\u001b[7m\u001b[38;5;187m\u001b[48;5;235mGenEvent.  GenServer.  \u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\u001b[7m\u001b[38;5;230m\u001b[48;5;235mGenEvent.\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[14C\u001b[7m\u001b[38;5;187m\u001b[48;5;235m                                                                                               \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;15H..."
+    ],
+    [
+      0.000034,
+      "\u001b[37;1H\u001b[7m\u001b[38;5;187m\u001b[48;5;235mGenEvent.\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\u001b[7m\u001b[38;5;230m\u001b[48;5;235mGenEvent.\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;15HnEvent."
+    ],
+    [
+      0.000015,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.824962,
+      "..."
+    ],
+    [
+      0.000046,
+      "\u001b[37;1H\u001b[7m\u001b[38;5;187m\u001b[48;5;235mGenEvent.\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[2C\u001b[7m\u001b[38;5;230m\u001b[48;5;235mGenServer.\u001b[?25l\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;16HServer\u001b[38;23H\u001b[K\u001b[38;23H"
+    ],
+    [
+      0.000006,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.262520,
+      "\u001b[37;1H\u001b[1m\u001b[38;5;22m\u001b[48;5;148m COMMND \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;148m\u001b[48;5;240m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;250m\u001b[48;5;240m 296a6e9 \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;245m\u001b[48;5;240m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;250m\u001b[48;5;240mlib/\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;231m\u001b[48;5;240mphoenix.ex \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;240m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;231m\u001b[48;5;236m                                       \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;247m\u001b[48;5;236munix\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;244m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;247m\u001b[48;5;236m utf-8\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;244m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;247m\u001b[48;5;236m elixir\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;240m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;70m\u001b[48;5;240m   2%\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;252m\u001b[48;5;240m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;235m\u001b[48;5;252m  \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;235m\u001b[48;5;252"
+    ],
+    [
+      0.000039,
+      "m  1\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;22m\u001b[48;5;252m:1  \u001b[38;23H"
+    ],
+    [
+      0.382994,
+      "\u001b[m\u001b[38;5;245m\u001b[48;5;234m..."
+    ],
+    [
+      0.000462,
+      "\u001b[?25l\rCOMPLETE { \"\u001b[10C\", [ context: Elixir, imports: [], aliases: []] }^@"
+    ],
+    [
+      0.022280,
+      "\r:Ref elixir \u001b[10Ccast\u001b[38;28H\u001b[K\u001b[38;27H..."
+    ],
+    [
+      0.000008,
+      "\u001b[38;23H\u001b[K\u001b[38;23H\u001b[37;1H\u001b[7m\u001b[38;5;187m\u001b[48;5;235mGenServer.cast  GenServer.reply  GenServer.abcast  GenServer.call  GenServer.start  GenServer.start_link  \u003e\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\u001b[7m\u001b[38;5;230m\u001b[48;5;235mGenServer.cast\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[93C\u001b[7m\u001b[38;5;187m\u001b[48;5;235m           \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;23H..."
+    ],
+    [
+      0.000025,
+      "\u001b[37;1H\u001b[7m\u001b[38;5;187m\u001b[48;5;235mGenServer.cast\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\u001b[7m\u001b[38;5;230m\u001b[48;5;235mGenServer.cast\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;23Hcast"
+    ],
+    [
+      0.000014,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.060142,
+      "..."
+    ],
+    [
+      0.000073,
+      "\u001b[37;1H\u001b[7m\u001b[38;5;187m\u001b[48;5;235mGenServer.cast\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[2C\u001b[7m\u001b[38;5;230m\u001b[48;5;235mGenServer.reply\u001b[?25l\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;23Hreply\u001b[38;28H\u001b[K\u001b[38;28H"
+    ],
+    [
+      0.000008,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.359234,
+      "..."
+    ],
+    [
+      0.000047,
+      "\u001b[37;17H\u001b[7m\u001b[38;5;187m\u001b[48;5;235mGenServer.reply\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[2C\u001b[7m\u001b[38;5;230m\u001b[48;5;235mGenServer.abcast\u001b[?25l\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;23Habcast\u001b[38;29H\u001b[K\u001b[38;29H"
+    ],
+    [
+      0.000016,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.296389,
+      "..."
+    ],
+    [
+      0.000042,
+      "\u001b[37;34H\u001b[7m\u001b[38;5;187m\u001b[48;5;235mGenServer.abcast\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[2C\u001b[7m\u001b[38;5;230m\u001b[48;5;235mGenServer.call\u001b[?25l\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;23Hcall\u001b[38;27H\u001b[K\u001b[38;27H"
+    ],
+    [
+      0.000022,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.824036,
+      "..."
+    ],
+    [
+      0.000077,
+      "\u001b[37;52H\u001b[7m\u001b[38;5;187m\u001b[48;5;235mGenServer.call\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[2C\u001b[7m\u001b[38;5;230m\u001b[48;5;235mGenServer.start\u001b[?25l\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;23Hstart\u001b[38;28H\u001b[K\u001b[38;28H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.301002,
+      "\u001b[37;1H\u001b[1m\u001b[38;5;22m\u001b[48;5;148m COMMND \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;148m\u001b[48;5;240m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;250m\u001b[48;5;240m 296a6e9 \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;245m\u001b[48;5;240m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;250m\u001b[48;5;240mlib/\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;231m\u001b[48;5;240mphoenix.ex \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;240m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;231m\u001b[48;5;236m                                       \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;247m\u001b[48;5;236munix\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;244m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;247m\u001b[48;5;236m utf-8\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;244m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;247m\u001b[48;5;236m elixir\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;240m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;70m\u001b[48;5;240m   2%\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;252m\u001b[48;5;240m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;235m\u001b[48;5;252m  \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;235m\u001b[48;5;252"
+    ],
+    [
+      0.000068,
+      "m  1\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;22m\u001b[48;5;252m:1  \u001b[38;1H"
+    ],
+    [
+      0.050175,
+      "\u001b[?25l"
+    ],
+    [
+      0.006029,
+      "\u001b[m\u001b[38;5;245m\u001b[48;5;234m:Ref elixir GenServer.\r"
+    ],
+    [
+      0.000006,
+      ":Ref elixir GenServer.start \r"
+    ],
+    [
+      0.004332,
+      "\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[H\u001b[2J\u001b[1;1H\u001b[38;5;247m\u001b[48;5;236m 1 lib/phoenix.ex \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;236m\u001b[48;5;240m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;250m\u001b[48;5;240m3 ./\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;231m\u001b[48;5;240m[ref-elixir:GenServer.start] \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;240m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;231m\u001b[48;5;236m                                                       \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;252m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;235m\u001b[48;5;252m Bufs \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[2;1H\u001b[38;5;166mdefmodule\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;136mPhoenix\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;64mdo\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38C\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n  \u001b[38;5;33m@moduledoc\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;37m\"\"\"\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[42C\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37m  This is documentation for the Phoenix project.\u001b[m\u001b[38;5;245m\u001b[48;5;"
+    ],
+    [
+      0.000107,
+      "234m\u001b[10C\u001b[38;5;244m\u001b[48;5;244m|\u001b[5;59H|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37m  By default, Phoenix applications depend on other package\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37ms besides\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[49C\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37m  Phoenix itself. Below we provide a short explanation wit\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37mh links to\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[48C\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37m  their documentation for each of those projects:\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[9C\u001b[38;5;244m\u001b[48;5;244m|\u001b[11;59H|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37m    * [Ecto](http://hexdocs.pm/ecto) - a language integrat\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37med query and\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[46C\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37m      database wrapper\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[36C"
+    ],
+    [
+      0.000517,
+      "\u001b[38;5;244m\u001b[48;5;244m|\u001b[15;59H|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37m    * [Phoenix](http://hexdocs.pm/phoenix) - the Phoenix w\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37meb framework\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[46C\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37m      (these docs)\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[40C\u001b[38;5;244m\u001b[48;5;244m|\u001b[19;59H|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37m    * [Phoenix HTML](http://hexdocs.pm/phoenix_html) - con\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37mveniences for\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[45C\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37m      working with HTML in Phoenix\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[24C\u001b[38;5;244m\u001b[48;5;244m|\u001b[23;59H|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37m    * [Plug](http://hexdocs.pm/plug) - a specification and\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37m conveniences\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[45C\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b["
+    ],
+    [
+      0.000049,
+      "38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37m      for composable modules in between web applications\u001b[m\u001b[38;5;245m\u001b[48;5;234m  \u001b[38;5;244m\u001b[48;5;244m|\u001b[27;59H|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37m  There are also optional packages depending on your confi\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37mguration:\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[49C\u001b[38;5;244m\u001b[48;5;244m|\u001b[30;59H|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37m    * [Phoenix PubSub Redis](http://hexdocs.pm/phoenix_pub\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37msub_redis) - use\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[42C\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37m      Redis to power Phoenix PubSub system\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[16C\u001b[38;5;244m\u001b[48;5;244m|\u001b[34;59H|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37m  \"\"\"\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[53C\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n  \u001b[38;5;166muse\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;136mApplication\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[41C"
+    ],
+    [
+      0.004793,
+      "\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;240m\u001b[48;5;235m lib/\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;244m\u001b[48;5;235mphoenix.ex \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;235m\u001b[48;5;233m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;244m\u001b[48;5;233m                     \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;235m\u001b[48;5;233m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;241m\u001b[48;5;235m   2% \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;233m\u001b[48;5;241m  \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;233m\u001b[48;5;241m  1\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;22m\u001b[48;5;241m:1  \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[7m\u001b[38;5;244m\u001b[48;5;235m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[3;60H\u001b[93m                     def start(module, args, opt\u001b[4;60Hions \\\\ [])             \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[7m\u001b[93m        \u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[6;60HStarts a \u001b[96mGenServer\u001b[m\u001b[38;5;245m\u001b[48;5;234m process without links (outsid\u001b[7;60He of a supervision tree)\u001b[1m\u001b[7m.\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[9;60HSee \u001b[96mstart_link/3\u001b[m\u001b[38;5;245m\u001b[48;5;234m for more inform"
+    ],
+    [
+      0.000039,
+      "ation.\u001b[11;60H\u001b[1m\u001b[38;5;244m~                                                          \u001b[12;60H~                                                          \u001b[13;60H~                                                          \u001b[14;60H~                                                          \u001b[15;60H~                                                          \u001b[16;60H~                                                          \u001b[17;60H~                                                          \u001b[18;60H~                                                          \u001b[19;60H~                                                          \u001b[20;60H~                                                          \u001b[21;60H~                                                          \u001b[22;60H~                                                          \u001b[23;60H~                                                          \u001b[24;60H~                                                          \u001b[25;60H~                                                       "
+    ],
+    [
+      0.006627,
+      "   \u001b[26;60H~                                                          \u001b[27;60H~                                                          \u001b[28;60H~                                                          \u001b[29;60H~                                                          \u001b[30;60H~                                                          \u001b[31;60H~                                                          \u001b[32;60H~                                                          \u001b[33;60H~                                                          \u001b[34;60H~                                                          \u001b[35;60H~                                                          \u001b[36;60H~                                                          \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[37;60H\u001b[1m\u001b[38;5;22m\u001b[48;5;148m NORMAL \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;148m\u001b[48;5;240m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;196m\u001b[48;5;240m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;250m\u001b[48;5;240m./\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;231m\u001b[48;5;240m[ref-elixir:"
+    ],
+    [
+      0.000048,
+      "GenServer.start] \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;240m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;231m\u001b[48;5;236m  \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;252m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;235m\u001b[48;5;252m  \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;235m\u001b[48;5;252m  1\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;22m\u001b[48;5;252m:2  \u001b[2;60H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.042248,
+      "\u001b[?25l\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;108H:\u001b[2;60H"
+    ],
+    [
+      0.000023,
+      "\u001b[38;108H\u001b[K\u001b[38;1H:"
+    ],
+    [
+      0.000020,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.103801,
+      "R"
+    ],
+    [
+      0.000008,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.175689,
+      "e"
+    ],
+    [
+      0.000009,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.015685,
+      "f"
+    ],
+    [
+      0.000005,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.168581,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.720271,
+      "\u001b[?25l\u001b[38;1H\u001b[K"
+    ],
+    [
+      0.004073,
+      "\u001b[2;60H\u001b[2;60H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.284123,
+      "\u001b[?25l\u001b[38;108H^W\u001b[2;60H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.151210,
+      "\u001b[?25l\u001b[38;110Hq\u001b[2;60H"
+    ],
+    [
+      0.005448,
+      "\u001b[38;108H   \u001b[2;1H\u001b[1;1H\u001b[38;5;250m\u001b[48;5;240m 1 lib/\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;231m\u001b[48;5;240mphoenix.ex \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;240m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;231m\u001b[48;5;236m                                   \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[2;59H\u001b[K\u001b[3;59H\u001b[K\u001b[4;59H\u001b[K\u001b[5;59H\u001b[K\u001b[6;59H\u001b[38;5;37ms besides\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[6;69H\u001b[K\u001b[7;1H\u001b[38;5;37m  Phoenix itself. Below we provide a short explanation with links to\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[7;69H\u001b[K\u001b[8;3H\u001b[38;5;37mtheir documentation for each of those projects:\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[8;50H\u001b[K\u001b[9;1H\u001b[K\u001b[10;3H\u001b[38;5;37m  * [Ecto](http://hexdocs.pm/ecto) - a language integrated query and\r\n      database wrapper\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[11;59H\u001b[K\u001b[12;1H\u001b[K\u001b[13;1H\u001b[38;5;37m    * [Phoenix](http://hexdocs.pm/phoenix) - the Phoenix web framework\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[13;71H\u001b[K\u001b[14;7H\u001b[38;5;37m(these docs)\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[14;19H\u001b[K\u001b[15;59H\u001b[K\u001b[16;15H\u001b[38;5;37m HTML](http:/"
+    ],
+    [
+      0.000073,
+      "/hexdocs.pm/phoenix_html) - conveniences for\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[16;72H\u001b[K\u001b[17;1H\u001b[38;5;37m      working with HTML in Phoenix\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[17;59H\u001b[K\u001b[18;1H\u001b[K\u001b[19;1H\u001b[38;5;37m    * [Plug](http://hexdocs.pm/plug) - a specification and conveniences\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[19;72H\u001b[K\u001b[20;5H\u001b[38;5;37m  for composable modules in between web applications\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[20;57H\u001b[K\u001b[21;1H\u001b[K\u001b[22;3H\u001b[38;5;37mThere are also optional packages depending on your configuration:\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[22;68H\u001b[K\u001b[23;59H\u001b[K\u001b[24;9H\u001b[38;5;37mhoenix PubSub Redis](http://hexdocs.pm/phoenix_pubsub_redis) - use\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[24;75H\u001b[K\u001b[25;2H\u001b[38;5;37m     Redis to power Phoenix PubSub system\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[25;59H\u001b[K\u001b[26;1H\u001b[K\u001b[27;1H\u001b[38;5;37m  \"\"\"\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[27;59H\u001b[K\u001b[28;1H  \u001b[38;5;166muse\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;136mApplication\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[28;18H\u001b[K\u001b[29;1H\u001b[K\u001b[30;3H\u001b[38;5;33m@doc\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;37mfalse"
+    ],
+    [
+      0.004954,
+      "\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[30;59H\u001b[K\u001b[31;1H  \u001b[38;5;166mdef\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;33mstart\u001b[m\u001b[38;5;245m\u001b[48;5;234m(\u001b[38;5;240m_type\u001b[m\u001b[38;5;245m\u001b[48;5;234m, \u001b[38;5;240m_args\u001b[m\u001b[38;5;245m\u001b[48;5;234m) \u001b[38;5;64mdo\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[31;29H\u001b[K\u001b[32;1H    \u001b[38;5;240m# Warm up caches\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[32;59H\u001b[K\u001b[33;1H    \u001b[38;5;240m_\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;64m=\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;136mPhoenix.Template\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;64m.\u001b[m\u001b[38;5;245m\u001b[48;5;234mengines\u001b[33;33H\u001b[K\u001b[34;5H\u001b[38;5;240m_\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;64m=\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;136mPhoenix.Template\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;64m.\u001b[m\u001b[38;5;245m\u001b[48;5;234mformat_encoder(\u001b[38;5;124m\"\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;37mindex.html\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;124m\"\u001b[m\u001b[38;5;245m\u001b[48;5;234m)\u001b[34;59H\u001b[K\u001b[35;1H\u001b[K\u001b[36;3H  \u001b[38;5;240m# Configure proper system flags from Phoenix only\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[36;59H\u001b[K\u001b[37;1H\u001b[1m\u001b[38;5;22m\u001b[48;5;148m NORMAL \u001b[m\u001b[38;5;245m\u001b[48;5;234m"
+    ],
+    [
+      0.000102,
+      "\u001b[1m\u001b[38;5;244m\u001b[48;5;235me\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u0008\u001b[38;5;148m\u001b[48;5;240m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;244m\u001b[48;5;235mi\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u0008\u001b[38;5;250m\u001b[48;5;240m 296a6e9 \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;245m\u001b[48;5;240m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;250m\u001b[48;5;240mlib/\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;231m\u001b[48;5;240mphoenix.ex \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;240m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;231m\u001b[48;5;236m                                       \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;231m\u001b[48;5;240me\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u0008\u001b[38;5;247m\u001b[48;5;236munix\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;231m\u001b[48;5;240mi\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u0008\u001b[38;5;244m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;231m\u001b[48;5;240m:\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u0008\u001b[38;5;247m\u001b[48;5;236m utf-8\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;231m\u001b[48;5;240mr\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u0008\u001b[38;5;244m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;231m\u001b[48;5;240me"
+    ],
+    [
+      0.003585,
+      "\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u0008\u001b[38;5;247m\u001b[48;5;236m elixir\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;231m\u001b[48;5;240mt\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u0008\u001b[38;5;240m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;231m\u001b[48;5;240m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u0008\u001b[38;5;70m\u001b[48;5;240m   2%\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;252m\u001b[48;5;240m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[7C\u001b[38;5;22m\u001b[48;5;252m1\u001b[2;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.441628,
+      "\u001b[?25l\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;108H:\u001b[2;1H"
+    ],
+    [
+      0.000006,
+      "\u001b[38;108H\u001b[K\u001b[38;1H:"
+    ],
+    [
+      0.000025,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.160467,
+      "r"
+    ],
+    [
+      0.000007,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.599473,
+      "\u001b[?25l\u001b[38;2H\u001b[K"
+    ],
+    [
+      0.000005,
+      "\u001b[38;2H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.160628,
+      "R"
+    ],
+    [
+      0.000007,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.151849,
+      "e"
+    ],
+    [
+      0.000007,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.072075,
+      "f"
+    ],
+    [
+      0.000007,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.103950,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.119382,
+      "e"
+    ],
+    [
+      0.000007,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.055893,
+      "l"
+    ],
+    [
+      0.000007,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.040070,
+      "i"
+    ],
+    [
+      0.000024,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.128583,
+      "x"
+    ],
+    [
+      0.000011,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.056222,
+      "i"
+    ],
+    [
+      0.000024,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.063285,
+      "r"
+    ],
+    [
+      0.000008,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.096519,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.103455,
+      "p"
+    ],
+    [
+      0.000007,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.336555,
+      "\u001b[?25l\u001b[38;13H\u001b[K"
+    ],
+    [
+      0.000007,
+      "\u001b[38;13H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.144116,
+      "P"
+    ],
+    [
+      0.000006,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.159798,
+      "h"
+    ],
+    [
+      0.000008,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.080174,
+      "o"
+    ],
+    [
+      0.000007,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.119154,
+      "..."
+    ],
+    [
+      0.000404,
+      "\u001b[?25l\rCOMPLETE { \"Pho\", [ context: Elixir, imports: [], aliases: []] }^@"
+    ],
+    [
+      0.030570,
+      "\r:Ref elixir Phoenix.Channel.\u001b[38;30H\u001b[K\u001b[38;29H..."
+    ],
+    [
+      0.000063,
+      "\u001b[38;16H\u001b[K\u001b[38;16H\u001b[37;1H\u001b[7m\u001b[38;5;187m\u001b[48;5;235mPhoenix.Channel.  Phoenix.ChannelTest.  Phoenix.CodeReloader.  Phoenix.Config.  Phoenix.ConnTest.  \u003e\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\u001b[7m\u001b[38;5;230m\u001b[48;5;235mPhoenix.Channel.\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[84C\u001b[7m\u001b[38;5;187m\u001b[48;5;235m                  \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;16H..."
+    ],
+    [
+      0.000040,
+      "\u001b[37;1H\u001b[7m\u001b[38;5;187m\u001b[48;5;235mPhoenix.Channel.\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\u001b[7m\u001b[38;5;230m\u001b[48;5;235mPhoenix.Channel.\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;16Henix.Channel.\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.678809,
+      "\u001b[37;1H\u001b[1m\u001b[38;5;22m\u001b[48;5;148m COMMND \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;148m\u001b[48;5;240m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;250m\u001b[48;5;240m 296a6e9 \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;245m\u001b[48;5;240m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;250m\u001b[48;5;240mlib/\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;231m\u001b[48;5;240mphoenix.ex \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;240m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;231m\u001b[48;5;236m                                       \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;247m\u001b[48;5;236munix\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;244m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;247m\u001b[48;5;236m utf-8\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;244m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;247m\u001b[48;5;236m elixir\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;240m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;70m\u001b[48;5;240m   2%\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;252m\u001b[48;5;240m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;235m\u001b[48;5;252m  \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;235m\u001b[48;5;252"
+    ],
+    [
+      0.000047,
+      "m  1\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;22m\u001b[48;5;252m:1  \u001b[?25l\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;28H\u001b[K"
+    ],
+    [
+      0.000009,
+      "\u001b[38;28H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.274730,
+      "\r"
+    ],
+    [
+      0.059525,
+      "\u001b[?25l"
+    ],
+    [
+      0.006964,
+      ":Ref elixir Phoenix.Ch\r"
+    ],
+    [
+      0.000008,
+      ":Ref elixir Phoenix.Channel \r"
+    ],
+    [
+      0.004359,
+      "\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[H\u001b[2J\u001b[1;1H\u001b[38;5;247m\u001b[48;5;236m 1 lib/phoenix.ex \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;236m\u001b[48;5;240m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;250m\u001b[48;5;240m4 ./\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;231m\u001b[48;5;240m[ref-elixir:Phoenix.Channel] \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;240m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;231m\u001b[48;5;236m                                                       \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;252m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;235m\u001b[48;5;252m Bufs \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[2;1H\u001b[38;5;166mdefmodule\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;136mPhoenix\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;64mdo\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38C\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n  \u001b[38;5;33m@moduledoc\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;37m\"\"\"\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[42C\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37m  This is documentation for the Phoenix project.\u001b[m\u001b[38;5;245m\u001b[48;5;"
+    ],
+    [
+      0.000073,
+      "234m\u001b[10C\u001b[38;5;244m\u001b[48;5;244m|\u001b[5;59H|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37m  By default, Phoenix applications depend on other package\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37ms besides\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[49C\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37m  Phoenix itself. Below we provide a short explanation wit\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37mh links to\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[48C\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37m  their documentation for each of those projects:\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[9C\u001b[38;5;244m\u001b[48;5;244m|\u001b[11;59H|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37m    * [Ecto](http://hexdocs.pm/ecto) - a language integrat\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37med query and\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[46C\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37m      database wrapper\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[36C"
+    ],
+    [
+      0.000529,
+      "\u001b[38;5;244m\u001b[48;5;244m|\u001b[15;59H|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37m    * [Phoenix](http://hexdocs.pm/phoenix) - the Phoenix w\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37meb framework\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[46C\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37m      (these docs)\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[40C\u001b[38;5;244m\u001b[48;5;244m|\u001b[19;59H|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37m    * [Phoenix HTML](http://hexdocs.pm/phoenix_html) - con\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37mveniences for\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[45C\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37m      working with HTML in Phoenix\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[24C\u001b[38;5;244m\u001b[48;5;244m|\u001b[23;59H|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37m    * [Plug](http://hexdocs.pm/plug) - a specification and\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37m conveniences\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[45C\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b["
+    ],
+    [
+      0.000042,
+      "38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37m      for composable modules in between web applications\u001b[m\u001b[38;5;245m\u001b[48;5;234m  \u001b[38;5;244m\u001b[48;5;244m|\u001b[27;59H|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37m  There are also optional packages depending on your confi\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37mguration:\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[49C\u001b[38;5;244m\u001b[48;5;244m|\u001b[30;59H|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37m    * [Phoenix PubSub Redis](http://hexdocs.pm/phoenix_pub\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37msub_redis) - use\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[42C\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37m      Redis to power Phoenix PubSub system\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[16C\u001b[38;5;244m\u001b[48;5;244m|\u001b[34;59H|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;37m  \"\"\"\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[53C\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n  \u001b[38;5;166muse\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;136mApplication\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[41C"
+    ],
+    [
+      0.007698,
+      "\u001b[38;5;244m\u001b[48;5;244m|\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[38;5;240m\u001b[48;5;235m lib/\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;244m\u001b[48;5;235mphoenix.ex \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;235m\u001b[48;5;233m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;244m\u001b[48;5;233m                     \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;235m\u001b[48;5;233m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;241m\u001b[48;5;235m   2% \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;233m\u001b[48;5;241m  \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;233m\u001b[48;5;241m  1\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;22m\u001b[48;5;241m:1  \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[7m\u001b[38;5;244m\u001b[48;5;235m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[3;60H\u001b[93m                                Phoenix.Channel \u001b[4;60H                        \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[7m\u001b[93m        \u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[6;60HDefines a Phoenix Channel.\u001b[8;60HChannels provide a means for bidirectional communication fr\u001b[9;60Hom clients that\u001b[10;60Hintegrate with the \u001b[96mPhoenix.PubSub\u001b[m\u001b[38;5;245m\u001b[48;5;234m layer for soft\u001b[11;60H-realtime"
+    ],
+    [
+      0.000051,
+      " functionality.\u001b[13;60H\u001b[93mTopics \u0026 Callbacks\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[15;60HEverytime you join a channel, you need to choose which part\u001b[16;60Hicular topic you\u001b[17;60Hwant to listen to. The topic is just an identifier, but by\u001b[18;60Hconvention it is\u001b[19;60Hoften made of two parts: \u001b[96m\"topic:subtopic\"\u001b[m\u001b[38;5;245m\u001b[48;5;234m. Using\u001b[20;61Hthe \u001b[96m\"topic:subtop\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[7m\u001b[96mic\"\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[7m approach\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[21;60Hpairs nicely with the \u001b[96mPhoenix.Socket.channel/2\u001b[m\u001b[38;5;245m\u001b[48;5;234m a\u001b[22;60Hllowing you to match on \u001b[1m\u001b[7mall\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[23;60Htopics starting with a given prefix:\u001b[25;60H\u001b[96m┃ channel \"rooms:*\", MyApp.RoomChannel\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[27;60HAny topic coming into the router with the \u001b[96m\"rooms:\"\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[28;61Hprefix would dispatch\u001b[1m\u001b[7m to\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[29;60H\u001b[96mMyApp.RoomChannel\u001b[m\u001b[38;5;245m\u001b[48;5;234m in the above example. Topics c"
+    ],
+    [
+      0.005886,
+      "\u001b[30;60Han also be pattern match\u001b[1m\u001b[7med in\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[31;60Hyour channels' \u001b[96mjoin/3\u001b[m\u001b[38;5;245m\u001b[48;5;234m callback to pluck out the\u001b[32;60Hscoped pattern:\u001b[34;60H\u001b[96m┃ # handles the special `\"lobby\"` subtopic\u001b[35;60H┃ def join(\"rooms:lobby\", _auth_message, socket) do\u001b[36;60H┃   {:ok, socket}\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[37;60H\u001b[1m\u001b[38;5;22m\u001b[48;5;148m NORMAL \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;148m\u001b[48;5;240m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;196m\u001b[48;5;240m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;250m\u001b[48;5;240m./\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;231m\u001b[48;5;240m[ref-elixir:Phoenix.Channel] \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;240m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;231m\u001b[48;5;236m  \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;252m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;235m\u001b[48;5;252m  \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;235m\u001b[48;5;252m  1\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;22m\u001b[48;5;252m:2  \u001b[2;60H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.154503,
+      "\u001b[?25l\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;108H^D\u001b[2;60H"
+    ],
+    [
+      0.000410,
+      "\u001b[38;108H  \u001b[2;60Hoften made of two parts: \u001b[96m\"topic:subtopic\"\u001b[m\u001b[38;5;245m\u001b[48;5;234m. Using           \u001b[3;60H the \u001b[96m\"topic:subtop\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[7m\u001b[96mic\"\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[7m approach\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m                             \u001b[4;60Hpairs nicely with the \u001b[96mPhoenix.Socket.channel/2\u001b[m\u001b[38;5;245m\u001b[48;5;234m a           \u001b[5;60Hllowing you to match on \u001b[1m\u001b[7mall\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m                                \u001b[6;60Htopics starting with a given prefix:                       \u001b[7;60H                                                           \u001b[8;60H\u001b[96m┃ channel \"rooms:*\", MyApp.RoomChannel\u001b[m\u001b[38;5;245m\u001b[48;5;234m                     \u001b[9;60H                                                           \u001b[10;60HAny topic coming into the router with the \u001b[96m\"rooms:\"\u001b[m\u001b[38;5;245m\u001b[48;5;234m         \u001b[11;60H prefix would dispatch\u001b[1m\u001b[7m to\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m                                  \u001b[12;60H\u001b[96mMyApp.RoomChannel\u001b[m\u001b[38;5;24"
+    ],
+    [
+      0.000072,
+      "5m\u001b[48;5;234m in the above example. Topics c           \u001b[13;60Han also be pattern match\u001b[1m\u001b[7med in\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m                              \u001b[14;60Hyour channels' \u001b[96mjoin/3\u001b[m\u001b[38;5;245m\u001b[48;5;234m callback to pluck out the            \u001b[15;60Hscoped pattern:                                            \u001b[16;60H                                                           \u001b[17;60H\u001b[96m┃ # handles the special `\"lobby\"` subtopic\u001b[m\u001b[38;5;245m\u001b[48;5;234m                 \u001b[18;60H\u001b[96m┃ def join(\"rooms:lobby\", _auth_message, socket) do\u001b[m\u001b[38;5;245m\u001b[48;5;234m        \u001b[19;60H\u001b[96m┃   {:ok, socket}\u001b[m\u001b[38;5;245m\u001b[48;5;234m                                          \u001b[20;60H                                                           \u001b[21;60H                                                           \u001b[22;60H                                                           \u001b[23;60H                                                           \u001b[24;60H                                                           "
+    ],
+    [
+      0.006728,
+      "\u001b[25;60H                                                           \u001b[26;60H                                                           \u001b[27;60H                                                           \u001b[28;60H                                                           \u001b[29;60H                                                           \u001b[30;60H                                                           \u001b[31;60H                                                           \u001b[32;60H                                                           \u001b[33;60H                                                           \u001b[34;60H                                                           \u001b[35;60H                                                           \u001b[36;60H                                                           \u001b[20;60H┃ end\u001b[21;60H┃\u001b[22;60H┃ # handles any other subtopic as the room ID, for example\u001b[23;60H`\"rooms:12\"`, `\"rooms:34\u001b[1m\u001b[7m\"`\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[24;60H┃ def join(\"rooms:\" \u003c\u003e room_id, auth_message"
+    ],
+    [
+      0.000108,
+      ", socket) do\u001b[25;60H┃   {:ok, socket}\u001b[26;60H┃ end\u001b[28;60H\u001b[93mAuthorization\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[30;60HClients must join a channel to send and receive PubSub even\u001b[31;60Hts on that channel.\u001b[32;60HYour channels must implement a \u001b[96mjoin/3\u001b[m\u001b[38;5;245m\u001b[48;5;234m callback t\u001b[33;60Hhat authorizes the socke\u001b[1m\u001b[7mt for\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[34;60Hthe given topic. For example, you could check if the user i\u001b[35;60Hs allowed to join\u001b[36;60Hthat particular room.\u001b[37;113H\u001b[1m\u001b[38;5;235m\u001b[48;5;252m13\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;22m\u001b[48;5;252m:1\u001b[2;60H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.241116,
+      "\u001b[?25l\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;108H^D\u001b[2;60H"
+    ],
+    [
+      0.000314,
+      "\u001b[38;108H  \u001b[2;60H\u001b[96m┃   {:ok, socket}\u001b[m\u001b[38;5;245m\u001b[48;5;234m                                          \u001b[3;60H┃ end                                                      \u001b[4;60H┃                                                          \u001b[5;60H┃ # handles any other subtopic as the room ID, for example \u001b[6;60H`\"rooms:12\"`, `\"rooms:34\u001b[1m\u001b[7m\"`\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m                                 \u001b[7;60H┃ def join(\"rooms:\" \u003c\u003e room_id, auth_message, socket) do   \u001b[8;60H┃   {:ok, socket}                                          \u001b[9;60H┃ end                                                      \u001b[10;60H                                                           \u001b[11;60H\u001b[93mAuthorization\u001b[m\u001b[38;5;245m\u001b[48;5;234m                                              \u001b[12;60H                                                           \u001b[13;60HClients must join a channel to send and receive PubSub even\u001b[14;60Hts on that channel.                                        \u001b[15;60HYour channels must implement a"
+    ],
+    [
+      0.000066,
+      " \u001b[96mjoin/3\u001b[m\u001b[38;5;245m\u001b[48;5;234m callback t           \u001b[16;60Hhat authorizes the socke\u001b[1m\u001b[7mt for\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m                              \u001b[17;60Hthe given topic. For example, you could check if the user i\u001b[18;60Hs allowed to join                                          \u001b[19;60Hthat particular room.                                      \u001b[20;60H                                                           \u001b[21;60H                                                           \u001b[22;60H                                                           \u001b[23;60H                                                           \u001b[24;60H                                                           \u001b[25;60H                                                           \u001b[26;60H                                                           \u001b[27;60H                                                           \u001b[28;60H                                                           \u001b[29;60H                                               "
+    ],
+    [
+      0.008135,
+      "            \u001b[30;60H                                                           \u001b[31;60H                                                           \u001b[32;60H                                                           \u001b[33;60H                                                           \u001b[34;60H                                                           \u001b[35;60H                                                           \u001b[36;60H                                                           \u001b[21;60HTo authorize a socket in \u001b[96mjoin/3\u001b[m\u001b[38;5;245m\u001b[48;5;234m, return \u001b[96m{:\u001b[22;60Hok, socket}\u001b[m\u001b[38;5;245m\u001b[48;5;234m. To ref\u001b[1m\u001b[7muse authorization\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[23;60Hin \u001b[96mjoin/3\u001b[m\u001b[38;5;245m\u001b[48;5;234m, return \u001b[96m{:error, reply}\u001b[m\u001b[38;5;245m\u001b[48;5;234m.\u001b[25;60H\u001b[93mIncoming Events\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[27;60HAfter a client has successfully joined a channel, incoming\u001b[28;60Hevents from the\u001b[29;60Hclient are routed through the channel's \u001b[96mhandle_in/3\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[30;61Hcallbacks."
+    ],
+    [
+      0.000057,
+      " Within th\u001b[1m\u001b[7mese\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[31;60Hcallbacks, you can perform any action. Typically you'll eit\u001b[32;60Hher forward a\u001b[33;60Hmessage to all listeners with \u001b[96mbroadcast!/3\u001b[m\u001b[38;5;245m\u001b[48;5;234m, or p\u001b[34;60Hush a message directly d\u001b[1m\u001b[7mown the\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[35;60Hsocket with \u001b[96mpush/3\u001b[m\u001b[38;5;245m\u001b[48;5;234m. Incoming callbacks must retu\u001b[36;60Hrn the \u001b[96msocket\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[7m to maintain\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[37;113H\u001b[1m\u001b[38;5;235m\u001b[48;5;252m25\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;22m\u001b[48;5;252m:\u001b[2;60H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.406665,
+      "\u001b[?25l\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;108H^D\u001b[2;60H"
+    ],
+    [
+      0.000240,
+      "\u001b[38;108H  \u001b[2;60Hthat particular room.                                      \u001b[3;60H                                                           \u001b[4;60HTo authorize a socket in \u001b[96mjoin/3\u001b[m\u001b[38;5;245m\u001b[48;5;234m, return \u001b[96m{:\u001b[m\u001b[38;5;245m\u001b[48;5;234m                 \u001b[5;60H\u001b[96mok, socket}\u001b[m\u001b[38;5;245m\u001b[48;5;234m. To ref\u001b[1m\u001b[7muse authorization\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m                       \u001b[6;60Hin \u001b[96mjoin/3\u001b[m\u001b[38;5;245m\u001b[48;5;234m, return \u001b[96m{:error, reply}\u001b[m\u001b[38;5;245m\u001b[48;5;234m.                         \u001b[7;60H                                                           \u001b[8;60H\u001b[93mIncoming Events\u001b[m\u001b[38;5;245m\u001b[48;5;234m                                            \u001b[9;60H                                                           \u001b[10;60HAfter a client has successfully joined a channel, incoming \u001b[11;60Hevents from the                                            \u001b[12;60Hclient are routed through the channel's \u001b[96mhandle_in/3\u001b[m\u001b[38;5;245m\u001b[48;5;234m        \u001b[13;60H callbacks. Within th\u001b[1m\u001b[7"
+    ],
+    [
+      0.000041,
+      "mese\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m                                   \u001b[14;60Hcallbacks, you can perform any action. Typically you'll eit\u001b[15;60Hher forward a                                              \u001b[16;60Hmessage to all listeners with \u001b[96mbroadcast!/3\u001b[m\u001b[38;5;245m\u001b[48;5;234m, or p           \u001b[17;60Hush a message directly d\u001b[1m\u001b[7mown the\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m                            \u001b[18;60Hsocket with \u001b[96mpush/3\u001b[m\u001b[38;5;245m\u001b[48;5;234m. Incoming callbacks must retu           \u001b[19;60Hrn the \u001b[96msocket\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[7m to maintain\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m                                  \u001b[20;60H                                                           \u001b[21;60H                                                           \u001b[22;60H                                                           \u001b[23;60H                                                           \u001b[24;60H                                                           \u001b[25;60H                                           "
+    ],
+    [
+      0.005067,
+      "                \u001b[26;60H                                                           \u001b[27;60H                                                           \u001b[28;60H                                                           \u001b[29;60H                                                           \u001b[30;60H                                                           \u001b[31;60H                                                           \u001b[32;60H                                                           \u001b[33;60H                                                           \u001b[34;60H                                                           \u001b[35;60H                                                           \u001b[36;60H                                                           \u001b[20;60Hephemeral state.\u001b[22;60HHere's an example of receiving an incoming \u001b[96m\"new_msg\"\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[23;61Hevent from one clie\u001b[1m\u001b[7mnt, and\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[24;60Hbroadcasting the message to all topic subscribers for this\u001b[25;60Hsocket.\u001b[27"
+    ],
+    [
+      0.000068,
+      ";60H\u001b[96m┃ def handle_in(\"new_msg\", %{\"uid\" =\u003e uid, \"body\u001b[28;60H\" =\u003e body}, socket) do\u001b[29;60H┃   broadcast! socket, \"new_msg\", %{uid: uid, body: body}\u001b[30;60H┃   {:noreply, socket}\u001b[31;60H┃ end\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[33;60HYou can also push a message directly down the socket:\u001b[35;60H\u001b[96m┃ # client asks for their current rank, push sen\u001b[36;60Ht directly as a new even\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[7m\u001b[96mt.\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[37;113H\u001b[1m\u001b[38;5;235m\u001b[48;5;252m38\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;22m\u001b[48;5;252m:\u001b[2;60H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.178805,
+      "\u001b[?25l\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;108H^D\u001b[2;60H"
+    ],
+    [
+      0.000213,
+      "\u001b[38;108H  \u001b[2;60Hsocket with \u001b[96mpush/3\u001b[m\u001b[38;5;245m\u001b[48;5;234m. Incoming callbacks must retu           \u001b[3;60Hrn the \u001b[96msocket\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[7m to maintain\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m                                  \u001b[4;60Hephemeral state.                                           \u001b[5;60H                                                           \u001b[6;60HHere's an example of receiving an incoming \u001b[96m\"new_msg\"\u001b[m\u001b[38;5;245m\u001b[48;5;234m       \u001b[7;60H event from one clie\u001b[1m\u001b[7mnt, and\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m                                \u001b[8;60Hbroadcasting the message to all topic subscribers for this \u001b[9;60Hsocket.                                                    \u001b[10;60H                                                           \u001b[11;60H\u001b[96m┃ def handle_in(\"new_msg\", %{\"uid\" =\u003e uid, \"body\u001b[m\u001b[38;5;245m\u001b[48;5;234m           \u001b[12;60H\u001b[96m\" =\u003e body}, socket) do\u001b[m\u001b[38;5;245m\u001b[48;5;234m                                     \u001b[13;60H\u001b[96m┃   broadcast! socket, \"new_msg\", %{uid: "
+    ],
+    [
+      0.000037,
+      "uid, body: body}\u001b[m\u001b[38;5;245m\u001b[48;5;234m  \u001b[14;60H\u001b[96m┃   {:noreply, socket}\u001b[m\u001b[38;5;245m\u001b[48;5;234m                                     \u001b[15;60H\u001b[96m┃ end\u001b[m\u001b[38;5;245m\u001b[48;5;234m                                                      \u001b[16;60H                                                           \u001b[17;60HYou can also push a message directly down the socket:      \u001b[18;60H                                                           \u001b[19;60H\u001b[96m┃ # client asks for their current rank, push sen\u001b[m\u001b[38;5;245m\u001b[48;5;234m           \u001b[20;60H\u001b[96mt directly as a new even\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[7m\u001b[96mt.\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m                                 \u001b[21;60H                                                           \u001b[22;60H                                                           \u001b[23;60H                                                           \u001b[24;60H                                                           \u001b[25;60H                                                           "
+    ],
+    [
+      0.004971,
+      "\u001b[26;60H                                                           \u001b[27;60H                                                           \u001b[28;60H                                                           \u001b[29;60H                                                           \u001b[30;60H                                                           \u001b[31;60H                                                           \u001b[32;60H                                                           \u001b[33;60H                                                           \u001b[34;60H                                                           \u001b[35;60H                                                           \u001b[36;60H                                                           \u001b[21;60H┃ def handle_in(\"current_rank\", socket) do\u001b[22;60H┃   push socket, \"current_rank\", %{val: Game.get_rank(socke\u001b[23;60Ht.assigns[:user])}\u001b[24;60H┃   {:noreply, socket}\u001b[25;60H┃ end\u001b[27;60H\u001b[93mReplies\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[29;60HIn addition to pushing messages out when"
+    ],
+    [
+      0.000057,
+      " you receive a\u001b[30;60H\u001b[96mhandle_in\u001b[m\u001b[38;5;245m\u001b[48;5;234m event, \u001b[1m\u001b[7myou can\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[31;60Halso reply directly to a client event for request/response\u001b[32;60Hstyle messaging.\u001b[33;60HThis is useful when a client must know the result of an ope\u001b[34;60Hration or to simply\u001b[35;60Hack messages.\u001b[37;113H\u001b[1m\u001b[38;5;235m\u001b[48;5;252m49\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;22m\u001b[48;5;252m:\u001b[2;60H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.155170,
+      "\u001b[?25l\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;108H^U\u001b[2;60H"
+    ],
+    [
+      0.000329,
+      "\u001b[38;108H  \u001b[2;60H\r\u001b[59C                                                           \u001b[3;60H                                                           \u001b[4;60H                                                           \u001b[5;60H                                                           \u001b[6;60H                                                           \u001b[7;60H                                                           \u001b[8;60H                                                           \u001b[9;60H                                                           \u001b[10;60H                                                           \u001b[11;60H                                                           \u001b[12;60H                                                           \u001b[13;60H                                                           \u001b[14;60H                                                           \u001b[15;60H                                                           \u001b[16;60H                                                           \u001b[17;60H  "
+    ],
+    [
+      0.000073,
+      "                                                         \u001b[18;60Hsocket with \u001b[96mpush/3\u001b[m\u001b[38;5;245m\u001b[48;5;234m. Incoming callbacks must retu           \u001b[19;60Hrn the \u001b[96msocket\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[7m to maintain\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m                                  \u001b[20;60Hephemeral state.                                           \u001b[21;60H                                                           \u001b[22;60HHere's an example of receiving an incoming \u001b[96m\"new_msg\"\u001b[m\u001b[38;5;245m\u001b[48;5;234m       \u001b[23;60H event from one clie\u001b[1m\u001b[7mnt, and\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m                                \u001b[24;60Hbroadcasting the message to all topic subscribers for this \u001b[25;60Hsocket.                                                    \u001b[26;60H                                                           \u001b[27;60H\u001b[96m┃ def handle_in(\"new_msg\", %{\"uid\" =\u003e uid, \"body\u001b[m\u001b[38;5;245m\u001b[48;5;234m           \u001b[28;60H\u001b[96m\" =\u003e body}, socket) do\u001b[m\u001b[38;5;245m\u001b[48;5;234m                                     "
+    ],
+    [
+      0.008324,
+      "\u001b[29;60H\u001b[96m┃   broadcast! socket, \"new_msg\", %{uid: uid, body: body}\u001b[m\u001b[38;5;245m\u001b[48;5;234m  \u001b[30;60H\u001b[96m┃   {:noreply, socket}\u001b[m\u001b[38;5;245m\u001b[48;5;234m                                     \u001b[31;60H\u001b[96m┃ end\u001b[m\u001b[38;5;245m\u001b[48;5;234m                                                      \u001b[32;60H                                                           \u001b[33;60HYou can also push a message directly down the socket:      \u001b[34;60H                                                           \u001b[35;60H\u001b[96m┃ # client asks for their current rank, push sen\u001b[m\u001b[38;5;245m\u001b[48;5;234m           \u001b[36;60H\u001b[96mt directly as a new even\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[7m\u001b[96mt.\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m                                 \u001b[2;60Hthat particular room.\u001b[4;60HTo authorize a socket in \u001b[96mjoin/3\u001b[m\u001b[38;5;245m\u001b[48;5;234m, return \u001b[96m{:\u001b[5;60Hok, socket}\u001b[m\u001b[38;5;245m\u001b[48;5;234m. To ref\u001b[1m\u001b[7muse authorization\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[6;60Hin \u001b[96mjoin/3\u001b[m\u001b[38;5;245m\u001b[48;5;234m, return \u001b[96m{:error, "
+    ],
+    [
+      0.000076,
+      "reply}\u001b[m\u001b[38;5;245m\u001b[48;5;234m.\u001b[8;60H\u001b[93mIncoming Events\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[10;60HAfter a client has successfully joined a channel, incoming\u001b[11;60Hevents from the\u001b[12;60Hclient are routed through the channel's \u001b[96mhandle_in/3\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[13;61Hcallbacks. Within th\u001b[1m\u001b[7mese\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[14;60Hcallbacks, you can perform any action. Typically you'll eit\u001b[15;60Hher forward a\u001b[16;60Hmessage to all listeners with \u001b[96mbroadcast!/3\u001b[m\u001b[38;5;245m\u001b[48;5;234m, or p\u001b[17;60Hush a message directly d\u001b[1m\u001b[7mown the\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[37;113H\u001b[1m\u001b[38;5;235m\u001b[48;5;252m38\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;22m\u001b[48;5;252m:\u001b[2;60H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.134466,
+      "\u001b[?25l\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;108H^U\u001b[2;60H"
+    ],
+    [
+      0.000289,
+      "\u001b[38;108H  \u001b[2;60H\r\u001b[59C                                                           \u001b[3;60H                                                           \u001b[4;60H                                                           \u001b[5;60H                                                           \u001b[6;60H                                                           \u001b[7;60H                                                           \u001b[8;60H                                                           \u001b[9;60H                                                           \u001b[10;60H                                                           \u001b[11;60H                                                           \u001b[12;60H                                                           \u001b[13;60H                                                           \u001b[14;60H                                                           \u001b[15;60H                                                           \u001b[16;60H                                                           \u001b[17;60H  "
+    ],
+    [
+      0.000042,
+      "                                                         \u001b[18;60H                                                           \u001b[19;60Hthat particular room.                                      \u001b[20;60H                                                           \u001b[21;60HTo authorize a socket in \u001b[96mjoin/3\u001b[m\u001b[38;5;245m\u001b[48;5;234m, return \u001b[96m{:\u001b[m\u001b[38;5;245m\u001b[48;5;234m                 \u001b[22;60H\u001b[96mok, socket}\u001b[m\u001b[38;5;245m\u001b[48;5;234m. To ref\u001b[1m\u001b[7muse authorization\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m                       \u001b[23;60Hin \u001b[96mjoin/3\u001b[m\u001b[38;5;245m\u001b[48;5;234m, return \u001b[96m{:error, reply}\u001b[m\u001b[38;5;245m\u001b[48;5;234m.                         \u001b[24;60H                                                           \u001b[25;60H\u001b[93mIncoming Events\u001b[m\u001b[38;5;245m\u001b[48;5;234m                                            \u001b[26;60H                                                           \u001b[27;60HAfter a client has successfully joined a channel, incoming \u001b[28;60Hevents from the                                            "
+    ],
+    [
+      0.004510,
+      "\u001b[29;60Hclient are routed through the channel's \u001b[96mhandle_in/3\u001b[m\u001b[38;5;245m\u001b[48;5;234m        \u001b[30;60H callbacks. Within th\u001b[1m\u001b[7mese\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m                                   \u001b[31;60Hcallbacks, you can perform any action. Typically you'll eit\u001b[32;60Hher forward a                                              \u001b[33;60Hmessage to all listeners with \u001b[96mbroadcast!/3\u001b[m\u001b[38;5;245m\u001b[48;5;234m, or p           \u001b[34;60Hush a message directly d\u001b[1m\u001b[7mown the\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m                            \u001b[35;60Hsocket with \u001b[96mpush/3\u001b[m\u001b[38;5;245m\u001b[48;5;234m. Incoming callbacks must retu           \u001b[36;60Hrn the \u001b[96msocket\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[7m to maintain\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m                                  \u001b[2;60H\u001b[96m┃   {:ok, socket}\u001b[3;60H┃ end\u001b[4;60H┃ \u001b[5;60H┃ # handles any other subtopic as the room ID, for example \u001b[6;60H`\"rooms:12\"`, `\"rooms:34\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[7m\u001b[96m\"`\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[7;60H\u001b[96m┃ def join(\"roo"
+    ],
+    [
+      0.000052,
+      "ms:\" \u003c\u003e room_id, auth_message, socket) do\u001b[8;60H┃   {:ok, socket}\u001b[9;60H┃ end\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[11;60H\u001b[93mAuthorization\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[13;60HClients must join a channel to send and receive PubSub even\u001b[14;60Hts on that channel.\u001b[15;60HYour channels must implement a \u001b[96mjoin/3\u001b[m\u001b[38;5;245m\u001b[48;5;234m callback t\u001b[16;60Hhat authorizes the socke\u001b[1m\u001b[7mt for\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[17;60Hthe given topic. For example, you could check if the user i\u001b[18;60Hs allowed to join\u001b[37;113H\u001b[1m\u001b[38;5;235m\u001b[48;5;252m25\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;22m\u001b[48;5;252m:\u001b[2;60H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.115951,
+      "\u001b[?25l\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;108H^U\u001b[2;60H"
+    ],
+    [
+      0.000340,
+      "\u001b[38;108H  \u001b[2;60H\r\u001b[59C                                                           \u001b[3;60H                                                           \u001b[4;60H                                                           \u001b[5;60H                                                           \u001b[6;60H                                                           \u001b[7;60H                                                           \u001b[8;60H                                                           \u001b[9;60H                                                           \u001b[10;60H                                                           \u001b[11;60H                                                           \u001b[12;60H                                                           \u001b[13;60H                                                           \u001b[14;60H                                                           \u001b[15;60H                                                           \u001b[16;60H                                                           \u001b[17;60H  "
+    ],
+    [
+      0.000045,
+      "                                                         \u001b[18;60H                                                           \u001b[19;60H\u001b[96m┃   {:ok, socket}\u001b[m\u001b[38;5;245m\u001b[48;5;234m                                          \u001b[20;60H\u001b[96m┃ end\u001b[m\u001b[38;5;245m\u001b[48;5;234m                                                      \u001b[21;60H\u001b[96m┃ \u001b[m\u001b[38;5;245m\u001b[48;5;234m                                                         \u001b[22;60H\u001b[96m┃ # handles any other subtopic as the room ID, for example \u001b[23;60H`\"rooms:12\"`, `\"rooms:34\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[7m\u001b[96m\"`\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m                                 \u001b[24;60H\u001b[96m┃ def join(\"rooms:\" \u003c\u003e room_id, auth_message, socket) do\u001b[m\u001b[38;5;245m\u001b[48;5;234m   \u001b[25;60H\u001b[96m┃   {:ok, socket}\u001b[m\u001b[38;5;245m\u001b[48;5;234m                                          \u001b[26;60H\u001b[96m┃ end\u001b[m\u001b[38;5;245m\u001b[48;5;234m                                                      \u001b[27;60H                                                           \u001b[28;60H\u001b[93mAuthorization"
+    ],
+    [
+      0.009036,
+      "\u001b[m\u001b[38;5;245m\u001b[48;5;234m                                              \u001b[29;60H                                                           \u001b[30;60HClients must join a channel to send and receive PubSub even\u001b[31;60Hts on that channel.                                        \u001b[32;60HYour channels must implement a \u001b[96mjoin/3\u001b[m\u001b[38;5;245m\u001b[48;5;234m callback t           \u001b[33;60Hhat authorizes the socke\u001b[1m\u001b[7mt for\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m                              \u001b[34;60Hthe given topic. For example, you could check if the user i\u001b[35;60Hs allowed to join                                          \u001b[36;60Hthat particular room.                                      \u001b[2;60Hoften made of two parts: \u001b[96m\"topic:subtopic\"\u001b[m\u001b[38;5;245m\u001b[48;5;234m. Using\u001b[3;61Hthe \u001b[96m\"topic:subtop\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[7m\u001b[96mic\"\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[7m approach\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[4;60Hpairs nicely with the \u001b[96mPhoenix.Socket.channel/2\u001b[m\u001b[38;5;245m\u001b[48;5;234m a\u001b[5;60Hllowing you to match on \u001b"
+    ],
+    [
+      0.000087,
+      "[1m\u001b[7mall\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[6;60Htopics starting with a given prefix:\u001b[8;60H\u001b[96m┃ channel \"rooms:*\", MyApp.RoomChannel\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[10;60HAny topic coming into the router with the \u001b[96m\"rooms:\"\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[11;61Hprefix would dispatch\u001b[1m\u001b[7m to\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[12;60H\u001b[96mMyApp.RoomChannel\u001b[m\u001b[38;5;245m\u001b[48;5;234m in the above example. Topics c\u001b[13;60Han also be pattern match\u001b[1m\u001b[7med in\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[14;60Hyour channels' \u001b[96mjoin/3\u001b[m\u001b[38;5;245m\u001b[48;5;234m callback to pluck out the\u001b[15;60Hscoped pattern:\u001b[17;60H\u001b[96m┃ # handles the special `\"lobby\"` subtopic\u001b[18;60H┃ def join(\"rooms:lobby\", _auth_message, socket) do\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[37;113H\u001b[1m\u001b[38;5;235m\u001b[48;5;252m13\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;22m\u001b[48;5;252m:\u001b[2;60H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.093720,
+      "\u001b[?25l\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;108H^U\u001b[2;60H"
+    ],
+    [
+      0.000229,
+      "\u001b[38;108H  \u001b[2;60H\r\u001b[59C                                                           \u001b[3;60H                                                           \u001b[4;60H                                                           \u001b[5;60H                                                           \u001b[6;60H                                                           \u001b[7;60H                                                           \u001b[8;60H                                                           \u001b[9;60H                                                           \u001b[10;60H                                                           \u001b[11;60H                                                           \u001b[12;60H                                                           \u001b[13;60H                                                           \u001b[14;60H                                                           \u001b[15;60H                                                           \u001b[16;60H                                                           \u001b[17;60H  "
+    ],
+    [
+      0.000034,
+      "                                                         \u001b[18;60H                                                           \u001b[19;60Hoften made of two parts: \u001b[96m\"topic:subtopic\"\u001b[m\u001b[38;5;245m\u001b[48;5;234m. Using           \u001b[20;60H the \u001b[96m\"topic:subtop\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[7m\u001b[96mic\"\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[7m approach\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m                             \u001b[21;60Hpairs nicely with the \u001b[96mPhoenix.Socket.channel/2\u001b[m\u001b[38;5;245m\u001b[48;5;234m a           \u001b[22;60Hllowing you to match on \u001b[1m\u001b[7mall\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m                                \u001b[23;60Htopics starting with a given prefix:                       \u001b[24;60H                                                           \u001b[25;60H\u001b[96m┃ channel \"rooms:*\", MyApp.RoomChannel\u001b[m\u001b[38;5;245m\u001b[48;5;234m                     \u001b[26;60H                                                           \u001b[27;60HAny topic coming into the router with the \u001b[96m\"rooms:\"\u001b[m\u001b[38;5;245m\u001b[48;5;234m         \u001b[28;60H prefix would dis"
+    ],
+    [
+      0.005793,
+      "patch\u001b[1m\u001b[7m to\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m                                  \u001b[29;60H\u001b[96mMyApp.RoomChannel\u001b[m\u001b[38;5;245m\u001b[48;5;234m in the above example. Topics c           \u001b[30;60Han also be pattern match\u001b[1m\u001b[7med in\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m                              \u001b[31;60Hyour channels' \u001b[96mjoin/3\u001b[m\u001b[38;5;245m\u001b[48;5;234m callback to pluck out the            \u001b[32;60Hscoped pattern:                                            \u001b[33;60H                                                           \u001b[34;60H\u001b[96m┃ # handles the special `\"lobby\"` subtopic\u001b[m\u001b[38;5;245m\u001b[48;5;234m                 \u001b[35;60H\u001b[96m┃ def join(\"rooms:lobby\", _auth_message, socket) do\u001b[m\u001b[38;5;245m\u001b[48;5;234m        \u001b[36;60H\u001b[96m┃   {:ok, socket}\u001b[m\u001b[38;5;245m\u001b[48;5;234m                                          \u001b[3;60H\u001b[93m                                Phoenix.Channel \u001b[4;60H                        \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[7m\u001b[93m        \u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[6;60HDefines a Phoenix Channel.\u001b[8;60HChannel"
+    ],
+    [
+      0.000055,
+      "s provide a means for bidirectional communication fr\u001b[9;60Hom clients that\u001b[10;60Hintegrate with the \u001b[96mPhoenix.PubSub\u001b[m\u001b[38;5;245m\u001b[48;5;234m layer for soft\u001b[11;60H-realtime functionality.\u001b[13;60H\u001b[93mTopics \u0026 Callbacks\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[15;60HEverytime you join a channel, you need to choose which part\u001b[16;60Hicular topic you\u001b[17;60Hwant to listen to. The topic is just an identifier, but by\u001b[18;60Hconvention it is\u001b[37;113H\u001b[1m\u001b[38;5;235m\u001b[48;5;252m 1\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;22m\u001b[48;5;252m:2\u001b[2;60H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.330002,
+      "\u001b[?25l\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;108H^W\u001b[2;60H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.216204,
+      "\u001b[?25l\u001b[38;110Hq\u001b[2;60H"
+    ],
+    [
+      0.006148,
+      "\u001b[38;108H   \u001b[2;1H\u001b[1;1H\u001b[38;5;250m\u001b[48;5;240m 1 lib/\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;231m\u001b[48;5;240mphoenix.ex \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;240m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;231m\u001b[48;5;236m                                   \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[2;59H\u001b[K\u001b[3;59H\u001b[K\u001b[4;59H\u001b[K\u001b[5;59H\u001b[K\u001b[6;59H\u001b[38;5;37ms besides\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[6;68H\u001b[K\u001b[7;1H\u001b[38;5;37m  Phoenix itself. Below we provide a short explanation with links to\r\n  their documentation for each of those projects:\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[8;50H\u001b[K\u001b[9;1H\u001b[K\u001b[10;3H\u001b[38;5;37m  * [Ecto](http://hexdocs.pm/ecto) - a language integrated query and\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[10;71H\u001b[K\u001b[11;1H\u001b[38;5;37m      database wrapper\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[11;59H\u001b[K\u001b[12;1H\u001b[K\u001b[13;1H\u001b[38;5;37m    * [Phoenix](http://hexdocs.pm/phoenix) - the Phoenix web framework\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[13;71H\u001b[K\u001b[14;7H\u001b[38;5;37m(these docs)\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[14;19H\u001b[K\u001b[15;59H\u001b[K\u001b[16;15H\u001b[38;5;37m HTML](ht"
+    ],
+    [
+      0.000078,
+      "tp://hexdocs.pm/phoenix_html) - conveniences for\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[16;73H\u001b[K\u001b[17;1H\u001b[38;5;37m      working with HTML in Phoenix\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[17;59H\u001b[K\u001b[18;1H\u001b[K\u001b[19;1H\u001b[38;5;37m    * [Plug](http://hexdocs.pm/plug) - a specification and conveniences\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[19;72H\u001b[K\u001b[20;5H\u001b[38;5;37m  for composable modules in between web applications\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[20;57H\u001b[K\u001b[21;1H\u001b[K\u001b[22;3H\u001b[38;5;37mThere are also optional packages depending on your configuration:\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[22;68H\u001b[K\u001b[23;59H\u001b[K\u001b[24;9H\u001b[38;5;37mhoenix PubSub Redis](http://hexdocs.pm/phoenix_pubsub_redis) - use\r\n      Redis to power Phoenix PubSub system\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[25;59H\u001b[K\u001b[26;1H\u001b[K\u001b[27;1H\u001b[38;5;37m  \"\"\"\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[27;59H\u001b[K\u001b[28;1H  \u001b[38;5;166muse\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;136mApplication\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[28;18H\u001b[K\u001b[29;1H\u001b[K\u001b[30;3H\u001b[38;5;33m@doc\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;37mfalse\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[30;59H\u001b[K\u001b[31;1H  "
+    ],
+    [
+      0.005124,
+      "\u001b[38;5;166mdef\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;33mstart\u001b[m\u001b[38;5;245m\u001b[48;5;234m(\u001b[38;5;240m_type\u001b[m\u001b[38;5;245m\u001b[48;5;234m, \u001b[38;5;240m_args\u001b[m\u001b[38;5;245m\u001b[48;5;234m) \u001b[38;5;64mdo\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[31;29H\u001b[K\u001b[32;1H    \u001b[38;5;240m# Warm up caches\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[32;59H\u001b[K\u001b[33;1H    \u001b[38;5;240m_\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;64m=\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;136mPhoenix.Template\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;64m.\u001b[m\u001b[38;5;245m\u001b[48;5;234mengines\u001b[33;33H\u001b[K\u001b[34;5H\u001b[38;5;240m_\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;64m=\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;136mPhoenix.Template\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;64m.\u001b[m\u001b[38;5;245m\u001b[48;5;234mformat_encoder(\u001b[38;5;124m\"\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;37mindex.html\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;124m\"\u001b[m\u001b[38;5;245m\u001b[48;5;234m)\u001b[34;59H\u001b[K\u001b[35;1H\u001b[K\u001b[36;3H  \u001b[38;5;240m# Configure proper system flags from Phoenix only\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[36;59H\u001b[K\u001b[37;1H\u001b[1m\u001b[38;5;22m\u001b[48;5;148m NORMAL \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;244m\u001b[48;5;235me\u001b[m\u001b[38;5;245m\u001b[48"
+    ],
+    [
+      0.000117,
+      ";5;234m\u0008\u001b[38;5;148m\u001b[48;5;240m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;244m\u001b[48;5;235mi\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u0008\u001b[38;5;250m\u001b[48;5;240m 296a6e9 \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;245m\u001b[48;5;240m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;250m\u001b[48;5;240mlib/\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;231m\u001b[48;5;240mphoenix.ex \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;240m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;231m\u001b[48;5;236m                                       \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;231m\u001b[48;5;240me\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u0008\u001b[38;5;247m\u001b[48;5;236munix\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;231m\u001b[48;5;240mi\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u0008\u001b[38;5;244m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;231m\u001b[48;5;240m:\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u0008\u001b[38;5;247m\u001b[48;5;236m utf-8\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;231m\u001b[48;5;240mi\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u0008\u001b[38;5;244m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;231m\u001b[48;5;240m.\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u0008\u001b[38;5;247m\u001b[48;5;236m"
+    ],
+    [
+      0.005533,
+      " elixir\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;231m\u001b[48;5;240ml\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u0008\u001b[38;5;240m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;231m\u001b[48;5;240m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u0008\u001b[38;5;70m\u001b[48;5;240m   2%\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;252m\u001b[48;5;240m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[7C\u001b[38;5;22m\u001b[48;5;252m1\u001b[2;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.567112,
+      "\u001b[?25l\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;108H\u003e\u001b[2;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.108649,
+      "\u001b[?25l\u001b[38;108H \u001b[2;1H\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[H\u001b[2J\u001b[1;1H\u001b[38;5;250m\u001b[48;5;240m 1 lib/\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;231m\u001b[48;5;240mphoenix.ex \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;240m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;231m\u001b[48;5;236m                                                                                          \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;252m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;235m\u001b[48;5;252m Bufs \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[2;1H\u001b[38;5;166mdefmodule\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;136mPhoenix\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;64mdo\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n  \u001b[38;5;33m@moduledoc\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;37m\"\"\"\r\n  This is documentation for the Phoenix project.\r\n\r\n  By default, Phoenix applications depend on other packages besides\r\n  Phoenix itself. Below we provide a short explanation with links to\r\n  their documentation for each of those projects:\r\n\r\n    * [E"
+    ],
+    [
+      0.000078,
+      "cto](http://hexdocs.pm/ecto) - a language integrated query and\r\n      database wrapper\r\n\r\n    * [Phoenix](http://hexdocs.pm/phoenix) - the Phoenix web framework\r\n      (these docs)\r\n\r\n    * [Phoenix HTML](http://hexdocs.pm/phoenix_html) - conveniences for\r\n      working with HTML in Phoenix\r\n\r\n    * [Plug](http://hexdocs.pm/plug) - a specification and conveniences\r\n      for composable modules in between web applications\r\n\r\n  There are also optional packages depending on your configuration:\r\n\r\n    * [Phoenix PubSub Redis](http://hexdocs.pm/phoenix_pubsub_redis) - use\r\n      Redis to power Phoenix PubSub system\r\n\r\n  \"\"\"\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n  \u001b[38;5;166muse\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;136mApplication\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\r\n  \u001b[38;5;33m@doc\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;37mfalse\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n  \u001b[38;5;166mdef\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;33mstart\u001b[m\u001b[38;5;245m\u001b[48;5;234m(\u001b[38;5;240m_type\u001b[m\u001b[38;5;245m\u001b[48;5;234m, \u001b[38;5;240m_args\u001b[m\u001b[38;5;245m\u001b[48;5;234m) \u001b[38;5;64mdo"
+    ],
+    [
+      0.007555,
+      "\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n    \u001b[38;5;240m# Warm up caches\r\n\u001b[m\u001b[38;5;245m\u001b[48;5;234m    \u001b[38;5;240m_\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;64m=\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;136mPhoenix.Template\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;64m.\u001b[m\u001b[38;5;245m\u001b[48;5;234mengines\r\n    \u001b[38;5;240m_\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;64m=\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;136mPhoenix.Template\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;64m.\u001b[m\u001b[38;5;245m\u001b[48;5;234mformat_encoder(\u001b[38;5;124m\"\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;37mindex.html\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;124m\"\u001b[m\u001b[38;5;245m\u001b[48;5;234m)\u001b[36;5H\u001b[38;5;240m# Configure proper system flags from Phoenix only\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[1m\u001b[38;5;22m\u001b[48;5;148m NORMAL \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;148m\u001b[48;5;240m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;250m\u001b[48;5;240m 296a6e9 \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;245m\u001b[48;5;240m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;250m\u001b[48;5;240mlib/\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;231m\u001b[48;5;240mphoenix.ex \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;240m\u001b[48;5;236m \u001b"
+    ],
+    [
+      0.000061,
+      "[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;231m\u001b[48;5;236m                                       \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;247m\u001b[48;5;236munix\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;244m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;247m\u001b[48;5;236m utf-8\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;244m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;247m\u001b[48;5;236m elixir\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;240m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;70m\u001b[48;5;240m   2%\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;252m\u001b[48;5;240m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;235m\u001b[48;5;252m  \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;235m\u001b[48;5;252m  1\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;22m\u001b[48;5;252m:1  \u001b[2;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000010,
+      "\u001b[?25l\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;108H\u003eq\u001b[2;1H"
+    ],
+    [
+      0.003023,
+      "\u0007\u001b[38;108H  \u001b[2;1H\u001b[27m\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[H\u001b[2J\u001b[1;1H\u001b[38;5;250m\u001b[48;5;240m 1 lib/\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;231m\u001b[48;5;240mphoenix.ex \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;240m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;231m\u001b[48;5;236m                                                                                          \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;252m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;235m\u001b[48;5;252m Bufs \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[2;1H\u001b[38;5;166mdefmodule\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;136mPhoenix\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;64mdo\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n  \u001b[38;5;33m@moduledoc\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;37m\"\"\"\r\n  This is documentation for the Phoenix project.\r\n\r\n  By default, Phoenix applications depend on other packages besides\r\n  Phoenix itself. Below we provide a short explanation with links to\r\n  their documentation for each of those projects:\r\n\r\n    * [Ecto]"
+    ],
+    [
+      0.000072,
+      "(http://hexdocs.pm/ecto) - a language integrated query and\r\n      database wrapper\r\n\r\n    * [Phoenix](http://hexdocs.pm/phoenix) - the Phoenix web framework\r\n      (these docs)\r\n\r\n    * [Phoenix HTML](http://hexdocs.pm/phoenix_html) - conveniences for\r\n      working with HTML in Phoenix\r\n\r\n    * [Plug](http://hexdocs.pm/plug) - a specification and conveniences\r\n      for composable modules in between web applications\r\n\r\n  There are also optional packages depending on your configuration:\r\n\r\n    * [Phoenix PubSub Redis](http://hexdocs.pm/phoenix_pubsub_redis) - use\r\n      Redis to power Phoenix PubSub system\r\n\r\n  \"\"\"\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n  \u001b[38;5;166muse\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;136mApplication\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\r\n  \u001b[38;5;33m@doc\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;37mfalse\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n  \u001b[38;5;166mdef\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;33mstart\u001b[m\u001b[38;5;245m\u001b[48;5;234m(\u001b[38;5;240m_type\u001b[m\u001b[38;5;245m\u001b[48;5;234m, \u001b[38;5;240m_args\u001b[m\u001b[38;5;245m\u001b[48;5;234m) \u001b[38;5;64mdo"
+    ],
+    [
+      0.007301,
+      "\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n    \u001b[38;5;240m# Warm up caches\r\n\u001b[m\u001b[38;5;245m\u001b[48;5;234m    \u001b[38;5;240m_\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;64m=\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;136mPhoenix.Template\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;64m.\u001b[m\u001b[38;5;245m\u001b[48;5;234mengines\r\n    \u001b[38;5;240m_\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;64m=\u001b[m\u001b[38;5;245m\u001b[48;5;234m \u001b[38;5;136mPhoenix.Template\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;64m.\u001b[m\u001b[38;5;245m\u001b[48;5;234mformat_encoder(\u001b[38;5;124m\"\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;37mindex.html\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;124m\"\u001b[m\u001b[38;5;245m\u001b[48;5;234m)\u001b[36;5H\u001b[38;5;240m# Configure proper system flags from Phoenix only\u001b[m\u001b[38;5;245m\u001b[48;5;234m\r\n\u001b[1m\u001b[38;5;22m\u001b[48;5;148m NORMAL \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;148m\u001b[48;5;240m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;250m\u001b[48;5;240m 296a6e9 \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;245m\u001b[48;5;240m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;250m\u001b[48;5;240mlib/\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;231m\u001b[48;5;240mphoenix.ex \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;240m\u001b[48;5;236m \u001b"
+    ],
+    [
+      0.000054,
+      "[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;231m\u001b[48;5;236m                                       \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;247m\u001b[48;5;236munix\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;244m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;247m\u001b[48;5;236m utf-8\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;244m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;247m\u001b[48;5;236m elixir\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;240m\u001b[48;5;236m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;70m\u001b[48;5;240m   2%\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;252m\u001b[48;5;240m \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;235m\u001b[48;5;252m  \u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[1m\u001b[38;5;235m\u001b[48;5;252m  1\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;5;22m\u001b[48;5;252m:1  \u001b[2;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.624702,
+      "\u001b[?25l\u001b[m\u001b[38;5;245m\u001b[48;5;234m\u001b[38;108H:\u001b[2;1H"
+    ],
+    [
+      0.000040,
+      "\u001b[38;108H\u001b[K\u001b[38;1H:"
+    ],
+    [
+      0.000019,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.256589,
+      "q"
+    ],
+    [
+      0.000008,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.159875,
+      "a"
+    ],
+    [
+      0.000006,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.079976,
+      "\r"
+    ],
+    [
+      0.085353,
+      "\u001b[?25l\u001b[?1002l\u001b[38;1H\u001b[K\u001b[38;1H\u001b[?1l\u001b\u003e\u001b[?12l\u001b[?25h\u001b[?1049l"
+    ],
+    [
+      0.002449,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                     \r \r"
+    ],
+    [
+      0.094029,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[0;38;5;231;48;5;31;1m sanmiguel \u001b[0;38;5;31;48;5;240;22m \u001b[0;38;5;250;48;5;240m~ \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;250;48;5;240mgit \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;252;48;5;240;1mphoenix \u001b[0;38;5;240;49;22m \u001b[0m"
+    ],
+    [
+      0.000009,
+      "\u001b[K\u001b[63C\u001b[0;38;5;236;49;22m \u001b[0;38;5;98;48;5;236m  296a6e9\u001b[0;38;5;166;48;5;236m ✚ 1\u001b[0;38;5;214;48;5;236m … 1 \u001b[0m\u001b[84D"
+    ],
+    [
+      0.000070,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.063340,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[0;38;5;231;48;5;31;1m sanmiguel \u001b[0;38;5;31;48;5;240;22m \u001b[0;38;5;250;48;5;240m~ \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;250;48;5;240mgit \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;252;48;5;240;1mphoenix \u001b[0;38;5;240;49;22m \u001b[0m\u001b[K\u001b[63C\u001b[0;38;5;236;49;22m \u001b[0;38;5;98;48;5;236m  296a6e9\u001b[0;38;5;166;48;5;236m ✚ 1\u001b[0;38;5;214;48;5;236m … 1 \u001b[0m\u001b[84D"
+    ],
+    [
+      0.003626,
+      "\r\r\n"
+    ]
+  ]
+}
