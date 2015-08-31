@@ -1,0 +1,1234 @@
+{
+  "version": 1,
+  "width": 239,
+  "height": 61,
+  "duration": 51.891789,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.464025,
+      "s"
+    ],
+    [
+      0.120093,
+      "b"
+    ],
+    [
+      0.143527,
+      "t"
+    ],
+    [
+      0.176851,
+      "\u001b]0;soroosh@ubuntu-soroosh: ~/zalando-projects/personalisation/ab-streerage\u0007soroosh@ubuntu-soroosh:~/zalando-projects/personalisation/ab-streerage$ "
+    ],
+    [
+      0.000028,
+      "s"
+    ],
+    [
+      0.000125,
+      "b"
+    ],
+    [
+      0.000067,
+      "t"
+    ],
+    [
+      0.375105,
+      "\r\n"
+    ],
+    [
+      0.191296,
+      "Java HotSpot(TM) 64-Bit Server VM warning: "
+    ],
+    [
+      0.000017,
+      "ignoring option MaxPermSize=1G; support was removed in 8.0\r\n"
+    ],
+    [
+      5.460099,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0mLoading project definition from /home/soroosh/zalando-projects/personalisation/ab-streerage/project\u001b[0m"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      7.300757,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0mSet current project to steerage (in build file:/home/soroosh/zalando-projects/personalisation/ab-streerage/)\u001b[0m"
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.916422,
+      "\u003e "
+    ],
+    [
+      1.057151,
+      "t"
+    ],
+    [
+      0.090777,
+      "e"
+    ],
+    [
+      0.200013,
+      "s"
+    ],
+    [
+      0.111508,
+      "t"
+    ],
+    [
+      0.504247,
+      "\r\n"
+    ],
+    [
+      4.850640,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0mScalaTest\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000682,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[36mRun completed in 1 second, 359 milliseconds.\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[36mTotal number of tests run: 0\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[36mSuites: completed 0, aborted 0\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[36mTests: succeeded 0, failed 0, canceled 0, ignored 0, pending 0\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[33mNo tests were executed.\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      1.042575,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mConditionSpec:\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000047,
+      "\r\n"
+    ],
+    [
+      0.000098,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mA condition\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m  when evaluation is true\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000068,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m  - should return true\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000068,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m  when input is None\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000085,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m  - should return false\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.133835,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mNodeSpec:\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000016,
+      "\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mA Node\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m  when with just root\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m  - should return the score of root\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000070,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m  when when the context is empty\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000050,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m  - should return the score of root\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000048,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m  when when forAll called\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m  - should execute the function on all the nodes\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.478044,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mNodeFactorySPec:\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000023,
+      "\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mFactory\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m  when the input is null\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m  when the input is JsNull\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000144,
+      "\r\n"
+    ],
+    [
+      0.000054,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m  when the input is simpleDecisionTree\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m  - should create 3 nodes\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m  - should get the score of context truely\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000042,
+      "\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m  when the input is below json file\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000046,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m  - should create 172 nodes\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m  - should generated context score should compute correctly\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.035420,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mConditionFactorySpec:\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000028,
+      "\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mFactory\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- when the jsValue input is null\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- when the index input is null\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m  when the passed jsValue does not have boundary\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m  - should generate EqualCondition\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m    should the passed index is out of bound\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m    - should throw IllegalArgumentException\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m  when the passed jsValue has boundary\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m  - should generate BetweenCondition\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000006,
+      "\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m  - should generated betweenCondition should accept 1\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m  - should generate EqualCondition with NA value when the value is {}\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.247822,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mFirstAssignmentServiceSpec:\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000151,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mservice\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000528,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should create a correct assignment when calling assign method\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.039733,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mFirstLayerServiceSpec:\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mLayerService\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should call the repository find method\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should return the input steering when there is no layer\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should return the input steering when layer contains just 1 steering\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.047046,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mFirstVariantServiceSpec:\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000014,
+      "\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mfindVariant\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should throw exception when steering does not exist\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should call the repositories with correct parameters\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should return assignment variant when exists\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should change the assignment from reserved to NOT-RESERVED\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.035494,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mMemorySteeringRepositorySpec:\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000111,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mRepository In Memory\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should after adding a steering could find it\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should removed steering (by object) should not exist in repo anymore\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should removed steering (by id) should not exist in repo anymore\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should steering refiner should save in repository as well\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000057,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should refiner with just environment should be save\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.012109,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mAssignmentFactorySpec:\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mFactory\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should set the date for assignment\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should use hash strategy to create assignment hash code\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should buildReserved should not add a variant to assignment and should put it in reserved\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.020609,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mSteeringSpec:\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000122,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mSteering with no refiner\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should return itself when input is a environment\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should return itself when input is None\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mSteering with refiner\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should return itself when appDomainId does not exist in refiners\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should return refined steering when appDomainId exists in refiners\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should return itself variants when refiner variants is empty\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000061,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mSteering\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should be enabled\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should be disabled\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.012496,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mTestModeVariantFinderSpec:\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000066,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mFinder\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should just call assign of assignment service when layer service returns a steering\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should call assign and reserve of assignment service when layer service returns a UUID\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.010177,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mSimpleHashStrategySpec:\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mStrategy\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should return __EMPTY__ when map is empty\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should return the concat of key-value in sorted mode\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.011907,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mSteeringEnvironmentSpec:\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mSteeringEnvironment\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should throw exception when the input of constructor is null or empty\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should return false when input is empty\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should return true when input is has  existing value for all elements\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should return false when all the items are not exist in current environment\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.015823,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mFirstABDiffServiceSpec:\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000036,
+      "\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mFirstABDiffService\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should just call shortcutRepo when the result is not None\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.011867,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mLayerSpec:\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mLayer\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should find all the steerings which can have conflict with current steering 1\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should find all the steerings which can have conflict with current steering 2\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should find all the steerings which can have conflict with current steering 3\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.009012,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mProbabilityBasedModeResolverSpec:\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mResolver\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should return SteeringMode when ratio is 100\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should return TestMode when ratio is 0\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.285089,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[36mRun completed in 2 seconds, 198 milliseconds.\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[36mTotal number of tests run: 16\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000151,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[36mSuites: completed 4, aborted 0\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000040,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[36mTests: succeeded 16, failed 0, canceled 0, ignored 0, pending 0\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000054,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mAll tests passed.\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.026125,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[36mRun completed in 1 second, 744 milliseconds.\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[36mTotal number of tests run: 37\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000025,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[36mSuites: completed 12, aborted 0\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[36mTests: succeeded 37, failed 0, canceled 0, ignored 0, pending 0\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mAll tests passed.\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      3.382746,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mCassandraLayerRepositorySpec:\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000033,
+      "\r\n"
+    ],
+    [
+      0.000060,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mRepository\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000026,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should Add layer\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000033,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should Find should return None\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      2.922880,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mCassandraFeedbackRepositorySpec:\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mCassandraFeedbackRepository\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should save parital feedback in cassandra\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000028,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should save complete feedback in cassandra\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000028,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should return None when correlationId does not exist\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      1.303513,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mCassandraSteeringRepositorySpec:\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000196,
+      "\r\n"
+    ],
+    [
+      0.000041,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mRepository Cassandra\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000053,
+      "\r\n"
+    ],
+    [
+      0.000029,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should after adding a steering could find it\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000043,
+      "\r\n"
+    ],
+    [
+      0.000025,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should removed steering (by object) should not exist in repo anymore\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000037,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should removed steering (by id) should not exist in repo anymore\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000042,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should steering refiner should save in repository as well\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000038,
+      "\r\n"
+    ],
+    [
+      0.000033,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should refiner with just environment should be save\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      3.818385,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mCassandraAssignmentRepositorySpec:\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mrepository\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should find all assignments in one layer\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should find all assignments of specific steering point\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000532,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should find exact assignment\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should return None when assignment does not exist\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000063,
+      "\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should add assignment to repository\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.004756,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mCassandraForcedAssignmentRepositorySpec:\u001b[0m\u001b[0m"
+    ],
+    [
+      0.004453,
+      "\r\n"
+    ],
+    [
+      0.075670,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[36mRun completed in 11 seconds, 623 milliseconds.\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000127,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[36mTotal number of tests run: 0\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000049,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[36mSuites: completed 0, aborted 0\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000053,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[36mTests: succeeded 0, failed 0, canceled 0, ignored 0, pending 0\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[33mNo tests were executed.\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.028765,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[36mRun completed in 11 seconds, 583 milliseconds.\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000037,
+      "\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[36mTotal number of tests run: 0\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[36mSuites: completed 0, aborted 0\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[36mTests: succeeded 0, failed 0, canceled 0, ignored 0, pending 0\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[33mNo tests were executed.\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.020004,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[36mRun completed in 11 seconds, 409 milliseconds.\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000186,
+      "\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[36mTotal number of tests run: 15\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[36mSuites: completed 5, aborted 0\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[36mTests: succeeded 15, failed 0, canceled 0, ignored 0, pending 0\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000280,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mAll tests passed.\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000069,
+      "\r\n"
+    ],
+    [
+      1.318538,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mVariantsSpec:\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000053,
+      "\r\n"
+    ],
+    [
+      0.235021,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0mScalaTest\u001b[0m"
+    ],
+    [
+      0.000057,
+      "\r\n"
+    ],
+    [
+      0.000554,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[36mRun completed in 1 second, 200 milliseconds.\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000029,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[36mTotal number of tests run: 0\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000028,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[36mSuites: completed 0, aborted 0\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[36mTests: succeeded 0, failed 0, canceled 0, ignored 0, pending 0\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[33mNo tests were executed.\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.004234,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0mScalaTest\u001b[0m"
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.000095,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[36mRun completed in 1 second, 185 milliseconds.\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[36mTotal number of tests run: 0\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000027,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[36mSuites: completed 1, aborted 0\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000025,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[36mTests: succeeded 0, failed 0, canceled 0, ignored 0, pending 0\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000024,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[33mNo tests were executed.\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.002803,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0mPassed: Total 0, Failed 0, Errors 0, Passed 0\u001b[0m"
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.925361,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mSteeringCentricScenarios:\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      3.182744,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mSimpleScenario:\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000078,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mVariantService\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000028,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should throw not found exception when steering with specified uuid does not exist\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should should return default variant when there is just one steering\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should should assign the reserved assignment to request when exists\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.459889,
+      "[\u001b[33mwarn\u001b[0m] application - Logger configuration in conf files is deprecated and has no effect. Use a logback configuration file instead."
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.863151,
+      "[\u001b[37minfo\u001b[0m] p.a.l.c.ActorSystemProvider - Starting application default Akka system: application"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      1.770356,
+      "[\u001b[34mtrace\u001b[0m] d.z.p.w.f.DurationLoggingFilter - controllers.Steerings.postSteering took 335ms and returned 200"
+    ],
+    [
+      0.000122,
+      "\r\n"
+    ],
+    [
+      0.019217,
+      "[\u001b[34mtrace\u001b[0m] d.z.p.w.f.AccessLoggingFilter - method=POST uri=/steerings remote-address=127.0.0.1 status=200"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000718,
+      "method=POST uri=/steerings remote-address=127.0.0.1 status=200\r\n"
+    ],
+    [
+      0.097151,
+      "[\u001b[34mtrace\u001b[0m] d.z.p.w.f.DurationLoggingFilter - controllers.Steerings.postSteering took 15ms and returned 400"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000871,
+      "method=POST uri=/steerings remote-address=127.0.0.1 status=400\r\n"
+    ],
+    [
+      0.000064,
+      "[\u001b[34mtrace\u001b[0m] d.z.p.w.f.AccessLoggingFilter - method=POST uri=/steerings remote-address=127.0.0.1 status=400"
+    ],
+    [
+      0.000045,
+      "\r\n"
+    ],
+    [
+      0.055079,
+      "[\u001b[34mtrace\u001b[0m] d.z.p.w.f.DurationLoggingFilter - controllers.Steerings.postSteering took 43ms and returned 200"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.008106,
+      "method=POST uri=/steerings remote-address=127.0.0.1 status=200\r\n"
+    ],
+    [
+      0.000028,
+      "[\u001b[34mtrace\u001b[0m] d.z.p.w.f.AccessLoggingFilter - method=POST uri=/steerings remote-address=127.0.0.1 status=200"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.052127,
+      "[\u001b[34mtrace\u001b[0m] d.z.p.w.f.DurationLoggingFilter - controllers.Steerings.postSteering took 21ms and returned 200"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.002830,
+      "method=POST uri=/steerings remote-address=127.0.0.1 status=200\r\n[\u001b[34mtrace\u001b[0m] d.z.p.w.f.AccessLoggingFilter - method=POST uri=/steerings remote-address=127.0.0.1 status=200"
+    ],
+    [
+      0.000311,
+      "\r\n"
+    ],
+    [
+      0.075122,
+      "[\u001b[34mtrace\u001b[0m] d.z.p.w.f.DurationLoggingFilter - controllers.Steerings.getSteering took 33ms and returned 200"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000806,
+      "method=GET uri=/steerings/3740c7a4-c760-4d00-a98f-1e3a5f3f34ae remote-address=127.0.0.1 status=200\r\n"
+    ],
+    [
+      0.000028,
+      "[\u001b[34mtrace\u001b[0m] d.z.p.w.f.AccessLoggingFilter - method=GET uri=/steerings/3740c7a4-c760-4d00-a98f-1e3a5f3f34ae remote-address=127.0.0.1 status=200"
+    ],
+    [
+      0.000041,
+      "\r\n"
+    ],
+    [
+      0.021377,
+      "[\u001b[34mtrace\u001b[0m] d.z.p.w.f.DurationLoggingFilter - controllers.Steerings.getSteering took 13ms and returned 404"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000696,
+      "method=GET uri=/steerings/72a68fbd-9137-4ef6-8ede-d4aa9de63ebb remote-address=127.0.0.1 status=404\r\n"
+    ],
+    [
+      0.000022,
+      "[\u001b[34mtrace\u001b[0m] d.z.p.w.f.AccessLoggingFilter - method=GET uri=/steerings/72a68fbd-9137-4ef6-8ede-d4aa9de63ebb remote-address=127.0.0.1 status=404"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.040494,
+      "[\u001b[34mtrace\u001b[0m] d.z.p.w.f.DurationLoggingFilter - controllers.Steerings.postSteering took 21ms and returned 200"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.002159,
+      "method=POST uri=/steerings remote-address=127.0.0.1 status=200"
+    ],
+    [
+      0.000015,
+      "\r\n[\u001b[34mtrace\u001b[0m] d.z.p.w.f.AccessLoggingFilter - method=POST uri=/steerings remote-address=127.0.0.1 status=200\r\n"
+    ],
+    [
+      0.046231,
+      "[\u001b[34mtrace\u001b[0m] d.z.p.w.f.DurationLoggingFilter - controllers.Steerings.patchSteering took 28ms and returned 200"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.001876,
+      "method=PATCH uri=/steerings/f5217ecd-9ba4-44bd-8c7d-3065f43e7f30 remote-address=127.0.0.1 status=200"
+    ],
+    [
+      0.000155,
+      "\r\n"
+    ],
+    [
+      0.000042,
+      "[\u001b[34mtrace\u001b[0m] d.z.p.w.f.AccessLoggingFilter - method=PATCH uri=/steerings/f5217ecd-9ba4-44bd-8c7d-3065f43e7f30 remote-address=127.0.0.1 status=200\r\n"
+    ],
+    [
+      0.021245,
+      "[\u001b[34mtrace\u001b[0m] d.z.p.w.f.DurationLoggingFilter - controllers.Steerings.patchSteering took 7ms and returned 404"
+    ],
+    [
+      0.000060,
+      "\r\n"
+    ],
+    [
+      0.003013,
+      "method=PATCH uri=/steerings/29d8a834-b2ac-4baf-b9f0-fab8057a476d remote-address=127.0.0.1 status=404\r\n[\u001b[34mtrace\u001b[0m] d.z.p.w.f.AccessLoggingFilter - method=PATCH uri=/steerings/29d8a834-b2ac-4baf-b9f0-fab8057a476d remote-address=127.0.0.1 status=404\r\n"
+    ],
+    [
+      0.027519,
+      "[\u001b[34mtrace\u001b[0m] d.z.p.w.f.DurationLoggingFilter - controllers.Refiners.postRefiner took 14ms and returned 404\r\n"
+    ],
+    [
+      0.000911,
+      "[\u001b[34mtrace\u001b[0m] d.z.p.w.f.AccessLoggingFilter - method=POST uri=/steerings/807f08ac-c8ae-4a72-b273-6e735c1c5821/refiners remote-address=127.0.0.1 status=404"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000093,
+      "method=POST uri=/steerings/807f08ac-c8ae-4a72-b273-6e735c1c5821/refiners remote-address=127.0.0.1 status=404"
+    ],
+    [
+      0.000040,
+      "\r\n"
+    ],
+    [
+      0.037126,
+      "[\u001b[34mtrace\u001b[0m] d.z.p.w.f.DurationLoggingFilter - controllers.Steerings.postSteering took 26ms and returned 200"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.002486,
+      "method=POST uri=/steerings remote-address=127.0.0.1 status=200"
+    ],
+    [
+      0.000053,
+      "\r\n"
+    ],
+    [
+      0.000139,
+      "[\u001b[34mtrace\u001b[0m] d.z.p.w.f.AccessLoggingFilter - method=POST uri=/steerings remote-address=127.0.0.1 status=200"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.029519,
+      "[\u001b[37minfo\u001b[0m] p.a.l.c.ActorSystemProvider - Shutdown application default Akka system: application"
+    ],
+    [
+      0.000037,
+      "\r\n"
+    ],
+    [
+      0.062271,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mRegistrationScenarios:\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000176,
+      "\r\n"
+    ],
+    [
+      0.000037,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mPOST /steerings\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000074,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should create a steering when all the required attributes are passed\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000038,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should return error when steering is not valid\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000027,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should create a steering with all passed refiners\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should created steering should be persisted\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000026,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mGET /steering/{steering_id}\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should return error response when steering does not exist\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mPATCH /steering/{steering_id}\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should update existing steering\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should return error response when steering does not exist\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mPOST /steering/{steering_id}/refiners\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should return error response when steering does not exist\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32m- should add a new refiner to steering\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.051789,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0mScalaTest\u001b[0m"
+    ],
+    [
+      0.000034,
+      "\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[36mRun completed in 7 seconds, 454 milliseconds.\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[36mTotal number of tests run: 0\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[36mSuites: completed 0, aborted 0\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[36mTests: succeeded 0, failed 0, canceled 0, ignored 0, pending 0\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[33mNo tests were executed.\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.009009,
+      "\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0mScalaTest\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[36mRun completed in 7 seconds, 675 milliseconds.\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[36mTotal number of tests run: 12\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[36mSuites: completed 3, aborted 0\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[36mTests: succeeded 12, failed 0, canceled 0, ignored 0, pending 0\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0m\u001b[32mAll tests passed.\u001b[0m\u001b[0m\r\n\u001b[0m[\u001b[0minfo\u001b[0m] \u001b[0mPassed: Total 12, Failed 0, Errors 0, Passed 12\u001b[0m\r\n"
+    ],
+    [
+      0.061000,
+      "\u001b[0m[\u001b[32msuccess\u001b[0m] \u001b[0mTotal time: 28 s, completed Aug 31, 2015 2:14:48 PM\u001b[0m"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.090613,
+      "\u003e "
+    ],
+    [
+      4.562783,
+      "e"
+    ],
+    [
+      0.286291,
+      "x"
+    ],
+    [
+      0.135659,
+      "i"
+    ],
+    [
+      0.208171,
+      "t"
+    ],
+    [
+      0.520067,
+      "\r\n"
+    ],
+    [
+      0.108742,
+      "\u001b]0;soroosh@ubuntu-soroosh: ~/zalando-projects/personalisation/ab-streerage\u0007soroosh@ubuntu-soroosh:~/zalando-projects/personalisation/ab-streerage$ "
+    ],
+    [
+      0.475158,
+      "exit"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ]
+  ]
+}
