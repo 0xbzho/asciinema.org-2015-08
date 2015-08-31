@@ -1,0 +1,2038 @@
+{
+  "version": 1,
+  "width": 157,
+  "height": 30,
+  "duration": 84.384073,
+  "command": "/usr/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.099196,
+      "IMPALA_HOME            = /home/mgrund/Development/Impala\r\n"
+    ],
+    [
+      0.000011,
+      "HADOOP_HOME            = /home/mgrund/Development/Impala/thirdparty/hadoop-2.6.0-cdh5.5.0-SNAPSHOT/\r\nHADOOP_CONF_DIR        = /home/mgrund/Development/Impala/fe/src/test/resources\r\n"
+    ],
+    [
+      0.000017,
+      "MINI_DFS_BASE_DATA_DIR = /home/mgrund/Development/Impala/cdh-5-hdfs-data\r\n"
+    ],
+    [
+      0.000013,
+      "HIVE_HOME              = /home/mgrund/Development/Impala/thirdparty/hive-1.1.0-cdh5.5.0-SNAPSHOT/\r\n"
+    ],
+    [
+      0.000013,
+      "HIVE_CONF_DIR          = /home/mgrund/Development/Impala/fe/src/test/resources\r\n"
+    ],
+    [
+      0.000013,
+      "HBASE_HOME             = /home/mgrund/Development/Impala/thirdparty/hbase-1.0.0-cdh5.5.0-SNAPSHOT/\r\n"
+    ],
+    [
+      0.000012,
+      "HBASE_CONF_DIR         = /home/mgrund/Development/Impala/fe/src/test/resources\r\n"
+    ],
+    [
+      0.000013,
+      "MINIKDC_HOME           = /home/mgrund/Development/Impala/thirdparty/llama-minikdc-1.0.0\r\n"
+    ],
+    [
+      0.000012,
+      "THRIFT_HOME            = /home/mgrund/Development/Impala/thirdparty/thrift-0.9.0/build/\r\n"
+    ],
+    [
+      0.000012,
+      "HADOOP_LZO             = /home/mgrund/hadoop-lzo\r\n"
+    ],
+    [
+      0.000012,
+      "IMPALA_LZO             = /home/mgrund/Impala-lzo\r\n"
+    ],
+    [
+      0.000246,
+      "CLASSPATH              = /home/mgrund/hadoop-lzo/build/hadoop-lzo-0.4.15.jar:/home/mgrund/Development/Impala/fe/src/test/resources:/home/mgrund/Development/Impala/fe/target/classes:/home/mgrund/Development/Impala/fe/target/dependency:/home/mgrund/hadoop-lzo/build/hadoop-lzo-0.4.15.jar:/home/mgrund/Development/Impala/fe/src/test/resources:/home/mgrund/Development/Impala/fe/target/classes:/home/mgrund/Development/Impala/fe/target/dependency:/home/mgrund/hadoop-lzo/build/hadoop-lzo-0.4.15.jar:/home/mgrund/Development/Impala/fe/src/test/resources:/home/mgrund/Development/Impala/fe/target/classes:/home/mgrund/Development/Impala/fe/target/dependency:/home/mgrund/hadoop-lzo/build/hadoop-lzo-0.4.15.jar:/home/mgrund/Development/Impala/fe/src/test/resources:/home/mgrund/Development/Impala/fe/target/classes:/home/mgrund/Development/Impala/fe/target/dependency:/home/mgrund/hadoop-lzo/build/hadoop-lzo-0.4.15.jar:/home/mgrund/Development/Impala/fe/src/test/resources:/home/mgrund/Development/Impala/fe/target/classes:/home/mgrund/Development/Impala/fe/target/dependency:/home/mgrund/hadoop-lzo/build/hadoop-lzo-0.4.15.jar:/home/mgrund/Development/Impala/fe/src/test/resources:/home/mgrund/Development/Impala/fe/target/classes:/home/mgrund/Development/Impala/fe/target/dependency:/home/mgrund/hadoop-lzo/build/hadoop-lzo-0.4.15.jar:/home/mgrund/Development/Impala/fe/src/test/resources:/home/mgrund/Development/Impala/fe/target/classes:/home/mgrund/Development/Impala/fe/target/dependency:/home/mgrund/hadoop-lzo/build/hadoop-lzo-0.4.15.jar:/home/mgrund/Development/Impala/fe/src/test/resources:/home/mgrund/Development/Impala/fe/target/classes:/home/mgrund/Development/Impala/fe/target/dependency:/home/mgrund/Development/Impala/fe/src/test/resources:/home/mgrund/Development/Impala/fe/target/classes:/home/mgrund/Development/Impala/fe/target/dependency:/home/mgrund/Development/Impala/fe/target/test-classes:/home/mgrund/Development/Impala/thirdparty/hive-1.1.0-cdh5.5.0-SNAPSHOT//lib/datanucleus-api-jdo-3.2.1.jar:/home/mgrund/Development/Impala/"
+    ],
+    [
+      0.000012,
+      "thirdparty/hive-1.1.0-cdh5.5.0-SNAPSHOT//lib/datanucleus-core-3.2.2.jar:/home/mgrund/Development/Impala/thirdparty/hive-1.1.0-cdh5.5.0-SNAPSHOT//lib/datanucleus-rdbms-3.2.1.jar::/home/mgrund/Development/Impala/fe/target/dependency/activation-1.1.jar:/home/mgrund/Development/Impala/fe/target/dependency/ant-1.5.jar:/home/mgrund/Development/Impala/fe/target/dependency/ant-1.9.1.jar:/home/mgrund/Development/Impala/fe/target/dependency/ant-contrib-1.0b3.jar:/home/mgrund/Development/Impala/fe/target/dependency/ant-launcher-1.9.1.jar:/home/mgrund/Development/Impala/fe/target/dependency/antlr-2.7.7.jar:/home/mgrund/Development/Impala/fe/target/dependency/antlr-runtime-3.3.jar:/home/mgrund/Development/Impala/fe/target/dependency/aopalliance-1.0.jar:/home/mgrund/Development/Impala/fe/target/dependency/apacheds-i18n-2.0.0-M15.jar:/home/mgrund/Development/Impala/fe/target/dependency/apacheds-kerberos-codec-2.0.0-M15.jar:/home/mgrund/Development/Impala/fe/target/dependency/apache-log4j-extras-1.2.17.jar:/home/mgrund/Development/Impala/fe/target/dependency/api-asn1-api-1.0.0-M20.jar:/home/mgrund/Development/Impala/fe/target/dependency/api-util-1.0.0-M20.jar:/home/mgrund/Development/Impala/fe/target/dependency/asm-3.1.jar:/home/mgrund/Development/Impala/fe/target/dependency/asm-commons-3.1.jar:/home/mgrund/Development/Impala/fe/target/dependency/asm-tree-3.1.jar:/home/mgrund/Development/Impala/fe/target/dependency/async-1.3.1.jar:/home/mgrund/Development/Impala/fe/target/dependency/avro-1.7.6-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/fe/target/dependency/aws-java-sdk-1.7.4.jar:/home/mgrund/Development/Impala/fe/target/dependency/bonecp-0.8.0.RELEASE.jar:/home/mgrund/Development/Impala/fe/target/dependency/calcite-avatica-1.0.0-incubating.jar:/home/mgrund/Development/Impala/fe/target/dependency/calcite-core-1.0.0-incubating.jar:/home/mgrund/Development/Impala/fe/target/dependency/calcite-linq4j-1.0.0-incubating.jar:/home/mgrund/Development/Impala/fe/target/dependency/commons-beanutils-1.8.3.jar:/home/mgrund/Development/Impala/fe/target/dependency/commons-beanutils-core-1.8.0.jar:/home/mgrund/Development/Impala/fe/target/dependency/commons-cli-1.2.jar:/home/mgrund/Development/Impala/fe/target/dependency/commons-codec-1.9.jar:/home/mgrund/Development/Impala/fe/target/dependency/commons-collections-3.2.1.jar:/home/mgrund/Development/Impala/fe/target/dependency/commons-compiler-2.7.6.jar:/home/mgrund/Development/Impala/fe/target/dependency/commons-compress-1.4.1.jar:/home/mgrund/Development/Impala/fe/target/dependency/commons-configuration-1.6.jar:/home/mgrund/Development/Impala/fe/target/dependency/commons-daemon-1.0.13.jar:/home/mgrund/Development/Impala/fe/target/dependency/commons-dbcp-1.4.jar:/home/mgrund/Development/Impala/fe/target/dependency/commons-digester-1.8.jar:/home/mgrund/Development/Impala/fe/target/dependency/commons-el-1.0.jar:/home/mgrund/Development/Impala/fe/target/dependency/commons-httpclient-3.1.jar:/home/mgrund/Development/Impala/fe/target/dependency/commons-io-2.4.jar:/home/mgrund/Development/Impala/fe/target/dependency/commons-lang-2.6.jar:/home/mgrund/Development/Impala/fe/target/dependency/commons-logging-1.1.1.jar:/home/mgrund/Development/Impala/fe/target/dependency/commons-math-2.2.jar:/home/mgrund/Development/Impala/fe/target/dependency/commons-math3-3.1.1.jar:/home/mgrund/Development/Impala/fe/target/dependency/commons-net-3.1.jar:/home/mgrund/Development/Impala/fe/target/dependency/commons-pool-1.5.4.jar:/home/mgrund/Development/Impala/fe/target/dependency/core-3.1.1.jar:/home/mgrund/Development/Impala/fe/target/dependency/curator-client-2.7.1.jar:/home/mgrund/Development/Impala/fe/target/dependency/curator-framework-2.7.1.jar:/home/mgrund/Development/Impala/fe/target/dependency/curator-recipes-2.7.1.jar:/home/mgrund/Development/Impala/fe/target/dependency/curator-test-2.6.0.jar:/home/mgrund/Development/Impala/fe/target/dependency/curator-x-discovery-2.6.0.jar:/home/mgrund/Development/Impala/fe/target/dependency/datanucleus-api-jdo-3.2.6.jar:/home/mgrund/Development/Impala/fe/target/dependency/"
+    ],
+    [
+      0.000010,
+      "datanucleus-core-3.2.10.jar:/home/mgrund/Development/Impala/fe/target/dependency/datanucleus-rdbms-3.2.9.jar:/home/mgrund/Development/Impala/fe/target/dependency/derby-10.4.2.0.jar:/home/mgrund/Development/Impala/fe/target/dependency/eigenbase-properties-1.1.4.jar:/home/mgrund/Development/Impala/fe/target/dependency/findbugs-annotations-1.3.9-1.jar:/home/mgrund/Development/Impala/fe/target/dependency/geronimo-annotation_1.0_spec-1.1.1.jar:/home/mgrund/Development/Impala/fe/target/dependency/geronimo-jaspic_1.0_spec-1.0.jar:/home/mgrund/Development/Impala/fe/target/dependency/geronimo-jta_1.1_spec-1.1.1.jar:/home/mgrund/Development/Impala/fe/target/dependency/groovy-all-2.1.6.jar:/home/mgrund/Development/Impala/fe/target/dependency/gson-2.2.4.jar:/home/mgrund/Development/Impala/fe/target/dependency/guava-11.0.2.jar:/home/mgrund/Development/Impala/fe/target/dependency/guice-3.0.jar:/home/mgrund/Development/Impala/fe/target/dependency/guice-servlet-3.0.jar:/home/mgrund/Development/Impala/fe/target/dependency/hadoop-annotations-2.6.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/fe/target/dependency/hadoop-auth-2.6.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/fe/target/dependency/hadoop-aws-2.6.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/fe/target/dependency/hadoop-common-2.6.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/fe/target/dependency/hadoop-core-2.6.0-mr1-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/fe/target/dependency/hadoop-hdfs-2.6.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/fe/target/dependency/hadoop-mapreduce-client-common-2.6.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/fe/target/dependency/hadoop-mapreduce-client-core-2.6.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/fe/target/dependency/hadoop-mapreduce-client-jobclient-2.6.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/fe/target/dependency/hadoop-mapreduce-client-shuffle-2.6.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/fe/target/dependency/hadoop-yarn-api-2.6.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/fe/target/dependency/hadoop-yarn-client-2.6.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/fe/target/dependency/hadoop-yarn-common-2.6.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/fe/target/dependency/hadoop-yarn-server-applicationhistoryservice-2.6.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/fe/target/dependency/hadoop-yarn-server-common-2.6.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/fe/target/dependency/hadoop-yarn-server-nodemanager-2.6.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/fe/target/dependency/hadoop-yarn-server-resourcemanager-2.6.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/fe/target/dependency/hadoop-yarn-server-web-proxy-2.6.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/fe/target/dependency/hbase-annotations-1.0.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/fe/target/dependency/hbase-client-1.0.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/fe/target/dependency/hbase-common-1.0.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/fe/target/dependency/hbase-protocol-1.0.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/fe/target/dependency/high-scale-lib-1.1.1.jar:/home/mgrund/Development/Impala/fe/target/dependency/hive-ant-1.1.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/fe/target/dependency/hive-beeline-1.1.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/fe/target/dependency/hive-common-1.1.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/fe/target/dependency/hive-exec-1.1.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/fe/target/dependency/hive-hbase-handler-1.1.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/fe/target/dependency/hive-metastore-1.1.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/fe/target/dependency/hive-serde-1.1.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/fe/target/dependency/hive-service-1.1.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Imp"
+    ],
+    [
+      0.000010,
+      "ala/fe/target/dependency/hive-shims-0.23-1.1.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/fe/target/dependency/hive-shims-1.1.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/fe/target/dependency/hive-shims-common-1.1.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/fe/target/dependency/hive-shims-scheduler-1.1.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/fe/target/dependency/hsqldb-1.8.0.10.jar:/home/mgrund/Development/Impala/fe/target/dependency/htrace-core-3.0.4.jar:/home/mgrund/Development/Impala/fe/target/dependency/htrace-core-3.2.0-incubating.jar:/home/mgrund/Development/Impala/fe/target/dependency/httpclient-4.2.5.jar:/home/mgrund/Development/Impala/fe/target/dependency/httpcore-4.2.5.jar:/home/mgrund/Development/Impala/fe/target/dependency/impala-data-source-api-1.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/fe/target/dependency/jackson-annotations-2.2.3.jar:/home/mgrund/Development/Impala/fe/target/dependency/jackson-core-2.2.3.jar:/home/mgrund/Development/Impala/fe/target/dependency/jackson-core-asl-1.8.8.jar:/home/mgrund/Development/Impala/fe/target/dependency/jackson-databind-2.2.3.jar:/home/mgrund/Development/Impala/fe/target/dependency/jackson-jaxrs-1.8.3.jar:/home/mgrund/Development/Impala/fe/target/dependency/jackson-mapper-asl-1.8.8.jar:/home/mgrund/Development/Impala/fe/target/dependency/jackson-xc-1.8.3.jar:/home/mgrund/Development/Impala/fe/target/dependency/janino-2.7.6.jar:/home/mgrund/Development/Impala/fe/target/dependency/jasper-compiler-5.5.23.jar:/home/mgrund/Development/Impala/fe/target/dependency/jasper-runtime-5.5.23.jar:/home/mgrund/Development/Impala/fe/target/dependency/java-cup-0.11a.jar:/home/mgrund/Development/Impala/fe/target/dependency/javassist-3.18.1-GA.jar:/home/mgrund/Development/Impala/fe/target/dependency/javax.inject-1.jar:/home/mgrund/Development/Impala/fe/target/dependency/javax.json-1.0.2.jar:/home/mgrund/Development/Impala/fe/target/dependency/java-xmlbuilder-0.4.jar:/home/mgrund/Development/Impala/fe/target/dependency/javax.servlet-2.5.0.v201103041518.jar:/home/mgrund/Development/Impala/fe/target/dependency/jaxb-api-2.2.2.jar:/home/mgrund/Development/Impala/fe/target/dependency/jaxb-impl-2.2.3-1.jar:/home/mgrund/Development/Impala/fe/target/dependency/jcodings-1.0.8.jar:/home/mgrund/Development/Impala/fe/target/dependency/jdo-api-3.0.1.jar:/home/mgrund/Development/Impala/fe/target/dependency/jersey-client-1.9.jar:/home/mgrund/Development/Impala/fe/target/dependency/jersey-core-1.9.jar:/home/mgrund/Development/Impala/fe/target/dependency/jersey-guice-1.9.jar:/home/mgrund/Development/Impala/fe/target/dependency/jersey-json-1.9.jar:/home/mgrund/Development/Impala/fe/target/dependency/jersey-server-1.9.jar:/home/mgrund/Development/Impala/fe/target/dependency/jersey-servlet-1.14.jar:/home/mgrund/Development/Impala/fe/target/dependency/jets3t-0.9.0.jar:/home/mgrund/Development/Impala/fe/target/dependency/jettison-1.1.jar:/home/mgrund/Development/Impala/fe/target/dependency/jetty-6.1.26.cloudera.4.jar:/home/mgrund/Development/Impala/fe/target/dependency/jetty-all-7.6.0.v20120127.jar:/home/mgrund/Development/Impala/fe/target/dependency/jetty-continuation-7.6.16.v20140903.jar:/home/mgrund/Development/Impala/fe/target/dependency/jetty-http-7.6.16.v20140903.jar:/home/mgrund/Development/Impala/fe/target/dependency/jetty-io-7.6.16.v20140903.jar:/home/mgrund/Development/Impala/fe/target/dependency/jetty-security-7.6.16.v20140903.jar:/home/mgrund/Development/Impala/fe/target/dependency/jetty-server-7.6.16.v20140903.jar:/home/mgrund/Development/Impala/fe/target/dependency/jetty-servlet-7.6.16.v20140903.jar:/home/mgrund/Development/Impala/fe/target/dependency/jetty-util-6.1.26.jar:/home/mgrund/Development/Impala/fe/target/dependency/jetty-util-7.6.16.v20140903.jar:/home/mgrund/Development/Impala/fe/target/dependency/jline-2.12.jar:/home/mgrund/Development/Impala/fe/target/dependency/joni-2.1.2.jar:/home/mgrund/Development/Impala/fe/target/dependency/jpam-1.1.jar:/home/mgrund/Development/Impala/fe/target/dependency/jsch-0.1.42.jar:/home/mgrund/Develo"
+    ],
+    [
+      0.000008,
+      "pment/Impala/fe/target/dependency/json-simple-1.1.1.jar:/home/mgrund/Development/Impala/fe/target/dependency/jsp-api-2.1.jar:/home/mgrund/Development/Impala/fe/target/dependency/jsr305-3.0.0.jar:/home/mgrund/Development/Impala/fe/target/dependency/jta-1.1.jar:/home/mgrund/Development/Impala/fe/target/dependency/kudu-client-0.1.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/fe/target/dependency/leveldbjni-all-1.8.jar:/home/mgrund/Development/Impala/fe/target/dependency/libfb303-0.9.0.jar:/home/mgrund/Development/Impala/fe/target/dependency/libthrift-0.9.0.jar:/home/mgrund/Development/Impala/fe/target/dependency/log4j-1.2.17.jar:/home/mgrund/Development/Impala/fe/target/dependency/logredactor-1.0.3.jar:/home/mgrund/Development/Impala/fe/target/dependency/mail-1.4.1.jar:/home/mgrund/Development/Impala/fe/target/dependency/metrics-core-3.0.2.jar:/home/mgrund/Development/Impala/fe/target/dependency/metrics-healthchecks-3.0.2.jar:/home/mgrund/Development/Impala/fe/target/dependency/metrics-json-3.0.2.jar:/home/mgrund/Development/Impala/fe/target/dependency/metrics-jvm-3.0.2.jar:/home/mgrund/Development/Impala/fe/target/dependency/metrics-servlets-3.0.2.jar:/home/mgrund/Development/Impala/fe/target/dependency/netty-3.6.2.Final.jar:/home/mgrund/Development/Impala/fe/target/dependency/opencsv-2.3.jar:/home/mgrund/Development/Impala/fe/target/dependency/oro-2.0.8.jar:/home/mgrund/Development/Impala/fe/target/dependency/paranamer-2.3.jar:/home/mgrund/Development/Impala/fe/target/dependency/parquet-hadoop-bundle-1.5.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/fe/target/dependency/pentaho-aggdesigner-algorithm-5.1.5-jhyde.jar:/home/mgrund/Development/Impala/fe/target/dependency/postgresql-9.0-801.jdbc4.jar:/home/mgrund/Development/Impala/fe/target/dependency/protobuf-java-2.5.0.jar:/home/mgrund/Development/Impala/fe/target/dependency/sentry-binding-hive-1.4.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/fe/target/dependency/sentry-core-common-1.4.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/fe/tar"
+    ],
+    [
+      0.000012,
+      "get/dependency/sentry-core-model-db-1.4.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/fe/target/dependency/sentry-policy-common-1.4.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/fe/target/dependency/sentry-policy-db-1.4.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/fe/target/dependency/sentry-provider-cache-1.4.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/fe/target/dependency/sentry-provider-common-1.4.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/fe/target/dependency/sentry-provider-db-1.4.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/fe/target/dependency/sentry-provider-file-1.4.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/fe/target/dependency/servlet-api-2.5.jar:/home/mgrund/Development/Impala/fe/target/dependency/shiro-core-1.2.1.jar:/home/mgrund/Development/Impala/fe/target/dependency/slf4j-api-1.7.5.jar:/home/mgrund/Development/Impala/fe/target/dependency/slf4j-log4j12-1.7.5.jar:/home/mgrund/Development/Impala/fe/target/dependency/snappy-java-1.0.4.1.jar:/home/mgrund/Development/Impala/fe/target/dependency/ST4-4.0.4.jar:/home/mgrund/Development/Impala/fe/target/dependency/stax-api-1.0.1.jar:/home/mgrund/Development/Impala/fe/target/dependency/stax-api-1.0-2.jar:/home/mgrund/Development/Impala/fe/target/dependency/stringtemplate-3.2.1.jar:/home/mgrund/Development/Impala/fe/target/dependency/super-csv-2.2.0.jar:/home/mgrund/Development/Impala/fe/target/dependency/velocity-1.5.jar:/home/mgrund/Development/Impala/fe/target/dependency/xercesImpl-2.9.1.jar:/home/mgrund/Development/Impala/fe/target/dependency/xml-apis-1.3.04.jar:/home/mgrund/Development/Impala/fe/target/dependency/xmlenc-0.52.jar:/home/mgrund/Development/Impala/fe/target/dependency/xz-1.0.jar:/home/mgrund/Development/Impala/fe/target/dependency/zookeeper-3.4.5-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/testdata/target/dependency/activation-1.1.jar:/home/mgrund/Development/Impala/testdata/target/dependency/apacheds-i18n-2.0.0-M15.jar:/home/mgrund/Development/Impala/testdata/target/dependency/apacheds-kerberos-codec-2.0.0-M15.jar:/home/mgrund/Development/Impala/testdata/target/dependency/api-asn1-api-1.0.0-M20.jar:/home/mgrund/Development/Impala/testdata/target/dependency/api-util-1.0.0-M20.jar:/home/mgrund/Development/Impala/testdata/target/dependency/asm-3.1.jar:/home/mgrund/Development/Impala/testdata/target/dependency/avro-1.7.6-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/testdata/target/dependency/commons-beanutils-1.7.0.jar:/home/mgrund/Development/Impala/testdata/target/dependency/commons-beanutils-core-1.8.0.jar:/home/mgrund/Development/Impala/testdata/target/dependency/commons-cli-1.2.jar:/home/mgrund/Development/Impala/testdata/target/dependency/commons-codec-1.4.jar:/home/mgrund/Development/Impala/testdata/target/dependency/commons-collections-3.2.1.jar:/home/mgrund/Development/Impala/testdata/target/dependency/commons-compress-1.4.1.jar:/home/mgrund/Development/Impala/testdata/target/dependency/commons-configuration-1.6.jar:/home/mgrund/Development/Impala/testdata/target/dependency/commons-daemon-1.0.13.jar:/home/mgrund/Development/Impala/testdata/target/dependency/commons-digester-1.8.jar:/home/mgrund/Development/Impala/testdata/target/dependency/commons-el-1.0.jar:/home/mgrund/Development/Impala/testdata/target/dependency/commons-httpclient-3.1.jar:/home/mgrund/Development/Impala/testdata/target/dependency/commons-io-2.4.jar:/home/mgrund/Development/Impala/testdata/target/dependency/commons-lang-2.6.jar:/home/mgrund/Development/Impala/testdata/target/dependency/commons-logging-1.1.1.jar:/home/mgrund/Development/Impala/testdata/target/dependency/commons-math-2.1.jar:/home/mgrund/Development/Impala/testdata/target/dependency/commons-math3-3.1.1.jar:/home/mgrund/Development/Impala/testdata/target/dependency/commons-net-3.1.jar:/home/mgrund/Development/Impala/testdata/target/dependency/core-3.1.1.jar:/home/mgrund/Development/Impala/testdata/target/dependency/curator-client-2.7.1.jar:/home/mgrund/Development/Impala/testdata/target/dependency/curator-framew"
+    ],
+    [
+      0.000008,
+      "ork-2.7.1.jar:/home/mgrund/Development/Impala/testdata/target/dependency/curator-recipes-2.7.1.jar:/home/mgrund/Development/Impala/testdata/target/dependency/disruptor-3.3.0.jar:/home/mgrund/Development/Impala/testdata/target/dependency/findbugs-annotations-1.3.9-1.jar:/home/mgrund/Development/Impala/testdata/target/dependency/gson-2.2.4.jar:/home/mgrund/Development/Impala/testdata/target/dependency/guava-r09.jar:/home/mgrund/Development/Impala/testdata/target/dependency/hadoop-annotations-2.6.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/testdata/target/dependency/hadoop-auth-2.6.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/testdata/target/dependency/hadoop-common-2.6.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/testdata/target/dependency/hadoop-core-2.6.0-mr1-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/testdata/target/dependency/hadoop-hdfs-2.6.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/testdata/target/dependency/hadoop-hdfs-2.6.0-cdh5.5.0-SNAPSHOT-tests.jar:/home/mgrund/Development/Impala/testdata/target/dependency/hamcrest-core-1.3.jar:/home/mgrund/Development/Impala/testdata/target/dependency/hbase-annotations-1.0.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/testdata/target/dependency/hbase-client-1.0.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/testdata/target/dependency/hbase-common-1.0.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/testdata/target/dependency/hbase-common-1.0.0-cdh5.5.0-SNAPSHOT-tests.jar:/home/mgrund/Development/Impala/testdata/target/dependency/hbase-hadoop2-compat-1.0.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/testdata/target/dependency/hbase-hadoop-compat-1.0.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/testdata/target/dependency/hbase-prefix-tree-1.0.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/testdata/target/dependency/hbase-protocol-1.0.0-cdh5.5.0-SNAPSHOT.jar:/home/mgrund/Development/Impala/testdata/target/dependency/hbase-server-1.0.0-cdh5.5.0-SNAPSHOT.jar:/home"
+    ],
+    [
+      0.000009,
+      "/mgrund/Development/Impala/testdata/target/dependency/high-scale-lib-1.1.1.jar:/home/mgrund/Development/Impala/testdata/target/dependency/hsqldb-1.8.0.10.jar:/home/mgrund/Development/Impala/testdata/target/dependency/htrace-core-2.00.jar:/home/mgrund/Development/Impala/testdata/target/dependency/htrace-core-3.2.0-incubating.jar:/home/mgrund/Development/Impala/testdata/target/dependency/httpclient-4.1.2.jar:/home/mgrund/Development/Impala/testdata/target/dependency/httpcore-4.1.2.jar:/home/mgrund/Development/Impala/testdata/target/dependency/jackson-core-asl-1.8.8.jar:/home/mgrund/Development/Impala/testdata/target/dependency/jackson-jaxrs-1.8.8.jar:/home/mgrund/Development/Impala/testdata/target/dependency/jackson-mapper-asl-1.8.8.jar:/home/mgrund/Development/Impala/testdata/target/dependency/jackson-xc-1.8.3.jar:/home/mgrund/Development/Impala/testdata/target/dependency/jamon-runtime-2.3.1.jar:/home/mgrund/Development/Impala/testdata/target/dependency/jasper-compiler-5.5.23.jar:/home/mgrund/Development/Impala/testdata/target/dependency/jasper-runtime-5.5.23.jar:/home/mgrund/Development/Impala/testdata/target/dependency/java-xmlbuilder-0.4.jar:/home/mgrund/Development/Impala/testdata/target/dependency/jaxb-api-2.1.jar:/home/mgrund/Development/Impala/testdata/target/dependency/jaxb-impl-2.2.3-1.jar:/home/mgrund/Development/Impala/testdata/target/dependency/jcodings-1.0.8.jar:/home/mgrund/Development/Impala/testdata/target/dependency/jdk.tools-1.7.jar:/home/mgrund/Development/Impala/testdata/target/dependency/jersey-core-1.9.jar:/home/mgrund/Development/Impala/testdata/target/dependency/jersey-json-1.9.jar:/home/mgrund/Development/Impala/testdata/target/dependency/jersey-server-1.9.jar:/home/mgrund/Development/Impala/testdata/target/dependency/jets3t-0.9.0.jar:/home/mgrund/Development/Impala/testdata/target/dependency/jettison-1.1.jar:/home/mgrund/Development/Impala/testdata/target/dependency/jetty-6.1.26.cloudera.4.jar:/home/mgrund/Development/Impala/testdata/target/dependency/jetty-sslengine-6.1.26.cloudera.4.jar:/home/mgrund/Development/Impala/testdata/target/dependency/jetty-util-6.1.26.cloudera.4.jar:/home/mgrund/Development/Impala/testdata/target/dependency/joni-2.1.2.jar:/home/mgrund/Development/Impala/testdata/target/dependency/jsch-0.1.42.jar:/home/mgrund/Development/Impala/testdata/target/dependency/jsp-2.1-6.1.14.jar:/home/mgrund/Development/Impala/testdata/target/dependency/jsp-api-2.1-6.1.14.jar:/home/mgrund/Development/Impala/testdata/target/dependency/jsp-api-2.1.jar:/home/mgrund/Development/Impala/testdata/target/dependency/jsr305-3.0.0.jar:/home/mgrund/Development/Impala/testdata/target/dependency/junit-4.12.jar:/home/mgrund/Development/Impala/testdata/target/dependency/leveldbjni-all-1.8.jar:/home/mgrund/Development/Impala/testdata/target/dependency/log4j-1.2.17.jar:/home/mgrund/Development/Impala/testdata/target/dependency/metrics-core-2.2.0.jar:/home/mgrund/Development/Impala/testdata/target/dependency/netty-3.6.6.Final.jar:/home/mgrund/Development/Impala/testdata/target/dependency/paranamer-2.3.jar:/home/mgrund/Development/Impala/testdata/target/dependency/protobuf-java-2.5.0.jar:/home/mgrund/Development/Impala/testdata/target/dependency/servlet-api-2.5-6.1.14.jar:/home/mgrund/Development/Impala/testdata/target/dependency/servlet-api-2.5.jar:/home/mgrund/Development/Impala/testdata/target/dependency/slf4j-api-1.7.5.jar:/home/mgrund/Development/Impala/testdata/target/dependency/slf4j-log4j12-1.7.5.jar:/home/mgrund/Development/Impala/testdata/target/dependency/snappy-java-1.0.4.1.jar:/home/mgrund/Development/Impala/testdata/target/dependency/xercesImpl-2.9.1.jar:/home/mgrund/Development/Impala/testdata/target/dependency/xml-apis-1.3.04.jar:/home/mgrund/Development/Impala/testdata/target/dependency/xmlenc-0.52.jar:/home/mgrund/Development/Impala/testdata/target/dependency/xz-1.0.jar:/home/mgrund/Development/Impala/testdata/target/dependency/zookeeper-3.4.5-cdh5.5.0-SNAPSHOT.jar\r\n"
+    ],
+    [
+      0.000032,
+      "LIBHDFS_OPTS           =  -Djava.library.path=/home/mgrund/Development/Impala/thirdparty/hadoop-2.6.0-cdh5.5.0-SNAPSHOT//lib/native/:/home/mgrund/Development/Impala/be/build/debug/service -Djava.library.path=/home/mgrund/Development/Impala/thirdparty/hadoop-2.6.0-cdh5.5.0-SNAPSHOT//lib/native/:/home/mgrund/Development/Impala/be/build/debug/service -Djava.library.path=/home/mgrund/Development/Impala/thirdparty/hadoop-2.6.0-cdh5.5.0-SNAPSHOT//lib/native/:/home/mgrund/Development/Impala/be/build/debug/service -Djava.library.path=/home/mgrund/Development/Impala/thirdparty/hadoop-2.6.0-cdh5.5.0-SNAPSHOT//lib/native/:/home/mgrund/Development/Impala/be/build/debug/service -Djava.library.path=/home/mgrund/Development/Impala/thirdparty/hadoop-2.6.0-cdh5.5.0-SNAPSHOT//lib/native/:/home/mgrund/Development/Impala/be/build/debug/service -Djava.library.path=/home/mgrund/Development/Impala/thirdparty/hadoop-2.6.0-cdh5.5.0-SNAPSHOT//lib/native/:/home/mgrund/Development/Impala/be/build/debug/service -Djava.library.path=/home/mgrund/Development/Impala/thirdparty/hadoop-2.6.0-cdh5.5.0-SNAPSHOT//lib/native/:/home/mgrund/Development/Impala/be/build/debug/service -Djava.library.path=/home/mgrund/Development/Impala/thirdparty/hadoop-2.6.0-cdh5.5.0-SNAPSHOT//lib/native/:/home/mgrund/Development/Impala/be/build/debug/service -Djava.library.path=/home/mgrund/Development/Impala/thirdparty/hadoop-2.6.0-cdh5.5.0-SNAPSHOT//lib/native/:/home/mgrund/Development/Impala/be/build/debug/service\r\n"
+    ],
+    [
+      0.000019,
+      "PYTHONPATH             = /home/mgrund/Development/Impala:/home/mgrund/Development/Impala/shell/gen-py:/home/mgrund/Development/Impala/testdata/:/home/mgrund/Development/Impala/thirdparty/thrift-0.9.0/build//python/lib/python2.7/site-packages/:/home/mgrund/Development/Impala/thirdparty/hive-1.1.0-cdh5.5.0-SNAPSHOT//lib/py:/home/mgrund/Development/Impala/shell/ext-py/prettytable-0.7.1/dist/prettytable-0.7.1-py2.7.egg:/home/mgrund/Development/Impala/shell/ext-py/sasl-0.1.1/dist/sasl-0.1.1-py2.7-linux-x86_64.egg:/home/mgrund/Development/Impala/shell/ext-py/sqlparse-0.1.14/dist/sqlparse-0.1.14-py2.7.egg\r\n"
+    ],
+    [
+      0.000015,
+      "JAVA_HOME              = /usr/lib/jvm/java-7-oracle\r\n"
+    ],
+    [
+      0.000053,
+      "LD_LIBRARY_PATH        = :/usr/lib/jvm/java-7-oracle/jre/lib/amd64:/usr/lib/jvm/java-7-oracle/jre/lib/amd64:/usr/lib/jvm/java-7-oracle/jre/lib/amd64/server:/home/mgrund/Development/Impala/thirdparty/hadoop-2.6.0-cdh5.5.0-SNAPSHOT//lib/native:/home/mgrund/Development/Impala/be/build/debug/service:/home/mgrund/Development/Impala/thirdparty/snappy-1.0.5/build/lib:/home/mgrund/Impala-lzo/build:/home/mgrund/Development/Impala/../kudu/kudu-cli-export/usr/local/lib:/home/mgrund/Development/Impala/../kudu/kudu-cli-export/usr/local/lib64:/usr/lib/jvm/java-7-oracle/jre/lib/amd64:/usr/lib/jvm/java-7-oracle/jre/lib/amd64:/usr/lib/jvm/java-7-oracle/jre/lib/amd64/server:/home/mgrund/Development/Impala/thirdparty/hadoop-2.6.0-cdh5.5.0-SNAPSHOT//lib/native:/home/mgrund/Development/Impala/be/build/debug/service:/home/mgrund/Development/Impala/thirdparty/snappy-1.0.5/build/lib:/home/mgrund/Impala-lzo/build:/usr/lib/jvm/java-7-oracle/jre/lib/amd64:/usr/lib/jvm/java-7-oracle/jre/lib/amd64:/usr/lib/jvm/java-7-oracle/jre/lib/amd64/server:/home/mgrund/Development/Impala/thirdparty/hadoop-2.6.0-cdh5.5.0-SNAPSHOT//lib/native:/home/mgrund/Development/Impala/be/build/debug/service:/home/mgrund/Development/Impala/thirdparty/snappy-1.0.5/build/lib:/home/mgrund/Impala-lzo/build:/usr/lib/jvm/java-7-oracle/jre/lib/amd64:/usr/lib/jvm/java-7-oracle/jre/lib/amd64:/usr/lib/jvm/java-7-oracle/jre/lib/amd64/server:/home/mgrund/Development/Impala/thirdparty/hadoop-2.6.0-cdh5.5.0-SNAPSHOT//lib/native:/home/mgrund/Development/Impala/be/build/debug/service:/home/mgrund/Development/Impala/thirdparty/snappy-1.0.5/build/lib:/home/mgrund/Impala-lzo/build:/tmp/impala-deps/gcc-4.9.2/lib64:/usr/lib/jvm/java-7-oracle/jre/lib/amd64:/usr/lib/jvm/java-7-oracle/jre/lib/amd64:/usr/lib/jvm/java-7-oracle/jre/lib/amd64/server:/home/mgrund/Development/Impala/thirdparty/hadoop-2.6.0-cdh5.5.0-SNAPSHOT//lib/native:/home/mgrund/Development/Impala/be/build/debug/service:/home/mgrund/Development/Impala/thirdparty/snappy-1.0.5/build/lib:/home/mgrund/Impala-lzo/build:/tmp/impala-"
+    ],
+    [
+      0.000005,
+      "deps/gcc-4.9.2/lib64:/usr/lib/jvm/java-7-oracle/jre/lib/amd64:/usr/lib/jvm/java-7-oracle/jre/lib/amd64:/usr/lib/jvm/java-7-oracle/jre/lib/amd64/server:/home/mgrund/Development/Impala/thirdparty/hadoop-2.6.0-cdh5.5.0-SNAPSHOT//lib/native:/home/mgrund/Development/Impala/be/build/debug/service:/home/mgrund/Development/Impala/thirdparty/snappy-1.0.5/build/lib:/home/mgrund/Impala-lzo/build:/usr/lib/jvm/java-7-oracle/jre/lib/amd64:/usr/lib/jvm/java-7-oracle/jre/lib/amd64:/usr/lib/jvm/java-7-oracle/jre/lib/amd64/server:/home/mgrund/Development/Impala/thirdparty/hadoop-2.6.0-cdh5.5.0-SNAPSHOT//lib/native:/home/mgrund/Development/Impala/be/build/debug/service:/home/mgrund/Development/Impala/thirdparty/snappy-1.0.5/build/lib:/home/mgrund/Impala-lzo/build:/usr/lib/jvm/java-7-oracle/jre/lib/amd64:/usr/lib/jvm/java-7-oracle/jre/lib/amd64:/usr/lib/jvm/java-7-oracle/jre/lib/amd64/server:/home/mgrund/Development/Impala/thirdparty/hadoop-2.6.0-cdh5.5.0-SNAPSHOT//lib/native:/home/mgrund/Development/Impala/be/build/debug/service:/home/mgrund/Development/Impala/thirdparty/snappy-1.0.5/build/lib:/home/mgrund/Impala-lzo/build:/usr/lib/jvm/java-7-oracle/jre/lib/amd64:/usr/lib/jvm/java-7-oracle/jre/lib/amd64:/usr/lib/jvm/java-7-oracle/jre/lib/amd64/server:/home/mgrund/Development/Impala/thirdparty/hadoop-2.6.0-cdh5.5.0-SNAPSHOT//lib/native:/home/mgrund/Development/Impala/be/build/debug/service:/home/mgrund/Development/Impala/thirdparty/snappy-1.0.5/build/lib:/home/mgrund/Impala-lzo/build\r\n"
+    ],
+    [
+      0.000017,
+      "LD_PRELOAD             = :/usr/lib/jvm/java-7-oracle/jre/lib/amd64/libjsig.so:/usr/lib/jvm/java-7-oracle/jre/lib/amd64/libjsig.so:/usr/lib/jvm/java-7-oracle/jre/lib/amd64/libjsig.so:/usr/lib/jvm/java-7-oracle/jre/lib/amd64/libjsig.so:/usr/lib/jvm/java-7-oracle/jre/lib/amd64/libjsig.so:/usr/lib/jvm/java-7-oracle/jre/lib/amd64/libjsig.so:/usr/lib/jvm/java-7-oracle/jre/lib/amd64/libjsig.so:/usr/lib/jvm/java-7-oracle/jre/lib/amd64/libjsig.so:/usr/lib/jvm/java-7-oracle/jre/lib/amd64/libjsig.so\r\n"
+    ],
+    [
+      0.000013,
+      "IMPALA_TOOLCHAIN       = \r\n"
+    ],
+    [
+      0.073510,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                            \r \r"
+    ],
+    [
+      0.000048,
+      "\u001b]2;mgrund@mgrund-srv: ~/Development/Impala/stagin\u0007"
+    ],
+    [
+      0.000019,
+      "\u001b]1;..Impala/stagin\u0007"
+    ],
+    [
+      0.027170,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mstagin \u001b[01;34mgit:(\u001b[31mimpala/1136\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000007,
+      "\u001b[K"
+    ],
+    [
+      0.000034,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.345298,
+      "\u001b[H\u001b[2J\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mstagin \u001b[01;34mgit:(\u001b[31mimpala/1136\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      1.621081,
+      "i"
+    ],
+    [
+      0.136182,
+      "\u0008im"
+    ],
+    [
+      0.040202,
+      "p"
+    ],
+    [
+      0.103149,
+      "a"
+    ],
+    [
+      0.170923,
+      "la"
+    ],
+    [
+      0.333646,
+      "-"
+    ],
+    [
+      0.287881,
+      "h"
+    ],
+    [
+      0.152251,
+      "s"
+    ],
+    [
+      0.279452,
+      "\u0008 \u0008"
+    ],
+    [
+      0.152385,
+      "\u0008 \u0008"
+    ],
+    [
+      0.096240,
+      "s"
+    ],
+    [
+      0.151026,
+      "h"
+    ],
+    [
+      0.142651,
+      "ell.sh\u001b[1m \u001b[0m"
+    ],
+    [
+      0.514004,
+      "\u0008\u001b[0m -"
+    ],
+    [
+      0.280768,
+      "d"
+    ],
+    [
+      0.132294,
+      " "
+    ],
+    [
+      0.261281,
+      "t"
+    ],
+    [
+      0.000033,
+      "p"
+    ],
+    [
+      0.000038,
+      "c"
+    ],
+    [
+      0.000037,
+      "h"
+    ],
+    [
+      0.000031,
+      "_"
+    ],
+    [
+      0.000032,
+      "p"
+    ],
+    [
+      0.000033,
+      "a"
+    ],
+    [
+      0.000028,
+      "r"
+    ],
+    [
+      0.000032,
+      "q"
+    ],
+    [
+      0.000032,
+      "u"
+    ],
+    [
+      0.000034,
+      "e"
+    ],
+    [
+      0.000028,
+      "t"
+    ],
+    [
+      0.572862,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000029,
+      "\r\r\n"
+    ],
+    [
+      0.000688,
+      "\u001b]2;impala-shell.sh -d tpch_parquet\u0007\u001b]1;impala-shell.sh\u0007"
+    ],
+    [
+      0.078387,
+      "Starting Impala Shell without Kerberos authentication\r\n"
+    ],
+    [
+      0.001128,
+      "Connected to localhost:21000\r\nServer version: impalad version 2.3.0-cdh5-INTERNAL DEBUG (build ae5a6099c429372bb25a654a6c03c1dc04052f0c)\r\n"
+    ],
+    [
+      0.000688,
+      "***********************************************************************************\r\nWelcome to the Impala shell. Copyright (c) 2015 Cloudera, Inc. All rights reserved.\r\n(Impala Shell v2.3.0-cdh5-INTERNAL (ae5a609) built on Tue Aug  4 14:48:55 PDT 2015)\r\n\r\nAfter running a query, type SUMMARY to see a summary of where time was spent.\r\n***********************************************************************************"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.002764,
+      "Query: use `tpch_parquet`\r\n"
+    ],
+    [
+      0.006122,
+      "[localhost:21000] \u003e "
+    ],
+    [
+      2.470512,
+      "s"
+    ],
+    [
+      0.076234,
+      "e"
+    ],
+    [
+      0.198712,
+      "t"
+    ],
+    [
+      0.067189,
+      " "
+    ],
+    [
+      0.143117,
+      "l"
+    ],
+    [
+      0.058163,
+      "i"
+    ],
+    [
+      0.072501,
+      "v"
+    ],
+    [
+      0.108418,
+      "e"
+    ],
+    [
+      0.259650,
+      "_"
+    ],
+    [
+      0.184149,
+      "p"
+    ],
+    [
+      0.185446,
+      "r"
+    ],
+    [
+      0.694197,
+      "o"
+    ],
+    [
+      0.138081,
+      "g"
+    ],
+    [
+      0.056925,
+      "r"
+    ],
+    [
+      0.180610,
+      "e"
+    ],
+    [
+      0.136686,
+      "s"
+    ],
+    [
+      0.175958,
+      "s"
+    ],
+    [
+      0.931848,
+      "="
+    ],
+    [
+      2.664762,
+      "t"
+    ],
+    [
+      0.179228,
+      "r"
+    ],
+    [
+      0.104251,
+      "u"
+    ],
+    [
+      0.527744,
+      "e"
+    ],
+    [
+      0.312213,
+      ";"
+    ],
+    [
+      0.263708,
+      "\r\n"
+    ],
+    [
+      0.000660,
+      "LIVE_PROGRESS set to true\r\n"
+    ],
+    [
+      0.000012,
+      "[localhost:21000] \u003e "
+    ],
+    [
+      0.735403,
+      "set live_progress=true;"
+    ],
+    [
+      0.456603,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008lect                 "
+    ],
+    [
+      0.000005,
+      "\r\n\rl_returnflag,\r\n\rl_linestatus,"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\rsum(l_quantity) as sum_qty,"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "\rsum(l_extendedprice) as sum_base_price,\r\n"
+    ],
+    [
+      0.000008,
+      "\rsum(l_extendedprice * (1 - l_discount)) as sum_disc_price,"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\rsum(l_extendedprice * (1 - l_discount) * (1 + l_tax)) as sum_charge,\r\n"
+    ],
+    [
+      0.000007,
+      "\ravg(l_quantity) as avg_qty,"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\ravg(l_extendedprice) as avg_price,\r\n"
+    ],
+    [
+      0.000006,
+      "\ravg(l_discount) as avg_disc,\r\n"
+    ],
+    [
+      0.000005,
+      "\rcount(*) as count_order"
+    ],
+    [
+      0.000003,
+      "\r\n\rfrom"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "\rlineitem\r\n"
+    ],
+    [
+      0.000003,
+      "\rwhere"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "\rl_shipdate \u003c= '1998-09-02'"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "\rgroup by\r\n"
+    ],
+    [
+      0.000007,
+      "\rl_returnflag,"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\rl_linestatus"
+    ],
+    [
+      0.000003,
+      "\r\n\rorder by"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\rl_returnflag,"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\rl_linestatus;"
+    ],
+    [
+      0.735446,
+      "\r\n"
+    ],
+    [
+      0.003226,
+      "Query: select l_returnflag,\r\nl_linestatus,\r\nsum(l_quantity) as sum_qty,\r\nsum(l_extendedprice) as sum_base_price,\r\nsum(l_extendedprice * (1 - l_discount)) as sum_disc_price,\r\nsum(l_extendedprice * (1 - l_discount) * (1 + l_tax)) as sum_charge,\r\navg(l_quantity) as avg_qty,"
+    ],
+    [
+      0.000007,
+      "\r\navg(l_extendedprice) as avg_price,\r\navg(l_discount) as avg_disc,\r\ncount(*) as count_order\r\nfrom\r\nlineitem\r\nwhere\r\nl_shipdate \u003c= '1998-09-02'\r\ngroup by"
+    ],
+    [
+      0.000003,
+      "\r\nl_returnflag,\r\nl_linestatus"
+    ],
+    [
+      0.000003,
+      "\r\norder by"
+    ],
+    [
+      0.000003,
+      "\r\nl_returnflag,\r\n"
+    ],
+    [
+      0.000002,
+      "l_linestatus"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      1.475711,
+      "[                                                                                                    ] 0%\r\n"
+    ],
+    [
+      1.003977,
+      "\u001b[A                                                                                                         "
+    ],
+    [
+      0.000009,
+      "\r\n\u001b[A[                                                                                                    ] 0%\r\n"
+    ],
+    [
+      1.003900,
+      "\u001b[A"
+    ],
+    [
+      0.000009,
+      "                                                                                                         \r\n\u001b[A[                                                                                                    ] 0%\r\n"
+    ],
+    [
+      1.004026,
+      "\u001b[A"
+    ],
+    [
+      0.000008,
+      "                                                                                                         \r\n\u001b[A[                                                                                                    ] 0%\r\n"
+    ],
+    [
+      1.004187,
+      "\u001b[A"
+    ],
+    [
+      0.000008,
+      "                                                                                                         \r\n\u001b[A[                                                                                                    ] 0%\r\n"
+    ],
+    [
+      1.003590,
+      "\u001b[A                                                                                                         "
+    ],
+    [
+      0.000008,
+      "\r\n\u001b[A[                                                                                                    ] 0%\r\n"
+    ],
+    [
+      1.003816,
+      "\u001b[A                                                                                                         "
+    ],
+    [
+      0.000009,
+      "\r\n\u001b[A[                                                                                                    ] 0%\r\n"
+    ],
+    [
+      1.003697,
+      "\u001b[A                                                                                                         "
+    ],
+    [
+      0.000008,
+      "\r\n\u001b[A[                                                                                                    ] 0%\r\n"
+    ],
+    [
+      1.003994,
+      "\u001b[A"
+    ],
+    [
+      0.000009,
+      "                                                                                                         \r\n\u001b[A"
+    ],
+    [
+      0.000004,
+      "[                                                                                                    ] 0%\r\n"
+    ],
+    [
+      1.003971,
+      "\u001b[A"
+    ],
+    [
+      0.000009,
+      "                                                                                                         \r\n\u001b[A[                                                                                                    ] 0%\r\n"
+    ],
+    [
+      1.002489,
+      "\u001b[A"
+    ],
+    [
+      0.000010,
+      "                                                                                                         \r\n\u001b[A[                                                                                                    ] 0%\r\n"
+    ],
+    [
+      1.002308,
+      "\u001b[A"
+    ],
+    [
+      0.000009,
+      "                                                                                                         \r\n\u001b[A[                                                                                                    ] 0%\r\n"
+    ],
+    [
+      1.002297,
+      "\u001b[A                                                                                                         \r\n\u001b[A[################                                                                                    ] 16%"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      1.002046,
+      "\u001b[A                                                                                                          \r\n\u001b[A[#################################                                                                   ] 33%\r\n"
+    ],
+    [
+      1.002163,
+      "\u001b[A"
+    ],
+    [
+      0.000125,
+      "                                                                                                          "
+    ],
+    [
+      0.000105,
+      "\r\n"
+    ],
+    [
+      0.000046,
+      "\u001b[A"
+    ],
+    [
+      0.000040,
+      "[#################################                                                                   ] 33%"
+    ],
+    [
+      0.000074,
+      "\r\n"
+    ],
+    [
+      1.002236,
+      "\u001b[A"
+    ],
+    [
+      0.000009,
+      "                                                                                                          \r\n\u001b[A[##################################################################                                  ] 66%\r\n"
+    ],
+    [
+      0.500442,
+      "\u001b[A                                                                                                          \r\n\u001b[A"
+    ],
+    [
+      0.002770,
+      "+--------------+--------------+--------------+-----------------+-------------------+---------------------+---------+-----------+----------+-------------+\r\n| l_returnflag | l_linestatus | sum_qty      | sum_base_price  | sum_disc_price    | sum_charge          | avg_qty | avg_price | avg_disc | count_order |\r\n+--------------+--------------+--------------+-----------------+-------------------+---------------------+---------+-----------+----------+-------------+\r\n| A            | F            | 75468214.00  | 113173108801.46 | 107516514269.7400 | 111818130445.655384 | 25.52   | 38273.12  | 0.04     | 2956986     |\r\n| N            | F            | 1982834.00   | 2975009420.76   | 2826164336.1082   | 2939298446.388750   | 25.51   | 38284.46  | 0.05     | 77708       |\r\n| N            | O            | 148952080.00 | 223403459395.48 | 212236460615.2112 | 220734087744.994020 | 25.50   | 38249.11  | 0.04     | 5840748     |\r\n"
+    ],
+    [
+      0.000006,
+      "| R            | F            | 75439506.00  | 113136082761.80 | 107482585369.2080 | 111779238239.663864 | 25.50   | 38250.85  | 0.05     | 2957740     |\r\n+--------------+--------------+--------------+-----------------+-------------------+---------------------+---------+-----------+----------+-------------+\r\n"
+    ],
+    [
+      0.000127,
+      "Fetched 4 row(s) in 17.03s"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.008476,
+      "[localhost:21000] \u003e "
+    ],
+    [
+      1.732191,
+      "s"
+    ],
+    [
+      0.070639,
+      "e"
+    ],
+    [
+      0.207855,
+      "t"
+    ],
+    [
+      0.072542,
+      " "
+    ],
+    [
+      0.144095,
+      "l"
+    ],
+    [
+      0.103976,
+      "i"
+    ],
+    [
+      0.088007,
+      "v"
+    ],
+    [
+      0.087970,
+      "e"
+    ],
+    [
+      0.988029,
+      "_"
+    ],
+    [
+      0.428478,
+      "p"
+    ],
+    [
+      0.375258,
+      "r"
+    ],
+    [
+      0.191358,
+      "o"
+    ],
+    [
+      0.096607,
+      "g"
+    ],
+    [
+      0.072168,
+      "r"
+    ],
+    [
+      0.159833,
+      "e"
+    ],
+    [
+      0.132913,
+      "s"
+    ],
+    [
+      0.132650,
+      "s"
+    ],
+    [
+      0.311802,
+      "="
+    ],
+    [
+      0.239233,
+      "f"
+    ],
+    [
+      0.109402,
+      "a"
+    ],
+    [
+      0.111941,
+      "l"
+    ],
+    [
+      0.102150,
+      "s"
+    ],
+    [
+      0.075893,
+      "e"
+    ],
+    [
+      0.135876,
+      ";"
+    ],
+    [
+      0.223287,
+      "\r\n"
+    ],
+    [
+      0.000661,
+      "LIVE_PROGRESS set to false\r\n"
+    ],
+    [
+      0.000013,
+      "[localhost:21000] \u003e "
+    ],
+    [
+      0.735995,
+      "s"
+    ],
+    [
+      0.105585,
+      "e"
+    ],
+    [
+      0.182514,
+      "t"
+    ],
+    [
+      0.066499,
+      " "
+    ],
+    [
+      0.149601,
+      "l"
+    ],
+    [
+      0.136093,
+      "i"
+    ],
+    [
+      0.031901,
+      "v"
+    ],
+    [
+      0.088138,
+      "e"
+    ],
+    [
+      0.287656,
+      "_"
+    ],
+    [
+      0.235761,
+      "s"
+    ],
+    [
+      0.204371,
+      "u"
+    ],
+    [
+      0.216086,
+      "m"
+    ],
+    [
+      0.151200,
+      "m"
+    ],
+    [
+      0.065901,
+      "a"
+    ],
+    [
+      0.142810,
+      "r"
+    ],
+    [
+      0.088187,
+      "y"
+    ],
+    [
+      0.227745,
+      "-"
+    ],
+    [
+      0.068160,
+      "t"
+    ],
+    [
+      0.191564,
+      "r"
+    ],
+    [
+      0.372325,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.135925,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.139518,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.160399,
+      "="
+    ],
+    [
+      0.076245,
+      "t"
+    ],
+    [
+      0.177520,
+      "r"
+    ],
+    [
+      0.082197,
+      "u"
+    ],
+    [
+      0.139272,
+      "e"
+    ],
+    [
+      0.240727,
+      ";"
+    ],
+    [
+      0.216170,
+      "\r\n"
+    ],
+    [
+      0.000750,
+      "LIVE_SUMMARY set to true\r\n"
+    ],
+    [
+      0.000048,
+      "[localhost:21000] \u003e "
+    ],
+    [
+      1.002548,
+      "\u001b[H\u001b[2J[localhost:21000] \u003e "
+    ],
+    [
+      0.668225,
+      "set live_summary=true;"
+    ],
+    [
+      0.400556,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008progress=false;"
+    ],
+    [
+      0.615361,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008lect                  \r\n"
+    ],
+    [
+      0.000005,
+      "\rl_returnflag,\r\n\rl_linestatus,\r\n\rsum(l_quantity) as sum_qty,\r\n"
+    ],
+    [
+      0.000003,
+      "\rsum(l_extendedprice) as sum_base_price,"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\rsum(l_extendedprice * (1 - l_discount)) as sum_disc_price,"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\rsum(l_extendedprice * (1 - l_discount) * (1 + l_tax)) as sum_charge,"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\ravg(l_quantity) as avg_qty,"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\ravg(l_extendedprice) as avg_price,"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\ravg(l_discount) as avg_disc,"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "\rcount(*) as count_order"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "\rfrom\r\n"
+    ],
+    [
+      0.000002,
+      "\rlineitem"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "\rwhere\r\n"
+    ],
+    [
+      0.000013,
+      "\rl_shipdate \u003c= '1998-09-02'\r\n\rgroup by\r\n\rl_returnflag,\r\n"
+    ],
+    [
+      0.000002,
+      "\rl_linestatus\r\n"
+    ],
+    [
+      0.000003,
+      "\rorder by\r\n"
+    ],
+    [
+      0.000008,
+      "\rl_returnflag,\r\n"
+    ],
+    [
+      0.000007,
+      "\rl_linestatus;"
+    ],
+    [
+      0.743888,
+      "\r\n"
+    ],
+    [
+      0.003221,
+      "Query: select l_returnflag,\r\nl_linestatus,\r\nsum(l_quantity) as sum_qty,\r\nsum(l_extendedprice) as sum_base_price,\r\nsum(l_extendedprice * (1 - l_discount)) as sum_disc_price,\r\nsum(l_extendedprice * (1 - l_discount) * (1 + l_tax)) as sum_charge,\r\navg(l_quantity) as avg_qty,"
+    ],
+    [
+      0.000004,
+      "\r\navg(l_extendedprice) as avg_price,\r\navg(l_discount) as avg_disc,\r\ncount(*) as count_order\r\nfrom\r\nlineitem\r\nwhere\r\n"
+    ],
+    [
+      0.000003,
+      "l_shipdate \u003c= '1998-09-02'\r\ngroup by"
+    ],
+    [
+      0.000003,
+      "\r\nl_returnflag,\r\n"
+    ],
+    [
+      0.000002,
+      "l_linestatus\r\n"
+    ],
+    [
+      0.000003,
+      "order by\r\nl_returnflag,"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "l_linestatus\r\n"
+    ],
+    [
+      1.460053,
+      "+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+\r\n"
+    ],
+    [
+      0.000009,
+      "| Operator            | #Hosts | Avg Time | Max Time | #Rows | Est. #Rows | Peak Mem | Est. Peak Mem | Detail                          |\r\n+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+\r\n| 05:MERGING-EXCHANGE | 0      | 0ns      | 0ns      | 0     | 6          | 0 B      | -1 B          | UNPARTITIONED                   |\r\n| 02:SORT             | 0      | 0ns      | 0ns      | 0     | 6          | 0 B      | 16.00 MB      |                                 |\r\n| 04:AGGREGATE        | 0      | 0ns      | 0ns      | 0     | 6          | 0 B      | 10.00 MB      | FINALIZE                        |\r\n| 03:EXCHANGE         | 0      | 0ns      | 0ns      | 0     | 6          | 0 B      | 0 B           | HASH(l_returnflag,l_linestatus) |\r\n| 01:AGGREGATE        | 0      | 0ns      | 0ns      | 0     | 6          | 0 B      | 10.00 MB      |                                 |\r\n| 00:SCAN HDFS        | 0      | 0ns      | 0ns      | 0     | 600.12K    | 0 B      | 560.00 MB     | tpch_parquet.lineitem           |\r\n+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+\r\n"
+    ],
+    [
+      1.005580,
+      "\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n"
+    ],
+    [
+      0.000008,
+      "                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+\r\n| Operator            | #Hosts | Avg Time | Max Time | #Rows | Est. #Rows | Peak Mem | Est. Peak Mem | Detail                          |\r\n"
+    ],
+    [
+      0.000007,
+      "+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+\r\n| 05:MERGING-EXCHANGE | 0      | 0ns      | 0ns      | 0     | 6          | 0 B      | -1 B          | UNPARTITIONED                   |\r\n| 02:SORT             | 0      | 0ns      | 0ns      | 0     | 6          | 0 B      | 16.00 MB      |                                 |"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "| 04:AGGREGATE        | 0      | 0ns      | 0ns      | 0     | 6          | 0 B      | 10.00 MB      | FINALIZE                        |\r\n"
+    ],
+    [
+      0.000003,
+      "| 03:EXCHANGE         | 0      | 0ns      | 0ns      | 0     | 6          | 0 B      | 0 B           | HASH(l_returnflag,l_linestatus) |\r\n"
+    ],
+    [
+      0.000002,
+      "| 01:AGGREGATE        | 0      | 0ns      | 0ns      | 0     | 6          | 0 B      | 10.00 MB      |                                 |\r\n"
+    ],
+    [
+      0.000002,
+      "| 00:SCAN HDFS        | 0      | 0ns      | 0ns      | 0     | 600.12K    | 0 B      | 560.00 MB     | tpch_parquet.lineitem           |"
+    ],
+    [
+      0.000003,
+      "\r\n+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      1.005402,
+      "\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A                                                                                                                                        \r\n                                                                                                                                        \r\n"
+    ],
+    [
+      0.000010,
+      "                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A"
+    ],
+    [
+      0.000004,
+      "+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+\r\n| Operator            | #Hosts | Avg Time | Max Time | #Rows | Est. #Rows | Peak Mem | Est. Peak Mem | Detail                          |"
+    ],
+    [
+      0.000004,
+      "\r\n+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+\r\n| 05:MERGING-EXCHANGE | 0      | 0ns      | 0ns      | 0     | 6          | 0 B      | -1 B          | UNPARTITIONED                   |"
+    ],
+    [
+      0.000005,
+      "\r\n| 02:SORT             | 0      | 0ns      | 0ns      | 0     | 6          | 0 B      | 16.00 MB      |                                 |\r\n| 04:AGGREGATE        | 0      | 0ns      | 0ns      | 0     | 6          | 0 B      | 10.00 MB      | FINALIZE                        |"
+    ],
+    [
+      0.000004,
+      "\r\n| 03:EXCHANGE         | 0      | 0ns      | 0ns      | 0     | 6          | 0 B      | 0 B           | HASH(l_returnflag,l_linestatus) |\r\n"
+    ],
+    [
+      0.000004,
+      "| 01:AGGREGATE        | 0      | 0ns      | 0ns      | 0     | 6          | 0 B      | 10.00 MB      |                                 |\r\n| 00:SCAN HDFS        | 0      | 0ns      | 0ns      | 0     | 600.12K    | 0 B      | 560.00 MB     | tpch_parquet.lineitem           |\r\n"
+    ],
+    [
+      0.000004,
+      "+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+\r\n"
+    ],
+    [
+      1.005069,
+      "\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n"
+    ],
+    [
+      0.000010,
+      "                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+"
+    ],
+    [
+      0.000005,
+      "\r\n| Operator            | #Hosts | Avg Time | Max Time | #Rows | Est. #Rows | Peak Mem | Est. Peak Mem | Detail                          |\r\n+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+\r\n"
+    ],
+    [
+      0.000004,
+      "| 05:MERGING-EXCHANGE | 0      | 0ns      | 0ns      | 0     | 6          | 0 B      | -1 B          | UNPARTITIONED                   |\r\n| 02:SORT             | 0      | 0ns      | 0ns      | 0     | 6          | 0 B      | 16.00 MB      |                                 |\r\n"
+    ],
+    [
+      0.000005,
+      "| 04:AGGREGATE        | 0      | 0ns      | 0ns      | 0     | 6          | 0 B      | 10.00 MB      | FINALIZE                        |\r\n| 03:EXCHANGE         | 0      | 0ns      | 0ns      | 0     | 6          | 0 B      | 0 B           | HASH(l_returnflag,l_linestatus) |\r\n"
+    ],
+    [
+      0.000004,
+      "| 01:AGGREGATE        | 0      | 0ns      | 0ns      | 0     | 6          | 0 B      | 10.00 MB      |                                 |\r\n| 00:SCAN HDFS        | 0      | 0ns      | 0ns      | 0     | 600.12K    | 0 B      | 560.00 MB     | tpch_parquet.lineitem           |"
+    ],
+    [
+      0.000004,
+      "\r\n+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+\r\n"
+    ],
+    [
+      1.005267,
+      "\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        "
+    ],
+    [
+      0.000007,
+      "\r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A"
+    ],
+    [
+      0.000005,
+      "+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+"
+    ],
+    [
+      0.000003,
+      "\r\n| Operator            | #Hosts | Avg Time | Max Time | #Rows | Est. #Rows | Peak Mem | Est. Peak Mem | Detail                          |"
+    ],
+    [
+      0.000003,
+      "\r\n+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+"
+    ],
+    [
+      0.000003,
+      "\r\n| 05:MERGING-EXCHANGE | 0      | 0ns      | 0ns      | 0     | 6          | 0 B      | -1 B          | UNPARTITIONED                   |"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "| 02:SORT             | 3      | 21.24us  | 63.71us  | 0     | 6          | 0 B      | 16.00 MB      |                                 |\r\n"
+    ],
+    [
+      0.000003,
+      "| 04:AGGREGATE        | 3      | 49.74ms  | 149.22ms | 0     | 6          | 11.25 MB | 10.00 MB      | FINALIZE                        |\r\n"
+    ],
+    [
+      0.000003,
+      "| 03:EXCHANGE         | 3      | 0ns      | 0ns      | 0     | 6          | 0 B      | 0 B           | HASH(l_returnflag,l_linestatus) |\r\n"
+    ],
+    [
+      0.000003,
+      "| 01:AGGREGATE        | 0      | 0ns      | 0ns      | 0     | 6          | 0 B      | 10.00 MB      |                                 |"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "| 00:SCAN HDFS        | 0      | 0ns      | 0ns      | 0     | 600.12K    | 0 B      | 560.00 MB     | tpch_parquet.lineitem           |\r\n"
+    ],
+    [
+      0.000003,
+      "+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      1.006177,
+      "\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        "
+    ],
+    [
+      0.000009,
+      "\r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+\r\n| Operator            | #Hosts | Avg Time | Max Time | #Rows | Est. #Rows | Peak Mem | Est. Peak Mem | Detail                          |"
+    ],
+    [
+      0.000004,
+      "\r\n+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+\r\n"
+    ],
+    [
+      0.000003,
+      "| 05:MERGING-EXCHANGE | 0      | 0ns      | 0ns      | 0     | 6          | 0 B      | -1 B          | UNPARTITIONED                   |\r\n"
+    ],
+    [
+      0.000003,
+      "| 02:SORT             | 3      | 38.14us  | 63.71us  | 0     | 6          | 0 B      | 16.00 MB      |                                 |\r\n"
+    ],
+    [
+      0.000003,
+      "| 04:AGGREGATE        | 3      | 97.93ms  | 149.22ms | 0     | 6          | 11.25 MB | 10.00 MB      | FINALIZE                        |\r\n"
+    ],
+    [
+      0.000003,
+      "| 03:EXCHANGE         | 3      | 0ns      | 0ns      | 0     | 6          | 0 B      | 0 B           | HASH(l_returnflag,l_linestatus) |\r\n"
+    ],
+    [
+      0.000003,
+      "| 01:AGGREGATE        | 3      | 71.86ms  | 215.57ms | 0     | 6          | 11.80 MB | 10.00 MB      |                                 |"
+    ],
+    [
+      0.000002,
+      "\r\n| 00:SCAN HDFS        | 3      | 14.98ms  | 44.94ms  | 1.52M | 600.12K    | 54.24 MB | 560.00 MB     | tpch_parquet.lineitem           |"
+    ],
+    [
+      0.000005,
+      "\r\n+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+\r\n"
+    ],
+    [
+      1.006150,
+      "\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        "
+    ],
+    [
+      0.000014,
+      "\r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+\r\n| Operator            | #Hosts | Avg Time | Max Time | #Rows | Est. #Rows | Peak Mem | Est. Peak Mem | Detail                          |\r\n+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+\r\n| 05:MERGING-EXCHANGE | 0      | 0ns      | 0ns      | 0     | 6          | 0 B      | -1 B          | UNPARTITIONED                   |\r\n| 02:SORT             | 3      | 54.72us  | 63.71us  | 0     | 6          | 0 B      | 16.00 MB      |                                 |\r\n| 04:AGGREGATE        | 3      | 146.51ms | 149.22ms | 0     | 6          | 11.25 MB | 10.00 MB      | FINALIZE                        |\r\n| 03:EXCHANGE         | 3      | 0ns      | 0ns      | 0     | 6          | 0 B      | 0 B           | HASH(l_returnflag,l_linestatus) |\r\n| 01:AGGREGATE        | 3      | 71.86ms  | 215.57ms | 0     | 6          | 11.80 MB | 10.00 MB      |                                 |\r\n| 00:SCAN HDFS        | 3      | 14.98ms  | 44.94ms  | 1.52M | 600.12K    | 54.24 MB | 560.00 MB     | tpch_parquet.lineitem           |\r\n+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+\r\n"
+    ],
+    [
+      1.005367,
+      "\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        "
+    ],
+    [
+      0.000012,
+      "\r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+\r\n| Operator            | #Hosts | Avg Time | Max Time | #Rows | Est. #Rows | Peak Mem | Est. Peak Mem | Detail                          |\r\n+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+\r\n| 05:MERGING-EXCHANGE | 0      | 0ns      | 0ns      | 0     | 6          | 0 B      | -1 B          | UNPARTITIONED                   |"
+    ],
+    [
+      0.000005,
+      "\r\n| 02:SORT             | 3      | 54.72us  | 63.71us  | 0     | 6          | 0 B      | 16.00 MB      |                                 |\r\n| 04:AGGREGATE        | 3      | 146.51ms | 149.22ms | 0     | 6          | 11.25 MB | 10.00 MB      | FINALIZE                        |\r\n| 03:EXCHANGE         | 3      | 0ns      | 0ns      | 0     | 6          | 0 B      | 0 B           | HASH(l_returnflag,l_linestatus) |"
+    ],
+    [
+      0.000004,
+      "\r\n| 01:AGGREGATE        | 3      | 139.75ms | 215.57ms | 0     | 6          | 11.80 MB | 10.00 MB      |                                 |\r\n"
+    ],
+    [
+      0.000004,
+      "| 00:SCAN HDFS        | 3      | 33.61ms  | 55.89ms  | 2.74M | 600.12K    | 54.31 MB | 560.00 MB     | tpch_parquet.lineitem           |\r\n+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+\r\n"
+    ],
+    [
+      1.005579,
+      "\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A"
+    ],
+    [
+      0.000011,
+      "                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n"
+    ],
+    [
+      0.000005,
+      "                                                                                                                                        \r\n                                                                                                                                        \r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A"
+    ],
+    [
+      0.000005,
+      "+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+"
+    ],
+    [
+      0.000004,
+      "\r\n| Operator            | #Hosts | Avg Time | Max Time | #Rows | Est. #Rows | Peak Mem | Est. Peak Mem | Detail                          |\r\n"
+    ],
+    [
+      0.000004,
+      "+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+\r\n"
+    ],
+    [
+      0.000004,
+      "| 05:MERGING-EXCHANGE | 0      | 0ns      | 0ns      | 0     | 6          | 0 B      | -1 B          | UNPARTITIONED                   |\r\n| 02:SORT             | 3      | 54.72us  | 63.71us  | 0     | 6          | 0 B      | 16.00 MB      |                                 |"
+    ],
+    [
+      0.000004,
+      "\r\n| 04:AGGREGATE        | 3      | 146.51ms | 149.22ms | 0     | 6          | 11.25 MB | 10.00 MB      | FINALIZE                        |"
+    ],
+    [
+      0.000004,
+      "\r\n| 03:EXCHANGE         | 3      | 0ns      | 0ns      | 0     | 6          | 0 B      | 0 B           | HASH(l_returnflag,l_linestatus) |"
+    ],
+    [
+      0.000004,
+      "\r\n| 01:AGGREGATE        | 3      | 207.84ms | 215.57ms | 0     | 6          | 11.80 MB | 10.00 MB      |                                 |"
+    ],
+    [
+      0.000004,
+      "\r\n| 00:SCAN HDFS        | 3      | 52.02ms  | 55.89ms  | 4.16M | 600.12K    | 54.31 MB | 560.00 MB     | tpch_parquet.lineitem           |"
+    ],
+    [
+      0.000004,
+      "\r\n+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      1.005602,
+      "\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A"
+    ],
+    [
+      0.000011,
+      "                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n"
+    ],
+    [
+      0.000005,
+      "                                                                                                                                        \r\n                                                                                                                                        \r\n"
+    ],
+    [
+      0.000004,
+      "                                                                                                                                        \r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A"
+    ],
+    [
+      0.000009,
+      "+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+"
+    ],
+    [
+      0.000004,
+      "\r\n| Operator            | #Hosts | Avg Time | Max Time | #Rows | Est. #Rows | Peak Mem | Est. Peak Mem | Detail                          |"
+    ],
+    [
+      0.000004,
+      "\r\n+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+\r\n"
+    ],
+    [
+      0.000003,
+      "| 05:MERGING-EXCHANGE | 0      | 0ns      | 0ns      | 0     | 6          | 0 B      | -1 B          | UNPARTITIONED                   |"
+    ],
+    [
+      0.000003,
+      "\r\n| 02:SORT             | 3      | 54.72us  | 63.71us  | 0     | 6          | 0 B      | 16.00 MB      |                                 |"
+    ],
+    [
+      0.000004,
+      "\r\n| 04:AGGREGATE        | 3      | 146.51ms | 149.22ms | 0     | 6          | 11.25 MB | 10.00 MB      | FINALIZE                        |"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "| 03:EXCHANGE         | 3      | 0ns      | 0ns      | 0     | 6          | 0 B      | 0 B           | HASH(l_returnflag,l_linestatus) |\r\n"
+    ],
+    [
+      0.000004,
+      "| 01:AGGREGATE        | 3      | 207.84ms | 215.57ms | 0     | 6          | 11.80 MB | 10.00 MB      |                                 |\r\n"
+    ],
+    [
+      0.000003,
+      "| 00:SCAN HDFS        | 3      | 52.02ms  | 55.89ms  | 4.16M | 600.12K    | 54.31 MB | 560.00 MB     | tpch_parquet.lineitem           |\r\n"
+    ],
+    [
+      0.000004,
+      "+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+\r\n"
+    ],
+    [
+      1.003412,
+      "\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        "
+    ],
+    [
+      0.000009,
+      "\r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+\r\n| Operator            | #Hosts | Avg Time | Max Time | #Rows | Est. #Rows | Peak Mem | Est. Peak Mem | Detail                          |"
+    ],
+    [
+      0.000004,
+      "\r\n+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+\r\n| 05:MERGING-EXCHANGE | 0      | 0ns      | 0ns      | 0     | 6          | 0 B      | -1 B          | UNPARTITIONED                   |"
+    ],
+    [
+      0.000003,
+      "\r\n| 02:SORT             | 3      | 54.72us  | 63.71us  | 0     | 6          | 0 B      | 16.00 MB      |                                 |"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "| 04:AGGREGATE        | 3      | 146.51ms | 149.22ms | 0     | 6          | 11.25 MB | 10.00 MB      | FINALIZE                        |\r\n"
+    ],
+    [
+      0.000003,
+      "| 03:EXCHANGE         | 3      | 0ns      | 0ns      | 0     | 6          | 0 B      | 0 B           | HASH(l_returnflag,l_linestatus) |\r\n"
+    ],
+    [
+      0.000003,
+      "| 01:AGGREGATE        | 3      | 202.86ms | 204.27ms | 0     | 6          | 11.80 MB | 10.00 MB      |                                 |\r\n"
+    ],
+    [
+      0.000003,
+      "| 00:SCAN HDFS        | 3      | 56.99ms  | 59.86ms  | 5.73M | 600.12K    | 54.31 MB | 560.00 MB     | tpch_parquet.lineitem           |"
+    ],
+    [
+      0.000003,
+      "\r\n+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      1.003658,
+      "\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A"
+    ],
+    [
+      0.000013,
+      "                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+\r\n| Operator            | #Hosts | Avg Time | Max Time | #Rows | Est. #Rows | Peak Mem | Est. Peak Mem | Detail                          |\r\n+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+\r\n| 05:MERGING-EXCHANGE | 0      | 0ns      | 0ns      | 0     | 6          | 0 B      | -1 B          | UNPARTITIONED                   |\r\n| 02:SORT             | 3      | 54.72us  | 63.71us  | 0     | 6          | 0 B      | 16.00 MB      |                                 |\r\n| 04:AGGREGATE        | 3      | 146.51ms | 149.22ms | 0     | 6          | 11.25 MB | 10.00 MB      | FINALIZE                        |\r\n| 03:EXCHANGE         | 3      | 0ns      | 0ns      | 0     | 6          | 0 B      | 0 B           | HASH(l_returnflag,l_linestatus) |\r\n| 01:AGGREGATE        | 3      | 202.86ms | 204.27ms | 0     | 6          | 11.80 MB | 10.00 MB      |                                 |\r\n| 00:SCAN HDFS        | 3      | 56.99ms  | 59.86ms  | 5.73M | 600.12K    | 54.31 MB | 560.00 MB     | tpch_parquet.lineitem           |\r\n+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+\r\n"
+    ],
+    [
+      1.004230,
+      "\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A"
+    ],
+    [
+      0.000056,
+      "                                                                                                                                        \r\n"
+    ],
+    [
+      0.000008,
+      "                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        "
+    ],
+    [
+      0.000004,
+      "\r\n                                                                                                                                        \r\n"
+    ],
+    [
+      0.000004,
+      "                                                                                                                                        \r\n"
+    ],
+    [
+      0.000003,
+      "                                                                                                                                        \r\n"
+    ],
+    [
+      0.000004,
+      "                                                                                                                                        \r\n"
+    ],
+    [
+      0.000004,
+      "                                                                                                                                        \r\n"
+    ],
+    [
+      0.000003,
+      "                                                                                                                                        \r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A"
+    ],
+    [
+      0.000004,
+      "+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+\r\n"
+    ],
+    [
+      0.000004,
+      "| Operator            | #Hosts | Avg Time | Max Time | #Rows | Est. #Rows | Peak Mem | Est. Peak Mem | Detail                          |\r\n"
+    ],
+    [
+      0.000004,
+      "+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+\r\n"
+    ],
+    [
+      0.000004,
+      "| 05:MERGING-EXCHANGE | 0      | 0ns      | 0ns      | 0     | 6          | 0 B      | -1 B          | UNPARTITIONED                   |\r\n"
+    ],
+    [
+      0.000004,
+      "| 02:SORT             | 3      | 54.72us  | 63.71us  | 0     | 6          | 0 B      | 16.00 MB      |                                 |\r\n| 04:AGGREGATE        | 3      | 146.51ms | 149.22ms | 0     | 6          | 11.25 MB | 10.00 MB      | FINALIZE                        |"
+    ],
+    [
+      0.000004,
+      "\r\n| 03:EXCHANGE         | 3      | 0ns      | 0ns      | 0     | 6          | 0 B      | 0 B           | HASH(l_returnflag,l_linestatus) |"
+    ],
+    [
+      0.000004,
+      "\r\n| 01:AGGREGATE        | 3      | 198.06ms | 204.27ms | 0     | 6          | 11.80 MB | 10.00 MB      |                                 |\r\n"
+    ],
+    [
+      0.000004,
+      "| 00:SCAN HDFS        | 3      | 61.79ms  | 70.28ms  | 6.61M | 600.12K    | 54.31 MB | 560.00 MB     | tpch_parquet.lineitem           |\r\n"
+    ],
+    [
+      0.000004,
+      "+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+\r\n"
+    ],
+    [
+      1.003717,
+      "\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        "
+    ],
+    [
+      0.000010,
+      "\r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+\r\n| Operator            | #Hosts | Avg Time | Max Time | #Rows | Est. #Rows | Peak Mem | Est. Peak Mem | Detail                          |\r\n+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+"
+    ],
+    [
+      0.000006,
+      "\r\n| 05:MERGING-EXCHANGE | 0      | 0ns      | 0ns      | 0     | 6          | 0 B      | -1 B          | UNPARTITIONED                   |\r\n| 02:SORT             | 3      | 54.72us  | 63.71us  | 0     | 6          | 0 B      | 16.00 MB      |                                 |\r\n| 04:AGGREGATE        | 3      | 146.51ms | 149.22ms | 0     | 6          | 11.25 MB | 10.00 MB      | FINALIZE                        |"
+    ],
+    [
+      0.000005,
+      "\r\n| 03:EXCHANGE         | 3      | 0ns      | 0ns      | 0     | 6          | 0 B      | 0 B           | HASH(l_returnflag,l_linestatus) |\r\n| 01:AGGREGATE        | 3      | 193.41ms | 200.65ms | 0     | 6          | 11.80 MB | 10.00 MB      |                                 |\r\n"
+    ],
+    [
+      0.000004,
+      "| 00:SCAN HDFS        | 3      | 66.44ms  | 70.28ms  | 7.52M | 600.12K    | 54.31 MB | 560.00 MB     | tpch_parquet.lineitem           |\r\n+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      1.003221,
+      "\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n"
+    ],
+    [
+      0.000009,
+      "                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+\r\n| Operator            | #Hosts | Avg Time | Max Time | #Rows | Est. #Rows | Peak Mem | Est. Peak Mem | Detail                          |\r\n"
+    ],
+    [
+      0.000010,
+      "+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+\r\n| 05:MERGING-EXCHANGE | 0      | 0ns      | 0ns      | 0     | 6          | 0 B      | -1 B          | UNPARTITIONED                   |\r\n| 02:SORT             | 3      | 54.72us  | 63.71us  | 0     | 6          | 0 B      | 16.00 MB      |                                 |\r\n| 04:AGGREGATE        | 3      | 146.51ms | 149.22ms | 0     | 6          | 11.25 MB | 10.00 MB      | FINALIZE                        |\r\n| 03:EXCHANGE         | 3      | 0ns      | 0ns      | 0     | 6          | 0 B      | 0 B           | HASH(l_returnflag,l_linestatus) |\r\n"
+    ],
+    [
+      0.000003,
+      "| 01:AGGREGATE        | 3      | 4.70s    | 13.73s   | 4     | 6          | 12.51 MB | 10.00 MB      |                                 |\r\n| 00:SCAN HDFS        | 3      | 70.00ms  | 70.54ms  | 8.64M | 600.12K    | 54.31 MB | 560.00 MB     | tpch_parquet.lineitem           |\r\n"
+    ],
+    [
+      0.000003,
+      "+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+\r\n"
+    ],
+    [
+      1.002735,
+      "\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n"
+    ],
+    [
+      0.000007,
+      "                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A"
+    ],
+    [
+      0.000006,
+      "+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+\r\n| Operator            | #Hosts | Avg Time | Max Time | #Rows | Est. #Rows | Peak Mem | Est. Peak Mem | Detail                          |"
+    ],
+    [
+      0.000003,
+      "\r\n+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+"
+    ],
+    [
+      0.000003,
+      "\r\n| 05:MERGING-EXCHANGE | 0      | 0ns      | 0ns      | 0     | 6          | 0 B      | -1 B          | UNPARTITIONED                   |"
+    ],
+    [
+      0.000003,
+      "\r\n| 02:SORT             | 3      | 54.72us  | 63.71us  | 0     | 6          | 0 B      | 16.00 MB      |                                 |"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "| 04:AGGREGATE        | 3      | 146.51ms | 149.22ms | 0     | 6          | 11.25 MB | 10.00 MB      | FINALIZE                        |\r\n"
+    ],
+    [
+      0.000003,
+      "| 03:EXCHANGE         | 3      | 0ns      | 0ns      | 0     | 6          | 0 B      | 0 B           | HASH(l_returnflag,l_linestatus) |\r\n"
+    ],
+    [
+      0.000002,
+      "| 01:AGGREGATE        | 3      | 4.70s    | 13.73s   | 4     | 6          | 12.51 MB | 10.00 MB      |                                 |"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "| 00:SCAN HDFS        | 3      | 70.00ms  | 70.54ms  | 8.64M | 600.12K    | 54.31 MB | 560.00 MB     | tpch_parquet.lineitem           |\r\n"
+    ],
+    [
+      0.000002,
+      "+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      1.003548,
+      "\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        "
+    ],
+    [
+      0.000007,
+      "\r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A"
+    ],
+    [
+      0.000004,
+      "+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+\r\n"
+    ],
+    [
+      0.000004,
+      "| Operator            | #Hosts | Avg Time | Max Time | #Rows | Est. #Rows | Peak Mem | Est. Peak Mem | Detail                          |\r\n"
+    ],
+    [
+      0.000003,
+      "+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+\r\n| 05:MERGING-EXCHANGE | 0      | 0ns      | 0ns      | 0     | 6          | 0 B      | -1 B          | UNPARTITIONED                   |"
+    ],
+    [
+      0.000003,
+      "\r\n| 02:SORT             | 3      | 54.72us  | 63.71us  | 0     | 6          | 0 B      | 16.00 MB      |                                 |\r\n"
+    ],
+    [
+      0.000003,
+      "| 04:AGGREGATE        | 3      | 97.93ms  | 149.22ms | 0     | 6          | 11.26 MB | 10.00 MB      | FINALIZE                        |\r\n"
+    ],
+    [
+      0.000003,
+      "| 03:EXCHANGE         | 3      | 35.81us  | 107.42us | 4     | 6          | 0 B      | 0 B           | HASH(l_returnflag,l_linestatus) |\r\n"
+    ],
+    [
+      0.000006,
+      "| 01:AGGREGATE        | 3      | 4.70s    | 13.73s   | 4     | 6          | 12.51 MB | 10.00 MB      |                                 |\r\n| 00:SCAN HDFS        | 3      | 70.00ms  | 70.54ms  | 8.64M | 600.12K    | 54.31 MB | 560.00 MB     | tpch_parquet.lineitem           |\r\n"
+    ],
+    [
+      0.000002,
+      "+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+\r\n"
+    ],
+    [
+      1.003471,
+      "\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n"
+    ],
+    [
+      0.000008,
+      "                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A"
+    ],
+    [
+      0.000004,
+      "+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+\r\n"
+    ],
+    [
+      0.000003,
+      "| Operator            | #Hosts | Avg Time | Max Time | #Rows | Est. #Rows | Peak Mem | Est. Peak Mem | Detail                          |\r\n+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+"
+    ],
+    [
+      0.000006,
+      "\r\n| 05:MERGING-EXCHANGE | 0      | 0ns      | 0ns      | 0     | 6          | 0 B      | -1 B          | UNPARTITIONED                   |\r\n| 02:SORT             | 3      | 54.72us  | 63.71us  | 0     | 6          | 0 B      | 16.00 MB      |                                 |\r\n"
+    ],
+    [
+      0.000003,
+      "| 04:AGGREGATE        | 3      | 97.93ms  | 149.22ms | 0     | 6          | 11.26 MB | 10.00 MB      | FINALIZE                        |\r\n"
+    ],
+    [
+      0.000003,
+      "| 03:EXCHANGE         | 3      | 35.81us  | 107.42us | 4     | 6          | 0 B      | 0 B           | HASH(l_returnflag,l_linestatus) |\r\n| 01:AGGREGATE        | 3      | 4.70s    | 13.73s   | 4     | 6          | 12.51 MB | 10.00 MB      |                                 |"
+    ],
+    [
+      0.000002,
+      "\r\n| 00:SCAN HDFS        | 3      | 74.72ms  | 84.44ms  | 9.53M | 600.12K    | 54.31 MB | 560.00 MB     | tpch_parquet.lineitem           |"
+    ],
+    [
+      0.000003,
+      "\r\n+---------------------+--------+----------+----------+-------+------------+----------+---------------+---------------------------------+"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      1.002751,
+      "\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        "
+    ],
+    [
+      0.000012,
+      "\r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n                                                                                                                                        \r\n\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A+---------------------+--------+----------+----------+--------+------------+----------+---------------+---------------------------------+\r\n"
+    ],
+    [
+      0.000004,
+      "| Operator            | #Hosts | Avg Time | Max Time | #Rows  | Est. #Rows | Peak Mem | Est. Peak Mem | Detail                          |\r\n"
+    ],
+    [
+      0.000003,
+      "+---------------------+--------+----------+----------+--------+------------+----------+---------------+---------------------------------+\r\n"
+    ],
+    [
+      0.000002,
+      "| 05:MERGING-EXCHANGE | 0      | 0ns      | 0ns      | 0      | 6          | 0 B      | -1 B          | UNPARTITIONED                   |\r\n"
+    ],
+    [
+      0.000002,
+      "| 02:SORT             | 3      | 54.72us  | 63.71us  | 0      | 6          | 0 B      | 16.00 MB      |                                 |\r\n"
+    ],
+    [
+      0.000003,
+      "| 04:AGGREGATE        | 3      | 97.93ms  | 149.22ms | 0      | 6          | 11.26 MB | 10.00 MB      | FINALIZE                        |"
+    ],
+    [
+      0.000003,
+      "\r\n| 03:EXCHANGE         | 3      | 35.81us  | 107.42us | 4      | 6          | 0 B      | 0 B           | HASH(l_returnflag,l_linestatus) |"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "| 01:AGGREGATE        | 3      | 4.69s    | 13.73s   | 4      | 6          | 12.51 MB | 10.00 MB      |                                 |\r\n"
+    ],
+    [
+      0.000002,
+      "| 00:SCAN HDFS        | 3      | 79.35ms  | 84.44ms  | 10.43M | 600.12K    | 54.31 MB | 560.00 MB     | tpch_parquet.lineitem           |"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "+---------------------+--------+----------+----------+--------+------------+----------+---------------+---------------------------------+"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      1.003598,
+      "\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A                                                                                                                                         \r\n                                                                                                                                         \r\n                                                                                                                                         \r\n"
+    ],
+    [
+      0.000008,
+      "                                                                                                                                         \r\n                                                                                                                                         \r\n                                                                                                                                         \r\n                                                                                                                                         \r\n                                                                                                                                         \r\n                                                                                                                                         \r\n                                                                                                                                         \r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A+---------------------+--------+----------+----------+--------+------------+----------+---------------+---------------------------------+\r\n"
+    ],
+    [
+      0.000003,
+      "| Operator            | #Hosts | Avg Time | Max Time | #Rows  | Est. #Rows | Peak Mem | Est. Peak Mem | Detail                          |\r\n+---------------------+--------+----------+----------+--------+------------+----------+---------------+---------------------------------+"
+    ],
+    [
+      0.000003,
+      "\r\n| 05:MERGING-EXCHANGE | 0      | 0ns      | 0ns      | 0      | 6          | 0 B      | -1 B          | UNPARTITIONED                   |\r\n"
+    ],
+    [
+      0.000003,
+      "| 02:SORT             | 3      | 54.72us  | 63.71us  | 0      | 6          | 0 B      | 16.00 MB      |                                 |\r\n"
+    ],
+    [
+      0.000003,
+      "| 04:AGGREGATE        | 3      | 97.93ms  | 149.22ms | 0      | 6          | 11.26 MB | 10.00 MB      | FINALIZE                        |\r\n"
+    ],
+    [
+      0.000002,
+      "| 03:EXCHANGE         | 3      | 35.81us  | 107.42us | 4      | 6          | 0 B      | 0 B           | HASH(l_returnflag,l_linestatus) |\r\n"
+    ],
+    [
+      0.000002,
+      "| 01:AGGREGATE        | 3      | 10.99s   | 19.06s   | 8      | 6          | 12.51 MB | 10.00 MB      |                                 |\r\n"
+    ],
+    [
+      0.000002,
+      "| 00:SCAN HDFS        | 3      | 80.22ms  | 85.68ms  | 10.60M | 600.12K    | 54.31 MB | 560.00 MB     | tpch_parquet.lineitem           |\r\n"
+    ],
+    [
+      0.000002,
+      "+---------------------+--------+----------+----------+--------+------------+----------+---------------+---------------------------------+\r\n"
+    ],
+    [
+      1.003095,
+      "\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A                                                                                                                                         \r\n                                                                                                                                         \r\n                                                                                                                                         \r\n                                                                                                                                         "
+    ],
+    [
+      0.000008,
+      "\r\n                                                                                                                                         \r\n                                                                                                                                         \r\n                                                                                                                                         \r\n                                                                                                                                         \r\n                                                                                                                                         \r\n                                                                                                                                         \r\n\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A"
+    ],
+    [
+      0.000003,
+      "+---------------------+--------+----------+----------+--------+------------+----------+---------------+---------------------------------+\r\n| Operator            | #Hosts | Avg Time | Max Time | #Rows  | Est. #Rows | Peak Mem | Est. Peak Mem | Detail                          |"
+    ],
+    [
+      0.000003,
+      "\r\n+---------------------+--------+----------+----------+--------+------------+----------+---------------+---------------------------------+"
+    ],
+    [
+      0.000003,
+      "\r\n| 05:MERGING-EXCHANGE | 0      | 0ns      | 0ns      | 0      | 6          | 0 B      | -1 B          | UNPARTITIONED                   |"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "| 02:SORT             | 3      | 54.72us  | 63.71us  | 0      | 6          | 0 B      | 16.00 MB      |                                 |\r\n"
+    ],
+    [
+      0.000002,
+      "| 04:AGGREGATE        | 3      | 97.93ms  | 149.22ms | 0      | 6          | 11.26 MB | 10.00 MB      | FINALIZE                        |"
+    ],
+    [
+      0.000002,
+      "\r\n| 03:EXCHANGE         | 3      | 35.81us  | 107.42us | 4      | 6          | 0 B      | 0 B           | HASH(l_returnflag,l_linestatus) |"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "| 01:AGGREGATE        | 3      | 10.99s   | 19.06s   | 8      | 6          | 12.51 MB | 10.00 MB      |                                 |\r\n"
+    ],
+    [
+      0.000002,
+      "| 00:SCAN HDFS        | 3      | 80.22ms  | 85.68ms  | 10.60M | 600.12K    | 54.31 MB | 560.00 MB     | tpch_parquet.lineitem           |"
+    ],
+    [
+      0.000006,
+      "\r\n+---------------------+--------+----------+----------+--------+------------+----------+---------------+---------------------------------+\r\n"
+    ],
+    [
+      1.003625,
+      "\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A                                                                                                                                         \r\n                                                                                                                                         \r\n                                                                                                                                         \r\n                                                                                                                                         "
+    ],
+    [
+      0.000007,
+      "\r\n                                                                                                                                         \r\n                                                                                                                                         \r\n                                                                                                                                         \r\n                                                                                                                                         \r\n                                                                                                                                         \r\n                                                                                                                                         \r\n\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A"
+    ],
+    [
+      0.000004,
+      "+---------------------+--------+----------+----------+--------+------------+----------+---------------+---------------------------------+\r\n"
+    ],
+    [
+      0.000003,
+      "| Operator            | #Hosts | Avg Time | Max Time | #Rows  | Est. #Rows | Peak Mem | Est. Peak Mem | Detail                          |\r\n"
+    ],
+    [
+      0.000003,
+      "+---------------------+--------+----------+----------+--------+------------+----------+---------------+---------------------------------+"
+    ],
+    [
+      0.000003,
+      "\r\n| 05:MERGING-EXCHANGE | 0      | 0ns      | 0ns      | 0      | 6          | 0 B      | -1 B          | UNPARTITIONED                   |"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "| 02:SORT             | 3      | 54.72us  | 63.71us  | 0      | 6          | 0 B      | 16.00 MB      |                                 |\r\n"
+    ],
+    [
+      0.000002,
+      "| 04:AGGREGATE        | 3      | 97.93ms  | 149.22ms | 0      | 6          | 11.27 MB | 10.00 MB      | FINALIZE                        |"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "| 03:EXCHANGE         | 3      | 0ns      | 0ns      | 8      | 6          | 0 B      | 0 B           | HASH(l_returnflag,l_linestatus) |\r\n"
+    ],
+    [
+      0.000002,
+      "| 01:AGGREGATE        | 3      | 10.99s   | 19.06s   | 8      | 6          | 12.51 MB | 10.00 MB      |                                 |"
+    ],
+    [
+      0.000003,
+      "\r\n| 00:SCAN HDFS        | 3      | 80.22ms  | 85.68ms  | 10.60M | 600.12K    | 54.31 MB | 560.00 MB     | tpch_parquet.lineitem           |"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "+---------------------+--------+----------+----------+--------+------------+----------+---------------+---------------------------------+"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.501178,
+      "\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A                                                                                                                                         \r\n                                                                                                                                         \r\n                                                                                                                                         "
+    ],
+    [
+      0.000008,
+      "\r\n                                                                                                                                         \r\n                                                                                                                                         \r\n                                                                                                                                         \r\n                                                                                                                                         \r\n                                                                                                                                         \r\n                                                                                                                                         \r\n                                                                                                                                         \r\n\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A"
+    ],
+    [
+      0.003013,
+      "+--------------+--------------+--------------+-----------------+-------------------+---------------------+---------+-----------+----------+-------------+\r\n| l_returnflag | l_linestatus | sum_qty      | sum_base_price  | sum_disc_price    | sum_charge          | avg_qty | avg_price | avg_disc | count_order |\r\n+--------------+--------------+--------------+-----------------+-------------------+---------------------+---------+-----------+----------+-------------+\r\n| A            | F            | 75468214.00  | 113173108801.46 | 107516514269.7400 | 111818130445.655384 | 25.52   | 38273.12  | 0.04     | 2956986     |\r\n| N            | F            | 1982834.00   | 2975009420.76   | 2826164336.1082   | 2939298446.388750   | 25.51   | 38284.46  | 0.05     | 77708       |\r\n| N            | O            | 148952080.00 | 223403459395.48 | 212236460615.2112 | 220734087744.994020 | 25.50   | 38249.11  | 0.04     | 5840748     |\r\n"
+    ],
+    [
+      0.000007,
+      "| R            | F            | 75439506.00  | 113136082761.80 | 107482585369.2080 | 111779238239.663864 | 25.50   | 38250.85  | 0.05     | 2957740     |\r\n+--------------+--------------+--------------+-----------------+-------------------+---------------------+---------+-----------+----------+-------------+\r\n"
+    ],
+    [
+      0.000177,
+      "Fetched 4 row(s) in 23.06s\r\n"
+    ],
+    [
+      0.008835,
+      "[localhost:21000] \u003e "
+    ],
+    [
+      9.767702,
+      "Goodbye mgrund"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.006638,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                            \r \r"
+    ],
+    [
+      0.000064,
+      "\u001b]2;mgrund@mgrund-srv: ~/Development/Impala/stagin\u0007\u001b]1;..Impala/stagin\u0007"
+    ],
+    [
+      0.021667,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mstagin \u001b[01;34mgit:(\u001b[31mimpala/1136\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000008,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.338646,
+      "\r\r\n"
+    ]
+  ]
+}
